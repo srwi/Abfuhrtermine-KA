@@ -1,8 +1,8 @@
-import type { CalendarFile, StreetGeometryFile } from '$lib/types';
+import type { CalendarFile, StreetGeometryFile } from '../lib/types';
 
 export const prerender = true;
 
-export async function load({ fetch }) {
+export async function load({ fetch }: { fetch: typeof globalThis.fetch }) {
   const [calendarResponse, geometryResponse] = await Promise.all([
     fetch('data/calendar.json'),
     fetch('data/street-geometries.json')

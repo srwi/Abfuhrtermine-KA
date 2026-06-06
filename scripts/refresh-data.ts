@@ -23,6 +23,16 @@ type StreetGeometryFile = {
   streets: StreetGeometry[];
 };
 
+declare const Bun: {
+  file(path: string | URL): { text(): Promise<string> };
+  write(path: string | URL, data: string): Promise<void>;
+  sleep(ms: number): Promise<void>;
+};
+
+declare const process: {
+  env: Record<string, string | undefined>;
+};
+
 const PROJECT_ROOT = new URL('..', import.meta.url);
 const STATIC_DATA_DIR = new URL('static/data/', PROJECT_ROOT);
 const LEGACY_CALENDAR_FILE = new URL('code/sperrmuellkalender.json', PROJECT_ROOT);
@@ -35,6 +45,8 @@ const SOURCE_MODE = process.env.SPERRMUELL_SOURCE_MODE ?? 'live';
 const NUMBER_PROBES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 19, 22, 25, 30, 50];
 const KARLSRUHE_SOURCE = `https://web4.karlsruhe.de/service/abfall/akal/akal_${YEAR}.php`;
 const KARLSRUHE_CENTER: [number, number] = [8.4034195, 49.0068705];
+const OVERPASS_ENDPOINT = 'https://overpass-api.de/api/interpreter';
+const STREET_BATCH_SIZE = Number(process.env.SPERRMUELL_GEOMETRY_BATCH_SIZE ?? 75);
 
 function normalizeStreet(street: string) {
   return street.trim().replace(/ß/g, 'ss').replace(/\s+/g, ' ').toUpperCase();
@@ -165,35 +177,138 @@ async function fetchStreetGeometry(
     };
   }
 
-  const query = new URL('https://nominatim.openstreetmap.org/search');
-  query.searchParams.set('street', street);
-  query.searchParams.set('city', 'Karlsruhe');
-  query.searchParams.set('country', 'Germany');
-  query.searchParams.set('format', 'geojson');
-  query.searchParams.set('polygon_geojson', '1');
-  query.searchParams.set('addressdetails', '1');
-  query.searchParams.set('limit', '1');
+  const batch = await fetchStreetGeometries([street], legacyCoords);
+  return batch.get(normalizeStreet(street)) ?? {
+    street,
+    geometry: fallbackPointGeometry(street, legacyCoords)
+  };
+}
 
-  const response = await fetch(query, {
-    headers: {
-      'user-agent': 'Sperrmuell-KA/1.0 (+https://github.com/skjerns/Sperrmuell-KA)'
-    }
-  });
+function escapeOverpassRegex(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
 
-  if (!response.ok) {
+function streetAliases(street: string) {
+  const aliases = new Set<string>([street]);
+
+  if (street.includes('ss')) {
+    aliases.add(street.replace(/ss/g, 'ß'));
+  }
+
+  if (street.includes('ß')) {
+    aliases.add(street.replace(/ß/g, 'ss'));
+  }
+
+  return [...aliases];
+}
+
+function toStreetGeometryFromWays(
+  street: string,
+  ways: Array<{ geometry: Array<{ lon: number; lat: number }> }>
+): StreetGeometry {
+  const lines = ways
+    .map((way) => way.geometry.map((point) => [point.lon, point.lat] as [number, number]))
+    .filter((coordinates) => coordinates.length >= 2);
+
+  if (lines.length === 0) {
     return {
       street,
-      geometry: fallbackPointGeometry(street, legacyCoords)
+      geometry: {
+        type: 'Point',
+        coordinates: KARLSRUHE_CENTER
+      }
     };
   }
 
-  const payload = (await response.json()) as GeoJSON.FeatureCollection;
-  const feature = payload.features[0];
+  if (lines.length === 1) {
+    return {
+      street,
+      geometry: {
+        type: 'LineString',
+        coordinates: lines[0]
+      }
+    };
+  }
 
   return {
     street,
-    geometry: feature?.geometry ?? fallbackPointGeometry(street, legacyCoords)
+    geometry: {
+      type: 'MultiLineString',
+      coordinates: lines
+    }
   };
+}
+
+async function fetchStreetGeometries(
+  streets: string[],
+  legacyCoords: Record<string, [number, number]> | null
+): Promise<Map<string, StreetGeometry>> {
+  const geometries = new Map<string, StreetGeometry>();
+  const names = [...new Set(streets.map((street) => street.replace(/ß/g, 'ss')))].sort((left, right) =>
+    left.localeCompare(right, 'de')
+  );
+
+  for (let index = 0; index < names.length; index += STREET_BATCH_SIZE) {
+    const batch = names.slice(index, index + STREET_BATCH_SIZE);
+    const alternation = batch
+      .flatMap((street) => streetAliases(street))
+      .map(escapeOverpassRegex)
+      .join('|');
+    const query = `[out:json][timeout:180];
+area["name"="Karlsruhe"]["boundary"="administrative"]->.searchArea;
+(
+  way(area.searchArea)["highway"]["name"~"^(${alternation})$",i];
+);
+out geom;`;
+
+    const response = await fetch(OVERPASS_ENDPOINT, {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        'user-agent': 'Sperrmuell-KA/1.0 (+https://github.com/skjerns/Sperrmuell-KA)'
+      },
+      body: new URLSearchParams({ data: query })
+    });
+
+    if (!response.ok) {
+      for (const street of batch) {
+        geometries.set(normalizeStreet(street), {
+          street,
+          geometry: fallbackPointGeometry(street, legacyCoords)
+        });
+      }
+      continue;
+    }
+
+    const payload = (await response.json()) as {
+      elements: Array<{
+        type: 'way';
+        tags?: { name?: string };
+        geometry: Array<{ lon: number; lat: number }>;
+      }>;
+    };
+
+    const grouped = new Map<string, Array<{ geometry: Array<{ lon: number; lat: number }> }>>();
+
+    for (const element of payload.elements ?? []) {
+      const name = element.tags?.name?.trim();
+      if (!name) continue;
+
+      const key = normalizeStreet(name);
+      const bucket = grouped.get(key) ?? [];
+      bucket.push({ geometry: element.geometry });
+      grouped.set(key, bucket);
+    }
+
+    for (const street of batch) {
+      const ways = grouped.get(normalizeStreet(street)) ?? [];
+      geometries.set(normalizeStreet(street), toStreetGeometryFromWays(street, ways));
+    }
+
+    await Bun.sleep(1000);
+  }
+
+  return geometries;
 }
 
 function fallbackPointGeometry(
@@ -224,24 +339,36 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
 
   const existingCache = await readExistingGeometryCache();
   const legacyCoords = await readLegacyStreetCoords();
-  const cache = new Map(
-    existingCache?.streets.map((entry) => [entry.street.toUpperCase(), entry.geometry]) ?? []
+  const cache = new Map<string, StreetGeometry>(
+    existingCache?.streets
+      .filter((entry) => GEOMETRY_MODE === 'point' || entry.geometry.type !== 'Point')
+      .map((entry) => [normalizeStreet(entry.street), entry]) ?? []
   );
 
   const streets: StreetGeometry[] = [];
 
+  const missingStreets: string[] = [];
+
   for (const street of uniqueStreets) {
     const cachedGeometry = cache.get(normalizeStreet(street));
     if (cachedGeometry) {
-      streets.push({ street, geometry: cachedGeometry });
-      continue;
+      streets.push(cachedGeometry);
+    } else {
+      missingStreets.push(street);
     }
+  }
 
-    const geometry = await fetchStreetGeometry(street, legacyCoords);
-    streets.push(geometry);
-    cache.set(normalizeStreet(street), geometry.geometry);
-    if (GEOMETRY_MODE !== 'point') {
-      await Bun.sleep(250);
+  if (missingStreets.length > 0) {
+    const fetched = await fetchStreetGeometries(missingStreets, legacyCoords);
+
+    for (const street of missingStreets) {
+      const geometry = fetched.get(normalizeStreet(street)) ?? {
+        street,
+        geometry: fallbackPointGeometry(street, legacyCoords)
+      };
+
+      streets.push(geometry);
+      cache.set(normalizeStreet(street), geometry);
     }
   }
 

@@ -1,10 +1,13 @@
 <script lang="ts">
+  import { browser } from '$app/environment';
+  import { onMount } from 'svelte';
   import MapView from '$lib/components/MapView.svelte';
   import Badge from '$lib/ui/badge.svelte';
   import Button from '$lib/ui/button.svelte';
   import Card from '$lib/ui/card.svelte';
   import type { CalendarFile, StreetGeometryFile } from '$lib/types';
-  import type { Feature, FeatureCollection, Geometry } from 'geojson';
+  import { buildGeometryLookup, buildStreetCollection, resolveStreetCollection } from '$lib/street-geometries';
+  import type { FeatureCollection, Geometry } from 'geojson';
 
   export let data: {
     calendar: CalendarFile;
@@ -14,33 +17,26 @@
   const entries = data.calendar.entries;
   let selectedDate = entries[0]?.date ?? '';
 
-  const geometryByStreet = new Map(
-    data.geometries.streets.map((entry) => [entry.street.toUpperCase(), entry.geometry])
-  );
+  const geometryByStreet = buildGeometryLookup(data.geometries);
 
   $: selectedEntry = entries.find((entry) => entry.date === selectedDate) ?? entries[0];
-  $: selectedStreetCollection = buildStreetCollection(selectedEntry?.streets ?? [], geometryByStreet);
 
-  function buildStreetCollection(streets: string[], geometryLookup: Map<string, Geometry>) {
-    const features: Feature[] = streets
-      .map((street) => {
-        const geometry = geometryLookup.get(street.toUpperCase());
-        if (!geometry) return null;
+  let selectedStreetCollection = buildStreetCollection(selectedEntry?.streets ?? [], geometryByStreet);
+  let requestToken = 0;
 
-        return {
-          type: 'Feature',
-          properties: {
-            street
-          },
-          geometry
-        } as Feature;
-      })
-      .filter((feature): feature is Feature => feature !== null);
+  async function refreshSelection(streets: string[]) {
+    if (!browser || streets.length === 0) return;
 
-    return {
-      type: 'FeatureCollection',
-      features
-    } satisfies FeatureCollection;
+    const token = ++requestToken;
+    const collection = await resolveStreetCollection(streets, geometryByStreet);
+
+    if (token !== requestToken) return;
+
+    selectedStreetCollection = collection;
+  }
+
+  $: if (browser && selectedEntry) {
+    void refreshSelection(selectedEntry.streets);
   }
 </script>
 
