@@ -42,11 +42,11 @@ const ALLOW_FALLBACK = process.env.SPERRMUELL_ALLOW_FALLBACK !== '0';
 const GEOMETRY_MODE = process.env.SPERRMUELL_GEOMETRY_MODE ?? 'osm';
 const SOURCE_MODE = process.env.SPERRMUELL_SOURCE_MODE ?? 'live';
 
-const NUMBER_PROBES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 19, 22, 25, 30, 50];
+const NUMBER_PROBES = process.env.SPERRMUELL_QUICK ? [1] : [1, 2, 3, 4, 5, 6, 7, 8, 9, 19, 22, 25, 30, 50];
 const KARLSRUHE_SOURCE = `https://web4.karlsruhe.de/service/abfall/akal/akal_${YEAR}.php`;
 const KARLSRUHE_CENTER: [number, number] = [8.4034195, 49.0068705];
 const OVERPASS_ENDPOINT = 'https://overpass-api.de/api/interpreter';
-const STREET_BATCH_SIZE = Number(process.env.SPERRMUELL_GEOMETRY_BATCH_SIZE ?? 75);
+const STREET_BATCH_SIZE = Number(process.env.SPERRMUELL_GEOMETRY_BATCH_SIZE ?? (process.env.SPERRMUELL_QUICK ? 10 : 75));
 
 function normalizeStreet(street: string) {
   return street.trim().replace(/ß/g, 'ss').replace(/\s+/g, ' ').toUpperCase();
@@ -96,6 +96,8 @@ async function scrapeCalendar(): Promise<CalendarFile> {
     }
   });
 
+  console.log(`Fetched main source: ${KARLSRUHE_SOURCE}`);
+
   if (!response.ok) {
     throw new Error(`Konnte Sperrmüllquelle nicht laden: ${response.status} ${response.statusText}`);
   }
@@ -106,15 +108,22 @@ async function scrapeCalendar(): Promise<CalendarFile> {
   if (!match) {
     throw new Error('Straßenliste in der Karlsruher Quelle nicht gefunden.');
   }
+  
+  // The source contains a JavaScript array literal which may use single quotes.
+  // Use the Function constructor to evaluate the array literal instead of JSON.parse.
+  const streets = (new Function('return ' + match[1].replace(/,\s*]/g, ']')))() as string[];
 
-  const streets = JSON.parse(match[1].replace(/,\s*]/g, ']')) as string[];
+  console.log(`Gefundene Straßen in Quelle: ${streets.length}`);
   const result = new Map<string, string[]>();
 
-  for (const street of streets) {
+  for (let i = 0; i < streets.length; i++) {
+    const street = streets[i];
     const normalized = street.trim();
+    console.log(`Prüfe Straße ${i + 1}/${streets.length}: ${normalized}`);
     let pickedDate = 'unbekannt';
 
     for (const number of NUMBER_PROBES) {
+      console.log(`  Probe Hausnummer ${number} für ${normalized}`);
       const data = new URLSearchParams({
         strasse_n: normalized,
         hausnr: String(number),
@@ -131,16 +140,46 @@ async function scrapeCalendar(): Promise<CalendarFile> {
         body: data
       });
 
+      console.log(`    Antwort: ${probeResponse.status} ${probeResponse.statusText}`);
       const probeHtml = await probeResponse.text();
 
       if (probeHtml.includes('Adresse ist unbekannt')) {
+        console.log('    Adresse unbekannt, weiter');
         continue;
       }
 
+      // Try to extract a Sperrmüll-specific date first (look for Straßensperrmüll / Sperrmüllabholung)
+      function extractSperrmuellDate(html: string): string | null {
+        const keyCandidates = ['Straßensperrmüll', 'Sperrmüllabholung', 'Sperrmüll', 'Sperrmuell'];
+        const lower = html.toLowerCase();
+        for (const key of keyCandidates) {
+          const keyLower = key.toLowerCase();
+          const idx = lower.indexOf(keyLower);
+          if (idx !== -1) {
+            // take a window after the key and look for the first dd.mm.yyyy
+            const window = html.slice(idx, idx + 800);
+            const m = window.match(/\b\d{2}\.\d{2}\.\d{4}\b/);
+            if (m) return m[0];
+          }
+        }
+        return null;
+      }
+
+      const sperrDate = extractSperrmuellDate(probeHtml);
+      if (sperrDate) {
+        pickedDate = sperrDate;
+        console.log(`    Sperrmüll-Datum gefunden: ${pickedDate}`);
+        break;
+      }
+
+      // fallback: if the page contains exactly one date overall, use it
       const dateMatch = probeHtml.match(/\b\d{2}\.\d{2}\.\d{4}\b/g);
       if (dateMatch?.length === 1) {
         pickedDate = dateMatch[0];
+        console.log(`    Gefundenes Datum (fallback): ${pickedDate}`);
         break;
+      } else if (dateMatch?.length) {
+        console.log(`    Mehrere Datumsangaben gefunden (${dateMatch.length}), ignoriere`);
       }
     }
 
@@ -148,6 +187,8 @@ async function scrapeCalendar(): Promise<CalendarFile> {
       const bucket = result.get(pickedDate) ?? [];
       bucket.push(normalized.replace(/ß/g, 'ss'));
       result.set(pickedDate, bucket);
+    } else {
+      console.log(`  Kein Datum für ${normalized}`);
     }
   }
 
@@ -261,6 +302,7 @@ area["name"="Karlsruhe"]["boundary"="administrative"]->.searchArea;
 );
 out geom;`;
 
+    console.log(`Sende Overpass-Anfrage für Batch ${index / STREET_BATCH_SIZE + 1} mit ${batch.length} Straßen`);
     const response = await fetch(OVERPASS_ENDPOINT, {
       method: 'POST',
       headers: {
@@ -269,6 +311,8 @@ out geom;`;
       },
       body: new URLSearchParams({ data: query })
     });
+
+    console.log(`Overpass request for batch ${index / STREET_BATCH_SIZE + 1} -> ${response.status} ${response.statusText}`);
 
     if (!response.ok) {
       for (const street of batch) {
@@ -287,6 +331,8 @@ out geom;`;
         geometry: Array<{ lon: number; lat: number }>;
       }>;
     };
+
+    console.log(`  Overpass lieferte ${payload.elements?.length ?? 0} Elemente`);
 
     const grouped = new Map<string, Array<{ geometry: Array<{ lon: number; lat: number }> }>>();
 
@@ -337,6 +383,8 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
     .map((street) => street.replace(/ß/g, 'ss'))
     .sort((left, right) => left.localeCompare(right, 'de'));
 
+  console.log(`Sammle Geometrien für ${uniqueStreets.length} Straßen...`);
+
   const existingCache = await readExistingGeometryCache();
   const legacyCoords = await readLegacyStreetCoords();
   const cache = new Map<string, StreetGeometry>(
@@ -348,17 +396,22 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
   const streets: StreetGeometry[] = [];
 
   const missingStreets: string[] = [];
+  let cacheHits = 0;
 
   for (const street of uniqueStreets) {
     const cachedGeometry = cache.get(normalizeStreet(street));
     if (cachedGeometry) {
       streets.push(cachedGeometry);
+      cacheHits++;
     } else {
       missingStreets.push(street);
     }
   }
 
+  console.log(`  Cache-Treffer: ${cacheHits}, fehlend: ${missingStreets.length}`);
+
   if (missingStreets.length > 0) {
+    console.log(`Fehlende Straßen: ${missingStreets.length}`);
     const fetched = await fetchStreetGeometries(missingStreets, legacyCoords);
 
     for (const street of missingStreets) {
@@ -380,10 +433,12 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
 }
 
 async function writeJson(fileName: string, value: unknown) {
+  console.log(`Schreibe ${fileName}...`);
   await Bun.write(new URL(fileName, STATIC_DATA_DIR), `${JSON.stringify(value, null, 2)}\n`);
 }
 
 async function main() {
+  console.log(`Starte Datenerneuerung für ${YEAR}...`);
   await Bun.write(new URL('.gitkeep', STATIC_DATA_DIR), '');
 
   let calendar: CalendarFile;
@@ -413,6 +468,9 @@ async function main() {
   }
 
   const geometries = await buildStreetGeometries(calendar);
+
+  console.log(`Kalender-Einträge: ${calendar.entries.length}`);
+  console.log(`Geometrien: ${geometries.streets.length}`);
 
   await writeJson('calendar.json', calendar);
   await writeJson('street-geometries.json', geometries);
