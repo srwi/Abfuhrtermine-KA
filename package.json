@@ -1,0 +1,31 @@
+{
+  "name": "sperrmuell-ka",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bunx vite dev",
+    "build": "bunx vite build",
+    "check": "bunx svelte-kit sync && bunx svelte-check --tsconfig ./tsconfig.json",
+    "preview": "bunx vite preview",
+    "data:refresh": "bun scripts/refresh-data.ts"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^3.0.8",
+    "@sveltejs/kit": "^2.16.0",
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^22.15.21",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "svelte": "^5.34.7",
+    "svelte-check": "^4.1.6",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "maplibre-gl": "^5.4.1",
+    "tailwind-merge": "^3.3.0"
+  }
+}
