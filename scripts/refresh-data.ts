@@ -1,5 +1,3 @@
-type LegacyCalendar = Record<string, string[]>;
-
 type CalendarEntry = {
   date: string;
   isoDate: string;
@@ -54,14 +52,10 @@ declare const process: {
 const PROJECT_ROOT = new URL('..', import.meta.url);
 const STATIC_DATA_DIR = new URL('static/data/', PROJECT_ROOT);
 const RETRIEVAL_CACHE_FILE = new URL('data/refresh-cache.json', PROJECT_ROOT);
-const LEGACY_CALENDAR_FILE = new URL('code/sperrmuellkalender.json', PROJECT_ROOT);
-const LEGACY_COORDS_FILE = new URL('code/street_coords.json', PROJECT_ROOT);
 
 const QUICK = Boolean(process.env.SPERRMUELL_QUICK);
 const YEAR = Number(process.env.SPERRMUELL_YEAR ?? new Date().getFullYear());
-const ALLOW_FALLBACK = process.env.SPERRMUELL_ALLOW_FALLBACK !== '0';
 const GEOMETRY_MODE = process.env.SPERRMUELL_GEOMETRY_MODE ?? 'osm';
-const SOURCE_MODE = process.env.SPERRMUELL_SOURCE_MODE ?? 'live';
 // Optional cap on the number of streets processed, handy for local testing.
 const STREET_LIMIT = Number(process.env.SPERRMUELL_LIMIT ?? 0);
 
@@ -204,36 +198,6 @@ function createCacheWriter(cache: RetrievalCache) {
   };
 
   return { touch, flush };
-}
-
-// --- Legacy fallbacks --------------------------------------------------------
-
-async function readLegacyCalendar(): Promise<CalendarFile | null> {
-  try {
-    const raw = await Bun.file(LEGACY_CALENDAR_FILE).text();
-    const legacy = JSON.parse(raw) as LegacyCalendar;
-    const entries = Object.entries(legacy)
-      .filter(([date]) => /\d{2}\.\d{2}\.\d{4}/.test(date))
-      .map(([date, streets]) => ({
-        date,
-        isoDate: toIsoDate(date),
-        streets: streets.map((street) => street.replace(/ß/g, 'ss'))
-      }))
-      .sort((left, right) => left.isoDate.localeCompare(right.isoDate));
-
-    return { year: YEAR, generatedAt: new Date().toISOString(), entries };
-  } catch {
-    return null;
-  }
-}
-
-async function readLegacyStreetCoords(): Promise<Record<string, [number, number]> | null> {
-  try {
-    const raw = await Bun.file(LEGACY_COORDS_FILE).text();
-    return JSON.parse(raw) as Record<string, [number, number]>;
-  } catch {
-    return null;
-  }
 }
 
 // --- Karlsruhe Sperrmüll source ---------------------------------------------
@@ -596,12 +560,8 @@ async function fetchWithOverpassRetry(query: string, label: string): Promise<Res
 
 // --- Overpass: geometries ----------------------------------------------------
 
-function fallbackPointGeometry(
-  street: string,
-  legacyCoords: Record<string, [number, number]> | null
-): GeoJSON.Geometry {
-  const cachedCoordinates = legacyCoords?.[street.toUpperCase()] ?? legacyCoords?.[normalizeStreet(street)];
-  return { type: 'Point', coordinates: cachedCoordinates ?? KARLSRUHE_CENTER };
+function fallbackPointGeometry(): GeoJSON.Geometry {
+  return { type: 'Point', coordinates: KARLSRUHE_CENTER };
 }
 
 function toStreetGeometryFromWays(
@@ -684,7 +644,6 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
   console.log(`Sammle Geometrien für ${uniqueStreets.length} Straßen...`);
 
   const existingCache = await readExistingGeometryCache();
-  const legacyCoords = await readLegacyStreetCoords();
 
   // Real geometries seed the run; cached Points are treated as misses so they
   // get another chance at a real shape (unless we're in point-only mode).
@@ -722,7 +681,7 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
 
   if (GEOMETRY_MODE === 'point') {
     for (const street of missing) {
-      resolved.set(normalizeStreet(street), { street, geometry: fallbackPointGeometry(street, legacyCoords) });
+      resolved.set(normalizeStreet(street), { street, geometry: fallbackPointGeometry() });
     }
     await persist();
     return { year: YEAR, generatedAt: new Date().toISOString(), streets: orderedStreets() };
@@ -759,7 +718,7 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
   if (pending.length > 0) {
     console.log(`  ${pending.length} Straßen ohne OSM-Geometrie, nutze Punkt-Fallback: ${pending.slice(0, 10).join(', ')}${pending.length > 10 ? ' ...' : ''}`);
     for (const street of pending) {
-      resolved.set(normalizeStreet(street), { street, geometry: fallbackPointGeometry(street, legacyCoords) });
+      resolved.set(normalizeStreet(street), { street, geometry: fallbackPointGeometry() });
     }
     await persist();
   }
@@ -789,30 +748,11 @@ async function main() {
     writer.flush().finally(() => process.exit(130));
   });
 
-  // Resolve the Overpass search area once; both the house-number and geometry
-  // queries depend on it (skipped when no live Overpass calls are needed).
-  if (SOURCE_MODE !== 'legacy' || GEOMETRY_MODE !== 'point') {
-    await resolveSearchArea();
-  }
+  // Resolve the Overpass search area once; both the pass-2 house-number lookup
+  // and the geometry queries reference it.
+  await resolveSearchArea();
 
-  let calendar: CalendarFile;
-
-  if (SOURCE_MODE === 'legacy') {
-    const legacyCalendar = await readLegacyCalendar();
-    if (!legacyCalendar) throw new Error('Legacy-Kalender konnte nicht gelesen werden.');
-    calendar = legacyCalendar;
-  } else {
-    try {
-      calendar = await scrapeCalendar(cache, writer);
-    } catch (error) {
-      if (!ALLOW_FALLBACK) throw error;
-      const legacyCalendar = await readLegacyCalendar();
-      if (!legacyCalendar) throw error;
-      console.warn('Live-Scrape fehlgeschlagen, nutze Legacy-Kalender:', error);
-      calendar = legacyCalendar;
-    }
-  }
-
+  const calendar = await scrapeCalendar(cache, writer);
   const geometries = await buildStreetGeometries(calendar);
 
   console.log(`Kalender-Einträge: ${calendar.entries.length}`);
