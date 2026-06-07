@@ -128,30 +128,27 @@ function isResolvedDate(outcome: string | undefined): outcome is string {
   return Boolean(outcome) && outcome !== PROBE_UNKNOWN && outcome !== PROBE_NODATE;
 }
 
-// The source has a quirk: for house number 1 and *every even* house number it
-// answers with a fixed placeholder date instead of "Adresse ist unbekannt",
-// even for streets that don't exist. Odd house numbers >= 3 are honest (they say
+// The source has a quirk: for a small, fixed set of "magic" house numbers it
+// answers with a placeholder date instead of "Adresse ist unbekannt", even for
+// street names that don't exist (observed: 1, 2, 4, 6, 8, 10, 12 — house number
+// 1 plus the low even numbers; every other number, odd or even, honestly says
 // "unbekannt" when the address is absent). So a date equal to the placeholder is
-// only trustworthy when it comes from such an honest house number. That keeps
-// real streets whose genuine pickup day happens to equal the placeholder date
-// (e.g. the Neureut cluster) while dropping squares/paths that have no route at
-// all — at the cost of also dropping the rare real street whose addresses are
-// all on even house numbers, which the source gives us no honest way to confirm.
+// only trustworthy when it comes from a *non-magic* (honest) house number. That
+// keeps real streets whose genuine pickup day happens to equal the placeholder
+// date (e.g. the Neureut cluster) while dropping squares/paths with no route.
 //
-// Both the placeholder date(s) and the set of "magic" house numbers are learned
-// at startup from canary probes (see detectPlaceholderDates), so nothing here is
-// hard-coded to a specific date or numbering rule.
+// We do NOT assume the rule (e.g. "all even numbers"): both the placeholder
+// date(s) and the exact magic-number set are measured at startup from canary
+// probes over a range (see detectPlaceholderDates), and only numbers actually
+// observed to behave magically are treated as such.
 const placeholderDates = new Set<string>();
 const magicHouseNumbers = new Set<string>();
-// True when the canary confirmed the "1 or even" rule, letting us classify house
-// numbers the canary didn't probe directly (incl. OSM numbers like "6a").
-let magicEvenRule = false;
 
 function isMagicHouseNumber(houseNumber: string): boolean {
   if (magicHouseNumbers.has(houseNumber)) return true;
-  if (!magicEvenRule) return false;
+  // Treat "6a" like "6" so OSM house numbers with suffixes are classified too.
   const numeric = Number.parseInt(houseNumber, 10);
-  return Number.isFinite(numeric) && (numeric === 1 || numeric % 2 === 0);
+  return Number.isFinite(numeric) && magicHouseNumbers.has(String(numeric));
 }
 
 /** Runs `task` over `items` with a bounded number of concurrent workers. */
@@ -344,13 +341,12 @@ type StreetResult = { date: string | null; addressKnown: boolean };
  *
  * A date equal to the source's placeholder (see placeholderDates) is only
  * trusted when it comes from an *honest* house number — one the source answers
- * "unbekannt" for when the address is absent. At a "magic" house number (1 or
- * any even number) the source returns the placeholder even for streets that
- * don't exist, so such a hit is ignored and the street keeps looking / falls
- * through to pass 2. This drops squares and paths with no real route while
- * keeping real streets whose genuine pickup day equals the placeholder date.
- * (A street whose addresses are *all* on even house numbers can't be confirmed
- * this way and is intentionally dropped rather than risk a wrong day.)
+ * "unbekannt" for when the address is absent. At a measured "magic" house number
+ * the source returns the placeholder even for streets that don't exist, so such
+ * a hit is ignored and the street keeps looking / falls through to pass 2. This
+ * drops squares and paths with no real route while keeping real streets whose
+ * genuine pickup day equals the placeholder date (including ones addressed only
+ * with higher even numbers, which are honest).
  */
 async function resolveStreetDate(
   street: string,
@@ -383,40 +379,47 @@ async function resolveStreetDate(
  * a genuine street happens to produce it.
  */
 async function detectPlaceholderDates(): Promise<void> {
-  const canaries = ['Zzqxvz-Nichtexistent-Strasse', 'Qwerty-Phantasie-Weg'];
-  // Probe a contiguous range so we can both learn the placeholder date(s) and
-  // map out which house numbers are "magic" (answer with a date for a street
-  // that cannot exist) versus honest (answer "unbekannt").
-  const testNumbers = Array.from({ length: 12 }, (_, i) => String(i + 1));
+  const canaries = ['Zzqxvz-Nichtexistent-Strasse', 'Qwerty-Phantasie-Weg', 'Blubb-Quatsch-Allee'];
+  // Probe a range comfortably past the observed magic numbers (1..12) so we can
+  // see where the magic behavior stops instead of assuming a rule for it.
+  const testNumbers = Array.from({ length: 20 }, (_, i) => String(i + 1));
 
-  for (const name of canaries) {
-    for (const houseNumber of testNumbers) {
-      const html = await fetchKarlsruheProbe(name, houseNumber);
-      if (html.includes('Adresse ist unbekannt')) continue;
-      const date = extractSperrmuellDate(html);
-      if (date) {
-        placeholderDates.add(date);
-        magicHouseNumbers.add(houseNumber);
+  // For each canary, record which house number returned which date. A street
+  // that cannot exist should only ever yield the placeholder, never a real date.
+  const perCanary = await Promise.all(
+    canaries.map(async (name) => {
+      const byNumber = new Map<string, string>();
+      for (const houseNumber of testNumbers) {
+        const html = await fetchKarlsruheProbe(name, houseNumber);
+        if (html.includes('Adresse ist unbekannt')) continue;
+        const date = extractSperrmuellDate(html);
+        if (date) byNumber.set(houseNumber, date);
       }
-    }
-  }
+      return byNumber;
+    })
+  );
 
-  // Generalize to numbers the canary didn't test if the source follows the
-  // observed "house number 1 and every even number is magic" rule.
-  const evens = ['2', '4', '6', '8', '10', '12'];
-  const oddsFromThree = ['3', '5', '7', '9', '11'];
-  magicEvenRule =
-    placeholderDates.size > 0 &&
-    evens.every((n) => magicHouseNumbers.has(n)) &&
-    oddsFromThree.every((n) => !magicHouseNumbers.has(n));
+  // Only trust a date as a placeholder if at least two independent nonsense
+  // streets returned it, so a canary that accidentally matched something real
+  // can't poison the set.
+  const canaryHits = new Map<string, number>();
+  for (const byNumber of perCanary) {
+    for (const date of new Set(byNumber.values())) canaryHits.set(date, (canaryHits.get(date) ?? 0) + 1);
+  }
+  for (const [date, count] of canaryHits) if (count >= 2) placeholderDates.add(date);
+
+  // The magic house numbers are exactly those a canary answered with a
+  // placeholder date — measured, not extrapolated.
+  for (const byNumber of perCanary) {
+    for (const [houseNumber, date] of byNumber) if (placeholderDates.has(date)) magicHouseNumbers.add(houseNumber);
+  }
 
   if (placeholderDates.size === 0) {
     console.log('Kein Platzhalter-Datum erkannt.');
   } else {
     console.log(
       `Platzhalter-Datum erkannt: ${[...placeholderDates].join(', ')} ` +
-        `(magische Hausnummern: ${[...magicHouseNumbers].sort((a, b) => Number(a) - Number(b)).join(',')}` +
-        `${magicEvenRule ? ', Regel: 1+gerade' : ''})`
+        `(magische Hausnummern: ${[...magicHouseNumbers].sort((a, b) => Number(a) - Number(b)).join(',')})`
     );
   }
 }
