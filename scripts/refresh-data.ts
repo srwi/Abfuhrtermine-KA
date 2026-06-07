@@ -22,9 +22,15 @@ type StreetGeometryFile = {
 };
 
 // Probe outcomes are stored as plain strings so the cache stays compact and
-// human-readable. A `dd.mm.yyyy` value is a resolved pickup date; the two
-// sentinels below distinguish "the address does not exist" from "the address
-// exists but no Sperrmüll date could be extracted".
+// human-readable. A `dd.mm.yyyy` value is the raw date the source returned; the
+// two sentinels distinguish "the address does not exist" (#unknown) from "the
+// address exists but no Sperrmüll date could be extracted" (#nodate).
+//
+// We deliberately cache the *raw* date even when it might be the source's
+// placeholder (see placeholderDates): whether a given date counts as a real
+// pickup is context-dependent (which house number produced it, and whether that
+// house number is OSM-confirmed), so that judgement is made at read time in
+// resolveStreetDate rather than frozen into the cache.
 const PROBE_UNKNOWN = '#unknown';
 const PROBE_NODATE = '#nodate';
 
@@ -122,6 +128,32 @@ function isResolvedDate(outcome: string | undefined): outcome is string {
   return Boolean(outcome) && outcome !== PROBE_UNKNOWN && outcome !== PROBE_NODATE;
 }
 
+// The source has a quirk: for house number 1 and *every even* house number it
+// answers with a fixed placeholder date instead of "Adresse ist unbekannt",
+// even for streets that don't exist. Odd house numbers >= 3 are honest (they say
+// "unbekannt" when the address is absent). So a date equal to the placeholder is
+// only trustworthy when it comes from such an honest house number. That keeps
+// real streets whose genuine pickup day happens to equal the placeholder date
+// (e.g. the Neureut cluster) while dropping squares/paths that have no route at
+// all — at the cost of also dropping the rare real street whose addresses are
+// all on even house numbers, which the source gives us no honest way to confirm.
+//
+// Both the placeholder date(s) and the set of "magic" house numbers are learned
+// at startup from canary probes (see detectPlaceholderDates), so nothing here is
+// hard-coded to a specific date or numbering rule.
+const placeholderDates = new Set<string>();
+const magicHouseNumbers = new Set<string>();
+// True when the canary confirmed the "1 or even" rule, letting us classify house
+// numbers the canary didn't probe directly (incl. OSM numbers like "6a").
+let magicEvenRule = false;
+
+function isMagicHouseNumber(houseNumber: string): boolean {
+  if (magicHouseNumbers.has(houseNumber)) return true;
+  if (!magicEvenRule) return false;
+  const numeric = Number.parseInt(houseNumber, 10);
+  return Number.isFinite(numeric) && (numeric === 1 || numeric % 2 === 0);
+}
+
 /** Runs `task` over `items` with a bounded number of concurrent workers. */
 async function mapPool<T>(items: T[], concurrency: number, task: (item: T, index: number) => Promise<void>) {
   let cursor = 0;
@@ -147,12 +179,18 @@ async function readRetrievalCache(): Promise<RetrievalCache> {
     // changes to avoid serving stale dates.
     const sameYear = parsed.year === YEAR;
 
+    // Probe outcomes are now only raw dates or #unknown/#nodate; drop any legacy
+    // #placeholder sentinels from older runs so they get re-probed cleanly.
+    const rawProbes = sameYear ? parsed.probes ?? parsed.dates ?? {} : {};
+    const probes = Object.fromEntries(
+      Object.entries(rawProbes).filter(([, value]) => value !== '#placeholder')
+    );
+
     return {
       year: YEAR,
       generatedAt: parsed.generatedAt ?? new Date().toISOString(),
       houseNumbers: parsed.houseNumbers ?? {},
-      // Migrate the legacy `dates` field (positive hits only) into `probes`.
-      probes: sameYear ? parsed.probes ?? parsed.dates ?? {} : {}
+      probes
     };
   } catch {
     return {
@@ -300,7 +338,20 @@ async function probeHouseNumber(
 
 type StreetResult = { date: string | null; addressKnown: boolean };
 
-/** Probes the given house numbers in order, stopping at the first date found. */
+/**
+ * Probes the given house numbers in order, stopping at the first trustworthy
+ * date.
+ *
+ * A date equal to the source's placeholder (see placeholderDates) is only
+ * trusted when it comes from an *honest* house number — one the source answers
+ * "unbekannt" for when the address is absent. At a "magic" house number (1 or
+ * any even number) the source returns the placeholder even for streets that
+ * don't exist, so such a hit is ignored and the street keeps looking / falls
+ * through to pass 2. This drops squares and paths with no real route while
+ * keeping real streets whose genuine pickup day equals the placeholder date.
+ * (A street whose addresses are *all* on even house numbers can't be confirmed
+ * this way and is intentionally dropped rather than risk a wrong day.)
+ */
 async function resolveStreetDate(
   street: string,
   houseNumbers: string[],
@@ -311,11 +362,63 @@ async function resolveStreetDate(
 
   for (const houseNumber of houseNumbers) {
     const outcome = await probeHouseNumber(street, houseNumber, cache, writer);
-    if (outcome !== PROBE_UNKNOWN) addressKnown = true;
-    if (isResolvedDate(outcome)) return { date: outcome, addressKnown: true };
+    if (outcome === PROBE_UNKNOWN) continue;
+    if (!isResolvedDate(outcome)) {
+      addressKnown = true; // #nodate: the address exists but carries no date.
+      continue;
+    }
+
+    if (placeholderDates.has(outcome) && isMagicHouseNumber(houseNumber)) continue;
+
+    return { date: outcome, addressKnown: true };
   }
 
   return { date: null, addressKnown };
+}
+
+/**
+ * Learns the source's placeholder Sperrmüll date(s) by probing street names that
+ * cannot exist. Whatever date the source returns for these is, by definition,
+ * not a real per-address pickup date, so we remember it and discard it whenever
+ * a genuine street happens to produce it.
+ */
+async function detectPlaceholderDates(): Promise<void> {
+  const canaries = ['Zzqxvz-Nichtexistent-Strasse', 'Qwerty-Phantasie-Weg'];
+  // Probe a contiguous range so we can both learn the placeholder date(s) and
+  // map out which house numbers are "magic" (answer with a date for a street
+  // that cannot exist) versus honest (answer "unbekannt").
+  const testNumbers = Array.from({ length: 12 }, (_, i) => String(i + 1));
+
+  for (const name of canaries) {
+    for (const houseNumber of testNumbers) {
+      const html = await fetchKarlsruheProbe(name, houseNumber);
+      if (html.includes('Adresse ist unbekannt')) continue;
+      const date = extractSperrmuellDate(html);
+      if (date) {
+        placeholderDates.add(date);
+        magicHouseNumbers.add(houseNumber);
+      }
+    }
+  }
+
+  // Generalize to numbers the canary didn't test if the source follows the
+  // observed "house number 1 and every even number is magic" rule.
+  const evens = ['2', '4', '6', '8', '10', '12'];
+  const oddsFromThree = ['3', '5', '7', '9', '11'];
+  magicEvenRule =
+    placeholderDates.size > 0 &&
+    evens.every((n) => magicHouseNumbers.has(n)) &&
+    oddsFromThree.every((n) => !magicHouseNumbers.has(n));
+
+  if (placeholderDates.size === 0) {
+    console.log('Kein Platzhalter-Datum erkannt.');
+  } else {
+    console.log(
+      `Platzhalter-Datum erkannt: ${[...placeholderDates].join(', ')} ` +
+        `(magische Hausnummern: ${[...magicHouseNumbers].sort((a, b) => Number(a) - Number(b)).join(',')}` +
+        `${magicEvenRule ? ', Regel: 1+gerade' : ''})`
+    );
+  }
 }
 
 async function scrapeCalendar(cache: RetrievalCache, writer: ReturnType<typeof createCacheWriter>): Promise<CalendarFile> {
@@ -890,6 +993,10 @@ async function main() {
   // Resolve the Overpass search area once; both the pass-2 house-number lookup
   // and the geometry queries reference it.
   await resolveSearchArea();
+
+  // Learn the source's placeholder date and "magic" house numbers so that
+  // resolveStreetDate can tell a real pickup date from the source's placeholder.
+  await detectPlaceholderDates();
 
   const calendar = await scrapeCalendar(cache, writer);
   const geometries = await buildStreetGeometries(calendar);
