@@ -627,6 +627,141 @@ out geom;`;
   return result;
 }
 
+// --- Multi-street disambiguation ---------------------------------------------
+// Several Karlsruhe districts reuse the same street name ("Heideweg" exists in
+// the northwest *and* the southeast). The Overpass name query matches all of
+// them, and merging every way into one MultiLineString drags the geometry's
+// centroid to a meaningless midpoint and makes the map highlight the wrong
+// street. We split the ways into spatial clusters and, because Sperrmüll
+// collection days are geographically contiguous routes, keep the cluster
+// nearest to that day's other (unambiguous) streets.
+
+// Maximum gap between two ways for them to count as the same physical street.
+// Karlsruhe districts are kilometers apart, while a street's own segments touch
+// at intersections, so a few hundred meters separates the two cases cleanly.
+const CLUSTER_GAP_METERS = Number(process.env.SPERRMUELL_CLUSTER_GAP_METERS ?? 400);
+
+type Line = [number, number][];
+
+/** Equirectangular distance in meters; accurate enough at city scale. */
+function distanceMeters(a: [number, number], b: [number, number]): number {
+  const R = 6371000;
+  const toRad = Math.PI / 180;
+  const meanLat = ((a[1] + b[1]) / 2) * toRad;
+  const dx = (b[0] - a[0]) * toRad * Math.cos(meanLat);
+  const dy = (b[1] - a[1]) * toRad;
+  return Math.sqrt(dx * dx + dy * dy) * R;
+}
+
+function geometryLines(geometry: GeoJSON.Geometry): Line[] {
+  if (geometry.type === 'LineString') return [geometry.coordinates as Line];
+  if (geometry.type === 'MultiLineString') return geometry.coordinates as Line[];
+  return [];
+}
+
+function geometryFromLines(lines: Line[]): GeoJSON.Geometry {
+  return lines.length === 1
+    ? { type: 'LineString', coordinates: lines[0] }
+    : { type: 'MultiLineString', coordinates: lines };
+}
+
+function linesAreClose(a: Line, b: Line): boolean {
+  for (const p of a) for (const q of b) if (distanceMeters(p, q) < CLUSTER_GAP_METERS) return true;
+  return false;
+}
+
+/** Single-linkage clustering of ways by proximity (transitive via union-find). */
+function clusterLines(lines: Line[]): Line[][] {
+  const parent = lines.map((_, i) => i);
+  const find = (i: number): number => (parent[i] === i ? i : (parent[i] = find(parent[i])));
+
+  for (let i = 0; i < lines.length; i++) {
+    for (let j = i + 1; j < lines.length; j++) {
+      if (find(i) !== find(j) && linesAreClose(lines[i], lines[j])) parent[find(i)] = find(j);
+    }
+  }
+
+  const groups = new Map<number, Line[]>();
+  lines.forEach((line, i) => {
+    const root = find(i);
+    const bucket = groups.get(root) ?? [];
+    bucket.push(line);
+    groups.set(root, bucket);
+  });
+  return [...groups.values()];
+}
+
+function clusterCentroid(cluster: Line[]): [number, number] {
+  let sx = 0;
+  let sy = 0;
+  let n = 0;
+  for (const line of cluster) for (const [x, y] of line) { sx += x; sy += y; n++; }
+  return [sx / n, sy / n];
+}
+
+function median(values: number[]): number {
+  const sorted = [...values].sort((a, b) => a - b);
+  const mid = Math.floor(sorted.length / 2);
+  return sorted.length % 2 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
+}
+
+/**
+ * Where a street name resolves to several spatially-separated clusters of ways,
+ * replace its merged geometry with the single cluster that best fits the rest of
+ * its collection day. Operates in place on `resolved` and works off whatever is
+ * already there (fresh or cached), so no extra Overpass calls are needed.
+ */
+function disambiguateMultiCluster(resolved: Map<string, StreetGeometry>, calendar: CalendarFile) {
+  const dateByStreet = new Map<string, string>();
+  for (const entry of calendar.entries) {
+    for (const street of entry.streets) dateByStreet.set(normalizeStreet(street), entry.isoDate);
+  }
+
+  // Cluster every line-based geometry up front.
+  const clustersByKey = new Map<string, Line[][]>();
+  for (const [key, entry] of resolved) {
+    if (entry.geometry.type === 'Point') continue;
+    clustersByKey.set(key, clusterLines(geometryLines(entry.geometry)));
+  }
+
+  // Reference points per day come only from unambiguous (single-cluster) streets.
+  const refsByDate = new Map<string, [number, number][]>();
+  for (const [key, clusters] of clustersByKey) {
+    if (clusters.length !== 1) continue;
+    const date = dateByStreet.get(key);
+    if (!date) continue;
+    const bucket = refsByDate.get(date) ?? [];
+    bucket.push(clusterCentroid(clusters[0]));
+    refsByDate.set(date, bucket);
+  }
+
+  let fixed = 0;
+  for (const [key, clusters] of clustersByKey) {
+    if (clusters.length < 2) continue;
+    const street = resolved.get(key)!.street;
+    const date = dateByStreet.get(key);
+    const refs = (date && refsByDate.get(date)) ?? [];
+
+    let chosen: Line[];
+    if (refs.length > 0) {
+      const ref: [number, number] = [median(refs.map((r) => r[0])), median(refs.map((r) => r[1]))];
+      chosen = clusters.reduce((best, c) =>
+        distanceMeters(clusterCentroid(c), ref) < distanceMeters(clusterCentroid(best), ref) ? c : best
+      );
+    } else {
+      // No same-day context: keep the cluster with the most points as a stable,
+      // deterministic guess.
+      const size = (c: Line[]) => c.reduce((sum, line) => sum + line.length, 0);
+      chosen = clusters.reduce((best, c) => (size(c) > size(best) ? c : best));
+    }
+
+    resolved.set(key, { street, geometry: geometryFromLines(chosen) });
+    fixed++;
+  }
+
+  if (fixed > 0) console.log(`  Mehrdeutige Straßennamen disambiguiert: ${fixed}`);
+}
+
 async function readExistingGeometryCache(): Promise<StreetGeometryFile | null> {
   try {
     const raw = await Bun.file(new URL('street-geometries.json', STATIC_DATA_DIR)).text();
@@ -722,6 +857,10 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
     }
     await persist();
   }
+
+  // Same street name in several districts -> keep the cluster matching the day.
+  disambiguateMultiCluster(resolved, calendar);
+  await persist();
 
   return { year: YEAR, generatedAt: new Date().toISOString(), streets: orderedStreets() };
 }
