@@ -7,6 +7,7 @@
     "build": "bunx vite build",
     "check": "bunx svelte-kit sync && bunx svelte-check --tsconfig ./tsconfig.json",
     "preview": "bunx vite preview",
+    "data:cache": "bun scripts/build-cache.ts",
     "data:refresh": "bun scripts/refresh-data.ts"
   },
   "devDependencies": {
