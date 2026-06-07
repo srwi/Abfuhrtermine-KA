@@ -10,24 +10,8 @@
 
   const center: [number, number] = [8.4034195, 49.0068705];
 
-  function emptyCollection(): FeatureCollection {
-    return { type: 'FeatureCollection', features: [] };
-  }
-
   function getCoordinates(geometry: Geometry | null | undefined): unknown {
-    if (!geometry) return undefined;
-
-    switch (geometry.type) {
-      case 'Point':
-      case 'MultiPoint':
-      case 'LineString':
-      case 'MultiLineString':
-      case 'Polygon':
-      case 'MultiPolygon':
-        return geometry.coordinates;
-      default:
-        return undefined;
-    }
+    return geometry && 'coordinates' in geometry ? geometry.coordinates : undefined;
   }
 
   function fitGeometryBounds(collection: FeatureCollection): LngLatBoundsLike | undefined {
@@ -73,9 +57,9 @@
     if (!map) return;
 
     const source = map.getSource('selected-streets') as maplibregl.GeoJSONSource | undefined;
-    source?.setData(collection ?? emptyCollection());
+    source?.setData(collection);
 
-    const bounds = fitGeometryBounds(collection ?? emptyCollection());
+    const bounds = fitGeometryBounds(collection);
     if (bounds) {
       map.fitBounds(bounds, {
         padding: { top: 80, bottom: 80, left: 80, right: 80 },
@@ -99,7 +83,7 @@
           },
           'selected-streets': {
             type: 'geojson',
-            data: streets ?? emptyCollection()
+            data: streets
           }
         },
         layers: [
@@ -142,7 +126,7 @@
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-left');
 
     map.on('load', () => {
-      updateSelectedData(streets ?? emptyCollection());
+      updateSelectedData(streets);
     });
 
     return () => {
@@ -151,7 +135,7 @@
   });
 
   $: if (map) {
-    updateSelectedData(streets ?? emptyCollection());
+    updateSelectedData(streets);
   }
 </script>
 

@@ -5,10 +5,7 @@
 @tailwind utilities;
 
 :root {
-  --color-surface: 248 248 244;
   --color-ink: 24 28 34;
-  --color-muted: 91 99 112;
-  --color-accent: 178 34 34;
 }
 
 html {

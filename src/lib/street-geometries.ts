@@ -105,7 +105,10 @@ export async function resolveStreetCollection(
   streets: string[],
   geometryLookup: Map<string, Geometry>
 ) {
-  const missing = streets.filter((street) => geometryLookup.get(normalizeStreet(street))?.type === 'Point' || !geometryLookup.get(normalizeStreet(street)));
+  const missing = streets.filter((street) => {
+    const geometry = geometryLookup.get(normalizeStreet(street));
+    return !geometry || geometry.type === 'Point';
+  });
 
   for (let index = 0; index < missing.length; index += STREET_BATCH_SIZE) {
     const batch = missing.slice(index, index + STREET_BATCH_SIZE);

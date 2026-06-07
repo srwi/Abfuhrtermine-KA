@@ -1,7 +1,6 @@
 <script lang="ts">
   import { browser } from '$app/environment';
   import MapView from '$lib/components/MapView.svelte';
-  import Badge from '$lib/ui/badge.svelte';
   import type { CalendarFile, StreetGeometryFile } from '$lib/types';
   import { buildGeometryLookup, buildStreetCollection, resolveStreetCollection } from '$lib/street-geometries';
 
@@ -36,10 +35,6 @@
   }
 </script>
 
-<svelte:head>
-  <title>Sperrmüll Karlsruhe</title>
-</svelte:head>
-
 <main class="relative h-[100dvh] w-screen overflow-hidden">
   <MapView streets={selectedStreetCollection} />
 
@@ -47,7 +42,9 @@
     class="glass-panel absolute right-3 top-3 z-10 flex max-h-[calc(100dvh-1.5rem)] w-[21rem] max-w-[calc(100vw-1.5rem)] flex-col gap-4 p-5 md:right-5 md:top-5"
   >
     <div class="flex flex-wrap items-center gap-2">
-      <Badge>Karlsruhe · {data.calendar.year}</Badge>
+      <span class="inline-flex items-center rounded-full border border-amber-900/10 bg-white/80 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-amber-900">
+        Karlsruhe · {data.calendar.year}
+      </span>
       <span class="text-xs font-medium text-stone-600">{entries.length} Abholtermine</span>
     </div>
 
