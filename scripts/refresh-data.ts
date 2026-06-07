@@ -380,10 +380,6 @@ function disambiguateMultiCluster(resolved: Map<string, StreetGeometry>, calenda
   if (fixed > 0) console.log(`  Mehrdeutige Straßennamen disambiguiert: ${fixed}`);
 }
 
-function fallbackPointGeometry(street: string): StreetGeometry {
-  return { street, geometry: { type: 'Point', coordinates: [8.4034195, 49.0068705] } };
-}
-
 async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeometryFile> {
   const uniqueStreets = [...new Set(calendar.entries.flatMap((entry) => entry.streets))]
     .map((street) => street.replace(/ß/g, 'ss'))
@@ -398,18 +394,21 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
   );
 
   const resolved = new Map<string, StreetGeometry>();
-  let pointFallbacks = 0;
+  let missing = 0;
   for (const street of uniqueStreets) {
     const key = normalizeStreet(street);
     const hit = cachedByKey.get(key);
-    if (hit) {
+    if (hit && hit.geometry.type !== 'Point') {
       resolved.set(key, { street, geometry: hit.geometry });
     } else {
-      resolved.set(key, fallbackPointGeometry(street));
-      pointFallbacks++;
+      // No real geometry (missing, or a Point fallback the cache build left on
+      // the Karlsruhe centre) -> omit the street entirely rather than dropping a
+      // meaningless dot. The client re-tries these via live Overpass and
+      // otherwise leaves them off the map.
+      missing++;
     }
   }
-  console.log(`Geometrien aus Cache: ${uniqueStreets.length - pointFallbacks}, Punkt-Fallback: ${pointFallbacks}`);
+  console.log(`Geometrien aus Cache: ${resolved.size}, ohne Geometrie (ausgelassen): ${missing}`);
 
   // Same street name in several districts -> keep the cluster matching the day.
   disambiguateMultiCluster(resolved, calendar);
