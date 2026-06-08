@@ -101,6 +101,13 @@ export async function writeJson(url: URL, value: unknown) {
   await Bun.write(url, `${JSON.stringify(value, null, 2)}\n`);
 }
 
+// Minified variant for large machine-generated artifacts (the geometry file),
+// where pretty-print whitespace dominates the byte count and nobody reads the
+// diff anyway. Roughly quarters the on-disk size and shrinks the gzip transfer.
+export async function writeJsonCompact(url: URL, value: unknown) {
+  await Bun.write(url, `${JSON.stringify(value)}\n`);
+}
+
 export const staticDataFile = (name: string) => new URL(name, STATIC_DATA_DIR);
 export const dataFile = (name: string) => new URL(name, DATA_DIR);
 

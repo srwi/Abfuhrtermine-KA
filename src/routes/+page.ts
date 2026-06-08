@@ -1,25 +1,18 @@
-import type { CalendarFile, StreetGeometryFile } from '../lib/types';
+import type { CalendarFile } from '../lib/types';
 
 export const prerender = true;
 
+// Only the small calendar is loaded here. SvelteKit inlines whatever `load`
+// fetches into the prerendered HTML, so pulling the multi-MB geometry file in
+// would bloat index.html and block first paint — it is fetched client-side
+// after mount instead (see +page.svelte).
 export async function load({ fetch }: { fetch: typeof globalThis.fetch }) {
-  const [calendarResponse, geometryResponse] = await Promise.all([
-    fetch('data/calendar.json'),
-    fetch('data/street-geometries.json')
-  ]);
+  const calendarResponse = await fetch('data/calendar.json');
 
   const calendar =
     calendarResponse.ok
       ? ((await calendarResponse.json()) as CalendarFile)
       : { year: new Date().getFullYear(), generatedAt: new Date().toISOString(), entries: [] };
 
-  const geometries =
-    geometryResponse.ok
-      ? ((await geometryResponse.json()) as StreetGeometryFile)
-      : { year: new Date().getFullYear(), generatedAt: new Date().toISOString(), streets: [] };
-
-  return {
-    calendar,
-    geometries
-  };
+  return { calendar };
 }

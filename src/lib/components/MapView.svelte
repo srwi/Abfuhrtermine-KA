@@ -174,4 +174,14 @@
   }
 </script>
 
-<div bind:this={mapContainer} class="h-full w-full"></div>
+<div bind:this={mapContainer} class="map-shell h-full w-full"></div>
+
+<style>
+  /* The OSM raster tiles are light-only. In dark mode invert the WebGL canvas
+     and rotate the hue 180° — this darkens the basemap while leaving saturated
+     hues (the red street overlay) roughly unchanged. Controls and popups live in
+     separate DOM nodes, so they keep their own styling. */
+  :global(html.dark) .map-shell :global(.maplibregl-canvas) {
+    filter: invert(1) hue-rotate(180deg) brightness(1.05) contrast(0.92);
+  }
+</style>

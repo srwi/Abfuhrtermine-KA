@@ -45,7 +45,8 @@ import {
   readJson,
   staticDataFile,
   toIsoDate,
-  writeJson
+  writeJson,
+  writeJsonCompact
 } from './lib/shared.ts';
 
 declare const Bun: { sleep(ms: number): Promise<void>; write(path: string | URL, data: string): Promise<void> };
@@ -285,6 +286,21 @@ function geometryFromLines(lines: Line[]): GeoJSON.Geometry {
     : { type: 'MultiLineString', coordinates: lines };
 }
 
+// OSM coordinates carry ~15 digits; 5 decimals is ~1 m precision, ample for
+// rendering streets on a city map and roughly halves the output file size.
+const COORD_DECIMALS = 5;
+
+function roundCoordinates(value: unknown): unknown {
+  if (typeof value === 'number') return Number(value.toFixed(COORD_DECIMALS));
+  if (Array.isArray(value)) return value.map(roundCoordinates);
+  return value;
+}
+
+function roundGeometry(geometry: GeoJSON.Geometry): GeoJSON.Geometry {
+  if (!('coordinates' in geometry)) return geometry;
+  return { ...geometry, coordinates: roundCoordinates(geometry.coordinates) } as GeoJSON.Geometry;
+}
+
 function linesAreClose(a: Line, b: Line): boolean {
   for (const p of a) for (const q of b) if (distanceMeters(p, q) < CLUSTER_GAP_METERS) return true;
   return false;
@@ -415,7 +431,8 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
 
   const streets = uniqueStreets
     .map((street) => resolved.get(normalizeStreet(street)))
-    .filter((entry): entry is StreetGeometry => Boolean(entry));
+    .filter((entry): entry is StreetGeometry => Boolean(entry))
+    .map((entry) => ({ street: entry.street, geometry: roundGeometry(entry.geometry) }));
 
   return { year: YEAR, generatedAt: new Date().toISOString(), streets };
 }
@@ -439,7 +456,7 @@ async function main() {
   console.log(`Geometrien: ${geometries.streets.length}`);
 
   await writeJson(staticDataFile('calendar.json'), calendar);
-  await writeJson(staticDataFile('street-geometries.json'), geometries);
+  await writeJsonCompact(staticDataFile('street-geometries.json'), geometries);
 
   console.log(`Schrieb ${calendar.entries.length} Termine und ${geometries.streets.length} Straßen.`);
 }
