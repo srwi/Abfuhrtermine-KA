@@ -1,4 +1,7 @@
 <script lang="ts">
+  import { onMount } from 'svelte';
+  import { base } from '$app/paths';
+  import type { Geometry } from 'geojson';
   import MapView from '$lib/components/MapView.svelte';
   import DatePicker from '$lib/components/DatePicker.svelte';
   import ThemeToggle from '$lib/components/ThemeToggle.svelte';
@@ -7,20 +10,33 @@
 
   export let data: {
     calendar: CalendarFile;
-    geometries: StreetGeometryFile;
   };
 
   const entries = data.calendar.entries;
 
-  // Preselect today's pickup, or the next upcoming one; fall back to the first
-  // entry if every date is already in the past.
+  // Always preselect the next pickup strictly after today (skip today even if it
+  // is itself a pickup day); fall back to the first entry if every date is past.
   const todayIso = new Date().toLocaleDateString('en-CA');
-  const upcoming = entries.find((entry) => entry.isoDate >= todayIso);
+  const upcoming = entries.find((entry) => entry.isoDate > todayIso);
   let selectedDate = (upcoming ?? entries[0])?.date ?? '';
   let panelOpen = true;
   let listOpen = false;
 
-  const geometryByStreet = buildGeometryLookup(data.geometries);
+  // The geometry file is multi-MB, so it is fetched client-side after first
+  // paint rather than through the prerender load. The street list renders from
+  // the calendar immediately; map lines appear once this resolves.
+  let geometryByStreet = new Map<string, Geometry>();
+
+  onMount(async () => {
+    try {
+      const response = await fetch(`${base}/data/street-geometries.json`);
+      if (response.ok) {
+        geometryByStreet = buildGeometryLookup((await response.json()) as StreetGeometryFile);
+      }
+    } catch {
+      // Leave the map overlay empty if geometry can't be loaded; the list still works.
+    }
+  });
 
   $: selectedEntry = entries.find((entry) => entry.date === selectedDate) ?? entries[0];
 
