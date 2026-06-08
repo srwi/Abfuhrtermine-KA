@@ -1,8 +1,7 @@
 <script lang="ts">
-  import { browser } from '$app/environment';
   import MapView from '$lib/components/MapView.svelte';
   import type { CalendarFile, StreetGeometryFile } from '$lib/types';
-  import { buildGeometryLookup, buildStreetCollection, resolveStreetCollection } from '$lib/street-geometries';
+  import { buildGeometryLookup, buildStreetCollection } from '$lib/street-geometries';
 
   export let data: {
     calendar: CalendarFile;
@@ -16,23 +15,7 @@
 
   $: selectedEntry = entries.find((entry) => entry.date === selectedDate) ?? entries[0];
 
-  let selectedStreetCollection = buildStreetCollection(selectedEntry?.streets ?? [], geometryByStreet);
-  let requestToken = 0;
-
-  async function refreshSelection(streets: string[]) {
-    if (!browser || streets.length === 0) return;
-
-    const token = ++requestToken;
-    const collection = await resolveStreetCollection(streets, geometryByStreet);
-
-    if (token !== requestToken) return;
-
-    selectedStreetCollection = collection;
-  }
-
-  $: if (browser && selectedEntry) {
-    void refreshSelection(selectedEntry.streets);
-  }
+  $: selectedStreetCollection = buildStreetCollection(selectedEntry?.streets ?? [], geometryByStreet);
 </script>
 
 <main class="relative h-[100dvh] w-screen overflow-hidden">

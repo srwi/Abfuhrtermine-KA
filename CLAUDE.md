@@ -97,10 +97,10 @@ fetches the two JSON files at build time; `+page.svelte` holds the day selector 
 street list; `MapView.svelte` owns the MapLibre map and refits bounds whenever the
 selected `FeatureCollection` changes.
 
-`src/lib/street-geometries.ts` is a **second, client-side copy** of the geometry
-logic: when a selected street only has a point fallback (or no geometry) in the
-prebuilt file, the browser queries Overpass live to upgrade it. Keep its
-normalization/alias logic in sync with the scraper's.
+`src/lib/street-geometries.ts` builds the selected day's `FeatureCollection` purely
+from the prebuilt file — no network at runtime. It reuses the scraper's
+`normalizeStreet` so calendar names match the geometry keys; a calendar street with
+no matching geometry is simply omitted from the map (it still shows in the list).
 
 ## Deployment
 
