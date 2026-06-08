@@ -34,3 +34,19 @@ h3 {
     @apply rounded-[2rem] border border-white/60 bg-white/75 shadow-glow backdrop-blur-xl;
   }
 }
+
+.street-popup .maplibregl-popup-content {
+  padding: 0.3rem 0.7rem;
+  border-radius: 9999px;
+  background: rgba(28, 25, 23, 0.92);
+  color: #fff;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.25);
+  pointer-events: none;
+}
+
+.street-popup .maplibregl-popup-tip {
+  display: none;
+}

@@ -103,6 +103,17 @@
             }
           },
           {
+            id: 'selected-lines-hit',
+            type: 'line',
+            source: 'selected-streets',
+            paint: {
+              'line-color': '#b91c1c',
+              'line-width': 18,
+              'line-opacity': 0
+            },
+            filter: ['==', '$type', 'LineString']
+          },
+          {
             id: 'selected-points',
             type: 'circle',
             source: 'selected-streets',
@@ -124,6 +135,30 @@
 
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right');
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-left');
+
+    const popup = new maplibregl.Popup({
+      closeButton: false,
+      closeOnClick: false,
+      className: 'street-popup',
+      offset: 12
+    });
+
+    const showPopup = (event: maplibregl.MapLayerMouseEvent) => {
+      const street = event.features?.[0]?.properties?.street;
+      if (typeof street !== 'string') return;
+      map!.getCanvas().style.cursor = 'pointer';
+      popup.setLngLat(event.lngLat).setText(street).addTo(map!);
+    };
+
+    const hidePopup = () => {
+      map!.getCanvas().style.cursor = '';
+      popup.remove();
+    };
+
+    for (const layer of ['selected-lines-hit', 'selected-points']) {
+      map.on('mousemove', layer, showPopup);
+      map.on('mouseleave', layer, hidePopup);
+    }
 
     map.on('load', () => {
       updateSelectedData(streets);
