@@ -1,0 +1,2538 @@
+{
+  "year": 2026,
+  "generatedAt": "2026-06-07T22:11:21.482Z",
+  "entries": [
+    {
+      "date": "27.05.2025",
+      "isoDate": "2025-05-27",
+      "streets": [
+        "Im Winterrot",
+        "Waldenserstrasse"
+      ]
+    },
+    {
+      "date": "13.01.2026",
+      "isoDate": "2026-01-13",
+      "streets": [
+        "Bleichenhofstrasse",
+        "Burgstrasse",
+        "Egelseestrasse",
+        "Grundstrasse",
+        "Hangstrasse",
+        "Hellenstrasse",
+        "Heubergstrasse",
+        "Hohenbergstrasse",
+        "Horbenloch Gewann",
+        "Hörgelstrasse",
+        "Im Brühl Gewann",
+        "Katzenbergstrasse",
+        "Kreuzackerstrasse",
+        "Maiblumenstrasse",
+        "Mergelackerstrasse",
+        "Nordoststrasse",
+        "Pirolstrasse",
+        "Quellenstrasse",
+        "Rathausstrasse",
+        "Ringstrasse",
+        "Schlossbergstrasse",
+        "Siebenmannstrasse",
+        "Steinbügelstrasse",
+        "Steinhofstrasse",
+        "Steinkreuzstrasse",
+        "Talwiesenstrasse",
+        "Vorbergstrasse",
+        "Wettersteinstrasse"
+      ]
+    },
+    {
+      "date": "15.01.2026",
+      "isoDate": "2026-01-15",
+      "streets": [
+        "Am Burgweg",
+        "Am Friedhof",
+        "Am Steinbruch",
+        "Auf dem Guggelensberg",
+        "Bergbahnstrasse",
+        "Dürrbachstrasse",
+        "Eichrodtweg",
+        "Fechtstrasse",
+        "Grötzinger Strasse",
+        "Gymnasiumstrasse",
+        "Haldenwangstrasse",
+        "Hotzerweg",
+        "Im Eisenhafengrund",
+        "Im Zeitvogel",
+        "In der Tasch",
+        "Jean-Ritzert-Strasse",
+        "Kastellstrasse",
+        "Machstrasse",
+        "Nesslerstrasse",
+        "Nonnenbühl",
+        "Ochsenstrasse",
+        "Posseltstrasse",
+        "Reichardtstrasse",
+        "Rittnertstrasse",
+        "Sepp-Herberger-Weg",
+        "Steinlesweg",
+        "Turmbergstrasse",
+        "Wolfweg"
+      ]
+    },
+    {
+      "date": "19.01.2026",
+      "isoDate": "2026-01-19",
+      "streets": [
+        "Am Dechantsberg",
+        "Am Lerchenberg",
+        "Auf dem Schlössle",
+        "Bergwaldstrasse",
+        "Carl-Hofer-Strasse",
+        "Elly-Heuss-Weg",
+        "Emil-Nolde-Strasse",
+        "Erich-Heckel-Strasse",
+        "Ernst-Barlach-Strasse",
+        "Geigersbergstrasse",
+        "Hahnemannstrasse",
+        "Im Kennental",
+        "Im Obern Dechantsberg Gewann",
+        "Im Rennich",
+        "Im Rosengärtle",
+        "Jung-Stilling-Strasse",
+        "Käthe-Kollwitz-Strasse",
+        "Louise-Schroeder-Weg",
+        "Lusssteige",
+        "Lussstrasse",
+        "Lyonel-Feininger-Weg",
+        "Max-Beckmann-Strasse",
+        "Max-Liebermann-Strasse",
+        "Paul-Klee-Strasse",
+        "Paula-Modersohn-Strasse",
+        "Pfistergrund",
+        "Schlössleweg",
+        "Strählerweg",
+        "Unterer Lussweg"
+      ]
+    },
+    {
+      "date": "20.01.2026",
+      "isoDate": "2026-01-20",
+      "streets": [
+        "Albert-Einstein-Strasse",
+        "Am Zündhütle",
+        "Badener Strasse",
+        "Elsa-Brändström-Strasse",
+        "Fridtjof-Nansen-Strasse",
+        "Heinrich-Weitz-Strasse",
+        "Hooverstrasse",
+        "Im Emsbühll Gewann",
+        "Max-Born-Strasse",
+        "Max-Von-Laue-Strasse",
+        "Strasse des Roten Kreuzes",
+        "Walther-Bothe-Strasse"
+      ]
+    },
+    {
+      "date": "21.01.2026",
+      "isoDate": "2026-01-21",
+      "streets": [
+        "Alter Graben",
+        "Am Rainle",
+        "Blattwiesenstrasse",
+        "Brühlstrasse",
+        "Dietrichstrasse",
+        "Eckhartstrasse",
+        "Grenzstrasse",
+        "Gudrunstrasse",
+        "Hildebrandstrasse",
+        "In den Erlengärten",
+        "Kärntner Strasse",
+        "Oberwaldstrasse",
+        "Reichenbachstrasse",
+        "Schindweg",
+        "Steiermärker Strasse"
+      ]
+    },
+    {
+      "date": "22.01.2026",
+      "isoDate": "2026-01-22",
+      "streets": [
+        "Auf den Lohn",
+        "Bilfinger Strasse",
+        "Ellmendinger Strasse",
+        "Ersinger Strasse",
+        "Grazer Strasse",
+        "Im Haberacker",
+        "Lissenstrasse"
+      ]
+    },
+    {
+      "date": "23.01.2026",
+      "isoDate": "2026-01-23",
+      "streets": [
+        "Dieselstrasse",
+        "Edgar-Heller-Strasse",
+        "Erlachseeweg",
+        "Eugen-Langen-Strasse",
+        "Fiduciastrasse",
+        "Geissenrainweg",
+        "Göllnitzer Strasse",
+        "Gut-Magnus-Strasse",
+        "Hauerlandstrasse",
+        "Im Säuterich",
+        "Karpatenstrasse",
+        "Kieselweg",
+        "Killisfeldstrasse",
+        "Kremnitzer Strasse",
+        "Leutschauer Strasse",
+        "Maybachstrasse",
+        "Ottostrasse",
+        "Pressburger Strasse",
+        "Schlesier Strasse",
+        "Wachhausstrasse",
+        "Zipser Strasse"
+      ]
+    },
+    {
+      "date": "27.01.2026",
+      "isoDate": "2026-01-27",
+      "streets": [
+        "Bergstrasse",
+        "Ispringer Strasse",
+        "Leusslerstrasse",
+        "Memeler Strasse",
+        "Ostmarkstrasse",
+        "Stegwiesenstrasse",
+        "Tiroler Strasse",
+        "Vorarlberger Strasse",
+        "Wasgaustrasse",
+        "Westmarkstrasse",
+        "Wilferdinger Strasse"
+      ]
+    },
+    {
+      "date": "29.01.2026",
+      "isoDate": "2026-01-29",
+      "streets": [
+        "Amalienbadstrasse",
+        "An der Raumfabrik",
+        "Auer Strasse",
+        "Bleichstrasse",
+        "Blotterstrasse",
+        "Christofstrasse",
+        "Ernst-Friedrich-Strasse",
+        "Gärtnerstrasse",
+        "Gritznerstrasse",
+        "Hauptbahnstrasse",
+        "Herzogstrasse",
+        "Im Blumenwinkel",
+        "Kanzlerstrasse",
+        "Karlsruher Allee",
+        "Pfaffstrasse",
+        "Raiherwiesenstrasse",
+        "Rommelstrasse",
+        "Schinnrainstrasse",
+        "Steinmetzstrasse"
+      ]
+    },
+    {
+      "date": "03.02.2026",
+      "isoDate": "2026-02-03",
+      "streets": [
+        "Am Stadtgraben",
+        "Am Zwinger",
+        "Amthausstrasse",
+        "Bäderstrasse",
+        "Basler-Tor-Strasse",
+        "Breite Gass",
+        "Brunnenhausstrasse",
+        "Hauckstrasse",
+        "Imberstrasse",
+        "Karl-Weysser-Strasse",
+        "Karlsburgstrasse",
+        "Kelterstrasse",
+        "Marstallstrasse",
+        "Mittelstrasse",
+        "Palmaienstrasse",
+        "Pfinztalstrasse",
+        "Pforzheimer Strasse",
+        "Prinzessenstrasse",
+        "Rebenstrasse",
+        "Rollerstrasse",
+        "Weiherhof",
+        "Weiherstrasse",
+        "Willmar-Schwabe-Strasse",
+        "Zur Giesserei"
+      ]
+    },
+    {
+      "date": "04.02.2026",
+      "isoDate": "2026-02-04",
+      "streets": [
+        "Am Pfinztor",
+        "An der Fayence",
+        "An der Stadtmauer",
+        "Bienleinstorstrasse",
+        "Blumentorstrasse",
+        "Eichelgasse",
+        "Engelbert-Strobel-Strasse",
+        "Friedrich-Eberle-Strasse",
+        "Jägerstrasse",
+        "Keramikweg",
+        "Kleinbachstrasse",
+        "Königstrasse",
+        "Lederstrasse",
+        "Oberlinstrasse",
+        "Ochsentorstrasse",
+        "Pfinzstrasse",
+        "Rappenstrasse",
+        "Seboldstrasse",
+        "Spitalstrasse",
+        "Töpferweg",
+        "Zehntstrasse",
+        "Zunftstrasse"
+      ]
+    },
+    {
+      "date": "05.02.2026",
+      "isoDate": "2026-02-05",
+      "streets": [
+        "Alte Weingartener Strasse",
+        "Bonndorfer Strasse",
+        "Funkerstrasse",
+        "Hengstplatz",
+        "Hubstrasse",
+        "Lamprechtstrasse",
+        "Lenzenhub Gewann",
+        "Lenzenhubweg",
+        "Liebensteinstrasse",
+        "Lörracher Strasse",
+        "Neuensteinstrasse",
+        "Säckinger Strasse",
+        "Schopfheimer Strasse",
+        "Tiengener Strasse",
+        "Trainstrasse",
+        "Unten Am Grötzinger Weg",
+        "Untere Hub Gewann",
+        "Waldshuter Strasse"
+      ]
+    },
+    {
+      "date": "06.02.2026",
+      "isoDate": "2026-02-06",
+      "streets": [
+        "Alte Karlsruher Strasse",
+        "Am dm-Platz",
+        "Anton-Bruckner-Strasse",
+        "Brüchlestrasse",
+        "Dornwaldstrasse",
+        "Friedrich-Raab-Strasse",
+        "Hans-Pfitzner-Strasse",
+        "Heinrich-Wittmann-Strasse",
+        "Hinterwiesenweg",
+        "Im Krautgarten",
+        "Johann-Strauss-Strasse",
+        "Josef-Kraus-Strasse",
+        "Kleingärtnerweg",
+        "Koyweg",
+        "Lortzingstrasse",
+        "Mastweidenweg",
+        "Millöckerstrasse",
+        "Paul-Böss-Strasse",
+        "Pfarrer-Blink-Strasse",
+        "Untermühlstrasse",
+        "Weinweg"
+      ]
+    },
+    {
+      "date": "10.02.2026",
+      "isoDate": "2026-02-10",
+      "streets": [
+        "Albert-Schweitzer-Strasse",
+        "Am Hagsfelder Brunnen",
+        "Bertha-Von-Suttner-Strasse",
+        "De-Coster-Strasse",
+        "Elbinger Strasse",
+        "Erasmusstrasse",
+        "Hirschgrabenweg",
+        "Im Hirschwinkel",
+        "Johannisburger Strasse",
+        "Lachenweg",
+        "Lycker Strasse",
+        "Marie-Curie-Strasse",
+        "Neidenburger Strasse",
+        "Ortelsburger Strasse",
+        "Osteroder Strasse",
+        "Pascalstrasse",
+        "Reitschulschlag",
+        "Sandweg",
+        "Stolper Strasse"
+      ]
+    },
+    {
+      "date": "11.02.2026",
+      "isoDate": "2026-02-11",
+      "streets": [
+        "Im Eichbäumle",
+        "Königsberger Strasse",
+        "Kösliner Strasse",
+        "Wehlauer Strasse"
+      ]
+    },
+    {
+      "date": "12.02.2026",
+      "isoDate": "2026-02-12",
+      "streets": [
+        "Insterburger Strasse",
+        "Küstriner Strasse",
+        "Pillauer Strasse",
+        "Schneidemühler Strasse"
+      ]
+    },
+    {
+      "date": "13.02.2026",
+      "isoDate": "2026-02-13",
+      "streets": [
+        "Braunsberger Strasse",
+        "Friedlander Strasse",
+        "Glogauer Strasse",
+        "Kolberger Strasse",
+        "Lauenburger Strasse",
+        "Lötzener Strasse",
+        "Neisser Strasse"
+      ]
+    },
+    {
+      "date": "23.02.2026",
+      "isoDate": "2026-02-23",
+      "streets": [
+        "An der Feldshütte",
+        "Beuthener Strasse",
+        "Dessauer Strasse",
+        "Dresdener Strasse",
+        "Eisenacher Strasse",
+        "Erfurter Strasse",
+        "Geroldsäckerweg",
+        "Gothaer Strasse",
+        "Hallesche Allee",
+        "Jenaer Strasse",
+        "Leipziger Allee",
+        "Magdeburger Strasse",
+        "Meissener Strasse",
+        "Naumburger Strasse",
+        "Weimarer Strasse",
+        "Wittenberger Strasse",
+        "Zwickauer Strasse"
+      ]
+    },
+    {
+      "date": "24.02.2026",
+      "isoDate": "2026-02-24",
+      "streets": [
+        "Allensteiner Strasse",
+        "Am Fächerbad",
+        "Am Sportpark",
+        "Breslauer Strasse",
+        "Brieger Strasse",
+        "Glatzer Strasse",
+        "Gleiwitzer Strasse",
+        "Grünberger Strasse",
+        "Hirschberger Strasse",
+        "Liegnitzer Strasse",
+        "Oppelner Strasse",
+        "Schweidnitzer Strasse",
+        "Stettiner Strasse",
+        "Tilsiter Strasse",
+        "Waldenburger Strasse"
+      ]
+    },
+    {
+      "date": "26.02.2026",
+      "isoDate": "2026-02-26",
+      "streets": [
+        "An der Bahn",
+        "Gerhardtstrasse",
+        "Geroldstrasse",
+        "Gondelsheimer Strasse",
+        "Hagdornstrasse",
+        "Hirschäckerstrasse",
+        "Hofäckerstrasse",
+        "Jägerhausstrasse",
+        "Karlsruher Strasse",
+        "Neubrunnenstrasse",
+        "Neuheckstrasse",
+        "Parzivalstrasse",
+        "Waldeckstrasse"
+      ]
+    },
+    {
+      "date": "27.02.2026",
+      "isoDate": "2026-02-27",
+      "streets": [
+        "Am Heegwald",
+        "Am Kirchensämle",
+        "Am Storrenacker",
+        "An der Alten Bach",
+        "An der Tagweide",
+        "Auf der Breit",
+        "Bruchsaler Strasse",
+        "Brückenstrasse",
+        "Franz-Schnabel-Strasse",
+        "Herdweg",
+        "Im Breiten Wasen",
+        "Julius-Bender-Strasse",
+        "Junkersstrasse",
+        "Oberdorfstrasse",
+        "Pfizerstrasse",
+        "Printzstrasse",
+        "Ruschgraben",
+        "Schäferstrasse",
+        "Schwetzinger Strasse",
+        "Stückeläckerstrasse",
+        "Vokkenaustrasse",
+        "Weglangstrasse"
+      ]
+    },
+    {
+      "date": "02.03.2026",
+      "isoDate": "2026-03-02",
+      "streets": [
+        "Drosselsangweg",
+        "Ernststrasse",
+        "Finkenschlagweg",
+        "Hirtenweg",
+        "Huttenstrasse",
+        "Jagdstrasse",
+        "Mosbacher Strasse",
+        "Rintheimer Hauptstrasse",
+        "Rintheimer Querallee"
+      ]
+    },
+    {
+      "date": "03.03.2026",
+      "isoDate": "2026-03-03",
+      "streets": [
+        "Albert-Nestler-Strasse",
+        "Cas-Weg",
+        "Emil-Frommel-Strasse",
+        "Emmy-Noether-Strasse",
+        "Forststrasse",
+        "Haid-Und-Neu-Strasse",
+        "Im Vogelsand",
+        "Karl-Wilhelm-Platz",
+        "Karl-Wilhelm-Strasse",
+        "Konrad-Zuse-Strasse",
+        "Stumpfstrasse",
+        "Wilhelm-Schickard-Strasse"
+      ]
+    },
+    {
+      "date": "04.03.2026",
+      "isoDate": "2026-03-04",
+      "streets": [
+        "Brettener Strasse",
+        "Eppinger Strasse",
+        "Heilbronner Strasse",
+        "Mannheimer Strasse",
+        "Sinsheimer Strasse",
+        "Sulzfelder Strasse"
+      ]
+    },
+    {
+      "date": "05.03.2026",
+      "isoDate": "2026-03-05",
+      "streets": [
+        "Am Fasanengarten",
+        "Edelsheimstrasse",
+        "Emil-Gött-Strasse",
+        "Fraunhoferstrasse",
+        "Hagsfelder Allee",
+        "Hansjakobstrasse",
+        "Hölderlinstrasse",
+        "Klosterweg",
+        "Kornblumenstrasse",
+        "Parkstrasse",
+        "Pastor-Felke-Strasse",
+        "Schönfeldstrasse",
+        "Sebastian-Kneipp-Strasse",
+        "Vincenz-Priessnitz-Strasse",
+        "Werthmannstrasse"
+      ]
+    },
+    {
+      "date": "06.03.2026",
+      "isoDate": "2026-03-06",
+      "streets": [
+        "Adenauerring",
+        "An der Fasanengartenmauer",
+        "Brohrainstrasse",
+        "Büchiger Allee",
+        "Dollmätschstrasse",
+        "Dunantstrasse",
+        "Eggensteiner Allee",
+        "Friedrichstaler Allee",
+        "Füsslinstrasse",
+        "Gaussstrasse",
+        "Grabener Allee",
+        "Helmertstrasse",
+        "Hermine-Villinger-Strasse",
+        "Jordanstrasse",
+        "Käppelestrasse",
+        "Linkenheimer Allee",
+        "Mombertstrasse",
+        "Okenstrasse",
+        "Ostring",
+        "Seiterichstrasse",
+        "Siegriststrasse",
+        "Striederstrasse",
+        "Teutschneureuter Allee",
+        "Theodor-Heuss-Allee",
+        "Theodor-Rehbock-Strasse",
+        "Töpperstrasse",
+        "Welckerstrasse",
+        "Zamenhofstrasse"
+      ]
+    },
+    {
+      "date": "10.03.2026",
+      "isoDate": "2026-03-10",
+      "streets": [
+        "Alter Schlachthof",
+        "Am Badenwerk",
+        "Am Schloss Gottesaue",
+        "Berckmüllerstrasse",
+        "Gustav-Specht-Strasse",
+        "Haizingerstrasse",
+        "Humboldtstrasse",
+        "Schlachthausstrasse",
+        "Schückstrasse",
+        "Seubertstrasse",
+        "Sternbergstrasse",
+        "Tullastrasse"
+      ]
+    },
+    {
+      "date": "12.03.2026",
+      "isoDate": "2026-03-12",
+      "streets": [
+        "Bernhardstrasse",
+        "Bertholdstrasse",
+        "Durmstrasse",
+        "Essenweinstrasse",
+        "Georg-Friedrich-Strasse",
+        "Ludwig-Wilhelm-Strasse",
+        "Melanchthonstrasse",
+        "Rintheimer Strasse",
+        "Rudolfstrasse",
+        "Veilchenstrasse"
+      ]
+    },
+    {
+      "date": "16.03.2026",
+      "isoDate": "2026-03-16",
+      "streets": [
+        "Durlacher Allee",
+        "Gerwigstrasse"
+      ]
+    },
+    {
+      "date": "18.03.2026",
+      "isoDate": "2026-03-18",
+      "streets": [
+        "August-Schwall-Strasse",
+        "Buntestrasse",
+        "Degenfeldstrasse",
+        "Frühlingstrasse",
+        "Gottesauer Platz",
+        "Gottesauer Strasse",
+        "Hennebergstrasse",
+        "Lachnerstrasse",
+        "Lohfeldstrasse",
+        "Netanel-Weil-Strasse",
+        "Ostendstrasse",
+        "Sommerstrasse",
+        "Wolfartsweierer Strasse",
+        "Zimmerstrasse"
+      ]
+    },
+    {
+      "date": "20.03.2026",
+      "isoDate": "2026-03-20",
+      "streets": [
+        "Kriegsstrasse",
+        "Ludwig-Erhard-Allee"
+      ]
+    },
+    {
+      "date": "23.03.2026",
+      "isoDate": "2026-03-23",
+      "streets": [
+        "Am Künstlerhaus",
+        "Brunnenstrasse",
+        "Kaiserstrasse",
+        "Kapellenstrasse"
+      ]
+    },
+    {
+      "date": "24.03.2026",
+      "isoDate": "2026-03-24",
+      "streets": [
+        "Amalie-Baader-Strasse",
+        "Anna-Lauter-Strasse",
+        "Gervinusstrasse",
+        "Häusserstrasse",
+        "Hedwig-Kettler-Strasse",
+        "Henriette-Obermüller-Strasse",
+        "Klara-Siebert-Strasse",
+        "Luise-Riegger-Strasse",
+        "Marie-Baum-Strasse",
+        "Marie-Juchacz-Strasse",
+        "Melitta-Schöpf-Strasse",
+        "Rahel-Straus-Strasse",
+        "Rankestrasse",
+        "Scherrstrasse",
+        "Sybelstrasse"
+      ]
+    },
+    {
+      "date": "25.03.2026",
+      "isoDate": "2026-03-25",
+      "streets": [
+        "Mittelbruchstrasse",
+        "Rüppurrer Strasse",
+        "Stuttgarter Strasse",
+        "Tivoliplatz"
+      ]
+    },
+    {
+      "date": "26.03.2026",
+      "isoDate": "2026-03-26",
+      "streets": [
+        "Dorotheastrasse",
+        "Elisabeth-Grosswendt-Strasse",
+        "Hermannstrasse",
+        "Lauterbergstrasse",
+        "Morgenstrasse",
+        "Nebeniusstrasse",
+        "Philipp-Reis-Strasse",
+        "Rotteckstrasse",
+        "Treitschkestrasse",
+        "Wielandtstrasse"
+      ]
+    },
+    {
+      "date": "27.03.2026",
+      "isoDate": "2026-03-27",
+      "streets": [
+        "Augartenstrasse",
+        "Schützenstrasse"
+      ]
+    },
+    {
+      "date": "13.04.2026",
+      "isoDate": "2026-04-13",
+      "streets": [
+        "Am Kegelsgrund",
+        "Am Münchsberg",
+        "An der Rossweid",
+        "Berghausener Strasse",
+        "Brückenäckerweg",
+        "Froschhöhle",
+        "Greschbachstrasse",
+        "Im Speitel",
+        "Köblerweg",
+        "Krappmühlenweg",
+        "Oberfeldweg",
+        "Ohmstrasse",
+        "Rebbergweg",
+        "Rodbergweg",
+        "Torwiesenstrasse",
+        "Tullaweg",
+        "Wiesenäckerweg"
+      ]
+    },
+    {
+      "date": "14.04.2026",
+      "isoDate": "2026-04-14",
+      "streets": [
+        "Am Grollenberg",
+        "Am Kirchberg",
+        "Am Schwalbenloch",
+        "An der Silbergrub",
+        "Auf dem Katzenberg",
+        "Augustenburgstrasse",
+        "Biesestrasse",
+        "Carl-Langhein-Strasse",
+        "Dekan-Hofheinz-Strasse",
+        "Eugen-Wollfarth-Weg",
+        "Fiesslerweg",
+        "Fikentscherstrasse",
+        "Georg-Scholz-Strasse",
+        "Gustav-Hofmann-Strasse",
+        "Heinstrasse",
+        "Im Hohengrund",
+        "Im Sonnental",
+        "Kallmorgenstrasse",
+        "Kampmannstrasse",
+        "Karl-Martin-Graff-Strasse",
+        "Karl-Seckinger-Strasse",
+        "Kirchstrasse",
+        "Margarethe-Hormuth-Strasse",
+        "Otto-Schliessler-Strasse",
+        "Paul-Rein-Strasse",
+        "Ringelberghohl",
+        "Rummstrasse",
+        "Staigstrasse",
+        "Vogelsang",
+        "Winkler-Dentz-Strasse"
+      ]
+    },
+    {
+      "date": "15.04.2026",
+      "isoDate": "2026-04-15",
+      "streets": [
+        "Am Knittelberg",
+        "Am Liepoldsacker",
+        "Am Viehweg",
+        "Bei der Werren Gewann",
+        "Bruchwaldstrasse",
+        "Friedrichstrasse",
+        "Hildastrasse",
+        "Im Brühl",
+        "Im Gässle",
+        "Im Jäger",
+        "Im Lanzinger",
+        "Im Mehl",
+        "Im Oberviertel",
+        "Im Stalbühl",
+        "In der Setz",
+        "Junge Hälden",
+        "Krumme Strasse",
+        "Laubplatz",
+        "Mallenweg",
+        "Obere Setz",
+        "Rathausgasse",
+        "Rathausplatz",
+        "Reithohl",
+        "Rosalienberg",
+        "Scheelweg",
+        "Schultheiss-Kiefer-Strasse",
+        "Schustergasse",
+        "Unterer Lichtenbergweg",
+        "Vierzehn Morgen",
+        "Weingartener Strasse",
+        "Werrabronner Strasse",
+        "Wischauer Weg",
+        "Ziegeleistrasse"
+      ]
+    },
+    {
+      "date": "16.04.2026",
+      "isoDate": "2026-04-16",
+      "streets": [
+        "Am Flossgraben",
+        "Am Giessbach",
+        "Am Grafenacker",
+        "Am Hohen Stein",
+        "An der Pfinz",
+        "Beunstrasse",
+        "Büchelbergstrasse",
+        "Durlacher Strasse",
+        "Edelmänne",
+        "Eisenbahnstrasse",
+        "Eugen-Kleiber-Strasse",
+        "Feindhag",
+        "Fröbelstrasse",
+        "Gartenäckerweg",
+        "Graf-Konrad-Strasse",
+        "Grezzoplatz",
+        "Grezzostrasse",
+        "Heinrich-Kurz-Strasse",
+        "Heinrich-Lilienfein-Weg",
+        "Hermann-Weick-Weg",
+        "Hofäckerweg",
+        "Im Fischerweg",
+        "Im Unterviertel",
+        "In den Weihergärten",
+        "Karl-Leopold-Strasse",
+        "Martin-Luther Platz",
+        "Martin-Luther-Strasse",
+        "Mühlstrasse",
+        "Niddaplatz",
+        "Niddastrasse",
+        "Oberausstrasse",
+        "Rosswagstrasse",
+        "Wilhelm-Mössinger-Strasse"
+      ]
+    },
+    {
+      "date": "20.04.2026",
+      "isoDate": "2026-04-20",
+      "streets": [
+        "Am Grünberg",
+        "Am Lustgarten",
+        "Beim Wasserturm",
+        "Dürrenwettersbacher Strasse",
+        "Ebersteinstrasse",
+        "Gartenweg",
+        "Hintere Spitalstrasse",
+        "Hopfenacker",
+        "Kirchplatz",
+        "Medersbuckel",
+        "Reihenstrasse",
+        "Rotenbüschle",
+        "Schafweide",
+        "Schilling-Von-Canstatt-Strasse",
+        "Spitalhof",
+        "Taglöhnergärten",
+        "Tiefentalstrasse",
+        "Wolfartsweierer Weg",
+        "Zweibrückener Strasse"
+      ]
+    },
+    {
+      "date": "21.04.2026",
+      "isoDate": "2026-04-21",
+      "streets": [
+        "Alter Weinberg",
+        "Am Vogelhäusle",
+        "Batzenhofweg",
+        "Birkenwäldle",
+        "Bockweg",
+        "Dachsbau",
+        "Fuchsbau",
+        "Fünfzig Morgen",
+        "Hasensprung",
+        "Hirschweg",
+        "Iltisweg",
+        "Köpfle",
+        "Lindenstrasse",
+        "Neuer Weg",
+        "Ochsenwiese",
+        "Rehbuckel",
+        "Rosengarten",
+        "Seegasse",
+        "Wieselweg"
+      ]
+    },
+    {
+      "date": "22.04.2026",
+      "isoDate": "2026-04-22",
+      "streets": [
+        "Albert-Schneller-Weg",
+        "Am Gräfelsberg",
+        "Am Michelsberg",
+        "Am Pfarrgarten",
+        "Am Steinhäusle",
+        "Baumgasse",
+        "Busenbacher Strasse",
+        "Dobelstrasse",
+        "Haulenbergstrasse",
+        "Hirsauer Strasse",
+        "Horfstrasse",
+        "Im Eichbusch",
+        "Im Holderbusch",
+        "Im Spiegelgärtle",
+        "Kirchstaig",
+        "Liebenzeller Strasse",
+        "Neuenbürger Strasse",
+        "Pfeilerweg",
+        "Rötlingweg",
+        "Wildbader Strasse",
+        "Wingertgasse",
+        "Zur Dorfwies",
+        "Zur Schmalzwies",
+        "Zur Seeplatte"
+      ]
+    },
+    {
+      "date": "23.04.2026",
+      "isoDate": "2026-04-23",
+      "streets": [
+        "Am Berg",
+        "Am Herrenweg",
+        "Am Wetterbach",
+        "Am Wiesenacker",
+        "Bergacker",
+        "Donaulandstrasse",
+        "Egerlandstrasse",
+        "Hohenwettersbacher Strasse",
+        "Im Löhl",
+        "Im Rodel",
+        "Mecklenburger Strasse",
+        "Ostpreussenstrasse",
+        "Thüringer Strasse",
+        "Wiesenstrasse",
+        "Zum Wald"
+      ]
+    },
+    {
+      "date": "24.04.2026",
+      "isoDate": "2026-04-24",
+      "streets": [
+        "Balinger Strasse",
+        "Böblinger Strasse",
+        "Böhmerwaldstrasse",
+        "Cannstatter Strasse",
+        "Esslinger Strasse",
+        "Heidenheimer Strasse",
+        "Leonberger Strasse",
+        "Ludwigsburger Strasse",
+        "Marbacher Strasse",
+        "Reickertstrasse",
+        "Reutlinger Strasse",
+        "Sigmaringer Strasse",
+        "Tübinger Strasse",
+        "Ulmer Strasse",
+        "Waiblinger Strasse",
+        "Zur Ziegelhütte"
+      ]
+    },
+    {
+      "date": "04.05.2026",
+      "isoDate": "2026-05-04",
+      "streets": [
+        "Alte Palmbacher Strasse",
+        "Am Zollstock",
+        "Auf der Römerstrasse",
+        "Grünwettersbacher Strasse",
+        "Gustav-Meerwein-Strasse",
+        "Henri-Arnaud-Strasse",
+        "Im Brunnenfeld",
+        "Im Kloth",
+        "Im Neubruch",
+        "Im Tann",
+        "Ob den Gärten",
+        "Ob der Eichhälden",
+        "Rudolf-Link-Strasse",
+        "Steinhauerweg",
+        "Talstrasse",
+        "Vierordtstrasse",
+        "Waldbronner Strasse",
+        "Zum Heidenfeld"
+      ]
+    },
+    {
+      "date": "05.05.2026",
+      "isoDate": "2026-05-05",
+      "streets": [
+        "Am Illwig",
+        "Am Maueranger",
+        "Am Schleifweg",
+        "Am Thomashäusle",
+        "Am Wiesenrain",
+        "An der Klam",
+        "Efeustrasse",
+        "Enzianstrasse",
+        "Farnweg",
+        "Gerberastrasse",
+        "Gut Batzenhof",
+        "Hinterm Zaun",
+        "Karlsbader Strasse",
+        "Kleinsteinbacher Strasse",
+        "Köhlerweg",
+        "Lamprechtshof",
+        "Obere Gass",
+        "Pfefferäckerstrasse",
+        "Stupfericher Weg",
+        "Stutenpferchstrasse",
+        "Thomashofstrasse",
+        "Windelbachstrasse"
+      ]
+    },
+    {
+      "date": "06.05.2026",
+      "isoDate": "2026-05-06",
+      "streets": [
+        "Am Hang",
+        "Burgunderstrasse",
+        "Eichwaldstrasse",
+        "Gänsbergstrasse",
+        "Gutedelstrasse",
+        "Hermann-Löns-Weg",
+        "Höhenstrasse",
+        "Neubergstrasse",
+        "Ortsstrasse",
+        "Palmbacher Strasse",
+        "Rebgärtenstrasse",
+        "Reutstrasse",
+        "Rieslingstrasse",
+        "Ruländerstrasse",
+        "Silvanerstrasse",
+        "Sonnenbergstrasse",
+        "Traminerstrasse",
+        "Trollingerstrasse",
+        "Weiklesstrasse",
+        "Werrenstrasse",
+        "Wiesentalstrasse",
+        "Zum Bergle",
+        "Zum Sportzentrum"
+      ]
+    },
+    {
+      "date": "11.05.2026",
+      "isoDate": "2026-05-11",
+      "streets": [
+        "Luisenstrasse",
+        "Winterstrasse"
+      ]
+    },
+    {
+      "date": "12.05.2026",
+      "isoDate": "2026-05-12",
+      "streets": [
+        "Baumeisterstrasse",
+        "Ettlinger Strasse",
+        "Fautenbruchstrasse",
+        "Finterstrasse",
+        "Nowackanlage",
+        "Wilhelmstrasse"
+      ]
+    },
+    {
+      "date": "18.05.2026",
+      "isoDate": "2026-05-18",
+      "streets": [
+        "Marienstrasse",
+        "Meidingerstrasse",
+        "Werderstrasse"
+      ]
+    },
+    {
+      "date": "19.05.2026",
+      "isoDate": "2026-05-19",
+      "streets": [
+        "Am Stadtgarten",
+        "Bahnhofplatz",
+        "Bahnhofstrasse",
+        "Breite Strasse",
+        "Cäciliastrasse",
+        "Friedrich-Scholl-Platz",
+        "Gutschstrasse",
+        "Hinterm Hauptbahnhof",
+        "Karl-Hoffmann-Strasse",
+        "Klosestrasse",
+        "Poststrasse",
+        "Schnetzlerstrasse",
+        "Schwarzwaldstrasse",
+        "Victor-Gollancz-Strasse"
+      ]
+    },
+    {
+      "date": "20.05.2026",
+      "isoDate": "2026-05-20",
+      "streets": [
+        "Bulacher Strasse",
+        "Gebhardstrasse",
+        "Geschwister-Scholl-Strasse",
+        "Hohenzollernstrasse",
+        "Karolinenstrasse",
+        "Kronprinzenstrasse",
+        "Marie-Alexandra-Strasse",
+        "Neubruchweg",
+        "Ossietzkystrasse",
+        "Wartburgstrasse"
+      ]
+    },
+    {
+      "date": "21.05.2026",
+      "isoDate": "2026-05-21",
+      "streets": [
+        "Albtalstrasse",
+        "Alemannenstrasse",
+        "Ebertstrasse",
+        "Frankenstrasse",
+        "Graf-Rhena-Strasse",
+        "Karolingerstrasse",
+        "Kurfürstenstrasse",
+        "Michaelstrasse",
+        "Salierstrasse",
+        "Welfenstrasse"
+      ]
+    },
+    {
+      "date": "22.05.2026",
+      "isoDate": "2026-05-22",
+      "streets": [
+        "Brauerstrasse",
+        "Leibnizstrasse",
+        "Sachsenstrasse",
+        "Südendstrasse",
+        "Vincentiusstrasse",
+        "Vorholzstrasse"
+      ]
+    },
+    {
+      "date": "08.06.2026",
+      "isoDate": "2026-06-08",
+      "streets": [
+        "Badenwerkstrasse Am Festplatz",
+        "Friedenstrasse",
+        "Gartenstrasse",
+        "Hermann-Billing-Strasse",
+        "Otto-Sachs-Strasse",
+        "Redtenbacherstrasse"
+      ]
+    },
+    {
+      "date": "09.06.2026",
+      "isoDate": "2026-06-09",
+      "streets": [
+        "Boeckhstrasse",
+        "Bürklinstrasse",
+        "Jollystrasse",
+        "Klauprechtstrasse",
+        "Lenzstrasse",
+        "Nokkstrasse",
+        "Putlitzstrasse",
+        "Roonstrasse",
+        "Sonntagstrasse"
+      ]
+    },
+    {
+      "date": "10.06.2026",
+      "isoDate": "2026-06-10",
+      "streets": [
+        "Alter Brauhof",
+        "August-Dürr-Strasse",
+        "Augustastrasse",
+        "Beiertheimer Allee",
+        "Festplatz",
+        "Kantstrasse",
+        "Mathystrasse",
+        "Renckstrasse"
+      ]
+    },
+    {
+      "date": "11.06.2026",
+      "isoDate": "2026-06-11",
+      "streets": [
+        "Karlstrasse",
+        "Markgrafenstrasse"
+      ]
+    },
+    {
+      "date": "12.06.2026",
+      "isoDate": "2026-06-12",
+      "streets": [
+        "Barbarossaplatz",
+        "Hirschhof",
+        "Hirschstrasse",
+        "Ritterstrasse"
+      ]
+    },
+    {
+      "date": "15.06.2026",
+      "isoDate": "2026-06-15",
+      "streets": [
+        "Amalienstrasse",
+        "Baischstrasse",
+        "Belfortstrasse",
+        "Leopoldstrasse",
+        "Viktoriastrasse"
+      ]
+    },
+    {
+      "date": "17.06.2026",
+      "isoDate": "2026-06-17",
+      "streets": [
+        "Akademiestrasse",
+        "Douglasstrasse",
+        "Hans-Thoma-Strasse",
+        "Kaiserpassage",
+        "Karlshof",
+        "Passagehof",
+        "Stephanienstrasse",
+        "Waldstrasse"
+      ]
+    },
+    {
+      "date": "19.06.2026",
+      "isoDate": "2026-06-19",
+      "streets": [
+        "Blumenstrasse",
+        "Bürgerstrasse",
+        "Erbprinzenhof",
+        "Erbprinzenstrasse",
+        "Friedrichsplatz",
+        "Herrenstrasse",
+        "Lammstrasse",
+        "Reinhold-Frank-Strasse",
+        "Ständehausstrasse"
+      ]
+    },
+    {
+      "date": "22.06.2026",
+      "isoDate": "2026-06-22",
+      "streets": [
+        "Adlerstrasse",
+        "Hebelstrasse",
+        "Karl-Friedrich-Strasse",
+        "Kreuzstrasse",
+        "Kronenplatz",
+        "Kronenstrasse",
+        "Pfarrer-Löw-Strasse",
+        "Schlossplatz",
+        "Steinstrasse",
+        "Zirkel"
+      ]
+    },
+    {
+      "date": "23.06.2026",
+      "isoDate": "2026-06-23",
+      "streets": [
+        "Engesserstrasse",
+        "Englerstrasse",
+        "Fasanenstrasse",
+        "Fritz-Erler-Strasse",
+        "Lehmannstrasse",
+        "Neuer Zirkel",
+        "Richard-Willstätter-Allee",
+        "Waldhornplatz",
+        "Waldhornstrasse",
+        "Zähringerstrasse"
+      ]
+    },
+    {
+      "date": "24.06.2026",
+      "isoDate": "2026-06-24",
+      "streets": [
+        "Ahaweg",
+        "Bismarckstrasse",
+        "Fichtestrasse",
+        "Hoffstrasse",
+        "Jahnstrasse",
+        "Riefstahlstrasse",
+        "Scheffelplatz",
+        "Schirmerstrasse",
+        "Seminarstrasse",
+        "Willy-Brandt-Allee",
+        "Wörthstrasse"
+      ]
+    },
+    {
+      "date": "25.06.2026",
+      "isoDate": "2026-06-25",
+      "streets": [
+        "Indianaring",
+        "Kanalweg",
+        "Ohiostrasse",
+        "Rhode-Island-Allee",
+        "Vermontring"
+      ]
+    },
+    {
+      "date": "26.06.2026",
+      "isoDate": "2026-06-26",
+      "streets": [
+        "Kentuckyallee",
+        "Louisianaring"
+      ]
+    },
+    {
+      "date": "30.06.2026",
+      "isoDate": "2026-06-30",
+      "streets": [
+        "Delawarestrasse",
+        "Erzbergerstrasse",
+        "Floridastrasse",
+        "Mainestrasse",
+        "Michiganstrasse",
+        "New-Jersey-Strasse",
+        "New-York-Strasse",
+        "Pennsylvaniastrasse",
+        "Von-Beck-Strasse"
+      ]
+    },
+    {
+      "date": "01.07.2026",
+      "isoDate": "2026-07-01",
+      "streets": [
+        "Alfons-Fischer-Allee",
+        "August-Euler-Weg",
+        "Damaschkestrasse",
+        "Franz-Lust-Strasse",
+        "Freydorfstrasse",
+        "Friedrich-Blos-Strasse",
+        "Friedrich-Wolff-Strasse",
+        "Grenadierstrasse",
+        "Gustav-Binz-Strasse",
+        "Karl-Schrempp-Strasse",
+        "Knielinger Allee",
+        "Lilienthalstrasse",
+        "Roggenbachstrasse",
+        "Waldring"
+      ]
+    },
+    {
+      "date": "02.07.2026",
+      "isoDate": "2026-07-02",
+      "streets": [
+        "Beethovenstrasse",
+        "Blücherstrasse",
+        "Brunhildenstrasse",
+        "Grashofstrasse",
+        "Haydnplatz",
+        "Helmholtzstrasse",
+        "Kochstrasse",
+        "Maximilianstrasse",
+        "Moltkestrasse",
+        "Mozartstrasse",
+        "Nördliche Hildapromenade",
+        "Paul-Ehrlich-Strasse",
+        "Rheingoldstrasse",
+        "Röntgenstrasse",
+        "Siegfriedstrasse",
+        "Stabelstrasse",
+        "Südliche Hildapromenade",
+        "Virchowstrasse",
+        "Weberstrasse",
+        "Wotanstrasse"
+      ]
+    },
+    {
+      "date": "03.07.2026",
+      "isoDate": "2026-07-03",
+      "streets": [
+        "Burgunderplatz",
+        "Devrientstrasse",
+        "Dragonerstrasse",
+        "Guntherstrasse",
+        "Hagenstrasse",
+        "Kaiserallee",
+        "Kriemhildenstrasse",
+        "Richard-Wagner-Strasse",
+        "Schubertstrasse",
+        "Wendtstrasse"
+      ]
+    },
+    {
+      "date": "06.07.2026",
+      "isoDate": "2026-07-06",
+      "streets": [
+        "Alberichstrasse",
+        "Felix-Mottl-Strasse",
+        "Händelstrasse",
+        "Isoldestrasse",
+        "Kanonierstrasse",
+        "Kärcherstrasse",
+        "Lohengrinstrasse",
+        "Nibelungenplatz",
+        "Nibelungenstrasse",
+        "Seldeneckstrasse",
+        "Stösserstrasse",
+        "Tannhäuserstrasse",
+        "Tristanstrasse"
+      ]
+    },
+    {
+      "date": "07.07.2026",
+      "isoDate": "2026-07-07",
+      "streets": [
+        "Bachstrasse",
+        "Brahmsstrasse",
+        "Gluckstrasse",
+        "Kalliwodastrasse",
+        "Philippstrasse",
+        "Schumannstrasse"
+      ]
+    },
+    {
+      "date": "08.07.2026",
+      "isoDate": "2026-07-08",
+      "streets": [
+        "Fliederstrasse",
+        "Geibelstrasse",
+        "Glümerstrasse",
+        "Ludwig-Marum-Strasse",
+        "Nuitsstrasse"
+      ]
+    },
+    {
+      "date": "13.07.2026",
+      "isoDate": "2026-07-13",
+      "streets": [
+        "An der Rainmühle",
+        "Fabrikstrasse",
+        "Lameystrasse",
+        "Rheinstrasse"
+      ]
+    },
+    {
+      "date": "15.07.2026",
+      "isoDate": "2026-07-15",
+      "streets": [
+        "Am Entenfang",
+        "Hardtstrasse",
+        "Lerchenstrasse",
+        "Lindenplatz",
+        "Marktstrasse",
+        "Sedanstrasse",
+        "Sonnenstrasse",
+        "Sternstrasse"
+      ]
+    },
+    {
+      "date": "17.07.2026",
+      "isoDate": "2026-07-17",
+      "streets": [
+        "Sophienstrasse"
+      ]
+    },
+    {
+      "date": "22.07.2026",
+      "isoDate": "2026-07-22",
+      "streets": [
+        "Görresstrasse",
+        "Staudingerstrasse",
+        "Volzstrasse",
+        "Wichernstrasse"
+      ]
+    },
+    {
+      "date": "23.07.2026",
+      "isoDate": "2026-07-23",
+      "streets": [
+        "Draisstrasse",
+        "Gabelsbergerstrasse",
+        "Gellertstrasse",
+        "Geranienstrasse",
+        "Grillparzerstrasse",
+        "Gutenbergplatz",
+        "Gutenbergstrasse",
+        "Herderstrasse",
+        "Klopstockstrasse",
+        "Nelkenstrasse",
+        "Peter-Und-Paul-Platz"
+      ]
+    },
+    {
+      "date": "24.07.2026",
+      "isoDate": "2026-07-24",
+      "streets": [
+        "Weinbrennerstrasse",
+        "Yorckstrasse"
+      ]
+    },
+    {
+      "date": "27.07.2026",
+      "isoDate": "2026-07-27",
+      "streets": [
+        "Bunsenstrasse",
+        "Eisenlohrstrasse",
+        "Gustav-Heller-Platz",
+        "Hübschstrasse",
+        "Liebigstrasse",
+        "Weltzienstrasse",
+        "Wilhelm-Baur-Strasse"
+      ]
+    },
+    {
+      "date": "28.07.2026",
+      "isoDate": "2026-07-28",
+      "streets": [
+        "Goethestrasse",
+        "Körnerstrasse",
+        "Mondstrasse",
+        "Uhlandstrasse"
+      ]
+    },
+    {
+      "date": "29.07.2026",
+      "isoDate": "2026-07-29",
+      "streets": [
+        "Bettina-Von-Arnim-Weg",
+        "Scheffelstrasse",
+        "Schillerstrasse"
+      ]
+    },
+    {
+      "date": "30.07.2026",
+      "isoDate": "2026-07-30",
+      "streets": [
+        "Edgar-Von-Gierke-Strasse",
+        "Ehrmannstrasse",
+        "Ernst-Frey-Strasse",
+        "Hans-Sachs-Strasse",
+        "Hermann-Veit-Strasse",
+        "Holtzstrasse",
+        "Lessingstrasse",
+        "Lorenzstrasse",
+        "Moningerstrasse",
+        "Römhildtstrasse",
+        "Schwindstrasse",
+        "Siegfried-Kühn-Strasse",
+        "Steinhäuserstrasse"
+      ]
+    },
+    {
+      "date": "31.07.2026",
+      "isoDate": "2026-07-31",
+      "streets": [
+        "Binsenschlauchweg",
+        "Donnersbergweg",
+        "Eugen-Richter-Strasse",
+        "Heinrich-Köhler-Strasse",
+        "Kalmitweg",
+        "Kesselbergweg",
+        "Ludwig-Windthorst-Strasse",
+        "Nancystrasse",
+        "Postweg",
+        "Rehbergweg",
+        "Schänzle",
+        "St.-Barbara-Weg"
+      ]
+    },
+    {
+      "date": "14.09.2026",
+      "isoDate": "2026-09-14",
+      "streets": [
+        "August-Bebel-Strasse",
+        "Bellheimer Strasse",
+        "Bergzaberner Strasse",
+        "Hagenbacher Strasse",
+        "Jockgrimerstrasse",
+        "Kussmaulstrasse",
+        "Ludwig-Haas-Strasse",
+        "Madenburgweg",
+        "Rülzheimer Strasse"
+      ]
+    },
+    {
+      "date": "15.09.2026",
+      "isoDate": "2026-09-15",
+      "streets": [
+        "Ehlersstrasse",
+        "Friedrich-Naumann-Strasse",
+        "Josef-Schmitt-Strasse",
+        "Josef-Schofer-Strasse",
+        "Kaiserslauterner Strasse",
+        "Kurt-Schumacher-Strasse",
+        "Sengestrasse",
+        "Stresemannstrasse",
+        "Trierer Strasse",
+        "Wilhelm-Hausenstein-Allee",
+        "Wilhelm-Kolb-Strasse"
+      ]
+    },
+    {
+      "date": "16.09.2026",
+      "isoDate": "2026-09-16",
+      "streets": [
+        "Anebosweg",
+        "Bienwaldstrasse",
+        "Dürkheimer Strasse",
+        "Frankenthaler Strasse",
+        "Germersheimer Strasse",
+        "Hambacher Strasse",
+        "Hardenburgweg",
+        "Kropsburgweg",
+        "Limburgweg",
+        "Ludwigshafener Strasse",
+        "Maxburgweg",
+        "Neustadter Strasse",
+        "Oppauer Strasse",
+        "Pirmasenser Strasse"
+      ]
+    },
+    {
+      "date": "17.09.2026",
+      "isoDate": "2026-09-17",
+      "streets": [
+        "Boschstrasse",
+        "Dahner Strasse",
+        "Daimlerstrasse",
+        "Dörrenbacher Strasse",
+        "Hertzstrasse",
+        "Kieferäckerstrasse",
+        "Landauer Strasse",
+        "Neureuter Strasse",
+        "Rhodter Strasse",
+        "Schweigener Strasse",
+        "Wattstrasse",
+        "Weissenburger Strasse"
+      ]
+    },
+    {
+      "date": "18.09.2026",
+      "isoDate": "2026-09-18",
+      "streets": [
+        "Am Rennbuckel",
+        "Berliner Strasse",
+        "Binger Strasse",
+        "Bochumer Strasse",
+        "Bonner Strasse",
+        "Durlacher Weg",
+        "Julius-Hirsch-Strasse",
+        "Karlsruher Weg",
+        "Strassburger Strasse",
+        "Wiesbadener Strasse",
+        "Wormser Strasse"
+      ]
+    },
+    {
+      "date": "22.09.2026",
+      "isoDate": "2026-09-22",
+      "streets": [
+        "Bodelschwinghstrasse",
+        "Borsigstrasse",
+        "Feierabendweg",
+        "Feldstrasse",
+        "Gablonzer Strasse",
+        "Heimgartenweg",
+        "Keplerstrasse",
+        "Laubenweg",
+        "Neugrabenstrasse",
+        "Schoemperlenstrasse",
+        "Seydlitzstrasse",
+        "Siemensallee",
+        "Steubenstrasse",
+        "Zietenstrasse"
+      ]
+    },
+    {
+      "date": "24.09.2026",
+      "isoDate": "2026-09-24",
+      "streets": [
+        "Annweilerstrasse",
+        "Carl-Schurz-Strasse",
+        "Ernst-Würtenberger-Strasse",
+        "Eugen-Geiger-Strasse",
+        "Ferdinand-Keller-Strasse",
+        "G.-Braun-Strasse",
+        "Gustav-Schönleber-Strasse",
+        "Im Husarenlager",
+        "Itzsteinstrasse",
+        "Julius-Bergmann-Strasse",
+        "Lassallestrasse",
+        "Ludwig-Dill-Strasse",
+        "Stiller Winkel",
+        "Wilhelm-Trübner-Weg"
+      ]
+    },
+    {
+      "date": "28.09.2026",
+      "isoDate": "2026-09-28",
+      "streets": [
+        "Bernhard-Metz-Strasse",
+        "Carl-Schäfer-Strasse",
+        "Curjel-Und-Moser-Strasse",
+        "Egon-Eiermann-Allee",
+        "Eichheckle",
+        "Grünhutstrasse",
+        "Gustav-Heinkel-Strasse",
+        "Hermann-Vollmer-Strasse",
+        "Kesslaustrasse",
+        "Langbühl",
+        "Max-Laeuger-Strasse",
+        "Otto-Bartning-Strasse",
+        "Pionierstrasse",
+        "Sudetenstrasse"
+      ]
+    },
+    {
+      "date": "29.09.2026",
+      "isoDate": "2026-09-29",
+      "streets": [
+        "Am Brurain",
+        "Eggensteiner Strasse",
+        "Heckerstrasse",
+        "Hermann-Köhl-Strasse",
+        "Herweghstrasse",
+        "Landeckstrasse",
+        "Lönsstrasse",
+        "Lorscher Strasse",
+        "Östliche Rheinbrückenstrasse",
+        "Reinmuthstrasse",
+        "Schulstrasse",
+        "Schultheissenstrasse",
+        "Struvestrasse",
+        "Trifelsstrasse"
+      ]
+    },
+    {
+      "date": "30.09.2026",
+      "isoDate": "2026-09-30",
+      "streets": [
+        "Am Kirchtal",
+        "Am Ölhafen",
+        "Besoldgasse",
+        "Dea-Scholven-Strasse",
+        "Dreikönigstrasse",
+        "Elsässer Platz",
+        "Elsässer Strasse",
+        "Goldwäschergasse",
+        "Grabenort Gewann",
+        "Kirchbühlstrasse",
+        "Lauterburger Strasse",
+        "Lothringer Strasse",
+        "Maxau Am Rhein",
+        "Maxauer Strasse",
+        "Mitscherlichstrasse",
+        "Neufeldstrasse",
+        "Saarlandstrasse",
+        "Westliche Rheinbrücken-Strasse"
+      ]
+    },
+    {
+      "date": "01.10.2026",
+      "isoDate": "2026-10-01",
+      "streets": [
+        "Albhäusleweg",
+        "Am Sandberg",
+        "Am Storchennest",
+        "Blenkerstrasse",
+        "Blindstrasse",
+        "Bruchweg",
+        "Elsternweg",
+        "Fischreiherstrasse",
+        "Frauenhäusleweg",
+        "Habichtweg",
+        "Im Bipples",
+        "Jakob-Dörr-Strasse",
+        "Kammerlachweg",
+        "Kolbengärten",
+        "Max-Dortu-Strasse",
+        "Retzlachweg",
+        "Rheinbergstrasse"
+      ]
+    },
+    {
+      "date": "02.10.2026",
+      "isoDate": "2026-10-02",
+      "streets": [
+        "Am Hafen",
+        "Am Mühlburger Bahnhof",
+        "Am Sonnenbad",
+        "An der Anlegestelle",
+        "An der Mole",
+        "Fettweisstrasse",
+        "Hansastrasse",
+        "Hochbahnstrasse",
+        "Honsellstrasse",
+        "Im Schlehert",
+        "Koellestrasse",
+        "Kurzheckweg",
+        "Litzelaustrasse",
+        "Nordbeckenstrasse",
+        "Nördliche Uferstrasse",
+        "Pfalzbahnstrasse",
+        "Rheinhafenstrasse",
+        "Südbeckenstrasse",
+        "Südhafenstrasse",
+        "Südliche Uferstrasse",
+        "Untere Strasse",
+        "Werftstrasse",
+        "Wikingerstrasse"
+      ]
+    },
+    {
+      "date": "06.10.2026",
+      "isoDate": "2026-10-06",
+      "streets": [
+        "August-Kutterer-Strasse",
+        "Babbergerstrasse",
+        "Federbachstrasse",
+        "Fritschlachweg",
+        "Frohngärtenweg",
+        "Goldgrundstrasse",
+        "Hahnenstrasse",
+        "Hammweg",
+        "Hermann-Schneider-Allee",
+        "Hohleichweg",
+        "Im Jagdgrund",
+        "Industriestrasse",
+        "Inselstrasse",
+        "Kleine Federbachstrasse",
+        "Leo-Faller-Strasse",
+        "Lilienstrasse",
+        "Malvenstrasse",
+        "Martha-Kropp-Strasse",
+        "Neugärtenweg",
+        "Ölgartenweg",
+        "Otto-Laible-Strasse",
+        "Pfarrstrasse",
+        "Saumweg",
+        "Schattenstrasse",
+        "Vorderstrasse",
+        "Waidweg",
+        "Willi-Egler-Strasse"
+      ]
+    },
+    {
+      "date": "08.10.2026",
+      "isoDate": "2026-10-08",
+      "streets": [
+        "Ankerstrasse",
+        "Hinter der Kirche",
+        "Holländerstrasse",
+        "Kastenwörtstrasse",
+        "Krämerstrasse",
+        "Langenackerstrasse",
+        "Pfalzstrasse",
+        "Rappenwörtstrasse",
+        "Taubenstrasse",
+        "Turnerstrasse",
+        "Valentinstrasse"
+      ]
+    },
+    {
+      "date": "12.10.2026",
+      "isoDate": "2026-10-12",
+      "streets": [
+        "Agathenstrasse",
+        "August-Dosenbach-Strasse",
+        "Bert-Brecht-Strasse",
+        "Gerhart-Hauptmann-Strasse",
+        "Hermann-Hesse-Strasse",
+        "Hördtstrasse",
+        "Karpfenweg",
+        "Kirschstrasse",
+        "Lindenallee",
+        "Neuburger Strasse",
+        "Römerstrasse",
+        "Salmenstrasse",
+        "Schifferstrasse",
+        "Thomas-Mann-Strasse",
+        "Zanderweg",
+        "Zollstrasse"
+      ]
+    },
+    {
+      "date": "14.10.2026",
+      "isoDate": "2026-10-14",
+      "streets": [
+        "Am Anger",
+        "Butz-Jakobs-Äcker Gewann",
+        "Falterweg",
+        "Feldblumenweg",
+        "Grillenweg",
+        "Karl-Delisle-Strasse",
+        "Kiebitzenweg",
+        "Kleiner Anger",
+        "Kranichweg",
+        "Libellenweg",
+        "Pappelallee",
+        "Schmetterlingweg",
+        "Storchenweg",
+        "Weidenweg",
+        "Wiesenblumenweg",
+        "Zikadenweg"
+      ]
+    },
+    {
+      "date": "16.10.2026",
+      "isoDate": "2026-10-16",
+      "streets": [
+        "Bäumlesäcker",
+        "Dornröschenweg",
+        "Nussbaumweg",
+        "Rheinstrandallee",
+        "Steinäckerstrasse"
+      ]
+    },
+    {
+      "date": "19.10.2026",
+      "isoDate": "2026-10-19",
+      "streets": [
+        "Albring",
+        "Besselstrasse",
+        "Brunnenäckerweg",
+        "Buschwiesenweg",
+        "Daxlander Strasse",
+        "Eckenerstrasse",
+        "Hammäcker",
+        "Kastanienallee",
+        "Kopernikusstrasse",
+        "Kornweg",
+        "Lüderitzstrasse",
+        "Mauerweg",
+        "Panoramaweg",
+        "Rabenweg",
+        "Rudolf-Freytag-Strasse",
+        "Schlagfeldweg",
+        "Silcherstrasse",
+        "Wissmannstrasse"
+      ]
+    },
+    {
+      "date": "20.10.2026",
+      "isoDate": "2026-10-20",
+      "streets": [
+        "Andreas-Hofer-Strasse",
+        "Auf den Eiswiesen",
+        "Blohnstrasse",
+        "Carl-Metz-Strasse",
+        "Franz-Abt-Strasse",
+        "Gerberstrasse",
+        "Koelreuterstrasse",
+        "Michelinstrasse",
+        "Mörscher Strasse",
+        "Mühlburger Strasse",
+        "Neubruchstrasse",
+        "Pfannkuchstrasse",
+        "Robert-Blum-Strasse",
+        "Sinnerstrasse",
+        "Wilhelm-Tell-Strasse",
+        "Winkelriedstrasse",
+        "Zeppelinstrasse"
+      ]
+    },
+    {
+      "date": "21.10.2026",
+      "isoDate": "2026-10-21",
+      "streets": [
+        "Altfeldstrasse",
+        "Appenmühlstrasse",
+        "Boettgestrasse",
+        "Charlottenplatz",
+        "Charlottenstrasse",
+        "Christian-Schneider-Strasse",
+        "Durmersheimer Strasse",
+        "Forchheimer Strasse",
+        "Gerstenstrasse",
+        "Hausackerstrasse",
+        "Heinrich-Spachholz-Strasse",
+        "Hopfenstrasse",
+        "Johannes-Schuster-Weg",
+        "Konradin-Kreutzer-Strasse",
+        "Margarethenstrasse",
+        "Ulmenallee"
+      ]
+    },
+    {
+      "date": "22.10.2026",
+      "isoDate": "2026-10-22",
+      "streets": [
+        "Brandenkopfstrasse",
+        "Eichelbergstrasse",
+        "Fremersbergweg",
+        "Grosser Pfad",
+        "Hellbergstrasse",
+        "Hohlohstrasse",
+        "Kleiner Pfad",
+        "Kreuzelbergstrasse",
+        "Mahlbergstrasse",
+        "Merkurweg",
+        "Plättigweg",
+        "Schliffkopfweg",
+        "Schöllkopfweg",
+        "Schöner Pfad",
+        "Staufenbergweg",
+        "Strahlenburgweg",
+        "Wachenburgweg",
+        "Wattkopfstrasse",
+        "Yburgweg"
+      ]
+    },
+    {
+      "date": "23.10.2026",
+      "isoDate": "2026-10-23",
+      "streets": [
+        "Battertstrasse",
+        "Bernsteinstrasse",
+        "Edelbergstrasse",
+        "Fritz-Haber-Strasse",
+        "Hardeckstrasse",
+        "Haubenkopfstrasse",
+        "Heidenstückerweg",
+        "Herrmann-Leichtlin-Strasse",
+        "Hochkopfstrasse",
+        "Hornisgrindestrasse",
+        "Joachim-Kurzaj-Weg",
+        "Kübelkopfstrasse",
+        "Langeckweg",
+        "Lotzbeckstrasse",
+        "Mauzenbergstrasse",
+        "Mehliskopfstrasse",
+        "Mittelbergstrasse",
+        "Omerskopfstrasse",
+        "Rennbergstrasse",
+        "Scheibenbergstrasse",
+        "Stulzstrasse"
+      ]
+    },
+    {
+      "date": "02.11.2026",
+      "isoDate": "2026-11-02",
+      "streets": [
+        "Ahornweg",
+        "Akazienstrasse",
+        "Benzstrasse",
+        "Birkenweg",
+        "Buchenweg",
+        "Eichenweg",
+        "Eschenweg",
+        "Espenweg",
+        "Felsstrasse",
+        "Griesbachstrasse",
+        "Haselweg",
+        "Kesslerstrasse",
+        "Kohlenstrasse",
+        "Lagerstrasse",
+        "Liststrasse",
+        "Pulverhausstrasse",
+        "Rüsterweg",
+        "Siedlerstrasse",
+        "Ziegelstrasse"
+      ]
+    },
+    {
+      "date": "03.11.2026",
+      "isoDate": "2026-11-03",
+      "streets": [
+        "Albert-Braun-Strasse",
+        "Bonhoefferstrasse",
+        "Goerdelerstrasse",
+        "Ortenbergstrasse",
+        "Otto-Wels-Strasse",
+        "Schauenburgstrasse",
+        "Schenkenburgstrasse",
+        "Unterreut",
+        "Unterweingartenfeld",
+        "Windeckstrasse"
+      ]
+    },
+    {
+      "date": "04.11.2026",
+      "isoDate": "2026-11-04",
+      "streets": [
+        "Eugen-Geck-Strasse",
+        "Johanna-Kirchner-Strasse",
+        "Karl-Flösser-Strasse",
+        "Max-Habermann-Strasse",
+        "Rudolf-Breitscheid-Strasse"
+      ]
+    },
+    {
+      "date": "05.11.2026",
+      "isoDate": "2026-11-05",
+      "streets": [
+        "Badeniaplatz",
+        "Bernhard-Lichtenberg-Strasse",
+        "Edith-Stein-Strasse",
+        "Elisabeth-Von-Thadden-Strasse",
+        "Eva-Maria-Buch-Strasse",
+        "Friedrich-Weick-Strasse",
+        "Graf-Galen-Strasse",
+        "Graf-Stauffenberg-Strasse",
+        "Gustav-Schulenburg-Strasse",
+        "Hermann-Müller-Würtz-Strasse",
+        "Johestrasse",
+        "Maria-Terwiel-Strasse",
+        "Woerishofferstrasse"
+      ]
+    },
+    {
+      "date": "09.11.2026",
+      "isoDate": "2026-11-09",
+      "streets": [
+        "Gebrüder-Bachert-Strasse",
+        "Gebrüder-Himmelheber-Strasse",
+        "Grossoberfeld",
+        "Im Mittelfeld",
+        "Kleinoberfeld",
+        "Litzenhardtstrasse",
+        "Lohwiesenweg",
+        "Oberrossweide Gewann",
+        "Wilhelm-Leuschner-Strasse"
+      ]
+    },
+    {
+      "date": "11.11.2026",
+      "isoDate": "2026-11-11",
+      "streets": [
+        "Bannwaldallee",
+        "Grünwinkler Strasse",
+        "Hubertusallee",
+        "Landgrabenstrasse",
+        "Laurentiusstrasse",
+        "Maienweg",
+        "Markusstrasse",
+        "Martinstrasse",
+        "Neue-Anlage-Strasse",
+        "Oberkirchfeldstrasse",
+        "Petergraben",
+        "Rolandplatz",
+        "Rolandstrasse",
+        "St.-Florian-Strasse",
+        "St.-Georg-Strasse"
+      ]
+    },
+    {
+      "date": "13.11.2026",
+      "isoDate": "2026-11-13",
+      "streets": [
+        "Acherstrasse",
+        "Belchenplatz",
+        "Belchenstrasse",
+        "Blauenstrasse",
+        "Donaustrasse",
+        "Dreisamstrasse",
+        "Enzstrasse",
+        "Feldbergplatz",
+        "Feldbergstrasse",
+        "Kandelstrasse",
+        "Kinzigstrasse",
+        "Kniebisstrasse",
+        "Links der Alb",
+        "Mainstrasse",
+        "Murgstrasse",
+        "Neckarplatz",
+        "Neckarstrasse",
+        "Oosstrasse",
+        "Schauinslandstrasse",
+        "Tauberstrasse",
+        "Wehrastrasse",
+        "Wutachstrasse"
+      ]
+    },
+    {
+      "date": "16.11.2026",
+      "isoDate": "2026-11-16",
+      "streets": [
+        "Bussardweg",
+        "Dammerstockstrasse",
+        "Danziger Strasse",
+        "Falkenweg",
+        "Freiburger Strasse",
+        "Heidelberger Strasse",
+        "Im Eschwinkel",
+        "Kehler Strasse",
+        "Koblenzer Strasse",
+        "Konstanzer Strasse",
+        "Mainzer Strasse",
+        "Maria-Matheis-Strasse",
+        "Nürnberger Strasse",
+        "Offenburger Strasse",
+        "Rechts der Alb",
+        "Sperberweg",
+        "Speyerer Strasse"
+      ]
+    },
+    {
+      "date": "17.11.2026",
+      "isoDate": "2026-11-17",
+      "streets": [
+        "Am Rüppurrer Schloss",
+        "Erlenweg",
+        "Ettlinger Allee",
+        "Försterpfad",
+        "Gottlob-Schreber-Weg",
+        "Hauschildpfad",
+        "Hedwigstrasse",
+        "Herrenalber Strasse",
+        "Mühlwiesenweg",
+        "Rastatter Strasse",
+        "Scheibenhardter Weg"
+      ]
+    },
+    {
+      "date": "18.11.2026",
+      "isoDate": "2026-11-18",
+      "streets": [
+        "Amtmännenwiesen Gewann",
+        "Brunnenstückweg",
+        "Holderweg",
+        "Krokusweg",
+        "Kuhlager-Seele-Weg",
+        "Lange Strasse"
+      ]
+    },
+    {
+      "date": "19.11.2026",
+      "isoDate": "2026-11-19",
+      "streets": [
+        "Am Eichelgarten",
+        "Asternweg",
+        "Blütenweg",
+        "Dahlienweg",
+        "Fischerstrasse",
+        "Goldlackweg",
+        "Hainbuchenweg",
+        "Heckenweg",
+        "Im Grün",
+        "Irisweg",
+        "Ligusterweg",
+        "Ostendorfplatz",
+        "Ostendorfstrasse",
+        "Primelweg",
+        "Resedenweg",
+        "Rosenweg",
+        "Seewiesenäckerweg",
+        "Staudenweg",
+        "Wickenweg"
+      ]
+    },
+    {
+      "date": "20.11.2026",
+      "isoDate": "2026-11-20",
+      "streets": [
+        "Andersenstrasse",
+        "Arndtstrasse",
+        "Aschenbrödelweg",
+        "Breisgaustrasse",
+        "Däumlingweg",
+        "Diakonissenstrasse",
+        "Elfenweg",
+        "Fronstrasse",
+        "Gebrüder-Grimm-Strasse",
+        "Göhrenstrasse",
+        "Graf-Eberstein-Strasse",
+        "Gretelweg",
+        "Hänselweg",
+        "Hauffstrasse",
+        "Hegaustrasse",
+        "Kleiststrasse",
+        "Kraichgaustrasse",
+        "Lauschiger Weg",
+        "Lebrechtstrasse",
+        "Ludwig-Tieck-Strasse",
+        "Märchenring",
+        "Ortenaustrasse",
+        "Prinzenweg",
+        "Rotkäppchenweg",
+        "Schenkendorfstrasse",
+        "Schneewittchenweg",
+        "Steinmannstrasse",
+        "Tulpenstrasse",
+        "Wichtelmännerweg",
+        "Zwergenweg"
+      ]
+    },
+    {
+      "date": "30.11.2026",
+      "isoDate": "2026-11-30",
+      "streets": [
+        "Allmendstrasse",
+        "Am Sixenrain",
+        "Burbacher Strasse",
+        "Frauenalber Strasse",
+        "Gaistalweg",
+        "Hinterm Dorf",
+        "Löwenstrasse",
+        "Lützowstrasse",
+        "Marxzeller Strasse",
+        "Moosalbstrasse",
+        "Nikolausstrasse",
+        "Pfauenstrasse",
+        "Riedstrasse",
+        "Schöllbronner Strasse",
+        "Spessarter Strasse",
+        "Spielberger Strasse",
+        "Stockgässchen"
+      ]
+    },
+    {
+      "date": "01.12.2026",
+      "isoDate": "2026-12-01",
+      "streets": [
+        "Adalbert-Stifter-Strasse",
+        "Battstrasse",
+        "Baumgartenweg",
+        "Buschweg",
+        "Eduard-Mörike-Strasse",
+        "Heinrich-Heine-Ring",
+        "Joseph-Von-Eichendorff-Strasse",
+        "Marie-Luise-Kaschnitz-Strasse",
+        "Nikolaus-Lenau-Strasse",
+        "Reinhold-Schneider-Strasse"
+      ]
+    },
+    {
+      "date": "02.12.2026",
+      "isoDate": "2026-12-02",
+      "streets": [
+        "Alte Kreisstrasse",
+        "Alter Postweg",
+        "Am Baufeld",
+        "Am Hubengut",
+        "Am Sandfeld",
+        "Am Wald",
+        "Arnikaweg",
+        "Bocksdornweg",
+        "Erikaweg",
+        "Feuerdornweg",
+        "Flughafenstrasse",
+        "Goldregenweg",
+        "Grüner Weg",
+        "Hagebuttenweg",
+        "Heckenrosenweg",
+        "Heideweg",
+        "Jasminweg",
+        "Klammweg",
+        "Lavendelweg",
+        "Lorbeerweg",
+        "Rosenhofweg",
+        "Rosmarinweg",
+        "Rotdornweg",
+        "Salbeiweg",
+        "Sanddornweg",
+        "Schlehenweg",
+        "Schwarzdornweg",
+        "Weissdornweg"
+      ]
+    },
+    {
+      "date": "03.12.2026",
+      "isoDate": "2026-12-03",
+      "streets": [
+        "Albrecht-Altdorfer-Weg",
+        "Am Pfad",
+        "Am Schulberg",
+        "Bärenweg",
+        "Frans-Hals-Weg",
+        "Grossschneidersweg",
+        "Grünewaldstrasse",
+        "Hans-Baldung-Grien-Weg",
+        "Martin-Schongauer-Weg",
+        "Michael-Pacher-Weg",
+        "Oberfeldstrasse",
+        "Petrus-Waldus-Strasse",
+        "Piemontstrasse",
+        "Pralistrasse",
+        "Rechts der Langen Richtstatt",
+        "Rubensstrasse",
+        "Schönenberger Strasse",
+        "Stephan-Lochner-Weg",
+        "Unterfeldstrasse",
+        "Welschneureuter Strasse"
+      ]
+    },
+    {
+      "date": "04.12.2026",
+      "isoDate": "2026-12-04",
+      "streets": [
+        "Am Bachkanal",
+        "Am Gartenberg",
+        "Am Zinken",
+        "An der Sandgrube",
+        "Bachenweg",
+        "Gewerbering",
+        "Grabener Strasse",
+        "Hinter den Scheunen",
+        "Im Kleinen Bruch",
+        "Im Langbruch",
+        "In den Kuhwiesen",
+        "Neureuter Hauptstrasse",
+        "Unterer Dammweg"
+      ]
+    },
+    {
+      "date": "07.12.2026",
+      "isoDate": "2026-12-07",
+      "streets": [
+        "Alte Friedrichstrasse",
+        "Kirchfeldstrasse",
+        "Kirchhofstrasse"
+      ]
+    },
+    {
+      "date": "08.12.2026",
+      "isoDate": "2026-12-08",
+      "streets": [
+        "Am Alten Bahnhof",
+        "Amselweg",
+        "Drosselweg",
+        "Dürerstrasse",
+        "Erich-Kästner-Strasse",
+        "Finkenweg",
+        "Franz-Kafka-Strasse",
+        "Friedhofstrasse",
+        "Georg-Büchner-Strasse",
+        "Gürrichstrasse",
+        "Holbeinstrasse",
+        "Ina-Seidel-Strasse",
+        "Kuckucksweg",
+        "Lucas-Cranach-Strasse",
+        "Meisenweg",
+        "Mitteltorstrasse",
+        "Pfarrer-Graebener-Strasse",
+        "Stefan-Zweig-Strasse",
+        "Teutschneureuter Strasse",
+        "Theodor-Fontane-Strasse",
+        "Uhuweg",
+        "Vogtstrasse",
+        "Wilhelm-Raabe-Strasse"
+      ]
+    },
+    {
+      "date": "09.12.2026",
+      "isoDate": "2026-12-09",
+      "streets": [
+        "Abraham-Lincoln-Allee",
+        "Bachstelzenweg",
+        "Eisvogelweg",
+        "Eulenweg",
+        "Franz-Xaver-Honold-Strasse",
+        "Gerda-Krüger-Nieland-Strasse",
+        "Helga-Seibert-Strasse",
+        "Hochstettener Ring",
+        "Ibisweg",
+        "Johann-Georg-Schlosser-Strasse",
+        "Kapellenweg",
+        "Kleiberweg",
+        "Konrad-Hesse-Strasse",
+        "Leopoldshafener Strasse",
+        "Liedolsheimer Ring",
+        "Lothar-Kreyssig-Strasse",
+        "Nachtigallenweg",
+        "Neureuter Querallee",
+        "Rotkehlchenweg",
+        "Russheimer Strasse",
+        "Schwalbenweg",
+        "Spechtweg",
+        "Sperlingweg",
+        "Spöcker Strasse",
+        "Starenweg",
+        "Stieglitzweg",
+        "Untere Hardtstrasse",
+        "Zeisigweg"
+      ]
+    },
+    {
+      "date": "10.12.2026",
+      "isoDate": "2026-12-10",
+      "streets": [
+        "Blankenlocher Weg",
+        "Donauschwabenstrasse",
+        "Eduard-Von-Simson-Strasse",
+        "Eibenweg",
+        "Erna-Scheffler-Strasse",
+        "Fichtenweg",
+        "Föhrenweg",
+        "Forlenweg",
+        "Gebhard-Müller-Strasse",
+        "Gerhard-Leibholz-Strasse",
+        "Gildestrasse",
+        "Hans-Von-Dohnanyi-Strasse",
+        "Hermann-Höpker-Aschoff-Strasse",
+        "Kiefernweg",
+        "Lärchenweg",
+        "Tannenweg",
+        "Wacholderweg",
+        "Wolfgang-Zeidler-Strasse",
+        "Zedernweg",
+        "Zypressenweg"
+      ]
+    },
+    {
+      "date": "11.12.2026",
+      "isoDate": "2026-12-11",
+      "streets": [
+        "An der Trift",
+        "An der Vogelhardt",
+        "An der Waldschule",
+        "Ginsterweg",
+        "Linkenheimer Landstrasse",
+        "Mistelweg",
+        "Moldaustrasse",
+        "Moosweg",
+        "Thujaweg",
+        "Waldmeisterweg",
+        "Waldrebenweg",
+        "Zehntwaldstrasse",
+        "Zirbenweg"
+      ]
+    }
+  ]
+}

@@ -127,9 +127,12 @@ node_modules/
 build/
 bun.lockb
 
-# Generated data
+# Generated data — committed so push deploys don't need a refresh; the
+# on-demand "Refresh data" workflow regenerates and commits these.
 static/data/*.json
 !static/data/.gitkeep
+!static/data/calendar.json
+!static/data/street-geometries.json
 
 # Spyder project settings
 .spyderproject
