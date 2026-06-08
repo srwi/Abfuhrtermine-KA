@@ -1,5 +1,6 @@
 <script lang="ts">
   import MapView from '$lib/components/MapView.svelte';
+  import DatePicker from '$lib/components/DatePicker.svelte';
   import type { CalendarFile, StreetGeometryFile } from '$lib/types';
   import { buildGeometryLookup, buildStreetCollection } from '$lib/street-geometries';
 
@@ -55,17 +56,10 @@
         </p>
       </div>
 
-      <label class="space-y-1.5 md:space-y-2">
+      <div class="space-y-1.5 md:space-y-2">
         <span class="text-sm font-semibold text-stone-700">Abholtag</span>
-        <select
-          bind:value={selectedDate}
-          class="w-full rounded-2xl border border-stone-200 bg-white px-4 py-2.5 text-base text-stone-900 shadow-sm outline-none transition focus:border-stone-400 focus:ring-4 focus:ring-stone-900/5 md:py-3"
-        >
-          {#each entries as entry}
-            <option value={entry.date}>{entry.date} · {entry.streets.length} Straßen</option>
-          {/each}
-        </select>
-      </label>
+        <DatePicker {entries} bind:value={selectedDate} />
+      </div>
 
       <div class="flex flex-col border-t border-stone-200/70 pt-2" class:min-h-0={listOpen} class:flex-1={listOpen}>
         <button
