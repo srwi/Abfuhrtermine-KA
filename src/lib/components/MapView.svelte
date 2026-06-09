@@ -130,8 +130,13 @@
       },
       center,
       zoom: 12.4,
-      attributionControl: false
+      attributionControl: false,
+      dragRotate: false,
+      pitchWithRotate: false
     });
+
+    // Keep pinch-to-zoom, but stop two-finger rotation.
+    map.touchZoomRotate.disableRotation();
 
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'top-left');
 
