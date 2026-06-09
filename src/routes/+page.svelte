@@ -23,6 +23,7 @@
   let selectedDate = (upcoming ?? entries[0])?.date ?? '';
   let panelOpen = true;
   let listOpen = false;
+  let mapView: MapView;
 
   // The geometry file is multi-MB, so it is fetched client-side after first
   // paint rather than through the prerender load. The street list renders from
@@ -54,7 +55,24 @@
 </script>
 
 <main class="relative h-[100dvh] w-screen overflow-hidden">
-  <MapView streets={selectedStreetCollection} />
+  <MapView bind:this={mapView} streets={selectedStreetCollection} />
+
+  <button
+    type="button"
+    aria-label="Meinen Standort anzeigen"
+    title="Meinen Standort anzeigen"
+    on:click={() => mapView?.locate()}
+    class="glass-panel absolute right-2 top-2 z-10 p-3 text-foreground transition hover:bg-background/90 md:bottom-5 md:right-5 md:top-auto md:p-3.5"
+  >
+    <svg class="h-5 w-5 md:h-6 md:w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="12" y1="2" x2="12" y2="5" />
+      <line x1="12" y1="19" x2="12" y2="22" />
+      <line x1="2" y1="12" x2="5" y2="12" />
+      <line x1="19" y1="12" x2="22" y2="12" />
+      <circle cx="12" cy="12" r="7" />
+      <circle cx="12" cy="12" r="3" />
+    </svg>
+  </button>
 
   <aside
     class="glass-panel absolute inset-x-2 bottom-2 z-10 flex flex-col p-4 md:inset-x-auto md:bottom-auto md:right-5 md:top-5 md:w-[21rem] md:p-5"

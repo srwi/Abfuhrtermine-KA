@@ -7,6 +7,14 @@
 
   let mapContainer: HTMLDivElement;
   let map: Map | undefined;
+  let geolocate: maplibregl.GeolocateControl | undefined;
+
+  // Driven by the app's own styled button in +page.svelte. We keep MapLibre's
+  // GeolocateControl (for its marker / accuracy circle / tracking) but hide its
+  // default button via CSS and activate it programmatically.
+  export function locate() {
+    geolocate?.trigger();
+  }
 
   const center: [number, number] = [8.4034195, 49.0068705];
 
@@ -140,6 +148,13 @@
 
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'top-left');
 
+    geolocate = new maplibregl.GeolocateControl({
+      positionOptions: { enableHighAccuracy: true },
+      trackUserLocation: true,
+      showAccuracyCircle: true
+    });
+    map.addControl(geolocate, 'top-right');
+
     const popup = new maplibregl.Popup({
       closeButton: false,
       closeOnClick: false,
@@ -204,5 +219,12 @@
      glyph light (and its translucent backdrop with it) without re-embedding the SVG. */
   :global(html.dark) .map-shell :global(.maplibregl-ctrl-attrib-button) {
     filter: invert(1);
+  }
+
+  /* The GeolocateControl is driven by the app's own styled button (see
+     +page.svelte) via geolocate.trigger(), so hide MapLibre's default control.
+     Nothing else lives in the top-right corner. */
+  .map-shell :global(.maplibregl-ctrl-top-right) {
+    display: none;
   }
 </style>
