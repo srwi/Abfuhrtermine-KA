@@ -80,11 +80,9 @@
     {#if panelOpen}
       <div transition:slide={{ duration: 250, easing: cubicOut }} class="flex flex-col gap-3 md:gap-4">
         <div class="flex items-start justify-between gap-2">
-          <div class="flex flex-wrap items-center gap-2">
-            <span class="inline-flex items-center rounded-full border border-amber-900/10 bg-white/80 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-amber-900 dark:border-amber-200/10 dark:bg-stone-800/80 dark:text-amber-200">
-              Karlsruhe · {data.calendar.year}
-            </span>
-            <span class="text-xs font-medium text-muted-foreground">{entries.length} Abholtermine</span>
+          <div>
+            <h1 class="text-lg text-foreground md:text-xl">Sperrmüll-Termine</h1>
+            <p class="text-xs font-medium text-muted-foreground">Karlsruhe · {data.calendar.year}</p>
           </div>
           <div class="-mr-1 -mt-1 flex shrink-0 items-center gap-0.5">
             <ThemeToggle />
@@ -102,26 +100,19 @@
           </div>
         </div>
 
-        <div>
-          <h1 class="text-lg text-foreground md:text-xl">Sperrmüll-Termine</h1>
-          <p class="mt-1 hidden text-sm leading-6 text-muted-foreground sm:block">
-            Wähle einen Abholtag und sieh, welche Straßen an diesem Tag Sperrmüll haben.
-          </p>
-        </div>
-
         <div class="space-y-1.5 md:space-y-2">
           <span class="text-sm font-semibold text-foreground">Abholtag</span>
           <DatePicker {entries} bind:value={selectedDate} on:select={handleSelect} />
         </div>
 
-        <div class="flex flex-col border-t border-border pt-2">
+        <div class="flex flex-col">
           <button
             type="button"
             aria-expanded={listOpen}
             on:click={() => (listOpen = !listOpen)}
             class="-mx-1 flex shrink-0 items-center justify-between gap-2 rounded-lg px-1 py-1 text-left text-muted-foreground transition hover:text-foreground"
           >
-            <span class="text-sm font-semibold">Straßenliste</span>
+            <span class="text-sm font-semibold text-foreground">Straßenliste</span>
             <span class="flex items-center gap-2 text-xs font-medium">
               {selectedEntry?.streets.length ?? 0}
               <svg

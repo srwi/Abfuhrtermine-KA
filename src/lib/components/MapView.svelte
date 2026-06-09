@@ -227,4 +227,14 @@
   .map-shell :global(.maplibregl-ctrl-top-right) {
     display: none;
   }
+
+  /* The attribution lives in the top-left corner (out of the way of the panel on
+     mobile). On desktop (md+) the panel sits top-right, so drop attribution to the
+     bottom-left where it reads as a conventional map credit. */
+  @media (min-width: 768px) {
+    .map-shell :global(.maplibregl-ctrl-top-left) {
+      top: auto;
+      bottom: 0;
+    }
+  }
 </style>
