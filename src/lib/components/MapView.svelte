@@ -133,8 +133,7 @@
       attributionControl: false
     });
 
-    map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right');
-    map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-left');
+    map.addControl(new maplibregl.AttributionControl({ compact: true }), 'top-left');
 
     const popup = new maplibregl.Popup({
       closeButton: false,
@@ -183,5 +182,22 @@
      separate DOM nodes, so they keep their own styling. */
   :global(html.dark) .map-shell :global(.maplibregl-canvas) {
     filter: invert(1) hue-rotate(180deg) brightness(1.05) contrast(0.92);
+  }
+
+  /* MapLibre ships only a light theme for the attribution control, and it sits
+     outside the inverted canvas (see above), so in dark mode it would stay a
+     white pill with black text. Re-skin it with the app's semantic tokens.
+     Selectors are MapLibre's own documented control classes. */
+  :global(html.dark) .map-shell :global(.maplibregl-ctrl-attrib.maplibregl-compact) {
+    background-color: rgb(var(--background) / 0.85);
+    color: rgb(var(--foreground));
+  }
+  :global(html.dark) .map-shell :global(.maplibregl-ctrl-attrib a) {
+    color: rgb(var(--muted-foreground));
+  }
+  /* The ⓘ glyph is a baked-in dark SVG; invert just this 24px button to flip the
+     glyph light (and its translucent backdrop with it) without re-embedding the SVG. */
+  :global(html.dark) .map-shell :global(.maplibregl-ctrl-attrib-button) {
+    filter: invert(1);
   }
 </style>
