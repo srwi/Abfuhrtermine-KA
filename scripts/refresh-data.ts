@@ -41,7 +41,6 @@ import {
   fetchSourceStreets,
   mapPool,
   normalizeStreet,
-  parseNumberList,
   readJson,
   staticDataFile,
   toIsoDate,
@@ -52,17 +51,14 @@ import {
 declare const Bun: { sleep(ms: number): Promise<void>; write(path: string | URL, data: string): Promise<void> };
 declare const process: { env: Record<string, string | undefined> };
 
-const KARLSRUHE_CONCURRENCY = Number(process.env.SPERRMUELL_KARLSRUHE_CONCURRENCY ?? (QUICK ? 2 : 6));
-const KARLSRUHE_MAX_RETRIES = Number(process.env.SPERRMUELL_KARLSRUHE_RETRIES ?? 3);
+const KARLSRUHE_CONCURRENCY = QUICK ? 2 : 6;
+const KARLSRUHE_MAX_RETRIES = 3;
 // How many of a street's OSM house numbers we probe before giving up. The first
 // non-placeholder date wins, so this only matters for streets whose early
 // numbers are unknown to the source or that genuinely sit on the placeholder date.
-const OSM_PROBE_LIMIT = Number(process.env.SPERRMUELL_OSM_PROBE_LIMIT ?? 6);
+const OSM_PROBE_LIMIT = 6;
 // House numbers tried for streets with no OSM addresses at all.
-const FALLBACK_PROBES = parseNumberList(
-  process.env.SPERRMUELL_FALLBACK_PROBES,
-  ['1', '2', '3', '4', '5', '6', '7', '8', '9', '19', '22', '25', '30', '50']
-);
+const FALLBACK_PROBES = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '19', '22', '25', '30', '50'];
 
 const PROBE_UNKNOWN = '#unknown';
 const PROBE_NODATE = '#nodate';
@@ -188,8 +184,8 @@ async function detectPlaceholderDates(): Promise<void> {
 
   console.log(
     placeholderDates.size === 0
-      ? 'Kein Platzhalter-Datum erkannt.'
-      : `Platzhalter-Datum erkannt: ${[...placeholderDates].join(', ')}`
+      ? 'No placeholder date detected.'
+      : `Placeholder date detected: ${[...placeholderDates].join(', ')}`
   );
 }
 
@@ -201,8 +197,8 @@ async function scrapeCalendar(streets: string[]): Promise<CalendarFile> {
   const cache = await readJson<HouseNumberCache>(dataFile('osm-house-numbers.json'));
   if (!cache) {
     console.warn(
-      'WARNUNG: data/osm-house-numbers.json fehlt. Führe `bun run data:cache` aus. ' +
-        'Ohne OSM-Hausnummern nutzen alle Straßen den Fallback-Pfad (geringere Trefferquote).'
+      'WARNING: data/osm-house-numbers.json is missing. Run `bun run data:cache`. ' +
+        'Without OSM house numbers, all streets use the fallback path (lower hit rate).'
     );
   }
   const osmHouseNumbers = cache?.houseNumbers ?? {};
@@ -212,7 +208,7 @@ async function scrapeCalendar(streets: string[]): Promise<CalendarFile> {
   let viaFallback = 0;
   let processed = 0;
 
-  console.log(`Prüfe Sperrmüll-Termine für ${streets.length} Straßen (parallel: ${KARLSRUHE_CONCURRENCY})`);
+  console.log(`Checking Sperrmüll dates for ${streets.length} streets (parallel: ${KARLSRUHE_CONCURRENCY})`);
   await mapPool(streets, KARLSRUHE_CONCURRENCY, async (rawStreet) => {
     const street = rawStreet.trim();
     const osmNumbers = osmHouseNumbers[normalizeStreet(street)] ?? [];
@@ -229,11 +225,11 @@ async function scrapeCalendar(streets: string[]): Promise<CalendarFile> {
 
     processed++;
     if (processed % 100 === 0 || processed === streets.length) {
-      console.log(`  ${processed}/${streets.length} (Treffer: ${dateByStreet.size}; OSM ${viaOsm}, Fallback ${viaFallback})`);
+      console.log(`  ${processed}/${streets.length} (hits: ${dateByStreet.size}; OSM ${viaOsm}, fallback ${viaFallback})`);
     }
   });
 
-  console.log(`Termine gefunden: ${dateByStreet.size} (über OSM-Hausnummern: ${viaOsm}, über Fallback: ${viaFallback}).`);
+  console.log(`Dates found: ${dateByStreet.size} (via OSM house numbers: ${viaOsm}, via fallback: ${viaFallback}).`);
 
   const byDate = new Map<string, string[]>();
   for (const [street, date] of dateByStreet) {
@@ -260,7 +256,7 @@ async function scrapeCalendar(streets: string[]): Promise<CalendarFile> {
 // into spatial clusters and, because collection days are geographically
 // contiguous routes, keep the cluster nearest to that day's other streets.
 
-const CLUSTER_GAP_METERS = Number(process.env.SPERRMUELL_CLUSTER_GAP_METERS ?? 400);
+const CLUSTER_GAP_METERS = 400;
 
 type Line = [number, number][];
 
@@ -393,7 +389,7 @@ function disambiguateMultiCluster(resolved: Map<string, StreetGeometry>, calenda
     fixed++;
   }
 
-  if (fixed > 0) console.log(`  Mehrdeutige Straßennamen disambiguiert: ${fixed}`);
+  if (fixed > 0) console.log(`  Ambiguous street names disambiguated: ${fixed}`);
 }
 
 async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeometryFile> {
@@ -403,7 +399,7 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
 
   const cache = await readJson<StreetGeometryFile>(dataFile('geometry-cache.json'));
   if (!cache) {
-    console.warn('WARNUNG: data/geometry-cache.json fehlt. Führe `bun run data:cache` aus. Nutze Punkt-Geometrien.');
+    console.warn('WARNING: data/geometry-cache.json is missing. Run `bun run data:cache`. Using point geometries.');
   }
   const cachedByKey = new Map<string, StreetGeometry>(
     cache?.streets.map((entry) => [normalizeStreet(entry.street), entry]) ?? []
@@ -424,7 +420,7 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
       missing++;
     }
   }
-  console.log(`Geometrien aus Cache: ${resolved.size}, ohne Geometrie (ausgelassen): ${missing}`);
+  console.log(`Geometries from cache: ${resolved.size}, without geometry (omitted): ${missing}`);
 
   // Same street name in several districts -> keep the cluster matching the day.
   disambiguateMultiCluster(resolved, calendar);
@@ -440,25 +436,25 @@ async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeom
 // --- Entry point -------------------------------------------------------------
 
 async function main() {
-  console.log(`Starte Datenerneuerung für ${YEAR}...`);
+  console.log(`Starting data refresh for ${YEAR}...`);
   await Bun.write(staticDataFile('.gitkeep'), '');
 
   let streets = await fetchSourceStreets();
   if (STREET_LIMIT > 0) streets = streets.slice(0, STREET_LIMIT);
-  console.log(`Gefundene Straßen in Quelle: ${streets.length}`);
+  console.log(`Streets found in source: ${streets.length}`);
 
   await detectPlaceholderDates();
 
   const calendar = await scrapeCalendar(streets);
   const geometries = await buildStreetGeometries(calendar);
 
-  console.log(`Kalender-Einträge: ${calendar.entries.length}`);
-  console.log(`Geometrien: ${geometries.streets.length}`);
+  console.log(`Calendar entries: ${calendar.entries.length}`);
+  console.log(`Geometries: ${geometries.streets.length}`);
 
   await writeJson(staticDataFile('calendar.json'), calendar);
   await writeJsonCompact(staticDataFile('street-geometries.json'), geometries);
 
-  console.log(`Schrieb ${calendar.entries.length} Termine und ${geometries.streets.length} Straßen.`);
+  console.log(`Wrote ${calendar.entries.length} dates and ${geometries.streets.length} streets.`);
 }
 
 await main();

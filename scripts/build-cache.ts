@@ -35,13 +35,12 @@ declare const process: {
   exit(code?: number): never;
 };
 
-const GEOMETRY_MODE = process.env.SPERRMUELL_GEOMETRY_MODE ?? 'osm';
-const HOUSE_NUMBER_BATCH_SIZE = Number(process.env.SPERRMUELL_HOUSENUMBER_BATCH_SIZE ?? (QUICK ? 10 : 20));
-const STREET_BATCH_SIZE = Number(process.env.SPERRMUELL_GEOMETRY_BATCH_SIZE ?? (QUICK ? 10 : 75));
+const HOUSE_NUMBER_BATCH_SIZE = QUICK ? 10 : 20;
+const STREET_BATCH_SIZE = QUICK ? 10 : 75;
 // Overpass intermittently answers 200 OK with partial/empty data, which would
 // silently leave streets without geometry. We re-query the still-missing ones a
 // few times (in shrinking batches) before falling back to a point.
-const GEOMETRY_ROUNDS = Number(process.env.SPERRMUELL_GEOMETRY_ROUNDS ?? 3);
+const GEOMETRY_ROUNDS = 3;
 
 const HOUSE_NUMBERS_FILE = dataFile('osm-house-numbers.json');
 const GEOMETRY_CACHE_FILE = dataFile('geometry-cache.json');
@@ -66,7 +65,7 @@ async function buildHouseNumberCache(streets: string[]): Promise<void> {
     left.localeCompare(right, 'de')
   );
   const missing = names.filter((street) => !(normalizeStreet(street) in cache.houseNumbers));
-  console.log(`OSM-Hausnummern: ${names.length - missing.length} im Cache, ${missing.length} fehlend.`);
+  console.log(`OSM house numbers: ${names.length - missing.length} cached, ${missing.length} missing.`);
 
   for (let index = 0; index < missing.length; index += HOUSE_NUMBER_BATCH_SIZE) {
     const batch = missing.slice(index, index + HOUSE_NUMBER_BATCH_SIZE);
@@ -79,14 +78,14 @@ ${SEARCH_AREA_STATEMENT}->.searchArea;
 out tags;`;
 
     const batchNumber = index / HOUSE_NUMBER_BATCH_SIZE + 1;
-    console.log(`Overpass-Hausnummern Batch ${batchNumber} mit ${batch.length} Straßen`);
+    console.log(`Overpass house-numbers batch ${batchNumber} with ${batch.length} streets`);
     const response = await fetchWithOverpassRetry(query, `house-number batch ${batchNumber}`);
 
     if (response.ok) {
       const payload = (await response.json()) as {
         elements: Array<{ tags?: { 'addr:street'?: string; 'addr:housenumber'?: string } }>;
       };
-      console.log(`  ${payload.elements?.length ?? 0} adressierte Elemente`);
+      console.log(`  ${payload.elements?.length ?? 0} addressed elements`);
 
       // Record every street in the batch (defaulting to empty) so genuine "no
       // OSM addresses" results are cached and not re-queried next run.
@@ -113,7 +112,7 @@ out tags;`;
   }
 
   const withAddresses = Object.values(cache.houseNumbers).filter((numbers) => numbers.length > 0).length;
-  console.log(`OSM-Hausnummern fertig: ${withAddresses} Straßen mit Adressen, ${Object.keys(cache.houseNumbers).length} gesamt.`);
+  console.log(`OSM house numbers done: ${withAddresses} streets with addresses, ${Object.keys(cache.houseNumbers).length} total.`);
 }
 
 async function readHouseNumberCache(): Promise<HouseNumberCache | null> {
@@ -166,14 +165,14 @@ ${SEARCH_AREA_STATEMENT}->.searchArea;
 );
 out geom;`;
 
-  console.log(`Overpass-Geometrie (${label}) mit ${batch.length} Straßen`);
+  console.log(`Overpass geometry (${label}) with ${batch.length} streets`);
   const response = await fetchWithOverpassRetry(query, label);
   if (!response.ok) return result;
 
   const payload = (await response.json()) as {
     elements: Array<{ type: 'way'; tags?: { name?: string }; geometry: Array<{ lon: number; lat: number }> }>;
   };
-  console.log(`  ${payload.elements?.length ?? 0} Elemente`);
+  console.log(`  ${payload.elements?.length ?? 0} elements`);
 
   const grouped = new Map<string, Array<{ geometry: Array<{ lon: number; lat: number }> }>>();
   for (const element of payload.elements ?? []) {
@@ -200,14 +199,14 @@ async function buildGeometryCache(streets: string[]): Promise<void> {
   const uniqueStreets = [...new Set(streets.map((street) => street.replace(/ß/g, 'ss')))].sort(
     (left, right) => left.localeCompare(right, 'de')
   );
-  console.log(`Geometrien für ${uniqueStreets.length} Straßen...`);
+  console.log(`Geometries for ${uniqueStreets.length} streets...`);
 
   const existing = await readGeometryCache();
   // Real geometries seed the run; cached Points are treated as misses so they
-  // get another chance at a real shape (unless we're in point-only mode).
+  // get another chance at a real shape.
   const cached = new Map<string, StreetGeometry>(
     existing?.streets
-      .filter((entry) => GEOMETRY_MODE === 'point' || entry.geometry.type !== 'Point')
+      .filter((entry) => entry.geometry.type !== 'Point')
       .map((entry) => [normalizeStreet(entry.street), entry]) ?? []
   );
 
@@ -218,7 +217,7 @@ async function buildGeometryCache(streets: string[]): Promise<void> {
     if (hit) resolved.set(normalizeStreet(street), hit);
     else missing.push(street);
   }
-  console.log(`  Geometrie-Cache-Treffer: ${resolved.size}, fehlend: ${missing.length}`);
+  console.log(`  Geometry cache hits: ${resolved.size}, missing: ${missing.length}`);
 
   const orderedStreets = () =>
     uniqueStreets
@@ -227,18 +226,12 @@ async function buildGeometryCache(streets: string[]): Promise<void> {
   const persist = () =>
     writeJson(GEOMETRY_CACHE_FILE, { generatedAt: new Date().toISOString(), streets: orderedStreets() } satisfies GeometryCache);
 
-  if (GEOMETRY_MODE === 'point') {
-    for (const street of missing) resolved.set(normalizeStreet(street), { street, geometry: fallbackPointGeometry() });
-    await persist();
-    return;
-  }
-
   // Retry still-missing streets in shrinking batches. Transient Overpass gaps
   // resolve on a later round; only genuinely unmapped streets survive all rounds.
   let pending = missing;
   for (let round = 1; round <= GEOMETRY_ROUNDS && pending.length > 0; round++) {
     const batchSize = Math.max(10, Math.floor(STREET_BATCH_SIZE / round));
-    console.log(`Geometrie-Runde ${round}/${GEOMETRY_ROUNDS}: ${pending.length} Straßen (Batchgröße ${batchSize})`);
+    console.log(`Geometry round ${round}/${GEOMETRY_ROUNDS}: ${pending.length} streets (batch size ${batchSize})`);
     const stillMissing: string[] = [];
 
     for (let index = 0; index < pending.length; index += batchSize) {
@@ -258,7 +251,7 @@ async function buildGeometryCache(streets: string[]): Promise<void> {
   // Whatever is still missing is genuinely unmapped in OSM (e.g. Gewann field
   // names, squares without a highway way) -> fall back to a point.
   if (pending.length > 0) {
-    console.log(`  ${pending.length} Straßen ohne OSM-Geometrie, nutze Punkt-Fallback: ${pending.slice(0, 10).join(', ')}${pending.length > 10 ? ' ...' : ''}`);
+    console.log(`  ${pending.length} streets without OSM geometry, using point fallback: ${pending.slice(0, 10).join(', ')}${pending.length > 10 ? ' ...' : ''}`);
     for (const street of pending) resolved.set(normalizeStreet(street), { street, geometry: fallbackPointGeometry() });
     await persist();
   }
@@ -275,18 +268,18 @@ async function readGeometryCache(): Promise<GeometryCache | null> {
 // --- Entry point -------------------------------------------------------------
 
 async function main() {
-  console.log(`Baue Overpass-Cache für ${YEAR}... (Zielordner ${DATA_DIR.pathname})`);
+  console.log(`Building Overpass cache for ${YEAR}... (target directory ${DATA_DIR.pathname})`);
 
   let streets = await fetchSourceStreets();
   if (STREET_LIMIT > 0) streets = streets.slice(0, STREET_LIMIT);
-  console.log(`Straßen in Quelle: ${streets.length}`);
+  console.log(`Streets in source: ${streets.length}`);
 
   SEARCH_AREA_STATEMENT = await resolveSearchArea();
 
   await buildHouseNumberCache(streets);
   await buildGeometryCache(streets);
 
-  console.log('Cache-Aufbau abgeschlossen.');
+  console.log('Cache build complete.');
 }
 
 await main();

@@ -40,23 +40,13 @@ export const STREET_LIMIT = Number(process.env.SPERRMUELL_LIMIT ?? 0);
 export const USER_AGENT = 'Sperrmuell-KA/1.0 (+https://github.com/skjerns/Sperrmuell-KA)';
 export const KARLSRUHE_SOURCE = `https://web4.karlsruhe.de/service/abfall/akal/akal_${YEAR}.php`;
 export const KARLSRUHE_CENTER: [number, number] = [8.4034195, 49.0068705];
-export const OVERPASS_ENDPOINT =
-  process.env.SPERRMUELL_OVERPASS_ENDPOINT ?? 'https://overpass-api.de/api/interpreter';
+export const OVERPASS_ENDPOINT = 'https://overpass-api.de/api/interpreter';
 
-export const OVERPASS_MAX_RETRIES = Number(process.env.SPERRMUELL_OVERPASS_RETRIES ?? 5);
-export const OVERPASS_BASE_BACKOFF_MS = Number(process.env.SPERRMUELL_OVERPASS_BACKOFF_MS ?? 2000);
-export const OVERPASS_COOLDOWN_MS = Number(process.env.SPERRMUELL_OVERPASS_COOLDOWN_MS ?? 1000);
+export const OVERPASS_MAX_RETRIES = 5;
+export const OVERPASS_BASE_BACKOFF_MS = 2000;
+export const OVERPASS_COOLDOWN_MS = 1000;
 
 // --- Small utilities ---------------------------------------------------------
-
-export function parseNumberList(value: string | undefined, fallback: string[]): string[] {
-  if (!value) return fallback;
-  const parsed = value
-    .split(',')
-    .map((part) => part.trim())
-    .filter(Boolean);
-  return parsed.length > 0 ? parsed : fallback;
-}
 
 // Street-name normalization is the recurring footgun: the Karlsruhe source uses
 // "strasse", OSM uses "straße". We normalize ß->ss and uppercase for matching;
@@ -118,13 +108,13 @@ export async function fetchSourceStreets(): Promise<string[]> {
   console.log(`Fetched main source: ${KARLSRUHE_SOURCE}`);
 
   if (!response.ok) {
-    throw new Error(`Konnte Sperrmüllquelle nicht laden: ${response.status} ${response.statusText}`);
+    throw new Error(`Could not load the Sperrmüll source: ${response.status} ${response.statusText}`);
   }
 
   const html = await response.text();
   const match = html.match(/strassen_liste\s*=\s*(\[[\s\S]*?\]);/);
   if (!match) {
-    throw new Error('Straßenliste in der Karlsruher Quelle nicht gefunden.');
+    throw new Error('Could not find the street list in the Karlsruhe source.');
   }
 
   // The source is a JavaScript array literal which may use single quotes, so we
@@ -167,14 +157,14 @@ export async function resolveSearchArea(): Promise<string> {
       const relationId = payload.elements?.[0]?.id;
       if (relationId) {
         const statement = `area(${3600000000 + relationId})`;
-        console.log(`Karlsruhe-Suchgebiet: ${statement} (Relation ${relationId})`);
+        console.log(`Karlsruhe search area: ${statement} (relation ${relationId})`);
         return statement;
       }
     }
   } catch (error) {
-    console.warn('Suchgebiet-Auflösung fehlgeschlagen, nutze Namensabfrage:', error);
+    console.warn('Search area resolution failed, falling back to name lookup:', error);
   }
-  console.log(`Karlsruhe-Suchgebiet (Fallback): ${fallback}`);
+  console.log(`Karlsruhe search area (fallback): ${fallback}`);
   return fallback;
 }
 
@@ -205,18 +195,18 @@ export async function fetchWithOverpassRetry(query: string, label: string): Prom
       const retryAfter = Number(response.headers.get('retry-after'));
       const wait =
         Number.isFinite(retryAfter) && retryAfter > 0 ? retryAfter * 1000 : delayMs + Math.random() * 500;
-      console.log(`  Overpass antwortete ${response.status}, warte ${Math.round(wait)} ms (${attempt}/${OVERPASS_MAX_RETRIES})`);
+      console.log(`  Overpass responded ${response.status}, waiting ${Math.round(wait)} ms (${attempt}/${OVERPASS_MAX_RETRIES})`);
       await Bun.sleep(wait);
       delayMs *= 2;
     } catch (error) {
       lastError = error;
       if (attempt >= OVERPASS_MAX_RETRIES) break;
-      console.log(`  Overpass Fehler (${String(error)}), warte ${delayMs} ms (${attempt}/${OVERPASS_MAX_RETRIES})`);
+      console.log(`  Overpass error (${String(error)}), waiting ${delayMs} ms (${attempt}/${OVERPASS_MAX_RETRIES})`);
       await Bun.sleep(delayMs);
       delayMs *= 2;
     }
   }
 
   if (lastResponse) return lastResponse;
-  throw new Error(`Overpass Anfrage fehlgeschlagen (${label}): ${String(lastError)}`);
+  throw new Error(`Overpass request failed (${label}): ${String(lastError)}`);
 }
