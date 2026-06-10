@@ -132,7 +132,7 @@ bun.lockb
 static/data/*.json
 !static/data/.gitkeep
 !static/data/calendar.json
-!static/data/street-geometries.json
+!static/data/street-data.json
 
 # Spyder project settings
 .spyderproject
