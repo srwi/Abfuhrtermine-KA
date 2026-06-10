@@ -4,10 +4,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A static, prerendered SvelteKit site that shows Karlsruhe's bulky-waste (Sperrmüll)
-collection calendar on a map: pick a pickup day, see the streets highlighted. The
-runtime is **Bun**, the UI is **Svelte 5 + SvelteKit (adapter-static)**, the map is
-**MapLibre GL** over OpenStreetMap raster tiles. Deployed to GitHub Pages.
+A static, prerendered SvelteKit site that shows Karlsruhe's waste-collection
+calendar on a map: pick a pickup day, toggle the waste types you care about, and
+see the matching streets highlighted in each category's color. It covers all five
+types the city publishes — **Sperrmüll** (Straßensperrmüll, the annual bulky-waste
+date) plus the recurring **Restmüll**, **Bioabfall**, **Wertstoff** and **Papier** —
+with Sperrmüll enabled by default. The runtime is **Bun**, the UI is **Svelte 5 +
+SvelteKit (adapter-static)**, the map is **MapLibre GL** over OpenStreetMap raster
+tiles. Deployed to GitHub Pages.
 
 `README.md` is the user-facing overview (what the app does + how to refresh data);
 this file is the detailed engineering reference. Keep the two in sync when the
@@ -68,12 +72,34 @@ committed, CI never touches Overpass.
 ### Stage 1 — scrape (`scripts/refresh-data.ts`, `bun run data:refresh`)
 
 The source site (`web4.karlsruhe.de/.../akal_<year>.php`) has no public calendar —
-you can only POST a street + house number and read back a date. This script reads
-the committed caches and probes **only** the (un-throttled, parallelizable)
-Karlsruhe site, then writes `static/data/calendar.json` (pickup dates → streets)
-and `static/data/street-geometries.json` (street → geometry). Both outputs are
-committed; the build just renders whatever is committed. Run on demand by the
-`refresh.yml` workflow (or locally) — fast and Overpass-free.
+you can only POST a street + house number and read back that address's schedule.
+This script reads the committed caches and probes **only** the (un-throttled,
+parallelizable) Karlsruhe site, then writes two committed outputs:
+
+- `static/data/calendar.json` — small, inlined into the prerendered HTML:
+  `{ year, generatedAt, categories, days }`. `categories` is the source-of-truth
+  list of the five waste types (key + German `label` + `color`); `days` is the
+  sorted union of every pickup date, each tagged with which categories occur
+  citywide that day (drives the date picker's highlight).
+- `static/data/street-data.json` — large, fetched client-side: per street its
+  `geometry` (`null` when OSM has none — still listed, just not drawn) and, per
+  category, the **indices into `calendar.days`** on which it is collected.
+
+The build just renders whatever is committed. Run on demand by the `refresh.yml`
+workflow (or locally) — fast and Overpass-free.
+
+**Two sources per street.** Sperrmüll (the annual Straßensperrmüll date) is parsed
+from the HTML response, exactly as before. The four recurring categories come from
+the source's **iCal export** (`ical` form button), which returns the full
+forward-year schedule for that address — holiday shifts already applied — in one
+request (`SUMMARY:` = category, `DTSTART` = date). The iCal is **forward-only**
+(events from today on) and does **not** include Sperrmüll. An unknown street
+silently falls back to the source's default first street, so iCal results are
+validated against the requested name via `X-WR-CALNAME` (and the SUMMARY prefix
+matcher folds spelling/cadence variants like `Biomüll`/`Bioabfall`,
+`Restmüll, 2x` into one category key). Both the Sperrmüll probe and the iCal are
+keyed off the same known house number found while probing; a valid-but-empty iCal
+falls through to the next house number on the street (`ICAL_TRY_LIMIT`).
 
 Per street: if the OSM cache has house numbers we probe those real addresses (the
 **primary path**); otherwise we probe a fixed fallback list (the **fallback path**).
@@ -91,11 +117,16 @@ OSM-less street legitimately falls on it), dropping phantom squares/Gewann.
 `#unknown` / `#nodate` distinguish "address doesn't exist" from "exists but no date".
 
 Geometry assembly here is pure computation (no network): it loads the committed
-geometry cache, **omits** any street without a real (non-point) geometry rather than
-plotting a meaningless dot — the point-fallbacks live only in the Stage 0 cache —
-then rounds coordinates to ~1 m and runs `disambiguateMultiCluster` (several
-districts reuse a street name, so it keeps the way-cluster nearest the rest of that
-day's contiguous route). An omitted street still shows in the list, just not on the map.
+geometry cache and joins each scraped street to its geometry, keeping `geometry:
+null` for any street without a real (non-point) geometry rather than plotting a
+meaningless dot — the point-fallbacks live only in the Stage 0 cache. It rounds
+coordinates to ~1 m and runs `disambiguateMultiCluster`, which is anchored on the
+**Sperrmüll** day map (several districts reuse a street name, and only
+Straßensperrmüll's geographically-contiguous routes make "nearest same-day street"
+meaningful — the recurring categories are citywide). A street with `null` geometry
+still shows in the list, just not on the map. Long streets can have different
+recurring days per section; we take one representative house number's schedule,
+matching the existing per-street Sperrmüll simplification.
 
 Street-name normalization (`ß`↔`ss`, suffix `strasse`↔`straße`, uppercasing) is the
 recurring footgun — the Karlsruhe source uses `strasse`, OSM uses `straße`, and a
@@ -106,19 +137,27 @@ naive global swap corrupts names like `Brahmsstrasse`. See `normalizeStreet` and
 
 Single prerendered page (`prerender = true` in `+page.ts`/`+layout.ts`). `+page.ts`
 fetches only the small `calendar.json` at build time — SvelteKit inlines a `load`
-result into the prerendered HTML, so the multi-MB `street-geometries.json` is fetched
+result into the prerendered HTML, so the multi-MB `street-data.json` is fetched
 **client-side after mount** (in `+page.svelte`) instead, to keep `index.html` small
-and not block first paint. `+page.svelte` holds the day selector (`DatePicker.svelte`,
-a German month/weekday calendar), the collapsible street list, a geolocation button
-wired to MapLibre's `GeolocateControl`, and a light/dark theme toggle
-(`ThemeToggle.svelte`). `MapView.svelte` owns the MapLibre map and refits bounds
-whenever the selected `FeatureCollection` changes; dark mode is a CSS inversion of the
-light-only OSM raster basemap (the red street overlay survives the hue-rotate).
+and not block first paint. `+page.svelte` holds the **category toggles** (chips,
+Sperrmüll on by default), the day selector (`DatePicker.svelte`, a German
+month/weekday calendar fed the enabled categories' days so its highlight reacts to
+the toggles), the collapsible street list (each street badged with its categories'
+colors; shows "Lädt…" until the client file resolves), a geolocation button wired to
+MapLibre's `GeolocateControl`, and a light/dark theme toggle (`ThemeToggle.svelte`).
+`MapView.svelte` owns the MapLibre map, colors each feature by its `category`
+property via a `match` expression, and refits bounds whenever the selected
+`FeatureCollection` changes; dark mode is a CSS inversion of the light-only OSM
+raster basemap (the saturated category colors survive the hue-rotate).
 
-`src/lib/street-geometries.ts` builds the selected day's `FeatureCollection` purely
-from the prebuilt file — no network at runtime. It reuses the scraper's
-`normalizeStreet` so calendar names match the geometry keys; a calendar street with
-no matching geometry is simply omitted from the map (it still shows in the list).
+`src/lib/street-data.ts` builds the selected day's `FeatureCollection` purely from
+the prebuilt file — no network at runtime. `buildStreetLookup` turns each street's
+schedule arrays into `Set`s of day indices; `selectStreetsForDay(lookup, dayIndex,
+enabled)` returns the streets collected on that day for any enabled category (drives
+both the list and the map), and `buildFeatureCollection` emits one feature per
+(street, category) so overlapping categories render in their own colors. It reuses
+the scraper's `normalizeStreet`; a street with `null` geometry is omitted from the
+map but still listed.
 
 ## Deployment
 

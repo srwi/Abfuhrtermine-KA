@@ -1,13 +1,13 @@
-# Sperrmüll Karlsruhe
+# Abfuhrtermine Karlsruhe
 
-> A more modern rewrite, heavily inspired by the Sperrmüll calendar at
-> [skjerns/Sperrmuell-KA](https://github.com/skjerns/Sperrmuell-KA).
+A small static web app that shows Karlsruhe's waste-collection calendar on a map.
+Pick a pickup day and the streets collected on that day light up in each waste
+type's color, so you can see at a glance when your street is next in line. It
+covers all five types the city publishes — **Sperrmüll** (the annual bulky-waste
+pickup) plus the recurring **Restmüll**, **Bioabfall**, **Wertstoff** and
+**Papier** — each a toggle on the map, with Sperrmüll shown by default.
 
-A small static web app that shows Karlsruhe's bulky-waste (Sperrmüll) collection
-calendar on a map. Pick a pickup day and the streets collected on that day are
-highlighted, so you can see at a glance when your street is next in line.
-
-**[→ Open the Sperrmüll calendar](https://srwi.github.io/Sperrmuell-KA/)**
+**[→ Open the waste-collection calendar](https://srwi.github.io/Sperrmuell-KA/)**
 
 ## Development
 

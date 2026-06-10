@@ -19,8 +19,43 @@ declare const process: {
 // --- Shared types (mirror src/lib/types.ts; kept local so the scripts don't
 // depend on the SvelteKit module graph) -------------------------------------
 
-export type CalendarEntry = { date: string; isoDate: string; streets: string[] };
-export type CalendarFile = { year: number; generatedAt: string; entries: CalendarEntry[] };
+// The five waste types the Karlsruhe source exposes per address. The keys are
+// stable identifiers used across the data files and the frontend; labels/colors
+// are the single source of truth (the frontend reads them from calendar.json).
+// Colors are picked saturated so MapView's dark-mode invert+hue-rotate keeps
+// them roughly stable (see MapView.svelte). Order is the display order; the
+// first (Sperrmüll) is the one enabled by default in the UI.
+export type CategoryKey = 'sperrmuell' | 'restmuell' | 'bioabfall' | 'wertstoff' | 'papier';
+export type CategoryMeta = { key: CategoryKey; label: string; color: string };
+export const CATEGORIES: CategoryMeta[] = [
+  { key: 'sperrmuell', label: 'Sperrmüll', color: '#b91c1c' },
+  { key: 'restmuell', label: 'Restmüll', color: '#4b5563' },
+  { key: 'bioabfall', label: 'Bioabfall', color: '#92400e' },
+  { key: 'wertstoff', label: 'Wertstoff', color: '#eab308' },
+  { key: 'papier', label: 'Papier', color: '#1d4ed8' }
+];
+export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);
+
+// calendar.json — small, inlined into index.html at build time. `days` is the
+// sorted union of every pickup date across all streets and categories; each day
+// records which category keys occur citywide on it (drives the picker highlight).
+export type CalendarDay = { isoDate: string; date: string; categories: CategoryKey[] };
+export type CalendarFile = {
+  year: number;
+  generatedAt: string;
+  categories: CategoryMeta[];
+  days: CalendarDay[];
+};
+
+// street-data.json — large, fetched client-side. Per street: its geometry (null
+// when OSM has no real line/point — still listed, just not drawn) and, per
+// category, the day indices (into calendar.days) on which it is collected.
+export type StreetSchedule = Partial<Record<CategoryKey, number[]>>;
+export type StreetData = { street: string; geometry: GeoJSON.Geometry | null; schedule: StreetSchedule };
+export type StreetDataFile = { year: number; generatedAt: string; streets: StreetData[] };
+
+// Geometry cache (data/geometry-cache.json) format — produced by build-cache.ts,
+// year- and category-independent. Distinct from the StreetData output above.
 export type StreetGeometry = { street: string; geometry: GeoJSON.Geometry };
 export type StreetGeometryFile = { year: number; generatedAt: string; streets: StreetGeometry[] };
 
@@ -58,6 +93,12 @@ export function normalizeStreet(street: string) {
 export function toIsoDate(date: string) {
   const [day, month, year] = date.split('.');
   return `${year}-${month}-${day}`;
+}
+
+/** Inverse of toIsoDate: "2026-06-15" -> "15.06.2026" for German display. */
+export function toDisplayDate(iso: string) {
+  const [year, month, day] = iso.split('-');
+  return `${day}.${month}.${year}`;
 }
 
 /** Runs `task` over `items` with a bounded number of concurrent workers. */

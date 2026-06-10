@@ -1,12 +1,28 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import maplibregl, { type LngLatBoundsLike, type Map } from 'maplibre-gl';
+  import maplibregl, {
+    type DataDrivenPropertyValueSpecification,
+    type LngLatBoundsLike,
+    type Map as MapLibreMap
+  } from 'maplibre-gl';
   import type { FeatureCollection, Geometry } from 'geojson';
+  import type { CategoryMeta } from '$lib/types';
 
   export let streets: FeatureCollection;
+  // Category metadata (key -> label/color) from calendar.json; drives the
+  // per-category line/point colors and the popup label.
+  export let categories: CategoryMeta[] = [];
+
+  const labelByKey = new Map(categories.map((c) => [c.key, c.label]));
+  // MapLibre 'match' expression coloring each feature by its `category` property.
+  // Needs at least one case; fall back to the Sperrmüll red when none are known.
+  const categoryColor: DataDrivenPropertyValueSpecification<string> =
+    categories.length > 0
+      ? (['match', ['get', 'category'], ...categories.flatMap((c) => [c.key, c.color]), '#b91c1c'] as unknown as DataDrivenPropertyValueSpecification<string>)
+      : '#b91c1c';
 
   let mapContainer: HTMLDivElement;
-  let map: Map | undefined;
+  let map: MapLibreMap | undefined;
   let geolocate: maplibregl.GeolocateControl | undefined;
 
   // Driven by the app's own styled button in +page.svelte. We keep MapLibre's
@@ -105,7 +121,7 @@
             type: 'line',
             source: 'selected-streets',
             paint: {
-              'line-color': '#b91c1c',
+              'line-color': categoryColor,
               'line-width': 5,
               'line-opacity': 0.92
             }
@@ -126,7 +142,7 @@
             type: 'circle',
             source: 'selected-streets',
             paint: {
-              'circle-color': '#b91c1c',
+              'circle-color': categoryColor,
               'circle-radius': 7,
               'circle-opacity': 0.92,
               'circle-stroke-color': '#fff7ed',
@@ -163,10 +179,12 @@
     });
 
     const showPopup = (event: maplibregl.MapLayerMouseEvent) => {
-      const street = event.features?.[0]?.properties?.street;
+      const props = event.features?.[0]?.properties;
+      const street = props?.street;
       if (typeof street !== 'string') return;
+      const label = labelByKey.get(props?.category);
       map!.getCanvas().style.cursor = 'pointer';
-      popup.setLngLat(event.lngLat).setText(street).addTo(map!);
+      popup.setLngLat(event.lngLat).setText(label ? `${street} · ${label}` : street).addTo(map!);
     };
 
     const hidePopup = () => {

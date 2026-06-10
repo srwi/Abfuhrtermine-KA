@@ -1,9 +1,11 @@
 <script lang="ts">
   import { createEventDispatcher } from 'svelte';
   import { fade } from 'svelte/transition';
-  import type { CalendarEntry } from '$lib/types';
+  import type { CalendarDay } from '$lib/types';
 
-  export let entries: CalendarEntry[];
+  // The days to mark as pickup days — already filtered to the enabled categories
+  // by the parent, so the highlight reacts to the category toggles.
+  export let days: CalendarDay[];
   export let value: string;
 
   const dispatch = createEventDispatcher<{ select: string }>();
@@ -20,19 +22,23 @@
     return y * 12 + (m - 1);
   };
 
-  const byIso = new Map(entries.map((entry) => [entry.isoDate, entry]));
+  // value is the selected ISO date ("2026-06-15"). Recompute the marked days and
+  // navigable months whenever `days` changes (the parent re-filters on toggle).
+  $: byIso = new Map(days.map((day) => [day.isoDate, day]));
   // Only show months that actually contain a pickup date, so navigation never
   // wanders through empty months even when the data is sparse.
-  const monthKeys = [...new Set(entries.map((entry) => isoToKey(entry.isoDate)))].sort((a, b) => a - b);
+  $: monthKeys = [...new Set(days.map((day) => isoToKey(day.isoDate)))].sort((a, b) => a - b);
 
-  const initEntry = entries.find((entry) => entry.date === value) ?? entries[0];
-  let viewKey = initEntry ? isoToKey(initEntry.isoDate) : (monthKeys[0] ?? 0);
+  let viewKey = isoToKey(value || days[0]?.isoDate || `${new Date().getFullYear()}-01-01`);
+  // Keep the view on a month that still has pickups after a toggle change.
+  $: if (monthKeys.length > 0 && !monthKeys.includes(viewKey)) {
+    viewKey = monthKeys.reduce((best, k) => (Math.abs(k - viewKey) < Math.abs(best - viewKey) ? k : best));
+  }
 
-  $: selectedEntry = entries.find((entry) => entry.date === value);
   $: viewYear = Math.floor(viewKey / 12);
   $: viewMonth = (viewKey % 12) + 1;
   $: viewIdx = monthKeys.indexOf(viewKey);
-  $: cells = buildCells(viewYear, viewMonth, selectedEntry?.isoDate);
+  $: cells = buildCells(viewYear, viewMonth, value);
 
   function buildCells(year: number, month: number, selectedIso: string | undefined) {
     const offset = (new Date(year, month - 1, 1).getDay() + 6) % 7;
@@ -54,10 +60,10 @@
     if (next !== undefined) viewKey = next;
   }
 
-  function pick(entry: CalendarEntry | undefined) {
-    if (!entry) return;
-    value = entry.date;
-    dispatch('select', entry.date);
+  function pick(day: CalendarDay | undefined) {
+    if (!day) return;
+    value = day.isoDate;
+    dispatch('select', day.isoDate);
   }
 </script>
 
@@ -96,7 +102,6 @@
         <button
           type="button"
           disabled={!cell.entry}
-          title={cell.entry ? `${cell.entry.streets.length} Straßen` : undefined}
           on:click={() => pick(cell.entry)}
           class="flex h-9 items-center justify-center rounded-lg text-sm transition
             {cell.selected

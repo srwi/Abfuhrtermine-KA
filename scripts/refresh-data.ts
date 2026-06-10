@@ -3,9 +3,15 @@
 // (data/osm-house-numbers.json, data/geometry-cache.json) and never talks to
 // Overpass itself, so it stays fast and immune to Overpass flakiness.
 //
-// It probes the Karlsruhe source for each street's Sperrmüll date and writes:
-//   - static/data/calendar.json          (pickup dates -> streets)
-//   - static/data/street-geometries.json (disambiguated per-street geometry)
+// For each street it resolves all five waste categories and writes:
+//   - static/data/calendar.json   (category metadata + the union of pickup days)
+//   - static/data/street-data.json (per-street geometry + per-category day indices)
+//
+// Sperrmüll (Straßensperrmüll) is the annual date parsed from the HTML response
+// (the placeholder-date logic below). The four recurring categories — Restmüll,
+// Bioabfall, Wertstoff, Papier — come from the source's iCal export, which
+// returns the full forward-year schedule (holiday shifts applied) in one request
+// per street. Both are keyed off the same known house number found while probing.
 //
 // ## The placeholder-date quirk (and why we don't guess "magic" house numbers)
 //
@@ -29,20 +35,28 @@
 //     streets (whose true dates are never the placeholder).
 
 import {
+  CATEGORIES,
+  CATEGORY_KEYS,
   KARLSRUHE_SOURCE,
   QUICK,
   STREET_LIMIT,
   USER_AGENT,
   YEAR,
+  type CalendarDay,
   type CalendarFile,
+  type CategoryKey,
+  type StreetData,
+  type StreetDataFile,
   type StreetGeometry,
   type StreetGeometryFile,
+  type StreetSchedule,
   dataFile,
   fetchSourceStreets,
   mapPool,
   normalizeStreet,
   readJson,
   staticDataFile,
+  toDisplayDate,
   toIsoDate,
   writeJson,
   writeJsonCompact
@@ -118,39 +132,149 @@ function isDate(outcome: string): boolean {
   return outcome !== PROBE_UNKNOWN && outcome !== PROBE_NODATE;
 }
 
-/**
- * Primary path: the street has real OSM house numbers. We probe them in order
- * and take the first non-placeholder date; if the only dates we see are the
- * placeholder date, we trust it too (a real street legitimately on that date).
- */
-async function resolveFromOsm(street: string, osmNumbers: string[]): Promise<string | null> {
-  let placeholderSeen: string | null = null;
+type Resolution = {
+  // The Sperrmüll (Straßensperrmüll) pickup date as "DD.MM.YYYY", or null.
+  sperrmuellDate: string | null;
+  // A house number the source recognized as a *known* address (returned a date
+  // or #nodate, not #unknown), or null if none of the probes were known. Reused
+  // to fetch the street's iCal (the recurring categories).
+  houseNumber: string | null;
+};
 
-  for (const houseNumber of osmNumbers.slice(0, OSM_PROBE_LIMIT)) {
-    const outcome = await probe(street, houseNumber);
-    if (!isDate(outcome)) continue; // #unknown / #nodate -> try next OSM number
+/**
+ * Probes a street's house numbers to resolve its Sperrmüll date and find one
+ * known address. `trustPlaceholder` distinguishes the two paths:
+ *
+ *   - Primary path (real OSM numbers, trustPlaceholder=true): take the first
+ *     non-placeholder date; if the only dates seen are the placeholder date,
+ *     trust it too (a real street legitimately on that date).
+ *   - Fallback path (no OSM addresses, trustPlaceholder=false): distrust the
+ *     placeholder date outright — no OSM-less street legitimately falls on it,
+ *     so phantom squares/Gewann are dropped while real un-mapped streets survive.
+ *
+ * Either way we remember the first *known* house number so the caller can fetch
+ * the street's iCal for the recurring categories.
+ */
+async function resolveStreet(street: string, numbers: string[], trustPlaceholder: boolean): Promise<Resolution> {
+  let placeholderSeen: string | null = null;
+  let houseNumber: string | null = null;
+
+  for (const candidate of numbers) {
+    const outcome = await probe(street, candidate);
+    if (outcome === PROBE_UNKNOWN) continue; // address not known -> try next
+    if (houseNumber === null) houseNumber = candidate; // known address (date or #nodate)
+    if (!isDate(outcome)) continue; // #nodate -> known but no Sperrmüll date here
     if (placeholderDates.has(outcome)) {
-      placeholderSeen = outcome; // defer: prefer any non-placeholder date below
+      if (trustPlaceholder) placeholderSeen = outcome; // defer to a real date below
       continue;
     }
-    return outcome;
+    return { sperrmuellDate: outcome, houseNumber };
   }
-  return placeholderSeen;
+  return { sperrmuellDate: trustPlaceholder ? placeholderSeen : null, houseNumber };
+}
+
+// --- iCal (the recurring categories) -----------------------------------------
+// The source's iCal export returns the full forward-year schedule for the four
+// recurring categories in one request, with holiday shifts already applied. It
+// does NOT include Sperrmüll. An unknown street silently falls back to the
+// default first street, so we validate X-WR-CALNAME against the requested name.
+
+// The source spells categories several ways across districts/cadences (e.g.
+// "Bioabfall, wöchentlich" vs "Biomüll, 14-tägl."; "Restmüll, 2x"). We match on
+// the leading category word and union the dates, so cadence variants collapse to
+// one category. Order doesn't matter (prefixes are disjoint).
+const ICAL_SUMMARY_PREFIXES: [string, CategoryKey][] = [
+  ['Restmüll', 'restmuell'],
+  ['Bioabfall', 'bioabfall'],
+  ['Biomüll', 'bioabfall'],
+  ['Wertstoff', 'wertstoff'],
+  ['Papier', 'papier']
+];
+
+// How many house numbers to try for the iCal before giving up. The first known
+// address with events wins; some real addresses (e.g. a corner plot) return a
+// valid but empty calendar, so we fall through to the next number on the street.
+const ICAL_TRY_LIMIT = 4;
+
+function summaryToCategory(summary: string): CategoryKey | null {
+  for (const [prefix, key] of ICAL_SUMMARY_PREFIXES) if (summary.startsWith(prefix)) return key;
+  return null;
+}
+
+/** Unfolds RFC-5545 line folding (continuation lines start with a space/tab). */
+function unfoldIcal(text: string): string[] {
+  const out: string[] = [];
+  for (const raw of text.split(/\r\n|\n|\r/)) {
+    if ((raw.startsWith(' ') || raw.startsWith('\t')) && out.length > 0) out[out.length - 1] += raw.slice(1);
+    else out.push(raw);
+  }
+  return out;
+}
+
+/** Parses an iCal body into recurring-category -> sorted unique ISO dates. */
+function parseIcal(text: string): Partial<Record<CategoryKey, string[]>> {
+  const result: Partial<Record<CategoryKey, string[]>> = {};
+  let summary: string | null = null;
+  let dtstart: string | null = null;
+
+  for (const line of unfoldIcal(text)) {
+    if (line.startsWith('BEGIN:VEVENT')) {
+      summary = null;
+      dtstart = null;
+    } else if (line.startsWith('SUMMARY:')) {
+      summary = line.slice('SUMMARY:'.length);
+    } else if (line.startsWith('DTSTART')) {
+      dtstart = line.match(/:(\d{8})/)?.[1] ?? null;
+    } else if (line.startsWith('END:VEVENT') && summary && dtstart) {
+      const category = summaryToCategory(summary);
+      const iso = `${dtstart.slice(0, 4)}-${dtstart.slice(4, 6)}-${dtstart.slice(6, 8)}`;
+      if (category && iso.startsWith(`${YEAR}-`)) (result[category] ??= []).push(iso);
+    }
+  }
+
+  for (const key of Object.keys(result) as CategoryKey[]) {
+    result[key] = [...new Set(result[key])].sort();
+  }
+  return result;
+}
+
+/** One iCal request -> raw body, or '' on repeated failure. */
+async function fetchIcalText(street: string, houseNumber: string): Promise<string> {
+  const body = new URLSearchParams({ strasse_n: street, hausnr: houseNumber, ical: ' iCalendar', ladeort: '1' });
+
+  let delayMs = 500;
+  for (let attempt = 1; attempt <= KARLSRUHE_MAX_RETRIES; attempt++) {
+    try {
+      const response = await fetch(KARLSRUHE_SOURCE, {
+        method: 'POST',
+        headers: { 'content-type': 'application/x-www-form-urlencoded; charset=UTF-8', 'user-agent': USER_AGENT },
+        body
+      });
+      if (response.ok || attempt >= KARLSRUHE_MAX_RETRIES) return await response.text();
+    } catch (error) {
+      if (attempt >= KARLSRUHE_MAX_RETRIES) throw error;
+    }
+    await Bun.sleep(delayMs);
+    delayMs *= 2;
+  }
+  return '';
 }
 
 /**
- * Fallback path: no OSM addresses. We probe a fixed list and distrust the
- * placeholder date outright (no OSM-less street legitimately falls on it), so
- * phantom squares/Gewann are dropped while real un-mapped streets survive.
+ * Resolves a street's recurring categories from its iCal. Tries house numbers in
+ * order (up to ICAL_TRY_LIMIT), skipping the unknown-street -> default-street
+ * fallback (X-WR-CALNAME doesn't contain the requested name) and valid-but-empty
+ * calendars, and returns the first non-empty parse.
  */
-async function resolveFromFallback(street: string): Promise<string | null> {
-  for (const houseNumber of FALLBACK_PROBES) {
-    const outcome = await probe(street, houseNumber);
-    if (!isDate(outcome)) continue;
-    if (placeholderDates.has(outcome)) continue;
-    return outcome;
+async function fetchRecurring(street: string, numbers: string[]): Promise<Partial<Record<CategoryKey, string[]>>> {
+  for (const houseNumber of numbers.slice(0, ICAL_TRY_LIMIT)) {
+    const text = await fetchIcalText(street, houseNumber);
+    const calName = text.match(/X-WR-CALNAME:(.*)/)?.[1] ?? '';
+    if (!normalizeStreet(calName).includes(normalizeStreet(street))) continue; // fallback response
+    const parsed = parseIcal(text);
+    if (Object.keys(parsed).length > 0) return parsed;
   }
-  return null;
+  return {};
 }
 
 /**
@@ -189,11 +313,18 @@ async function detectPlaceholderDates(): Promise<void> {
   );
 }
 
-// --- Calendar ----------------------------------------------------------------
+// --- Scrape ------------------------------------------------------------------
+// Per street: resolve its Sperrmüll date (+ a known house number) via house-
+// number probes, then fetch that address's iCal once for the four recurring
+// categories. The result is one schedule per street with ISO dates per category.
 
 type HouseNumberCache = { houseNumbers: Record<string, string[]> };
+// Intermediate (pre-indexing) schedule: category -> ISO dates. Long streets can
+// have different recurring days per section; we take one representative house
+// number's schedule, consistent with the existing per-street simplification.
+type IsoSchedule = Partial<Record<CategoryKey, string[]>>;
 
-async function scrapeCalendar(streets: string[]): Promise<CalendarFile> {
+async function scrapeSchedules(streets: string[]): Promise<Map<string, IsoSchedule>> {
   const cache = await readJson<HouseNumberCache>(dataFile('osm-house-numbers.json'));
   if (!cache) {
     console.warn(
@@ -203,50 +334,81 @@ async function scrapeCalendar(streets: string[]): Promise<CalendarFile> {
   }
   const osmHouseNumbers = cache?.houseNumbers ?? {};
 
-  const dateByStreet = new Map<string, string>();
-  let viaOsm = 0;
-  let viaFallback = 0;
+  // Keyed by display street name (ß -> ss), matching the geometry cache lookup.
+  const scheduleByStreet = new Map<string, IsoSchedule>();
+  const found: Record<CategoryKey, number> = { sperrmuell: 0, restmuell: 0, bioabfall: 0, wertstoff: 0, papier: 0 };
   let processed = 0;
 
-  console.log(`Checking Sperrmüll dates for ${streets.length} streets (parallel: ${KARLSRUHE_CONCURRENCY})`);
+  console.log(`Checking pickup dates for ${streets.length} streets (parallel: ${KARLSRUHE_CONCURRENCY})`);
   await mapPool(streets, KARLSRUHE_CONCURRENCY, async (rawStreet) => {
     const street = rawStreet.trim();
     const osmNumbers = osmHouseNumbers[normalizeStreet(street)] ?? [];
+    // Same candidate numbers feed the Sperrmüll probe and the iCal fetch. OSM
+    // numbers (real addresses) get the placeholder-trusting path; the fixed
+    // fallback list distrusts the placeholder date.
+    const hasOsm = osmNumbers.length > 0;
+    const numbers = hasOsm ? osmNumbers.slice(0, OSM_PROBE_LIMIT) : FALLBACK_PROBES;
 
-    let date: string | null;
-    if (osmNumbers.length > 0) {
-      date = await resolveFromOsm(street, osmNumbers);
-      if (date) viaOsm++;
-    } else {
-      date = await resolveFromFallback(street);
-      if (date) viaFallback++;
+    const resolution = await resolveStreet(street, numbers, hasOsm);
+
+    const schedule: IsoSchedule = {};
+    if (resolution.sperrmuellDate) schedule.sperrmuell = [toIsoDate(resolution.sperrmuellDate)];
+    // Only chase the iCal when at least one probed address was known (a real
+    // street) — phantoms have no known address and get no recurring data.
+    if (resolution.houseNumber) {
+      const recurring = await fetchRecurring(street, numbers);
+      for (const key of CATEGORY_KEYS) {
+        if (key !== 'sperrmuell' && recurring[key]?.length) schedule[key] = recurring[key];
+      }
     }
-    if (date) dateByStreet.set(street, date);
+
+    if (Object.keys(schedule).length > 0) {
+      scheduleByStreet.set(street.replace(/ß/g, 'ss'), schedule);
+      for (const key of CATEGORY_KEYS) if (schedule[key]?.length) found[key]++;
+    }
 
     processed++;
     if (processed % 100 === 0 || processed === streets.length) {
-      console.log(`  ${processed}/${streets.length} (hits: ${dateByStreet.size}; OSM ${viaOsm}, fallback ${viaFallback})`);
+      console.log(`  ${processed}/${streets.length} (streets with data: ${scheduleByStreet.size})`);
     }
   });
 
-  console.log(`Dates found: ${dateByStreet.size} (via OSM house numbers: ${viaOsm}, via fallback: ${viaFallback}).`);
+  console.log(
+    `Streets with data: ${scheduleByStreet.size} — ` +
+      CATEGORIES.map((c) => `${c.label} ${found[c.key]}`).join(', ')
+  );
+  return scheduleByStreet;
+}
 
-  const byDate = new Map<string, string[]>();
-  for (const [street, date] of dateByStreet) {
-    const bucket = byDate.get(date) ?? [];
-    bucket.push(street.replace(/ß/g, 'ss'));
-    byDate.set(date, bucket);
+// --- Output assembly ---------------------------------------------------------
+
+/** Builds the small inlined calendar.json: category metadata + the sorted union
+ *  of every pickup date, each annotated with the categories occurring citywide. */
+function buildCalendar(scheduleByStreet: Map<string, IsoSchedule>): {
+  calendar: CalendarFile;
+  dayIndex: Map<string, number>;
+} {
+  const categoriesByIso = new Map<string, Set<CategoryKey>>();
+  for (const schedule of scheduleByStreet.values()) {
+    for (const key of CATEGORY_KEYS) {
+      for (const iso of schedule[key] ?? []) {
+        let cats = categoriesByIso.get(iso);
+        if (!cats) categoriesByIso.set(iso, (cats = new Set()));
+        cats.add(key);
+      }
+    }
   }
 
-  const entries = [...byDate.entries()]
-    .map(([date, streetsForDate]) => ({
-      date,
-      isoDate: toIsoDate(date),
-      streets: streetsForDate.sort((left, right) => left.localeCompare(right, 'de'))
-    }))
-    .sort((left, right) => left.isoDate.localeCompare(right.isoDate));
+  const days: CalendarDay[] = [...categoriesByIso.entries()]
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([isoDate, cats]) => ({
+      isoDate,
+      date: toDisplayDate(isoDate),
+      categories: CATEGORY_KEYS.filter((key) => cats.has(key))
+    }));
 
-  return { year: YEAR, generatedAt: new Date().toISOString(), entries };
+  const dayIndex = new Map(days.map((day, index) => [day.isoDate, index]));
+  return { calendar: { year: YEAR, generatedAt: new Date().toISOString(), categories: CATEGORIES, days }, dayIndex };
 }
 
 // --- Geometry assembly + multi-cluster disambiguation ------------------------
@@ -340,14 +502,12 @@ function median(values: number[]): number {
 /**
  * Where a street name resolves to several spatially-separated clusters of ways,
  * replace its merged geometry with the single cluster that best fits the rest of
- * its collection day. Operates in place on `resolved`; no network calls.
+ * its collection day. Anchored on the Sperrmüll day (`dateByStreet`: normalized
+ * street -> ISO Sperrmüll date), whose geographically-contiguous routes make the
+ * "nearest same-day street" heuristic meaningful — the recurring categories are
+ * citywide, so they carry no such locality. Operates in place on `resolved`.
  */
-function disambiguateMultiCluster(resolved: Map<string, StreetGeometry>, calendar: CalendarFile) {
-  const dateByStreet = new Map<string, string>();
-  for (const entry of calendar.entries) {
-    for (const street of entry.streets) dateByStreet.set(normalizeStreet(street), entry.isoDate);
-  }
-
+function disambiguateMultiCluster(resolved: Map<string, StreetGeometry>, dateByStreet: Map<string, string>) {
   const clustersByKey = new Map<string, Line[][]>();
   for (const [key, entry] of resolved) {
     if (entry.geometry.type === 'Point') continue;
@@ -392,44 +552,58 @@ function disambiguateMultiCluster(resolved: Map<string, StreetGeometry>, calenda
   if (fixed > 0) console.log(`  Ambiguous street names disambiguated: ${fixed}`);
 }
 
-async function buildStreetGeometries(calendar: CalendarFile): Promise<StreetGeometryFile> {
-  const uniqueStreets = [...new Set(calendar.entries.flatMap((entry) => entry.streets))]
-    .map((street) => street.replace(/ß/g, 'ss'))
-    .sort((left, right) => left.localeCompare(right, 'de'));
+/**
+ * Joins each scraped street to its geometry and rewrites its per-category ISO
+ * dates as indices into calendar.days. Streets without a real OSM geometry keep
+ * `geometry: null` (still listed, just not drawn). Pure computation, no network.
+ */
+async function buildStreetData(
+  scheduleByStreet: Map<string, IsoSchedule>,
+  dayIndex: Map<string, number>
+): Promise<StreetDataFile> {
+  const streetNames = [...scheduleByStreet.keys()].sort((left, right) => left.localeCompare(right, 'de'));
 
   const cache = await readJson<StreetGeometryFile>(dataFile('geometry-cache.json'));
   if (!cache) {
-    console.warn('WARNING: data/geometry-cache.json is missing. Run `bun run data:cache`. Using point geometries.');
+    console.warn('WARNING: data/geometry-cache.json is missing. Run `bun run data:cache`. Streets will have no geometry.');
   }
   const cachedByKey = new Map<string, StreetGeometry>(
     cache?.streets.map((entry) => [normalizeStreet(entry.street), entry]) ?? []
   );
 
-  const resolved = new Map<string, StreetGeometry>();
-  let missing = 0;
-  for (const street of uniqueStreets) {
-    const key = normalizeStreet(street);
-    const hit = cachedByKey.get(key);
+  // Resolve geometries first (a real, non-Point line/point or nothing), then
+  // disambiguate same-named streets using the Sperrmüll-day context.
+  const resolvedGeometry = new Map<string, StreetGeometry>();
+  let withGeometry = 0;
+  for (const street of streetNames) {
+    const hit = cachedByKey.get(normalizeStreet(street));
     if (hit && hit.geometry.type !== 'Point') {
-      resolved.set(key, { street, geometry: hit.geometry });
-    } else {
-      // No real geometry (missing, or a Point fallback the cache build left on
-      // the Karlsruhe centre) -> omit the street entirely rather than dropping a
-      // meaningless dot. The client re-tries these via live Overpass and
-      // otherwise leaves them off the map.
-      missing++;
+      resolvedGeometry.set(normalizeStreet(street), { street, geometry: hit.geometry });
+      withGeometry++;
     }
   }
-  console.log(`Geometries from cache: ${resolved.size}, without geometry (omitted): ${missing}`);
 
-  // Same street name in several districts -> keep the cluster matching the day.
-  disambiguateMultiCluster(resolved, calendar);
+  const sperrmuellDateByStreet = new Map<string, string>();
+  for (const [street, schedule] of scheduleByStreet) {
+    const iso = schedule.sperrmuell?.[0];
+    if (iso) sperrmuellDateByStreet.set(normalizeStreet(street), iso);
+  }
+  disambiguateMultiCluster(resolvedGeometry, sperrmuellDateByStreet);
 
-  const streets = uniqueStreets
-    .map((street) => resolved.get(normalizeStreet(street)))
-    .filter((entry): entry is StreetGeometry => Boolean(entry))
-    .map((entry) => ({ street: entry.street, geometry: roundGeometry(entry.geometry) }));
+  const streets: StreetData[] = streetNames.map((street) => {
+    const isoSchedule = scheduleByStreet.get(street)!;
+    const schedule: StreetSchedule = {};
+    for (const key of CATEGORY_KEYS) {
+      const indices = (isoSchedule[key] ?? [])
+        .map((iso) => dayIndex.get(iso))
+        .filter((index): index is number => index !== undefined);
+      if (indices.length > 0) schedule[key] = indices;
+    }
+    const geometry = resolvedGeometry.get(normalizeStreet(street))?.geometry ?? null;
+    return { street, geometry: geometry ? roundGeometry(geometry) : null, schedule };
+  });
 
+  console.log(`Streets total: ${streets.length}, with geometry: ${withGeometry}, list-only: ${streets.length - withGeometry}`);
   return { year: YEAR, generatedAt: new Date().toISOString(), streets };
 }
 
@@ -445,16 +619,16 @@ async function main() {
 
   await detectPlaceholderDates();
 
-  const calendar = await scrapeCalendar(streets);
-  const geometries = await buildStreetGeometries(calendar);
+  const scheduleByStreet = await scrapeSchedules(streets);
+  const { calendar, dayIndex } = buildCalendar(scheduleByStreet);
+  const streetData = await buildStreetData(scheduleByStreet, dayIndex);
 
-  console.log(`Calendar entries: ${calendar.entries.length}`);
-  console.log(`Geometries: ${geometries.streets.length}`);
+  console.log(`Calendar days: ${calendar.days.length}`);
 
   await writeJson(staticDataFile('calendar.json'), calendar);
-  await writeJsonCompact(staticDataFile('street-geometries.json'), geometries);
+  await writeJsonCompact(staticDataFile('street-data.json'), streetData);
 
-  console.log(`Wrote ${calendar.entries.length} dates and ${geometries.streets.length} streets.`);
+  console.log(`Wrote ${calendar.days.length} days and ${streetData.streets.length} streets.`);
 }
 
 await main();

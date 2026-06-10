@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>Sperrmüll Karlsruhe</title>
+  <title>Abfuhrtermine Karlsruhe</title>
   <meta name="description" content={siteDescription} />
   <meta name="theme-color" content="#f7f3ed" />
 </svelte:head>

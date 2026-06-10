@@ -9,10 +9,10 @@ export const prerender = true;
 export async function load({ fetch }: { fetch: typeof globalThis.fetch }) {
   const calendarResponse = await fetch('data/calendar.json');
 
-  const calendar =
+  const calendar: CalendarFile =
     calendarResponse.ok
       ? ((await calendarResponse.json()) as CalendarFile)
-      : { year: new Date().getFullYear(), generatedAt: new Date().toISOString(), entries: [] };
+      : { year: new Date().getFullYear(), generatedAt: new Date().toISOString(), categories: [], days: [] };
 
   return { calendar };
 }

@@ -3,41 +3,61 @@
   import { slide } from 'svelte/transition';
   import { cubicOut } from 'svelte/easing';
   import { base } from '$app/paths';
-  import type { Geometry } from 'geojson';
   import MapView from '$lib/components/MapView.svelte';
   import DatePicker from '$lib/components/DatePicker.svelte';
   import ThemeToggle from '$lib/components/ThemeToggle.svelte';
-  import type { CalendarFile, StreetGeometryFile } from '$lib/types';
-  import { buildGeometryLookup, buildStreetCollection } from '$lib/street-geometries';
+  import type { CalendarFile, CategoryKey, StreetDataFile } from '$lib/types';
+  import { buildStreetLookup, selectStreetsForDay, buildFeatureCollection, type StreetEntry } from '$lib/street-data';
 
   export let data: {
     calendar: CalendarFile;
   };
 
-  const entries = data.calendar.entries;
+  const { categories, days } = data.calendar;
+  const colorByKey = new Map(categories.map((c) => [c.key, c.color]));
 
-  // Always preselect the next pickup strictly after today (skip today even if it
-  // is itself a pickup day); fall back to the first entry if every date is past.
+  // Sperrmüll is enabled by default so the map isn't flooded on first load; the
+  // recurring categories are opt-in via the toggles.
+  let enabledKeys: CategoryKey[] = categories.some((c) => c.key === 'sperrmuell') ? ['sperrmuell'] : categories.slice(0, 1).map((c) => c.key);
+  $: enabledSet = new Set(enabledKeys);
+
+  function toggle(key: CategoryKey) {
+    enabledKeys = enabledKeys.includes(key) ? enabledKeys.filter((k) => k !== key) : [...enabledKeys, key];
+  }
+
+  // Days that carry at least one enabled category — the picker highlights these.
+  $: visibleDays = days.filter((day) => day.categories.some((c) => enabledSet.has(c)));
+
+  // Preselect the next pickup strictly after today among the default categories;
+  // fall back to the first such day if every date is past.
   const todayIso = new Date().toLocaleDateString('en-CA');
-  const upcoming = entries.find((entry) => entry.isoDate > todayIso);
-  let selectedDate = (upcoming ?? entries[0])?.date ?? '';
+  const initialDays = days.filter((day) => enabledKeys.some((k) => day.categories.includes(k)));
+  let selectedDate = (initialDays.find((day) => day.isoDate > todayIso) ?? initialDays[0])?.isoDate ?? '';
+
+  // After a toggle change, keep the selection on a day that still has data.
+  $: if (visibleDays.length > 0 && !visibleDays.some((day) => day.isoDate === selectedDate)) {
+    selectedDate = (visibleDays.find((day) => day.isoDate >= selectedDate) ?? visibleDays[visibleDays.length - 1]).isoDate;
+  }
+
   let panelOpen = true;
   let listOpen = false;
   let mapView: MapView;
 
-  // The geometry file is multi-MB, so it is fetched client-side after first
-  // paint rather than through the prerender load. The street list renders from
-  // the calendar immediately; map lines appear once this resolves.
-  let geometryByStreet = new Map<string, Geometry>();
+  // The street-data file is multi-MB, so it is fetched client-side after first
+  // paint. The list and map populate once this resolves.
+  let streetLookup = new Map<string, StreetEntry>();
+  let dataLoaded = false;
 
   onMount(async () => {
     try {
-      const response = await fetch(`${base}/data/street-geometries.json`);
+      const response = await fetch(`${base}/data/street-data.json`);
       if (response.ok) {
-        geometryByStreet = buildGeometryLookup((await response.json()) as StreetGeometryFile);
+        streetLookup = buildStreetLookup((await response.json()) as StreetDataFile);
       }
     } catch {
-      // Leave the map overlay empty if geometry can't be loaded; the list still works.
+      // Leave the overlay empty if the data can't be loaded.
+    } finally {
+      dataLoaded = true;
     }
   });
 
@@ -49,13 +69,15 @@
     }
   }
 
-  $: selectedEntry = entries.find((entry) => entry.date === selectedDate) ?? entries[0];
-
-  $: selectedStreetCollection = buildStreetCollection(selectedEntry?.streets ?? [], geometryByStreet);
+  $: selectedDay = days.find((day) => day.isoDate === selectedDate);
+  // Index into calendar.days — matches the indices stored in each street's schedule.
+  $: dayIndex = days.findIndex((day) => day.isoDate === selectedDate);
+  $: selectedStreets = selectStreetsForDay(streetLookup, dayIndex, enabledSet);
+  $: selectedCollection = buildFeatureCollection(selectedStreets);
 </script>
 
 <main class="relative h-[100dvh] w-screen overflow-hidden">
-  <MapView bind:this={mapView} streets={selectedStreetCollection} />
+  <MapView bind:this={mapView} {categories} streets={selectedCollection} />
 
   <button
     type="button"
@@ -75,13 +97,13 @@
   </button>
 
   <aside
-    class="glass-panel absolute inset-x-2 bottom-2 z-10 flex flex-col p-4 md:inset-x-auto md:bottom-auto md:right-5 md:top-5 md:w-[21rem] md:p-5"
+    class="glass-panel absolute inset-x-2 bottom-2 z-10 flex max-h-[calc(100dvh-1rem)] flex-col p-4 md:inset-x-auto md:bottom-auto md:right-5 md:top-5 md:max-h-[calc(100dvh-2.5rem)] md:w-[21rem] md:p-5"
   >
     {#if panelOpen}
-      <div transition:slide={{ duration: 250, easing: cubicOut }} class="flex flex-col gap-3 md:gap-4">
-        <div class="flex items-start justify-between gap-2">
+      <div transition:slide={{ duration: 250, easing: cubicOut }} class="flex min-h-0 flex-col gap-3 md:gap-4">
+        <div class="flex shrink-0 items-start justify-between gap-2">
           <div>
-            <h1 class="text-lg text-foreground md:text-xl">Sperrmüll-Termine</h1>
+            <h1 class="text-lg text-foreground md:text-xl">Abfuhrtermine</h1>
             <p class="text-xs font-medium text-muted-foreground">Karlsruhe · {data.calendar.year}</p>
           </div>
           <div class="-mr-1 -mt-1 flex shrink-0 items-center gap-0.5">
@@ -100,12 +122,34 @@
           </div>
         </div>
 
-        <div class="space-y-1.5 md:space-y-2">
-          <span class="text-sm font-semibold text-foreground">Abholtag</span>
-          <DatePicker {entries} bind:value={selectedDate} on:select={handleSelect} />
+        <div class="shrink-0 space-y-1.5 md:space-y-2">
+          <span class="text-sm font-semibold text-foreground">Abfallart</span>
+          <div class="flex flex-wrap gap-1.5">
+            {#each categories as category}
+              {@const active = enabledSet.has(category.key)}
+              <button
+                type="button"
+                aria-pressed={active}
+                on:click={() => toggle(category.key)}
+                class="flex items-center gap-1.5 rounded-full border px-2.5 py-1 text-xs font-medium transition
+                  {active ? 'border-transparent text-white shadow-sm' : 'border-border text-muted-foreground hover:text-foreground'}"
+                style={active ? `background:${category.color}` : ''}
+              >
+                {#if !active}
+                  <span class="h-2 w-2 rounded-full" style="background:{category.color}"></span>
+                {/if}
+                {category.label}
+              </button>
+            {/each}
+          </div>
         </div>
 
-        <div class="flex flex-col">
+        <div class="shrink-0 space-y-1.5 md:space-y-2">
+          <span class="text-sm font-semibold text-foreground">Abholtag</span>
+          <DatePicker days={visibleDays} bind:value={selectedDate} on:select={handleSelect} />
+        </div>
+
+        <div class="flex min-h-0 flex-col">
           <button
             type="button"
             aria-expanded={listOpen}
@@ -114,7 +158,7 @@
           >
             <span class="text-sm font-semibold text-foreground">Straßenliste</span>
             <span class="flex items-center gap-2 text-xs font-medium">
-              {selectedEntry?.streets.length ?? 0}
+              {selectedStreets.length}
               <svg
                 class="h-4 w-4 transition-transform duration-200"
                 class:rotate-180={listOpen}
@@ -129,19 +173,37 @@
               </svg>
             </span>
           </button>
-          {#if listOpen}
-            <div class="max-h-[32dvh] overflow-auto pt-1 md:max-h-[55dvh]">
-              {#if selectedEntry?.streets.length}
-                <ul class="space-y-1 text-[13px] leading-tight text-foreground">
-                  {#each selectedEntry.streets as street}
-                    <li>{street}</li>
-                  {/each}
-                </ul>
-              {:else}
-                <p class="text-[13px] text-muted-foreground">Für diesen Tag sind keine Straßen geladen.</p>
-              {/if}
+          <!-- grid-template-rows 0fr→1fr animates the reveal without fighting flex
+               sizing the way a height transition would; min-h-0 + the inner
+               overflow-auto keep only the list (not the whole panel) scrolling. -->
+          <div
+            class="grid min-h-0 transition-[grid-template-rows] duration-[250ms] ease-out"
+            style:grid-template-rows={listOpen ? '1fr' : '0fr'}
+            aria-hidden={!listOpen}
+          >
+            <div class="min-h-0 overflow-hidden">
+              <div class="h-full min-h-0 overflow-auto pt-1">
+                {#if selectedStreets.length}
+                  <ul class="space-y-1 text-[13px] leading-tight text-foreground">
+                    {#each selectedStreets as item}
+                      <li class="flex items-center gap-2">
+                        <span class="flex shrink-0 gap-1">
+                          {#each item.categories as cat}
+                            <span class="h-2 w-2 rounded-full" style="background:{colorByKey.get(cat)}" title={cat}></span>
+                          {/each}
+                        </span>
+                        <span>{item.street}</span>
+                      </li>
+                    {/each}
+                  </ul>
+                {:else}
+                  <p class="text-[13px] text-muted-foreground">
+                    {dataLoaded ? 'Für diesen Tag sind keine Straßen geladen.' : 'Lädt…'}
+                  </p>
+                {/if}
+              </div>
             </div>
-          {/if}
+          </div>
         </div>
       </div>
     {:else}
@@ -154,7 +216,7 @@
         class="flex w-full items-center justify-between gap-3 text-left"
       >
         <span class="text-sm font-semibold text-foreground">
-          {selectedEntry?.date ?? ''} · {selectedEntry?.streets.length ?? 0} Straßen
+          {selectedDay?.date ?? ''} · {selectedStreets.length} Straßen
         </span>
         <svg class="h-5 w-5 shrink-0 text-muted-foreground" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <path d="m18 15-6-6-6 6" />
