@@ -1,5 +1,5 @@
 <script lang="ts">
-  const siteDescription = 'Sperrmülltermine für Karlsruhe mit Karte und Datumsauswahl.';
+  const siteDescription = 'Abfuhrtermine für Karlsruhe mit Karte und Datumsauswahl.';
 </script>
 
 <svelte:head>

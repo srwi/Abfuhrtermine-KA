@@ -72,7 +72,7 @@ export const YEAR = Number(process.env.SPERRMUELL_YEAR ?? new Date().getFullYear
 // Optional cap on the number of streets processed, handy for local testing.
 export const STREET_LIMIT = Number(process.env.SPERRMUELL_LIMIT ?? 0);
 
-export const USER_AGENT = 'Sperrmuell-KA/1.0 (+https://github.com/skjerns/Sperrmuell-KA)';
+export const USER_AGENT = 'Abfuhrtermine-KA/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)';
 export const KARLSRUHE_SOURCE = `https://web4.karlsruhe.de/service/abfall/akal/akal_${YEAR}.php`;
 export const KARLSRUHE_CENTER: [number, number] = [8.4034195, 49.0068705];
 export const OVERPASS_ENDPOINT = 'https://overpass-api.de/api/interpreter';

@@ -165,7 +165,7 @@ Two GitHub Actions workflows, deliberately split so deploys never touch the data
 pipeline:
 
 - `.github/workflows/pages.yml` — runs on every push to `master` (and manual
-  `workflow_dispatch`): install → `build` (with `BASE_PATH=/Sperrmuell-KA`) → deploy
+  `workflow_dispatch`): install → `build` (with `BASE_PATH=/Abfuhrtermine-KA`) → deploy
   to Pages. It does **not** scrape or build caches; it just renders the committed
   `static/data/*.json`.
 - `.github/workflows/refresh.yml` — **on-demand only** (`workflow_dispatch`): install

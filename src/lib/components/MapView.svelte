@@ -15,7 +15,7 @@
 
   const labelByKey = new Map(categories.map((c) => [c.key, c.label]));
   // MapLibre 'match' expression coloring each feature by its `category` property.
-  // Needs at least one case; fall back to the Sperrmüll red when none are known.
+  // Needs at least one case; fall back to red when no categories are known.
   const categoryColor: DataDrivenPropertyValueSpecification<string> =
     categories.length > 0
       ? (['match', ['get', 'category'], ...categories.flatMap((c) => [c.key, c.color]), '#b91c1c'] as unknown as DataDrivenPropertyValueSpecification<string>)

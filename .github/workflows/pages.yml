@@ -32,7 +32,7 @@ jobs:
 
       - name: Build site
         env:
-          BASE_PATH: /Sperrmuell-KA
+          BASE_PATH: /Abfuhrtermine-KA
         run: bun run build
 
       - name: Upload artifact
