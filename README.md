@@ -1,5 +1,9 @@
 # Abfuhrtermine Karlsruhe
 
+> [!NOTE]
+> This started off as a fork of [skjerns/Sperrmuell-KA](https://github.com/skjerns/Sperrmuell-KA),
+> but quickly turned into a full rewrite with some additional features.
+
 A small static web app that shows Karlsruhe's waste-collection calendar on a map.
 Pick a pickup day and the streets collected on that day light up in each waste
 type's color, so you can see at a glance when your street is next in line. It
