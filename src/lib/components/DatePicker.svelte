@@ -38,9 +38,12 @@
   $: viewYear = Math.floor(viewKey / 12);
   $: viewMonth = (viewKey % 12) + 1;
   $: viewIdx = monthKeys.indexOf(viewKey);
-  $: cells = buildCells(viewYear, viewMonth, value);
+  // Pass `byIso` in explicitly so Svelte tracks it as a dependency: toggling a
+  // category rebuilds `days`/`byIso` without changing the view month or `value`,
+  // and a dependency referenced only inside the function body would not retrigger.
+  $: cells = buildCells(viewYear, viewMonth, value, byIso);
 
-  function buildCells(year: number, month: number, selectedIso: string | undefined) {
+  function buildCells(year: number, month: number, selectedIso: string | undefined, marks: Map<string, CalendarDay>) {
     const offset = (new Date(year, month - 1, 1).getDay() + 6) % 7;
     return Array.from({ length: 42 }, (_, i) => {
       const dt = new Date(year, month - 1, 1 - offset + i);
@@ -49,7 +52,7 @@
         iso,
         day: dt.getDate(),
         inMonth: dt.getMonth() === month - 1,
-        entry: byIso.get(iso),
+        entry: marks.get(iso),
         selected: iso === selectedIso
       };
     });
