@@ -11,7 +11,7 @@ covers all five types the city publishes — **Sperrmüll** (the annual bulky-wa
 pickup) plus the recurring **Restmüll**, **Bioabfall**, **Wertstoff** and
 **Papier** — each a toggle on the map, with Sperrmüll shown by default.
 
-**[→ Open the waste-collection calendar](https://srwi.github.io/Sperrmuell-KA/)**
+**[→ Open the waste-collection calendar](https://srwi.github.io/Abfuhrtermine-KA/)**
 
 ## Development
 
