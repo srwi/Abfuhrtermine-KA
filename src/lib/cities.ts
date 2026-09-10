@@ -44,6 +44,15 @@ export const CITIES: CityInfo[] = [
     defaultZoom: 12,
     bbox: [49.3314, 10.9887, 49.5408, 11.2826],
     defaultCategories: ['restmuell']
+  },
+  {
+    id: 'darmstadt',
+    name: 'Darmstadt',
+    shortName: 'DA',
+    center: [8.6512, 49.8728],
+    defaultZoom: 12,
+    bbox: [49.7956, 8.5581, 49.9538, 8.7498],
+    defaultCategories: ['restmuell']
   }
 ];
 
