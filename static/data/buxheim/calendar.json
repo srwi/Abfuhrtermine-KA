@@ -1,0 +1,196 @@
+{
+  "year": 2026,
+  "generatedAt": "2026-09-10T11:32:02.830Z",
+  "categories": [
+    {
+      "key": "restmuell",
+      "label": "Restmüll",
+      "color": "#4b5563"
+    },
+    {
+      "key": "bioabfall",
+      "label": "Bioabfall",
+      "color": "#92400e"
+    },
+    {
+      "key": "wertstoff",
+      "label": "Wertstoff / Gelb",
+      "color": "#eab308"
+    },
+    {
+      "key": "papier",
+      "label": "Papier",
+      "color": "#1d4ed8"
+    }
+  ],
+  "days": [
+    {
+      "isoDate": "2026-09-17",
+      "date": "17.09.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-09-18",
+      "date": "18.09.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-09-22",
+      "date": "22.09.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-09-30",
+      "date": "30.09.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-10-01",
+      "date": "01.10.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-10-02",
+      "date": "02.10.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-10-15",
+      "date": "15.10.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-10-16",
+      "date": "16.10.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-10-20",
+      "date": "20.10.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-10-28",
+      "date": "28.10.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-10-29",
+      "date": "29.10.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-10-30",
+      "date": "30.10.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-11-12",
+      "date": "12.11.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-11-13",
+      "date": "13.11.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-11-17",
+      "date": "17.11.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-11-25",
+      "date": "25.11.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-11-26",
+      "date": "26.11.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-11-27",
+      "date": "27.11.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-12-10",
+      "date": "10.12.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-12-11",
+      "date": "11.12.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-12-15",
+      "date": "15.12.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-12-22",
+      "date": "22.12.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-12-23",
+      "date": "23.12.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-12-24",
+      "date": "24.12.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    }
+  ]
+}

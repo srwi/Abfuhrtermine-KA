@@ -1,22 +1,9 @@
-import { FETCHERS, getCityFetcher } from './fetchers/index.ts';
+import fs from 'fs';
 import { spawn } from 'child_process';
+import jumoCities from './fetchers/jumomind-cities.json';
 
-const TARGET_CITIES = [
-  'recklinghausen',
-  'minden',
-  'paderborn',
-  'ratingen',
-  'salzgitter',
-  'flensburg',
-  'neumuenster',
-  'wilhelmshaven',
-  'bad-homburg',
-  'neustadt'
-];
-
-async function runCommand(cmd: string, args: string[]): Promise<void> {
+async function runCommand(args: string[]): Promise<void> {
   return new Promise((resolve, reject) => {
-    console.log(`\n>>> Running: bun ${args.join(' ')}`);
     const proc = spawn('bun', args, { stdio: 'inherit', shell: true });
     proc.on('close', (code) => {
       if (code === 0) resolve();
@@ -26,25 +13,52 @@ async function runCommand(cmd: string, args: string[]): Promise<void> {
 }
 
 async function main() {
-  const cities = process.argv.slice(2).length > 0 ? process.argv.slice(2) : TARGET_CITIES;
-  console.log(`Starting automated build for ${cities.length} cities: ${cities.join(', ')}`);
+  const customArgs = process.argv.slice(2);
+  let targetCities: string[] = [];
 
-  for (let i = 0; i < cities.length; i++) {
-    const cityId = cities[i];
-    console.log(`\n======================================================`);
-    console.log(`[${i + 1}/${cities.length}] Processing city: ${cityId.toUpperCase()}`);
-    console.log(`======================================================`);
+  if (customArgs.length > 0 && customArgs[0] !== 'all' && customArgs[0] !== 'remaining') {
+    targetCities = customArgs;
+  } else {
+    // Automatically find all JumoMind cities that don't have static/data/<id>/street-data.json yet
+    const existingDirs = new Set(
+      fs
+        .readdirSync('static/data')
+        .filter((f) => fs.statSync(`static/data/${f}`).isDirectory())
+    );
+    existingDirs.add('karlsruhe');
+
+    targetCities = jumoCities
+      .filter((c) => !existingDirs.has(c.id))
+      .map((c) => c.id);
+  }
+
+  console.log(`======================================================`);
+  console.log(`Starting automated batch processing for ${targetCities.length} cities.`);
+  console.log(`======================================================\n`);
+
+  let successCount = 0;
+  let failCount = 0;
+
+  for (let i = 0; i < targetCities.length; i++) {
+    const cityId = targetCities[i];
+    console.log(`\n------------------------------------------------------`);
+    console.log(`[${i + 1}/${targetCities.length}] Processing city: ${cityId}`);
+    console.log(`------------------------------------------------------`);
 
     try {
-      await runCommand('bun', ['scripts/build-cache.ts', cityId]);
-      await runCommand('bun', ['scripts/refresh-data.ts', cityId]);
-      console.log(`Successfully built data for ${cityId}`);
+      await runCommand(['scripts/build-cache.ts', cityId]);
+      await runCommand(['scripts/refresh-data.ts', cityId]);
+      successCount++;
+      console.log(`✓ Completed ${cityId} (${successCount} succeeded, ${failCount} failed)`);
     } catch (err) {
-      console.error(`Error building city ${cityId}:`, err);
+      failCount++;
+      console.error(`✗ Error processing ${cityId}:`, err);
     }
   }
 
-  console.log('\nAll targeted cities processed!');
+  console.log(`\n======================================================`);
+  console.log(`Batch build complete! Succeeded: ${successCount}, Failed: ${failCount}`);
+  console.log(`======================================================`);
 }
 
 main();

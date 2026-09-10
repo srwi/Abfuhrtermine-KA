@@ -1,0 +1,605 @@
+{
+  "generatedAt": "2026-09-10T11:41:29.512Z",
+  "streets": [
+    {
+      "street": "Am Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Am Buchwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Am Erlenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Am Hang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Am Hasenpfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Am Nassling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Am Rennweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Am Roten Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Am Talacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "An der Turnhalle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Bernaer Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Brandenburger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Brückgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Burghohl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Dachsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Eulenring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Fasanenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Friedrichstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Friesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Froschbachstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Fuchsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Hanauer Pfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Schaub-Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Hinter den Zäunen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Im Kirchgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Im Kutscherhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Im Paradiesgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "In der Orangerie",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Johannisberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Kilianstädter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Kirchgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Marie-von-Oriola-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Minetsgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Mühlbergweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Mühlstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Nachtweide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Nördliche Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Pommernstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Rendeler Pfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Rendeler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Riedstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Rue d` Anould",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Schlesierstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Schlossstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Schmiedgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Schöne Aussicht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Spechtstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Stahlbachstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Sudetenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Südliche Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Trübauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Tulpenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Vilbeler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Wiesenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    },
+    {
+      "street": "Windecker Pfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8436,
+          50.2148
+        ]
+      }
+    }
+  ]
+}
