@@ -171,6 +171,25 @@
     ]
   },
   {
+    "id": "bocholt",
+    "name": "Bocholt",
+    "shortName": "BOH",
+    "center": [
+      6.6149,
+      51.8383
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7898,
+      6.4725,
+      51.9176,
+      6.7212
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "bochum",
     "name": "Bochum",
     "shortName": "BO",
@@ -285,6 +304,25 @@
     ]
   },
   {
+    "id": "coesfeld",
+    "name": "Coesfeld",
+    "shortName": "COE",
+    "center": [
+      7.1691,
+      51.9459
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.8462,
+      7.0557,
+      51.9879,
+      7.2612
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "cottbus",
     "name": "Cottbus",
     "shortName": "CB",
@@ -361,6 +399,25 @@
     ]
   },
   {
+    "id": "dinslaken",
+    "name": "Dinslaken",
+    "shortName": "DIN",
+    "center": [
+      6.7345,
+      51.5624
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5325,
+      6.6865,
+      51.6082,
+      6.866
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "dollnstein",
     "name": "Dollnstein",
     "shortName": "DOL",
@@ -374,6 +431,25 @@
       11.0397,
       48.904,
       11.1479
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "dorsten",
+    "name": "Dorsten",
+    "shortName": "DOR",
+    "center": [
+      6.9647,
+      51.6604
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6228,
+      6.8939,
+      51.801,
+      7.0882
     ],
     "defaultCategories": [
       "restmuell"
@@ -488,6 +564,25 @@
       9.3573,
       54.8371,
       9.5072
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "frankenthal",
+    "name": "Frankenthal",
+    "shortName": "FT",
+    "center": [
+      8.3541,
+      49.5353
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4847,
+      8.3093,
+      49.5826,
+      8.4229
     ],
     "defaultCategories": [
       "restmuell"
