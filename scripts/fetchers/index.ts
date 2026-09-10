@@ -7,6 +7,7 @@ import { DarmstadtFetcher } from './darmstadt.ts';
 import { RegioItFetcher } from './regioit.ts';
 import { HeidelbergFetcher } from './heidelberg.ts';
 import { KoelnFetcher } from './koeln.ts';
+import { LeipzigFetcher } from './leipzig.ts';
 import { MuellmaxFetcher } from './muellmax.ts';
 import { JumoMindFetcher, type JumoMindConfig } from './jumomind.ts';
 import jumoCitiesRaw from './jumomind-cities.json';
@@ -17,6 +18,7 @@ export * from './freiburg.ts';
 export * from './regioit.ts';
 export * from './heidelberg.ts';
 export * from './koeln.ts';
+export * from './leipzig.ts';
 export * from './muellmax.ts';
 export * from './aachen.ts';
 export * from './nuernberg.ts';
@@ -177,6 +179,7 @@ export const FETCHERS: CityFetcher[] = [
   new NuernbergFetcher(),
   new HeidelbergFetcher(),
   new KoelnFetcher(),
+  new LeipzigFetcher(),
   ...REGIOIT_EXTRA_FETCHERS,
   ...MUELLMAX_FETCHERS,
   ...JUMOMIND_FETCHERS

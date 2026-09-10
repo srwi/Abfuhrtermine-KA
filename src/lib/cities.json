@@ -1121,6 +1121,25 @@
     ]
   },
   {
+    "id": "leipzig",
+    "name": "Leipzig",
+    "shortName": "L",
+    "center": [
+      12.3747,
+      51.3406
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2382,
+      12.2367,
+      51.4481,
+      12.5425
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "lenting",
     "name": "Lenting",
     "shortName": "LEN",
