@@ -1,24 +1,5 @@
 [
   {
-    "id": "karlsruhe",
-    "name": "Karlsruhe",
-    "shortName": "KA",
-    "center": [
-      8.4034195,
-      49.0068705
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9404,
-      8.2774,
-      49.0913,
-      8.5417
-    ],
-    "defaultCategories": [
-      "sperrmuell"
-    ]
-  },
-  {
     "id": "aachen",
     "name": "Aachen",
     "shortName": "AC",
@@ -152,6 +133,25 @@
     ]
   },
   {
+    "id": "bergisch-gladbach",
+    "name": "Bergisch Gladbach",
+    "shortName": "GL",
+    "center": [
+      7.1277,
+      50.9929
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.9199,
+      7.0618,
+      51.0269,
+      7.2546
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "beverungen",
     "name": "Beverungen",
     "shortName": "BEV",
@@ -165,6 +165,25 @@
       9.2381,
       51.7377,
       9.4454
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "bochum",
+    "name": "Bochum",
+    "shortName": "BO",
+    "center": [
+      7.2197,
+      51.4818
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4105,
+      7.1021,
+      51.5314,
+      7.3493
     ],
     "defaultCategories": [
       "restmuell"
@@ -260,6 +279,25 @@
       11.2495,
       48.8597,
       11.3324
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "cottbus",
+    "name": "Cottbus",
+    "shortName": "CB",
+    "center": [
+      14.3357,
+      51.7567
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6925,
+      14.2733,
+      51.8642,
+      14.5013
     ],
     "defaultCategories": [
       "restmuell"
@@ -627,6 +665,25 @@
     ]
   },
   {
+    "id": "heidelberg",
+    "name": "Heidelberg",
+    "shortName": "HD",
+    "center": [
+      8.6724,
+      49.3988
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3512,
+      8.5812,
+      49.4524,
+      8.7812
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "heiligenhaus",
     "name": "Heiligenhaus",
     "shortName": "HEI",
@@ -836,6 +893,25 @@
     ]
   },
   {
+    "id": "karlsruhe",
+    "name": "Karlsruhe",
+    "shortName": "KA",
+    "center": [
+      8.4034195,
+      49.0068705
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9404,
+      8.2774,
+      49.0913,
+      8.5417
+    ],
+    "defaultCategories": [
+      "sperrmuell"
+    ]
+  },
+  {
     "id": "kinding",
     "name": "Kinding",
     "shortName": "KIN",
@@ -944,6 +1020,44 @@
       11.4276,
       48.8357,
       11.4799
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "luedenscheid",
+    "name": "Lüdenscheid",
+    "shortName": "MK",
+    "center": [
+      7.6397,
+      51.2181
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1551,
+      7.5522,
+      51.2708,
+      7.7233
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "mainz",
+    "name": "Mainz",
+    "shortName": "MZ",
+    "center": [
+      8.2736,
+      49.9995
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8955,
+      8.1431,
+      50.0353,
+      8.3431
     ],
     "defaultCategories": [
       "restmuell"
@@ -1064,6 +1178,44 @@
     ]
   },
   {
+    "id": "muelheim",
+    "name": "Mülheim an der Ruhr",
+    "shortName": "MH",
+    "center": [
+      6.8829,
+      51.4273
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3507,
+      6.8067,
+      51.4714,
+      6.9595
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "muenster",
+    "name": "Münster",
+    "shortName": "MS",
+    "center": [
+      7.6252,
+      51.9625
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.8401,
+      7.4738,
+      52.06,
+      7.7744
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "nassenfels",
     "name": "Nassenfels",
     "shortName": "NAS",
@@ -1121,6 +1273,25 @@
     ]
   },
   {
+    "id": "norderstedt",
+    "name": "Norderstedt",
+    "shortName": "NIZ",
+    "center": [
+      9.9892,
+      53.709
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6481,
+      9.9348,
+      53.7598,
+      10.0729
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "nuernberg",
     "name": "Nürnberg",
     "shortName": "N",
@@ -1153,6 +1324,25 @@
       11.5611,
       48.8631,
       11.6414
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "oberhausen",
+    "name": "Oberhausen",
+    "shortName": "OB",
+    "center": [
+      6.8514,
+      51.4696
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4487,
+      6.7773,
+      51.58,
+      6.9305
     ],
     "defaultCategories": [
       "restmuell"
@@ -1533,6 +1723,25 @@
       10.0092,
       48.3431,
       10.1248
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "solingen",
+    "name": "Solingen",
+    "shortName": "SG",
+    "center": [
+      7.0846,
+      51.1722
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1142,
+      6.9511,
+      51.2204,
+      7.1741
     ],
     "defaultCategories": [
       "restmuell"
