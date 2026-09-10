@@ -12,14 +12,28 @@
   // Category metadata (key -> label/color) from calendar.json; drives the
   // per-category line/point colors and the popup label.
   export let categories: CategoryMeta[] = [];
+  export let center: [number, number] = [8.4034195, 49.0068705];
+  export let zoom = 12;
 
-  const labelByKey = new Map(categories.map((c) => [c.key, c.label]));
+  $: labelByKey = new Map(categories.map((c) => [c.key, c.label]));
   // MapLibre 'match' expression coloring each feature by its `category` property.
   // Needs at least one case; fall back to red when no categories are known.
-  const categoryColor: DataDrivenPropertyValueSpecification<string> =
+  $: categoryColor = (
     categories.length > 0
       ? (['match', ['get', 'category'], ...categories.flatMap((c) => [c.key, c.color]), '#b91c1c'] as unknown as DataDrivenPropertyValueSpecification<string>)
-      : '#b91c1c';
+      : '#b91c1c'
+  );
+
+  $: if (map && map.isStyleLoaded() && map.getLayer('selected-lines')) {
+    map.setPaintProperty('selected-lines', 'line-color', categoryColor);
+    map.setPaintProperty('selected-points', 'circle-color', categoryColor);
+  }
+
+  let prevCenter = center;
+  $: if (map && (center[0] !== prevCenter[0] || center[1] !== prevCenter[1])) {
+    prevCenter = center;
+    map.flyTo({ center, zoom, duration: 800 });
+  }
 
   let mapContainer: HTMLDivElement;
   let map: MapLibreMap | undefined;
@@ -31,8 +45,6 @@
   export function locate() {
     geolocate?.trigger();
   }
-
-  const center: [number, number] = [8.4034195, 49.0068705];
 
   function getCoordinates(geometry: Geometry | null | undefined): unknown {
     return geometry && 'coordinates' in geometry ? geometry.coordinates : undefined;

@@ -4,23 +4,22 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A static, prerendered SvelteKit site that shows Karlsruhe's waste-collection
-calendar on a map: pick a pickup day, toggle the waste types you care about, and
-see the matching streets highlighted in each category's color. It covers all five
-types the city publishes — **Sperrmüll** (Straßensperrmüll, the annual bulky-waste
-date) plus the recurring **Restmüll**, **Bioabfall**, **Wertstoff** and **Papier** —
-with Sperrmüll enabled by default. The runtime is **Bun**, the UI is **Svelte 5 +
-SvelteKit (adapter-static)**, the map is **MapLibre GL** over OpenStreetMap raster
-tiles. Deployed to GitHub Pages.
+A static, prerendered SvelteKit site that shows German municipal waste-collection
+calendars on an interactive map (currently supporting **Karlsruhe** and **Freiburg im Breisgau**):
+pick a city, choose a pickup day, toggle the waste types you care about, and see the matching
+streets highlighted in each category's color. It covers all types published by each municipality —
+e.g. **Sperrmüll**, **Restmüll**, **Bioabfall**, **Wertstoff/Gelber Sack**, and **Papier**.
+The runtime is **Bun**, the UI is **Svelte 5 + SvelteKit (adapter-static)**, the map is
+**MapLibre GL** over OpenStreetMap raster tiles. Deployed to GitHub Pages.
 
 `README.md` is the user-facing overview (what the app does + how to refresh data);
 this file is the detailed engineering reference. Keep the two in sync when the
 data pipeline or commands change.
 
 **Language convention.** Code, comments, and script log output are written in
-**English**; the user-facing UI is in **German** (it's a Karlsruhe-local tool, so UI
-strings in `src/` stay German). The word *Sperrmüll* is kept verbatim everywhere —
-in German UI, in English comments, and in the source-site match strings.
+**English**; the user-facing UI is in **German** (UI strings in `src/` stay German).
+The word *Sperrmüll* is kept verbatim everywhere — in German UI, in English comments,
+and in the source-site match strings.
 
 ## Commands
 
@@ -28,8 +27,8 @@ in German UI, in English comments, and in the source-site match strings.
 bun run dev            # local dev server (vite)
 bun run build          # static build into build/  (set BASE_PATH for subpath hosting)
 bun run check          # svelte-kit sync + svelte-check type checking
-bun run data:cache     # Overpass-heavy: (re)build the committed caches in data/
-bun run data:refresh   # cheap Karlsruhe-only scrape, regenerates static/data/*.json
+bun run data:cache [city]      # Overpass-heavy: (re)build committed caches in data/[city/] (default: karlsruhe)
+bun run data:refresh [city|all] # cheap scrape/API fetch, regenerates static/data/[city/]* (default: karlsruhe)
 ```
 
 There is no test suite. `bun run check` is the only verification gate. (Note: the
@@ -49,19 +48,19 @@ SPERRMUELL_LIMIT=50 bun run data:cache         # cap streets processed
 ## Architecture
 
 The app is a **three-part pipeline**: a slow Overpass cache build, then a cheap
-scrape that produces the JSON data files, then a purely static frontend that
-renders them. Scripts share `scripts/lib/shared.ts` (the `declare const Bun` blocks
-are intentional — the scripts are *not* part of the SvelteKit type world); the
-frontend shares only the file contracts in `src/lib/types.ts`.
+scrape/fetch that produces the JSON data files, then a purely static frontend that
+renders them. Scripts share `scripts/lib/shared.ts` and `scripts/fetchers/` (the `declare const Bun`
+blocks are intentional — the scripts are *not* part of the SvelteKit type world); the
+frontend shares only the file contracts in `src/lib/types.ts` and city metadata in `src/lib/cities.ts`.
 
-### Stage 0 — cache build (`scripts/build-cache.ts`, `bun run data:cache`)
+### Stage 0 — cache build (`scripts/build-cache.ts`, `bun run data:cache [city]`)
 
 Does **all** the slow, rate-limited, intermittently-flaky Overpass/OSM work and
-writes two **committed** caches into `data/`:
+writes **committed** caches into `data/` (or `data/[city]/`):
 
 - `data/osm-house-numbers.json` — normalized street → real OSM house numbers
-  (year-independent). An empty array means "asked Overpass, none found".
-- `data/geometry-cache.json` — normalized street → raw GeoJSON line/point ways,
+  (year-independent). Only needed for cities like Karlsruhe where the provider requires probing house numbers.
+- `data/[city/]geometry-cache.json` — normalized street → raw GeoJSON line/point ways,
   fetched in shrinking batches because Overpass intermittently returns partial
   `200 OK`s; genuinely unmapped streets fall back to a point.
 
@@ -69,21 +68,19 @@ Run **on demand**, not on every build. Progress is written after every Overpass
 batch, so it is resumable without any signal handling. Because the results are
 committed, CI never touches Overpass.
 
-### Stage 1 — scrape (`scripts/refresh-data.ts`, `bun run data:refresh`)
+### Stage 1 — fetch/scrape (`scripts/refresh-data.ts`, `bun run data:refresh [city|all]`)
 
-The source site (`web4.karlsruhe.de/.../akal_<year>.php`) has no public calendar —
-you can only POST a street + house number and read back that address's schedule.
-This script reads the committed caches and probes **only** the (un-throttled,
-parallelizable) Karlsruhe site, then writes two committed outputs:
+Uses a modular **Fetcher pattern** defined in `scripts/fetchers/types.ts` (`CityFetcher` interface):
 
-- `static/data/calendar.json` — small, inlined into the prerendered HTML:
-  `{ year, generatedAt, categories, days }`. `categories` is the source-of-truth
-  list of the five waste types (key + German `label` + `color`); `days` is the
-  sorted union of every pickup date, each tagged with which categories occur
-  citywide that day (drives the date picker's highlight).
-- `static/data/street-data.json` — large, fetched client-side: per street its
-  `geometry` (`null` when OSM has none — still listed, just not drawn) and, per
-  category, the **indices into `calendar.days`** on which it is collected.
+- **Karlsruhe (`scripts/fetchers/karlsruhe.ts`)**: Probes the Karlsruhe PHP site for Sperrmüll dates
+  and downloads iCal exports for the recurring categories.
+- **Freiburg (`scripts/fetchers/freiburg.ts`)**: Queries the official AbfallPlus GraphQL API
+  (`widgets.abfall.io/graphql`) for districts, streets, and appointments (Restmüll, Bio, Papier, Gelber Sack).
+
+The script runs the chosen fetcher (or all) and writes committed outputs:
+
+- `static/data/[city/]calendar.json` (also mirrored at root `static/data/calendar.json` for Karlsruhe)
+- `static/data/[city/]street-data.json` (also mirrored at root for Karlsruhe)
 
 The build just renders whatever is committed. Run on demand by the `refresh.yml`
 workflow (or locally) — fast and Overpass-free.

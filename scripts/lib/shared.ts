@@ -75,7 +75,13 @@ export const STREET_LIMIT = Number(process.env.SPERRMUELL_LIMIT ?? 0);
 export const USER_AGENT = 'Abfuhrtermine-KA/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)';
 export const KARLSRUHE_SOURCE = `https://web4.karlsruhe.de/service/abfall/akal/akal_${YEAR}.php`;
 export const KARLSRUHE_CENTER: [number, number] = [8.4034195, 49.0068705];
-export const OVERPASS_ENDPOINT = 'https://overpass-api.de/api/interpreter';
+export const OVERPASS_ENDPOINTS = [
+  process.env.OVERPASS_ENDPOINT,
+  'https://overpass.openstreetmap.fr/api/interpreter',
+  'https://overpass-api.de/api/interpreter',
+  'https://overpass.kumi.systems/api/interpreter'
+].filter((ep): ep is string => Boolean(ep));
+export const OVERPASS_ENDPOINT = OVERPASS_ENDPOINTS[0];
 
 export const OVERPASS_MAX_RETRIES = 5;
 export const OVERPASS_BASE_BACKOFF_MS = 2000;
@@ -169,28 +175,33 @@ export function escapeOverpassRegex(value: string) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-export function streetAliases(street: string) {
-  // OSM spells the street suffix "straße" while our source uses "strasse".
-  // Only the suffix is transformed: a naive global ss<->ß swap corrupts names
-  // like "Brahmsstrasse" (-> "Brahmßtraße") or "Esslinger Strasse", which then
-  // match nothing in OSM. The capitalization of the leading S is preserved.
-  const aliases = new Set<string>([street]);
-  aliases.add(street.replace(/strasse/gi, (match) => (match[0] === 'S' ? 'Straße' : 'straße')));
-  aliases.add(street.replace(/straße/gi, (match) => (match[0] === 'S' ? 'Strasse' : 'strasse')));
-  return [...aliases];
+export function streetAliases(street: string): string[] {
+  const set = new Set<string>();
+  const baseNames = [street];
+  // Strip parenthesized district/disambiguation: "Bruggastrasse (Ebnet)" -> "Bruggastrasse"
+  const cleaned = street.replace(/\s*\(.*?\)$/, '').trim();
+  if (cleaned !== street) baseNames.push(cleaned);
+
+  for (const base of baseNames) {
+    set.add(base);
+    // Suffix alias: strasse <-> straße
+    set.add(base.replace(/strasse/gi, (match) => (match[0] === 'S' ? 'Straße' : 'straße')));
+    set.add(base.replace(/straße/gi, (match) => (match[0] === 'S' ? 'Strasse' : 'strasse')));
+    // General ss <-> ß (e.g. Gaußstraße / Floßgraben / Gießerei)
+    set.add(base.replace(/ß/g, 'ss'));
+    set.add(base.replace(/ss/g, 'ß'));
+    // Combined
+    set.add(base.replace(/strasse/gi, 'Straße').replace(/ss/g, 'ß'));
+    set.add(base.replace(/straße/gi, 'Strasse').replace(/ß/g, 'ss'));
+  }
+  return [...set];
 }
 
-/**
- * Resolves the Karlsruhe boundary to a concrete Overpass area id once, so every
- * subsequent query references a stable, unambiguous area instead of re-matching
- * the name (which also picks up an empty admin_level-8 area). Returns the area
- * statement to splice into queries.
- */
-export async function resolveSearchArea(): Promise<string> {
-  const fallback = 'area["name"="Karlsruhe"]["admin_level"="6"]';
+export async function resolveSearchArea(cityName = 'Karlsruhe', adminLevel = 6): Promise<string> {
+  const fallback = `area["name"="${cityName}"]["admin_level"="${adminLevel}"]`;
   try {
     const response = await fetchWithOverpassRetry(
-      '[out:json];rel["name"="Karlsruhe"]["boundary"="administrative"]["admin_level"="6"];out ids 1;',
+      `[out:json];rel["name"="${cityName}"]["boundary"="administrative"]["admin_level"="${adminLevel}"];out ids 1;`,
       'search-area id'
     );
     if (response.ok) {
@@ -198,16 +209,18 @@ export async function resolveSearchArea(): Promise<string> {
       const relationId = payload.elements?.[0]?.id;
       if (relationId) {
         const statement = `area(${3600000000 + relationId})`;
-        console.log(`Karlsruhe search area: ${statement} (relation ${relationId})`);
+        console.log(`${cityName} search area: ${statement} (relation ${relationId})`);
         return statement;
       }
     }
   } catch (error) {
     console.warn('Search area resolution failed, falling back to name lookup:', error);
   }
-  console.log(`Karlsruhe search area (fallback): ${fallback}`);
+  console.log(`${cityName} search area (fallback): ${fallback}`);
   return fallback;
 }
+
+let currentEndpointIndex = 0;
 
 export async function fetchWithOverpassRetry(query: string, label: string): Promise<Response> {
   let delayMs = OVERPASS_BASE_BACKOFF_MS;
@@ -215,34 +228,41 @@ export async function fetchWithOverpassRetry(query: string, label: string): Prom
   let lastError: unknown = null;
 
   for (let attempt = 1; attempt <= OVERPASS_MAX_RETRIES; attempt++) {
+    const endpoint = OVERPASS_ENDPOINTS[currentEndpointIndex % OVERPASS_ENDPOINTS.length];
     try {
-      const response = await fetch(OVERPASS_ENDPOINT, {
+      const response = await fetch(endpoint, {
         method: 'POST',
         headers: {
           'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
           'user-agent': USER_AGENT
         },
-        body: new URLSearchParams({ data: query })
+        body: new URLSearchParams({ data: query }),
+        signal: AbortSignal.timeout(30000)
       });
 
       lastResponse = response;
-      console.log(`Overpass ${label} -> ${response.status} ${response.statusText}`);
+      console.log(`Overpass (${new URL(endpoint).host}) ${label} -> ${response.status} ${response.statusText}`);
 
       const shouldRetry = response.status === 429 || response.status >= 500;
       if (!shouldRetry || attempt >= OVERPASS_MAX_RETRIES) return response;
 
-      // Honor Retry-After when the gateway provides it, otherwise back off
-      // exponentially with a little jitter to avoid lock-step retries.
+      // On 429 or 5xx, try switching to a different mirror
+      currentEndpointIndex++;
+      const nextHost = new URL(OVERPASS_ENDPOINTS[currentEndpointIndex % OVERPASS_ENDPOINTS.length]).host;
+
       const retryAfter = Number(response.headers.get('retry-after'));
       const wait =
         Number.isFinite(retryAfter) && retryAfter > 0 ? retryAfter * 1000 : delayMs + Math.random() * 500;
-      console.log(`  Overpass responded ${response.status}, waiting ${Math.round(wait)} ms (${attempt}/${OVERPASS_MAX_RETRIES})`);
+      console.log(`  Overpass responded ${response.status}, rotating to ${nextHost} after ${Math.round(wait)} ms (${attempt}/${OVERPASS_MAX_RETRIES})`);
       await Bun.sleep(wait);
       delayMs *= 2;
     } catch (error) {
       lastError = error;
+      currentEndpointIndex++;
+      const nextHost = new URL(OVERPASS_ENDPOINTS[currentEndpointIndex % OVERPASS_ENDPOINTS.length]).host;
+
       if (attempt >= OVERPASS_MAX_RETRIES) break;
-      console.log(`  Overpass error (${String(error)}), waiting ${delayMs} ms (${attempt}/${OVERPASS_MAX_RETRIES})`);
+      console.log(`  Overpass error on ${new URL(endpoint).host} (${String(error)}), trying ${nextHost} after ${delayMs} ms (${attempt}/${OVERPASS_MAX_RETRIES})`);
       await Bun.sleep(delayMs);
       delayMs *= 2;
     }
