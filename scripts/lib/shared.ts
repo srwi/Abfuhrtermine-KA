@@ -188,6 +188,19 @@ export function streetAliases(street: string): string[] {
   const cleaned = street.replace(/\s*\(.*?\)$/, '').trim();
   if (cleaned !== street) baseNames.push(cleaned);
 
+  // Expand abbreviations common in Bavarian/municipal waste lists
+  for (const base of [...baseNames]) {
+    if (/str\.$/i.test(base)) {
+      baseNames.push(base.replace(/Str\.$/, 'Straße').replace(/str\.$/, 'straße'));
+    }
+    if (/pl\.$/i.test(base)) {
+      baseNames.push(base.replace(/Pl\.$/, 'Platz').replace(/pl\.$/, 'platz'));
+    }
+    if (/wg\.$/i.test(base)) {
+      baseNames.push(base.replace(/Wg\.$/, 'Weg').replace(/wg\.$/, 'weg'));
+    }
+  }
+
   for (const base of baseNames) {
     set.add(base);
     // Suffix alias: strasse <-> straße

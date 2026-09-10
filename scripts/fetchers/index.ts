@@ -4,6 +4,8 @@ import { FreiburgFetcher } from './freiburg.ts';
 import { AachenFetcher } from './aachen.ts';
 import { NuernbergFetcher } from './nuernberg.ts';
 import { DarmstadtFetcher } from './darmstadt.ts';
+import { JumoMindFetcher, type JumoMindConfig } from './jumomind.ts';
+import jumoCitiesRaw from './jumomind-cities.json';
 
 export * from './types.ts';
 export * from './karlsruhe.ts';
@@ -14,12 +16,18 @@ export * from './nuernberg.ts';
 export * from './jumomind.ts';
 export * from './darmstadt.ts';
 
+const jumoCities = jumoCitiesRaw as JumoMindConfig[];
+
+export const JUMOMIND_FETCHERS: CityFetcher[] = jumoCities.map(
+  (cfg) => (cfg.id === 'darmstadt' ? new DarmstadtFetcher() : new JumoMindFetcher(cfg))
+);
+
 export const FETCHERS: CityFetcher[] = [
   new KarlsruheFetcher(),
   new FreiburgFetcher(),
   new AachenFetcher(),
   new NuernbergFetcher(),
-  new DarmstadtFetcher()
+  ...JUMOMIND_FETCHERS
 ];
 
 export const FETCHER_MAP = new Map<string, CityFetcher>(

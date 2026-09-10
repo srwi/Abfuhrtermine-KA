@@ -53,7 +53,7 @@ interface JumoMindAppointment {
  * and trailing house number ranges (e.g. "Adelungstraße 1-41, 2-38" -> "Adelungstraße").
  */
 export function cleanJumoMindStreetName(raw: string): string {
-  let cleaned = raw.replace(/\s*\([^)]*\)$/, '').trim();
+  let cleaned = raw.replace(/\s*\([^)]*(\)|$)/, '').trim();
   cleaned = cleaned.replace(/\s+\d+.*$/, '').trim();
   return cleaned || raw.trim();
 }

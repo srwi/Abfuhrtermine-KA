@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "ingolstadt",
+    "name": "Ingolstadt",
+    "shortName": "IN",
+    "serviceId": "ingol",
+    "cityId": "87",
+    "center": [
+      11.3797,
+      48.7534
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6839,
+      11.2559,
+      48.8229,
+      11.5034
+    ]
+  },
+  {
+    "id": "recklinghausen",
+    "name": "Recklinghausen",
+    "shortName": "RE",
+    "serviceId": "ksr",
+    "cityId": "87",
+    "center": [
+      7.2155,
+      51.6021
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5527,
+      7.1348,
+      51.6514,
+      7.2963
+    ]
+  },
+  {
+    "id": "minden",
+    "name": "Minden",
+    "shortName": "MI",
+    "serviceId": "sbm",
+    "cityId": "87",
+    "center": [
+      8.8952,
+      52.306
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2471,
+      8.7921,
+      52.3649,
+      8.9983
+    ]
+  },
+  {
+    "id": "bad-homburg",
+    "name": "Bad Homburg",
+    "shortName": "HG",
+    "serviceId": "hom",
+    "cityId": "1",
+    "center": [
+      8.6042,
+      50.2374
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.2003,
+      8.4961,
+      50.2745,
+      8.7124
+    ]
+  },
+  {
+    "id": "hattersheim",
+    "name": "Hattersheim",
+    "shortName": "HAT",
+    "serviceId": "hat",
+    "cityId": "1",
+    "center": [
+      8.4815,
+      50.0683
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0506,
+      8.452,
+      50.0859,
+      8.5109
+    ]
+  },
+  {
+    "id": "neustadt",
+    "name": "Neustadt an der Weinstraße",
+    "shortName": "NW",
+    "serviceId": "esn",
+    "cityId": "1",
+    "center": [
+      8.1415,
+      49.3524
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3082,
+      8.0494,
+      49.4005,
+      8.2435
+    ]
+  },
+  {
+    "id": "adelschlag",
+    "name": "Adelschlag",
+    "shortName": "ADE",
+    "serviceId": "mymuell",
+    "cityId": "70865",
+    "center": [
+      11.191,
+      48.8458
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.807,
+      11.0959,
+      48.8847,
+      11.286
+    ]
+  },
+  {
+    "id": "altmannstein",
+    "name": "Altmannstein",
+    "shortName": "ALT",
+    "serviceId": "mymuell",
+    "cityId": "71176",
+    "center": [
+      11.6261,
+      48.9094
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8578,
+      11.508,
+      48.9611,
+      11.7442
+    ]
+  },
+  {
+    "id": "bad-arolsen",
+    "name": "Bad Arolsen",
+    "shortName": "BAD",
+    "serviceId": "mymuell",
+    "cityId": "71157",
+    "center": [
+      9.0235,
+      51.358
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2676,
+      8.918,
+      51.4485,
+      9.129
+    ]
+  },
+  {
+    "id": "bad-lippspringe",
+    "name": "Bad Lippspringe",
+    "shortName": "BAD",
+    "serviceId": "mymuell",
+    "cityId": "3150",
+    "center": [
+      8.8258,
+      51.7923
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7513,
+      8.7228,
+      51.8333,
+      8.9289
+    ]
+  },
+  {
+    "id": "beilngries",
+    "name": "Beilngries",
+    "shortName": "BEI",
+    "serviceId": "mymuell",
+    "cityId": "71186",
+    "center": [
+      11.4903,
+      49.0197
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9516,
+      11.3855,
+      49.0877,
+      11.5951
+    ]
+  },
+  {
+    "id": "beverungen",
+    "name": "Beverungen",
+    "shortName": "BEV",
+    "serviceId": "mymuell",
+    "cityId": "5155",
+    "center": [
+      9.3418,
+      51.6744
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6112,
+      9.2381,
+      51.7377,
+      9.4454
+    ]
+  },
+  {
+    "id": "bockhorn",
+    "name": "Bockhorn",
+    "shortName": "BOC",
+    "serviceId": "mymuell",
+    "cityId": "6186",
+    "center": [
+      8.0142,
+      53.3855
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3046,
+      7.9295,
+      53.4665,
+      8.0988
+    ]
+  },
+  {
+    "id": "boehmfeld",
+    "name": "Böhmfeld",
+    "shortName": "BÖH",
+    "serviceId": "mymuell",
+    "cityId": "70872",
+    "center": [
+      11.3737,
+      48.8727
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8465,
+      11.3405,
+      48.8989,
+      11.4069
+    ]
+  },
+  {
+    "id": "borkum",
+    "name": "Borkum",
+    "shortName": "BOR",
+    "serviceId": "mymuell",
+    "cityId": "6733",
+    "center": [
+      6.7339,
+      53.5876
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.557,
+      6.6543,
+      53.6182,
+      6.8135
+    ]
+  },
+  {
+    "id": "bunde",
+    "name": "Bunde",
+    "shortName": "BUN",
+    "serviceId": "mymuell",
+    "cityId": "8517",
+    "center": [
+      7.2495,
+      53.2158
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1132,
+      7.1789,
+      53.3184,
+      7.3202
+    ]
+  },
+  {
+    "id": "buxheim",
+    "name": "Buxheim",
+    "shortName": "BUX",
+    "serviceId": "mymuell",
+    "cityId": "70873",
+    "center": [
+      11.2909,
+      48.8207
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7818,
+      11.2495,
+      48.8597,
+      11.3324
+    ]
+  },
+  {
+    "id": "darmstadt",
+    "name": "Darmstadt",
+    "shortName": "DAR",
+    "serviceId": "mymuell",
+    "cityId": "9934",
+    "center": [
+      8.654,
+      49.8747
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7957,
+      8.5582,
+      49.9538,
+      8.7499
+    ]
+  },
+  {
+    "id": "delbrueck",
+    "name": "Delbrück",
+    "shortName": "DEL",
+    "serviceId": "mymuell",
+    "cityId": "67098",
+    "center": [
+      8.5419,
+      51.774
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7042,
+      8.4028,
+      51.8437,
+      8.681
+    ]
+  },
+  {
+    "id": "denkendorf",
+    "name": "Denkendorf",
+    "shortName": "DEN",
+    "serviceId": "mymuell",
+    "cityId": "197",
+    "center": [
+      11.452,
+      48.9218
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8821,
+      11.3812,
+      48.9612,
+      11.5212
+    ]
+  },
+  {
+    "id": "dollnstein",
+    "name": "Dollnstein",
+    "shortName": "DOL",
+    "serviceId": "mymuell",
+    "cityId": "70874",
+    "center": [
+      11.0938,
+      48.8691
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8342,
+      11.0397,
+      48.904,
+      11.1479
+    ]
+  },
+  {
+    "id": "egweil",
+    "name": "Egweil",
+    "shortName": "EGW",
+    "serviceId": "mymuell",
+    "cityId": "70875",
+    "center": [
+      11.2214,
+      48.7866
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7715,
+      11.1804,
+      48.8017,
+      11.2625
+    ]
+  },
+  {
+    "id": "eichstaett",
+    "name": "Eichstätt",
+    "shortName": "EIC",
+    "serviceId": "mymuell",
+    "cityId": "71167",
+    "center": [
+      11.2021,
+      48.8865
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8496,
+      11.1286,
+      48.9234,
+      11.2756
+    ]
+  },
+  {
+    "id": "eitensheim",
+    "name": "Eitensheim",
+    "shortName": "EIT",
+    "serviceId": "mymuell",
+    "cityId": "70877",
+    "center": [
+      11.3079,
+      48.8264
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7937,
+      11.2706,
+      48.8591,
+      11.3451
+    ]
+  },
+  {
+    "id": "elsdorf",
+    "name": "Elsdorf",
+    "shortName": "ELS",
+    "serviceId": "mymuell",
+    "cityId": "13707",
+    "center": [
+      6.5645,
+      50.9381
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.8921,
+      6.5012,
+      50.9812,
+      6.6412
+    ]
+  },
+  {
+    "id": "erkrath",
+    "name": "Erkrath",
+    "shortName": "ERK",
+    "serviceId": "mymuell",
+    "cityId": "14379",
+    "center": [
+      6.9331,
+      51.2176
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1927,
+      6.8711,
+      51.2425,
+      6.9952
+    ]
+  },
+  {
+    "id": "flensburg",
+    "name": "Flensburg",
+    "shortName": "FL",
+    "serviceId": "mymuell",
+    "cityId": "15818",
+    "center": [
+      9.4322,
+      54.7944
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.7518,
+      9.3573,
+      54.8371,
+      9.5072
+    ]
+  },
+  {
+    "id": "gaimersheim",
+    "name": "Gaimersheim",
+    "shortName": "GAI",
+    "serviceId": "mymuell",
+    "cityId": "71169",
+    "center": [
+      11.3617,
+      48.8137
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7775,
+      11.3265,
+      48.85,
+      11.397
+    ]
+  },
+  {
+    "id": "gelnhausen",
+    "name": "Gelnhausen",
+    "shortName": "GEL",
+    "serviceId": "mymuell",
+    "cityId": "17829",
+    "center": [
+      9.1915,
+      50.2059
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1628,
+      9.111,
+      50.2489,
+      9.272
+    ]
+  },
+  {
+    "id": "glashuetten",
+    "name": "Glashütten",
+    "shortName": "GLA",
+    "serviceId": "mymuell",
+    "cityId": "18531",
+    "center": [
+      8.4018,
+      50.2154
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1821,
+      8.3512,
+      50.2451,
+      8.4512
+    ]
+  },
+  {
+    "id": "graevenwiesbach",
+    "name": "Grävenwiesbach",
+    "shortName": "GRÄ",
+    "serviceId": "mymuell",
+    "cityId": "19694",
+    "center": [
+      8.4535,
+      50.3804
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3456,
+      8.3877,
+      50.4152,
+      8.5194
+    ]
+  },
+  {
+    "id": "grossmehring",
+    "name": "Großmehring",
+    "shortName": "GRO",
+    "serviceId": "mymuell",
+    "cityId": "70879",
+    "center": [
+      11.5471,
+      48.7831
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7327,
+      11.4892,
+      48.8335,
+      11.6051
+    ]
+  },
+  {
+    "id": "haan",
+    "name": "Haan",
+    "shortName": "HAA",
+    "serviceId": "mymuell",
+    "cityId": "21804",
+    "center": [
+      7.0056,
+      51.208
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1719,
+      6.9594,
+      51.2441,
+      7.0518
+    ]
+  },
+  {
+    "id": "hainburg",
+    "name": "Hainburg",
+    "shortName": "HAI",
+    "serviceId": "mymuell",
+    "cityId": "71151",
+    "center": [
+      8.9483,
+      50.0677
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.045,
+      8.9052,
+      50.0904,
+      8.9914
+    ]
+  },
+  {
+    "id": "heiligenhaus",
+    "name": "Heiligenhaus",
+    "shortName": "HEI",
+    "serviceId": "mymuell",
+    "cityId": "23911",
+    "center": [
+      6.9653,
+      51.3274
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2954,
+      6.9181,
+      51.3594,
+      7.0124
+    ]
+  },
+  {
+    "id": "hepberg",
+    "name": "Hepberg",
+    "shortName": "HEP",
+    "serviceId": "mymuell",
+    "cityId": "71185",
+    "center": [
+      11.4603,
+      48.8281
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8168,
+      11.4434,
+      48.8394,
+      11.4773
+    ]
+  },
+  {
+    "id": "hesel",
+    "name": "Hesel",
+    "shortName": "HES",
+    "serviceId": "mymuell",
+    "cityId": "24926",
+    "center": [
+      7.6113,
+      53.3069
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2567,
+      7.5425,
+      53.357,
+      7.6801
+    ]
+  },
+  {
+    "id": "hilden",
+    "name": "Hilden",
+    "shortName": "HIL",
+    "serviceId": "mymuell",
+    "cityId": "25216",
+    "center": [
+      6.9387,
+      51.1693
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1405,
+      6.8908,
+      51.1981,
+      6.9866
+    ]
+  },
+  {
+    "id": "hitzhofen",
+    "name": "Hitzhofen",
+    "shortName": "HIT",
+    "serviceId": "mymuell",
+    "cityId": "70863",
+    "center": [
+      11.3126,
+      48.8745
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8366,
+      11.2687,
+      48.9123,
+      11.3565
+    ]
+  },
+  {
+    "id": "hoevelhof",
+    "name": "Hövelhof",
+    "shortName": "HÖV",
+    "serviceId": "mymuell",
+    "cityId": "27449",
+    "center": [
+      8.6682,
+      51.8354
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7926,
+      8.5707,
+      51.8782,
+      8.7657
+    ]
+  },
+  {
+    "id": "jemgum",
+    "name": "Jemgum",
+    "shortName": "JEM",
+    "serviceId": "mymuell",
+    "cityId": "28880",
+    "center": [
+      7.3169,
+      53.269
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2124,
+      7.2271,
+      53.3256,
+      7.4067
+    ]
+  },
+  {
+    "id": "jever",
+    "name": "Jever",
+    "shortName": "JEV",
+    "serviceId": "mymuell",
+    "cityId": "28981",
+    "center": [
+      7.8842,
+      53.5519
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5009,
+      7.8154,
+      53.6028,
+      7.953
+    ]
+  },
+  {
+    "id": "juemme",
+    "name": "Jümme",
+    "shortName": "JÜM",
+    "serviceId": "mymuell",
+    "cityId": "71142",
+    "center": [
+      7.6069,
+      53.2072
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1816,
+      7.5247,
+      53.2328,
+      7.689
+    ]
+  },
+  {
+    "id": "kamp-lintfort",
+    "name": "Kamp-Lintfort",
+    "shortName": "KAM",
+    "serviceId": "mymuell",
+    "cityId": "29626",
+    "center": [
+      6.5193,
+      51.5201
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4721,
+      6.4484,
+      51.5681,
+      6.5902
+    ]
+  },
+  {
+    "id": "kinding",
+    "name": "Kinding",
+    "shortName": "KIN",
+    "serviceId": "mymuell",
+    "cityId": "70896",
+    "center": [
+      11.3823,
+      49.001
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9697,
+      11.2855,
+      49.0324,
+      11.4792
+    ]
+  },
+  {
+    "id": "kipfenberg",
+    "name": "Kipfenberg",
+    "shortName": "KIP",
+    "serviceId": "mymuell",
+    "cityId": "71174",
+    "center": [
+      11.3596,
+      48.9299
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8682,
+      11.2607,
+      48.9915,
+      11.4586
+    ]
+  },
+  {
+    "id": "koesching",
+    "name": "Kösching",
+    "shortName": "KÖS",
+    "serviceId": "mymuell",
+    "cityId": "71177",
+    "center": [
+      11.5197,
+      48.8423
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7843,
+      11.4685,
+      48.9004,
+      11.5709
+    ]
+  },
+  {
+    "id": "langenfeld",
+    "name": "Langenfeld",
+    "shortName": "LAN",
+    "serviceId": "mymuell",
+    "cityId": "35105",
+    "center": [
+      6.95,
+      51.112
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0821,
+      6.9012,
+      51.1524,
+      7.0051
+    ]
+  },
+  {
+    "id": "leer",
+    "name": "Leer",
+    "shortName": "LER",
+    "serviceId": "mymuell",
+    "cityId": "35721",
+    "center": [
+      7.466,
+      53.2312
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1895,
+      7.3912,
+      53.2721,
+      7.5512
+    ]
+  },
+  {
+    "id": "lenting",
+    "name": "Lenting",
+    "shortName": "LEN",
+    "serviceId": "mymuell",
+    "cityId": "70903",
+    "center": [
+      11.4537,
+      48.8143
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7929,
+      11.4276,
+      48.8357,
+      11.4799
+    ]
+  },
+  {
+    "id": "mettmann",
+    "name": "Mettmann",
+    "shortName": "MET",
+    "serviceId": "mymuell",
+    "cityId": "39764",
+    "center": [
+      6.9839,
+      51.256
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.217,
+      6.9269,
+      51.2949,
+      7.0409
+    ]
+  },
+  {
+    "id": "mindelstetten",
+    "name": "Mindelstetten",
+    "shortName": "MIN",
+    "serviceId": "mymuell",
+    "cityId": "70904",
+    "center": [
+      11.6228,
+      48.8555
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8238,
+      11.5669,
+      48.8872,
+      11.6787
+    ]
+  },
+  {
+    "id": "moormerland",
+    "name": "Moormerland",
+    "shortName": "MOO",
+    "serviceId": "mymuell",
+    "cityId": "71133",
+    "center": [
+      7.4294,
+      53.3243
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2726,
+      7.2988,
+      53.376,
+      7.5599
+    ]
+  },
+  {
+    "id": "moernsheim",
+    "name": "Mörnsheim",
+    "shortName": "MÖR",
+    "serviceId": "mymuell",
+    "cityId": "70883",
+    "center": [
+      10.9959,
+      48.8541
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8209,
+      10.9372,
+      48.8873,
+      11.0545
+    ]
+  },
+  {
+    "id": "muehlheim-am-main",
+    "name": "Mühlheim am Main",
+    "shortName": "MÜH",
+    "serviceId": "mymuell",
+    "cityId": "41191",
+    "center": [
+      8.8471,
+      50.1049
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0765,
+      8.8074,
+      50.1334,
+      8.8868
+    ]
+  },
+  {
+    "id": "nassenfels",
+    "name": "Nassenfels",
+    "shortName": "NAS",
+    "serviceId": "mymuell",
+    "cityId": "70884",
+    "center": [
+      11.2129,
+      48.8107
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7889,
+      11.1491,
+      48.8325,
+      11.2768
+    ]
+  },
+  {
+    "id": "neumuenster",
+    "name": "Neumünster",
+    "shortName": "NMS",
+    "serviceId": "mymuell",
+    "cityId": "42995",
+    "center": [
+      9.9921,
+      54.0837
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0176,
+      9.9256,
+      54.1497,
+      10.0585
+    ]
+  },
+  {
+    "id": "oberdolling",
+    "name": "Oberdolling",
+    "shortName": "OBE",
+    "serviceId": "mymuell",
+    "cityId": "70905",
+    "center": [
+      11.6012,
+      48.8372
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8113,
+      11.5611,
+      48.8631,
+      11.6414
+    ]
+  },
+  {
+    "id": "ostrhauderfehn",
+    "name": "Ostrhauderfehn",
+    "shortName": "OST",
+    "serviceId": "mymuell",
+    "cityId": "47741",
+    "center": [
+      7.622,
+      53.1361
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0577,
+      7.5746,
+      53.2145,
+      7.6694
+    ]
+  },
+  {
+    "id": "paderborn",
+    "name": "Paderborn",
+    "shortName": "PB",
+    "serviceId": "mymuell",
+    "cityId": "48001",
+    "center": [
+      8.7684,
+      51.7275
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6542,
+      8.6363,
+      51.8008,
+      8.9006
+    ]
+  },
+  {
+    "id": "pfoerring",
+    "name": "Pförring",
+    "shortName": "PFÖ",
+    "serviceId": "mymuell",
+    "cityId": "70906",
+    "center": [
+      11.6853,
+      48.8241
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7739,
+      11.6295,
+      48.8743,
+      11.7411
+    ]
+  },
+  {
+    "id": "pollenfeld",
+    "name": "Pollenfeld",
+    "shortName": "POL",
+    "serviceId": "mymuell",
+    "cityId": "70885",
+    "center": [
+      11.2083,
+      48.9392
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9079,
+      11.1231,
+      48.9704,
+      11.2934
+    ]
+  },
+  {
+    "id": "ratingen",
+    "name": "Ratingen",
+    "shortName": "RAT",
+    "serviceId": "mymuell",
+    "cityId": "50669",
+    "center": [
+      6.8922,
+      51.3182
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2645,
+      6.8012,
+      51.3718,
+      6.9831
+    ]
+  },
+  {
+    "id": "rhauderfehn",
+    "name": "Rhauderfehn",
+    "shortName": "RHA",
+    "serviceId": "mymuell",
+    "cityId": "71136",
+    "center": [
+      7.5504,
+      53.1254
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0339,
+      7.4946,
+      53.2169,
+      7.6061
+    ]
+  },
+  {
+    "id": "rheinberg",
+    "name": "Rheinberg",
+    "shortName": "RHE",
+    "serviceId": "mymuell",
+    "cityId": "51761",
+    "center": [
+      6.6166,
+      51.5641
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5035,
+      6.5335,
+      51.6247,
+      6.6996
+    ]
+  },
+  {
+    "id": "salzgitter",
+    "name": "Salzgitter",
+    "shortName": "SZ",
+    "serviceId": "mymuell",
+    "cityId": "53967",
+    "center": [
+      10.3693,
+      52.1179
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0131,
+      10.2308,
+      52.2227,
+      10.5078
+    ]
+  },
+  {
+    "id": "salzkotten",
+    "name": "Salzkotten",
+    "shortName": "SAL",
+    "serviceId": "mymuell",
+    "cityId": "38496",
+    "center": [
+      8.5969,
+      51.6674
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6048,
+      8.4681,
+      51.7299,
+      8.7256
+    ]
+  },
+  {
+    "id": "sande",
+    "name": "Sande",
+    "shortName": "SAN",
+    "serviceId": "mymuell",
+    "cityId": "54039",
+    "center": [
+      7.9956,
+      53.4934
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4612,
+      7.9284,
+      53.5257,
+      8.0628
+    ]
+  },
+  {
+    "id": "schernfeld",
+    "name": "Schernfeld",
+    "shortName": "SCH",
+    "serviceId": "mymuell",
+    "cityId": "70886",
+    "center": [
+      11.1059,
+      48.9257
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8845,
+      11.0271,
+      48.9668,
+      11.1847
+    ]
+  },
+  {
+    "id": "schmitten-im-taunus",
+    "name": "Schmitten im Taunus",
+    "shortName": "SCH",
+    "serviceId": "mymuell",
+    "cityId": "55620",
+    "center": [
+      8.4458,
+      50.2669
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.2257,
+      8.394,
+      50.3081,
+      8.4976
+    ]
+  },
+  {
+    "id": "schoeneck-buedesheim",
+    "name": "Schöneck-Büdesheim",
+    "shortName": "SCH",
+    "serviceId": "mymuell",
+    "cityId": "8366",
+    "center": [
+      8.8436,
+      50.2148
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.2147,
+      8.8435,
+      50.2148,
+      8.8436
+    ]
+  },
+  {
+    "id": "schoeneck-kilianstaedten",
+    "name": "Schöneck-Kilianstädten",
+    "shortName": "SCH",
+    "serviceId": "mymuell",
+    "cityId": "30582",
+    "center": [
+      8.8405,
+      50.2018
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.2018,
+      8.8405,
+      50.2019,
+      8.8406
+    ]
+  },
+  {
+    "id": "schortens",
+    "name": "Schortens",
+    "shortName": "SCH",
+    "serviceId": "mymuell",
+    "cityId": "56147",
+    "center": [
+      7.9385,
+      53.5526
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.504,
+      7.8272,
+      53.6012,
+      8.0499
+    ]
+  },
+  {
+    "id": "seligenstadt-froschhausen",
+    "name": "Seligenstadt-Froschhausen",
+    "shortName": "SEL",
+    "serviceId": "mymuell",
+    "cityId": "71045",
+    "center": [
+      8.9321,
+      50.0492
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0361,
+      8.9054,
+      50.0623,
+      8.9589
+    ]
+  },
+  {
+    "id": "seligenstadt-klein-welzheim",
+    "name": "Seligenstadt-Klein-Welzheim",
+    "shortName": "SEL",
+    "serviceId": "mymuell",
+    "cityId": "71044",
+    "center": [
+      8.9996,
+      50.0322
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0186,
+      8.9758,
+      50.0458,
+      9.0234
+    ]
+  },
+  {
+    "id": "seligenstadt-seligenstadt",
+    "name": "Seligenstadt-Seligenstadt",
+    "shortName": "SEL",
+    "serviceId": "mymuell",
+    "cityId": "57224",
+    "center": [
+      8.9528,
+      50.0278
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9959,
+      8.9149,
+      50.0598,
+      8.9908
+    ]
+  },
+  {
+    "id": "senden",
+    "name": "Senden",
+    "shortName": "SEN",
+    "serviceId": "mymuell",
+    "cityId": "57310",
+    "center": [
+      10.067,
+      48.3206
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2982,
+      10.0092,
+      48.3431,
+      10.1248
+    ]
+  },
+  {
+    "id": "stammham",
+    "name": "Stammham",
+    "shortName": "STA",
+    "serviceId": "mymuell",
+    "cityId": "70907",
+    "center": [
+      11.4736,
+      48.8675
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8328,
+      11.403,
+      48.9021,
+      11.5443
+    ]
+  },
+  {
+    "id": "titting",
+    "name": "Titting",
+    "shortName": "TIT",
+    "serviceId": "mymuell",
+    "cityId": "70887",
+    "center": [
+      11.2158,
+      49.0063
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9598,
+      11.1393,
+      49.0528,
+      11.2922
+    ]
+  },
+  {
+    "id": "uplengen",
+    "name": "Uplengen",
+    "shortName": "UPL",
+    "serviceId": "mymuell",
+    "cityId": "71134",
+    "center": [
+      7.7756,
+      53.3041
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2322,
+      7.6659,
+      53.376,
+      7.8853
+    ]
+  },
+  {
+    "id": "usingen",
+    "name": "Usingen",
+    "shortName": "USI",
+    "serviceId": "mymuell",
+    "cityId": "63792",
+    "center": [
+      8.5232,
+      50.3508
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3034,
+      8.4343,
+      50.3982,
+      8.6121
+    ]
+  },
+  {
+    "id": "varel",
+    "name": "Varel",
+    "shortName": "VAR",
+    "serviceId": "mymuell",
+    "cityId": "63935",
+    "center": [
+      8.12,
+      53.387
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3209,
+      8.0322,
+      53.4531,
+      8.2079
+    ]
+  },
+  {
+    "id": "voehringen",
+    "name": "Vöhringen",
+    "shortName": "VÖH",
+    "serviceId": "mymuell",
+    "cityId": "64441",
+    "center": [
+      8.67,
+      48.3272
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2999,
+      8.6196,
+      48.3544,
+      8.7204
+    ]
+  },
+  {
+    "id": "volkmarsen",
+    "name": "Volkmarsen",
+    "shortName": "VOL",
+    "serviceId": "mymuell",
+    "cityId": "64540",
+    "center": [
+      9.1005,
+      51.4112
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3564,
+      9.0267,
+      51.466,
+      9.1743
+    ]
+  },
+  {
+    "id": "walting",
+    "name": "Walting",
+    "shortName": "WAL",
+    "serviceId": "mymuell",
+    "cityId": "70864",
+    "center": [
+      11.3085,
+      48.9076
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8646,
+      11.2463,
+      48.9505,
+      11.3707
+    ]
+  },
+  {
+    "id": "wangerland",
+    "name": "Wangerland",
+    "shortName": "WAN",
+    "serviceId": "mymuell",
+    "cityId": "71046",
+    "center": [
+      7.9496,
+      53.647
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5786,
+      7.8089,
+      53.7154,
+      8.0902
+    ]
+  },
+  {
+    "id": "wangerooge",
+    "name": "Wangerooge",
+    "shortName": "WAN",
+    "serviceId": "mymuell",
+    "cityId": "65613",
+    "center": [
+      7.907,
+      53.7842
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7738,
+      7.8466,
+      53.7945,
+      7.9673
+    ]
+  },
+  {
+    "id": "weener",
+    "name": "Weener",
+    "shortName": "WEE",
+    "serviceId": "mymuell",
+    "cityId": "65980",
+    "center": [
+      7.329,
+      53.1657
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.101,
+      7.2462,
+      53.2305,
+      7.4118
+    ]
+  },
+  {
+    "id": "wegberg",
+    "name": "Wegberg",
+    "shortName": "WEG",
+    "serviceId": "mymuell",
+    "cityId": "66005",
+    "center": [
+      6.2474,
+      51.1457
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1011,
+      6.1388,
+      51.1902,
+      6.3561
+    ]
+  },
+  {
+    "id": "wellheim",
+    "name": "Wellheim",
+    "shortName": "WEL",
+    "serviceId": "mymuell",
+    "cityId": "70888",
+    "center": [
+      11.1028,
+      48.8182
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7901,
+      11.0323,
+      48.8464,
+      11.1734
+    ]
+  },
+  {
+    "id": "westoverledingen",
+    "name": "Westoverledingen",
+    "shortName": "WES",
+    "serviceId": "mymuell",
+    "cityId": "71135",
+    "center": [
+      7.4392,
+      53.1456
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0769,
+      7.3628,
+      53.2143,
+      7.5157
+    ]
+  },
+  {
+    "id": "wettstetten",
+    "name": "Wettstetten",
+    "shortName": "WET",
+    "serviceId": "mymuell",
+    "cityId": "70908",
+    "center": [
+      11.4068,
+      48.837
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8113,
+      11.3726,
+      48.8628,
+      11.441
+    ]
+  },
+  {
+    "id": "wilhelmshaven",
+    "name": "Wilhelmshaven",
+    "shortName": "WHV",
+    "serviceId": "mymuell",
+    "cityId": "67947",
+    "center": [
+      8.0823,
+      53.57
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5021,
+      7.9936,
+      53.6378,
+      8.1711
+    ]
+  },
+  {
+    "id": "wuelfrath",
+    "name": "Wülfrath",
+    "shortName": "WÜL",
+    "serviceId": "mymuell",
+    "cityId": "69305",
+    "center": [
+      7.0397,
+      51.2903
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2547,
+      6.9805,
+      51.326,
+      7.099
+    ]
+  },
+  {
+    "id": "zetel",
+    "name": "Zetel",
+    "shortName": "ZET",
+    "serviceId": "mymuell",
+    "cityId": "69891",
+    "center": [
+      7.9634,
+      53.4059
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.336,
+      7.8586,
+      53.4758,
+      8.0682
+    ]
+  }
+]

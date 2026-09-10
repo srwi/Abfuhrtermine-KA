@@ -168,7 +168,13 @@ out geom;`;
   for (const street of streets) {
     const key = normalizeStreet(street);
     const keyCleaned = normalizeStreet(street.replace(/\s*\(.*?\)$/, ''));
-    const ways = waysByName.get(key) ?? waysByName.get(keyCleaned);
+    let ways = waysByName.get(key) ?? waysByName.get(keyCleaned);
+    if (!ways) {
+      for (const alias of streetAliases(street)) {
+        ways = waysByName.get(normalizeStreet(alias));
+        if (ways) break;
+      }
+    }
     if (!ways) continue;
     const geometry = waysToGeoJson(ways);
     if (geometry) result.set(key, { street, geometry });
