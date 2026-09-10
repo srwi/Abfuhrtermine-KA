@@ -1045,6 +1045,25 @@
     ]
   },
   {
+    "id": "koeln",
+    "name": "Köln",
+    "shortName": "K",
+    "center": [
+      6.9599,
+      50.9383
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.8304,
+      6.7725,
+      51.0849,
+      7.162
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "koesching",
     "name": "Kösching",
     "shortName": "KÖS",
