@@ -134,8 +134,18 @@ export class RegioItFetcher implements CityFetcher {
       throw new Error(`[${this.name}] No city entries found for service domain ${this.serviceDomain}`);
     }
 
-    // Match city by name or take the first one if only one exists
-    const city = orte.find((o) => o.name.toLowerCase() === this.name.toLowerCase()) ?? orte[0];
+    // Match city by name with fallback strategies:
+    // 1. Exact match
+    // 2. Strip parentheticals from both sides (e.g. "Senden (Westfalen)" matches "Senden")
+    // 3. Prefix match (e.g. "Halle (Westf)" matches "Halle (Westfalen)")
+    // 4. Fall back to first entry for single-city domains
+    const nameLower = this.name.toLowerCase();
+    const nameBase = nameLower.replace(/\s*\(.*?\)\s*$/, '').trim();
+    const city =
+      orte.find((o) => o.name.toLowerCase() === nameLower) ??
+      orte.find((o) => o.name.toLowerCase() === nameBase) ??
+      orte.find((o) => o.name.toLowerCase().replace(/\s*\(.*?\)\s*$/, '').trim() === nameBase) ??
+      orte[0];
     console.log(`[${this.name}] Using city ID ${city.id} (${city.name})`);
 
     const strassen = await this.fetchJson<RegioItStrasse[]>(`orte/${city.id}/strassen`);
