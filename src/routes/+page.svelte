@@ -6,7 +6,14 @@
   import MapView from '$lib/components/MapView.svelte';
   import DatePicker from '$lib/components/DatePicker.svelte';
   import ThemeToggle from '$lib/components/ThemeToggle.svelte';
-  import { CITIES, CITY_MAP, DEFAULT_CITY, type CityInfo } from '$lib/cities';
+  import {
+    CITIES,
+    CITY_MAP,
+    DEFAULT_CITY,
+    getCityCalendarUrl,
+    getCityStreetDataUrl,
+    type CityInfo
+  } from '$lib/cities';
   import type { CalendarFile, CategoryKey, StreetDataFile } from '$lib/types';
   import { buildStreetLookup, selectStreetsForDay, buildFeatureCollection, type StreetEntry } from '$lib/street-data';
 
@@ -61,34 +68,28 @@
   let streetLookup = new Map<string, StreetEntry>();
   let dataLoaded = false;
 
-  async function loadCityData(cityId: string) {
+  async function loadCityData(cityId: string, skipCalendar = false) {
     dataLoaded = false;
     const city = CITY_MAP.get(cityId) ?? DEFAULT_CITY;
 
     try {
-      const calPath = cityId === 'karlsruhe'
-        ? `${base}/data/calendar.json`
-        : `${base}/data/${cityId}/calendar.json`;
+      if (!skipCalendar) {
+        const calRes = await fetch(getCityCalendarUrl(base, cityId));
+        if (calRes.ok) {
+          currentCalendar = (await calRes.json()) as CalendarFile;
+          const defaults = (city.defaultCategories as CategoryKey[]).filter((k) =>
+            currentCalendar.categories.some((c) => c.key === k)
+          );
+          enabledKeys = defaults.length > 0 ? defaults : [currentCalendar.categories[0]?.key].filter(Boolean);
 
-      const calRes = await fetch(calPath);
-      if (calRes.ok) {
-        currentCalendar = (await calRes.json()) as CalendarFile;
-        const defaults = (city.defaultCategories as CategoryKey[]).filter((k) =>
-          currentCalendar.categories.some((c) => c.key === k)
-        );
-        enabledKeys = defaults.length > 0 ? defaults : [currentCalendar.categories[0]?.key].filter(Boolean);
-
-        const newInitialDays = currentCalendar.days.filter((day) =>
-          enabledKeys.some((k) => day.categories.includes(k))
-        );
-        selectedDate = (newInitialDays.find((day) => day.isoDate > todayIso) ?? newInitialDays[0])?.isoDate ?? '';
+          const newInitialDays = currentCalendar.days.filter((day) =>
+            enabledKeys.some((k) => day.categories.includes(k))
+          );
+          selectedDate = (newInitialDays.find((day) => day.isoDate > todayIso) ?? newInitialDays[0])?.isoDate ?? '';
+        }
       }
 
-      const streetPath = cityId === 'karlsruhe'
-        ? `${base}/data/street-data.json`
-        : `${base}/data/${cityId}/street-data.json`;
-
-      const streetRes = await fetch(streetPath);
+      const streetRes = await fetch(getCityStreetDataUrl(base, cityId));
       if (streetRes.ok) {
         streetLookup = buildStreetLookup((await streetRes.json()) as StreetDataFile);
       } else {
@@ -116,14 +117,15 @@
     if (typeof window !== 'undefined') {
       const params = new URLSearchParams(window.location.search);
       const urlCity = params.get('stadt') || params.get('city');
-      if (urlCity && CITY_MAP.has(urlCity.toLowerCase())) {
+      if (urlCity && CITY_MAP.has(urlCity.toLowerCase()) && urlCity.toLowerCase() !== DEFAULT_CITY.id) {
         selectedCityId = urlCity.toLowerCase();
         await loadCityData(selectedCityId);
         return;
       }
     }
 
-    await loadCityData(DEFAULT_CITY.id);
+    // Default city's calendar is already populated from SSR; only fetch street geometry data
+    await loadCityData(DEFAULT_CITY.id, true);
   });
 
   // On mobile the panel covers most of the map, so collapse it after a day is

@@ -148,6 +148,12 @@ export async function writeJsonCompact(url: URL, value: unknown) {
 export const staticDataFile = (name: string) => new URL(name, STATIC_DATA_DIR);
 export const dataFile = (name: string) => new URL(name, DATA_DIR);
 
+export const cityDataFile = (cityId: string, name: string) =>
+  cityId === 'karlsruhe' ? dataFile(name) : dataFile(`${cityId}/${name}`);
+
+export const cityStaticDataFile = (cityId: string, name: string) =>
+  cityId === 'karlsruhe' ? staticDataFile(name) : staticDataFile(`${cityId}/${name}`);
+
 // --- Karlsruhe source --------------------------------------------------------
 
 export async function fetchSourceStreets(): Promise<string[]> {
@@ -195,29 +201,6 @@ export function streetAliases(street: string): string[] {
     set.add(base.replace(/straße/gi, 'Strasse').replace(/ß/g, 'ss'));
   }
   return [...set];
-}
-
-export async function resolveSearchArea(cityName = 'Karlsruhe', adminLevel = 6): Promise<string> {
-  const fallback = `area["name"="${cityName}"]["admin_level"="${adminLevel}"]`;
-  try {
-    const response = await fetchWithOverpassRetry(
-      `[out:json];rel["name"="${cityName}"]["boundary"="administrative"]["admin_level"="${adminLevel}"];out ids 1;`,
-      'search-area id'
-    );
-    if (response.ok) {
-      const payload = (await response.json()) as { elements?: Array<{ id?: number }> };
-      const relationId = payload.elements?.[0]?.id;
-      if (relationId) {
-        const statement = `area(${3600000000 + relationId})`;
-        console.log(`${cityName} search area: ${statement} (relation ${relationId})`);
-        return statement;
-      }
-    }
-  } catch (error) {
-    console.warn('Search area resolution failed, falling back to name lookup:', error);
-  }
-  console.log(`${cityName} search area (fallback): ${fallback}`);
-  return fallback;
 }
 
 let currentEndpointIndex = 0;

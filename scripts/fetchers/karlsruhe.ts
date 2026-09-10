@@ -229,13 +229,13 @@ async function detectPlaceholderDates(): Promise<void> {
 export class KarlsruheFetcher implements CityFetcher {
   readonly id = 'karlsruhe';
   readonly name = 'Karlsruhe';
-  readonly searchAreaName = 'Karlsruhe';
-  readonly adminLevel = 6;
+  readonly shortName = 'KA';
   readonly center = KARLSRUHE_CENTER;
   readonly defaultZoom = 12;
   readonly bbox: [number, number, number, number] = [48.9404, 8.2774, 49.0913, 8.5417];
   readonly categories = CATEGORIES;
   readonly defaultCategories = ['sperrmuell'];
+  readonly requiresOsmHouseNumbers = true;
 
   async fetchStreets(): Promise<string[]> {
     return await fetchSourceStreets();

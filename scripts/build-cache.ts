@@ -17,7 +17,7 @@ import {
   STREET_LIMIT,
   YEAR,
   type StreetGeometry,
-  dataFile,
+  cityDataFile,
   escapeOverpassRegex,
   fetchWithOverpassRetry,
   normalizeStreet,
@@ -41,13 +41,8 @@ const HOUSE_NUMBER_BATCH_SIZE = QUICK ? 10 : 20;
 const STREET_BATCH_SIZE = QUICK ? 10 : 75;
 const GEOMETRY_ROUNDS = 3;
 
-const HOUSE_NUMBERS_FILE = cityId === 'karlsruhe'
-  ? dataFile('osm-house-numbers.json')
-  : dataFile(`${cityId}/osm-house-numbers.json`);
-
-const GEOMETRY_CACHE_FILE = cityId === 'karlsruhe'
-  ? dataFile('geometry-cache.json')
-  : dataFile(`${cityId}/geometry-cache.json`);
+const HOUSE_NUMBERS_FILE = cityDataFile(cityId, 'osm-house-numbers.json');
+const GEOMETRY_CACHE_FILE = cityDataFile(cityId, 'geometry-cache.json');
 
 // --- House numbers -----------------------------------------------------------
 
@@ -249,7 +244,7 @@ async function main() {
   if (STREET_LIMIT > 0) streets = streets.slice(0, STREET_LIMIT);
   console.log(`Streets in source: ${streets.length}`);
 
-  if (cityId === 'karlsruhe') {
+  if (fetcher.requiresOsmHouseNumbers) {
     await buildHouseNumberCache(streets);
   }
   await buildGeometryCache(streets);

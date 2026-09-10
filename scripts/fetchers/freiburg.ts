@@ -91,8 +91,7 @@ function mapWasteTypeToCategory(typeName: string): CategoryKey | null {
 export class FreiburgFetcher implements CityFetcher {
   readonly id = 'freiburg';
   readonly name = 'Freiburg im Breisgau';
-  readonly searchAreaName = 'Freiburg im Breisgau';
-  readonly adminLevel = 6;
+  readonly shortName = 'FR';
   readonly center: [number, number] = [7.8421043, 47.9990077];
   readonly defaultZoom = 12;
   readonly bbox: [number, number, number, number] = [47.9035, 7.6620, 48.0711, 7.9308];

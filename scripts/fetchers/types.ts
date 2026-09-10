@@ -1,18 +1,12 @@
 import type { CategoryKey, CategoryMeta } from '../lib/shared.ts';
+import type { CityInfo } from '../../src/lib/cities.ts';
 
 // Per category, the array of ISO date strings ("YYYY-MM-DD") on which collection occurs.
 export type StreetScheduleDates = Partial<Record<CategoryKey, string[]>>;
 
-export interface CityFetcher {
-  readonly id: string;
-  readonly name: string;
-  readonly searchAreaName: string;
-  readonly adminLevel: number;
-  readonly center: [number, number];
-  readonly defaultZoom: number;
-  readonly bbox: [number, number, number, number]; // [south, west, north, east]
+export interface CityFetcher extends CityInfo {
   readonly categories: CategoryMeta[];
-  readonly defaultCategories: string[];
+  readonly requiresOsmHouseNumbers?: boolean;
 
   /** Returns all street names in the municipality. */
   fetchStreets(): Promise<string[]>;
