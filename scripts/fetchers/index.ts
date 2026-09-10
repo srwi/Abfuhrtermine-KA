@@ -135,6 +135,87 @@ export const REGIOIT_EXTRA_FETCHERS: CityFetcher[] = [
     center: [7.1691, 51.9459],
     defaultZoom: 12,
     bbox: [51.8462, 7.0557, 51.9879, 7.2612]
+  }),
+  new RegioItFetcher({
+    id: 'luenen',
+    name: 'Lünen',
+    shortName: 'LÜN',
+    serviceDomain: 'unna',
+    center: [7.5228, 51.6142],
+    defaultZoom: 12,
+    bbox: [51.578, 7.4179, 51.6527, 7.5923]
+  }),
+  new RegioItFetcher({
+    id: 'viersen',
+    name: 'Viersen',
+    shortName: 'VIE',
+    serviceDomain: 'viersen',
+    center: [6.3905, 51.2562],
+    defaultZoom: 12,
+    bbox: [51.2165, 6.2642, 51.3223, 6.4578]
+  }),
+  new RegioItFetcher({
+    id: 'unna',
+    name: 'Unna',
+    shortName: 'UN',
+    serviceDomain: 'unna',
+    center: [7.689, 51.5349],
+    defaultZoom: 12,
+    bbox: [51.4904, 7.6288, 51.5786, 7.8429]
+  }),
+  new RegioItFetcher({
+    id: 'ahlen',
+    name: 'Ahlen',
+    shortName: 'AHL',
+    serviceDomain: 'krwaf',
+    center: [7.8909, 51.7628],
+    defaultZoom: 12,
+    bbox: [51.7001, 7.7882, 51.8313, 7.9916]
+  }),
+  new RegioItFetcher({
+    id: 'eschweiler',
+    name: 'Eschweiler',
+    shortName: 'ESW',
+    serviceDomain: 'zew2',
+    center: [6.2631, 50.8175],
+    defaultZoom: 12,
+    bbox: [50.7783, 6.1905, 50.884, 6.3409]
+  }),
+  new RegioItFetcher({
+    id: 'stolberg',
+    name: 'Stolberg',
+    shortName: 'STB',
+    serviceDomain: 'zew2',
+    center: [6.2296, 50.7703],
+    defaultZoom: 12,
+    bbox: [50.6847, 6.1745, 50.8056, 6.3656]
+  }),
+  new RegioItFetcher({
+    id: 'elmshorn',
+    name: 'Elmshorn',
+    shortName: 'ELM',
+    serviceDomain: 'pi',
+    center: [9.6525, 53.7532],
+    defaultZoom: 12,
+    bbox: [53.7261, 9.6216, 53.7813, 9.7215]
+  }),
+  new RegioItFetcher({
+    id: 'pinneberg',
+    name: 'Pinneberg',
+    shortName: 'PI',
+    serviceDomain: 'pi',
+    center: [9.7995, 53.6622],
+    defaultZoom: 12,
+    bbox: [53.6231, 9.7346, 53.6934, 9.845]
+  }),
+  new RegioItFetcher({
+    id: 'erkelenz',
+    name: 'Erkelenz',
+    shortName: 'ERK',
+    serviceDomain: 'krhs',
+    center: [6.3161, 51.081],
+    defaultZoom: 12,
+    bbox: [51.0127, 6.2007, 51.117, 6.4774]
   })
 ];
 

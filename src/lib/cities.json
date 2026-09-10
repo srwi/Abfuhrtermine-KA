@@ -38,6 +38,25 @@
     ]
   },
   {
+    "id": "ahlen",
+    "name": "Ahlen",
+    "shortName": "AHL",
+    "center": [
+      7.8909,
+      51.7628
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7001,
+      7.7882,
+      51.8313,
+      7.9916
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "altmannstein",
     "name": "Altmannstein",
     "shortName": "ALT",
@@ -513,6 +532,25 @@
     ]
   },
   {
+    "id": "elmshorn",
+    "name": "Elmshorn",
+    "shortName": "ELM",
+    "center": [
+      9.6525,
+      53.7532
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7261,
+      9.6216,
+      53.7813,
+      9.7215
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "elsdorf",
     "name": "Elsdorf",
     "shortName": "ELS",
@@ -532,6 +570,25 @@
     ]
   },
   {
+    "id": "erkelenz",
+    "name": "Erkelenz",
+    "shortName": "ERK",
+    "center": [
+      6.3161,
+      51.081
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0127,
+      6.2007,
+      51.117,
+      6.4774
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "erkrath",
     "name": "Erkrath",
     "shortName": "ERK",
@@ -545,6 +602,25 @@
       6.8711,
       51.2425,
       6.9952
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "eschweiler",
+    "name": "Eschweiler",
+    "shortName": "ESW",
+    "center": [
+      6.2631,
+      50.8175
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7783,
+      6.1905,
+      50.884,
+      6.3409
     ],
     "defaultCategories": [
       "restmuell"
@@ -1178,6 +1254,25 @@
     ]
   },
   {
+    "id": "luenen",
+    "name": "Lünen",
+    "shortName": "LÜN",
+    "center": [
+      7.5228,
+      51.6142
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.578,
+      7.4179,
+      51.6527,
+      7.5923
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "mainz",
     "name": "Mainz",
     "shortName": "MZ",
@@ -1533,6 +1628,25 @@
       11.6295,
       48.8743,
       11.7411
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "pinneberg",
+    "name": "Pinneberg",
+    "shortName": "PI",
+    "center": [
+      9.7995,
+      53.6622
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6231,
+      9.7346,
+      53.6934,
+      9.845
     ],
     "defaultCategories": [
       "restmuell"
@@ -1900,6 +2014,25 @@
     ]
   },
   {
+    "id": "stolberg",
+    "name": "Stolberg",
+    "shortName": "STB",
+    "center": [
+      6.2296,
+      50.7703
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6847,
+      6.1745,
+      50.8056,
+      6.3656
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "titting",
     "name": "Titting",
     "shortName": "TIT",
@@ -1913,6 +2046,25 @@
       11.1393,
       49.0528,
       11.2922
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "unna",
+    "name": "Unna",
+    "shortName": "UN",
+    "center": [
+      7.689,
+      51.5349
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4904,
+      7.6288,
+      51.5786,
+      7.8429
     ],
     "defaultCategories": [
       "restmuell"
@@ -1970,6 +2122,25 @@
       8.0322,
       53.4531,
       8.2079
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "viersen",
+    "name": "Viersen",
+    "shortName": "VIE",
+    "center": [
+      6.3905,
+      51.2562
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2165,
+      6.2642,
+      51.3223,
+      6.4578
     ],
     "defaultCategories": [
       "restmuell"
