@@ -5,7 +5,7 @@
 > but quickly turned into a full rewrite supporting multiple cities via modular fetchers.
 
 A small static web app that shows municipal waste-collection calendars on an interactive map
-(currently supporting **Karlsruhe** and **Freiburg im Breisgau**).
+(currently supporting **Karlsruhe**, **Freiburg im Breisgau**, **Aachen**, and **Nürnberg**).
 Pick a city, choose a pickup day, and the streets collected on that day light up in each waste
 type's color, so you can see at a glance when your street is next in line. It
 covers the types published by each municipality — **Sperrmüll**, **Restmüll**, **Bioabfall**,

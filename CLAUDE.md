@@ -76,6 +76,8 @@ Uses a modular **Fetcher pattern** defined in `scripts/fetchers/types.ts` (`City
   and downloads iCal exports for the recurring categories.
 - **Freiburg (`scripts/fetchers/freiburg.ts`)**: Queries the official AbfallPlus GraphQL API
   (`widgets.abfall.io/graphql`) for districts, streets, and appointments (Restmüll, Bio, Papier, Gelber Sack).
+- **Aachen & Nürnberg (`scripts/fetchers/regioit.ts`)**: Queries the public RegioIT REST API
+  (`abfallapp.regioit.de`) for streets and pickup schedules across standard categories.
 
 The script runs the chosen fetcher (or all) and writes committed outputs:
 

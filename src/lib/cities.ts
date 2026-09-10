@@ -26,6 +26,24 @@ export const CITIES: CityInfo[] = [
     defaultZoom: 12,
     bbox: [47.9035, 7.6620, 48.0711, 7.9308],
     defaultCategories: ['restmuell']
+  },
+  {
+    id: 'aachen',
+    name: 'Aachen',
+    shortName: 'AC',
+    center: [6.083862, 50.776351],
+    defaultZoom: 12,
+    bbox: [50.6621, 5.9748, 50.8572, 6.2181],
+    defaultCategories: ['restmuell']
+  },
+  {
+    id: 'nuernberg',
+    name: 'Nürnberg',
+    shortName: 'N',
+    center: [11.077298, 49.453872],
+    defaultZoom: 12,
+    bbox: [49.3314, 10.9887, 49.5408, 11.2826],
+    defaultCategories: ['restmuell']
   }
 ];
 

@@ -1,14 +1,21 @@
 import type { CityFetcher } from './types.ts';
 import { KarlsruheFetcher } from './karlsruhe.ts';
 import { FreiburgFetcher } from './freiburg.ts';
+import { AachenFetcher } from './aachen.ts';
+import { NuernbergFetcher } from './nuernberg.ts';
 
 export * from './types.ts';
 export * from './karlsruhe.ts';
 export * from './freiburg.ts';
+export * from './regioit.ts';
+export * from './aachen.ts';
+export * from './nuernberg.ts';
 
 export const FETCHERS: CityFetcher[] = [
   new KarlsruheFetcher(),
-  new FreiburgFetcher()
+  new FreiburgFetcher(),
+  new AachenFetcher(),
+  new NuernbergFetcher()
 ];
 
 export const FETCHER_MAP = new Map<string, CityFetcher>(
