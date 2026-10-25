@@ -1,0 +1,4257 @@
+{
+  "generatedAt": "2026-10-25T21:26:41.539Z",
+  "streets": [
+    {
+      "street": "Achterberg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Achterberger Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ahornweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Akazienweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Alfred-Delp-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Alte Landstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Alter Kamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Alter Postweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am alten Wasserwerk, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am alten Zollamt",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.0399088,
+              52.3065176
+            ],
+            [
+              7.0398858,
+              52.3066137
+            ]
+          ],
+          [
+            [
+              7.0398791,
+              52.3066942
+            ],
+            [
+              7.0399703,
+              52.3067037
+            ],
+            [
+              7.0403476,
+              52.3067407
+            ],
+            [
+              7.040266,
+              52.3069753
+            ],
+            [
+              7.0400345,
+              52.3076957
+            ],
+            [
+              7.0396708,
+              52.3076599
+            ],
+            [
+              7.0396012,
+              52.3076508
+            ]
+          ],
+          [
+            [
+              7.0398858,
+              52.3066137
+            ],
+            [
+              7.0398791,
+              52.3066942
+            ],
+            [
+              7.0396139,
+              52.3074904
+            ],
+            [
+              7.0395973,
+              52.3076373
+            ],
+            [
+              7.0396012,
+              52.3076508
+            ],
+            [
+              7.0397125,
+              52.3080361
+            ],
+            [
+              7.0397188,
+              52.3080581
+            ],
+            [
+              7.0397515,
+              52.3081572
+            ],
+            [
+              7.0397815,
+              52.3082312
+            ],
+            [
+              7.0398022,
+              52.3082656
+            ],
+            [
+              7.0398067,
+              52.3082731
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Am Bade, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Bahndamm, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Bahnhof, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Berghang, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Beschlag, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Bismarckplatz, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Böckler, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Feldkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Freibad, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Frett, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Fuestkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Fürstlichen Wald, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Görfeld, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Gymnasium, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Hauptdiek, Bad Bentheim, zwischen Vennweg und Zum Golfplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Hauptdiek, Bad Bentheim, zwischen Zum Golfplatz und B403",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Herrenberg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Kathagen, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Kreuzkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Kriegerdenkmal, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Kuckuck, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Kurhaus, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Nordhang, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Ritterstein, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Rott, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Slatt, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Steinbruch, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Südhang, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Wasserturm, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Am Westhang, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Amsterdamer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "An der Bree, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "An der Diana, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "An der Freilichtbühne, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "An der Müst, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "An der Reithalle, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "An der Sägemühle, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "An der Waldseite, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "An der Woorte, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Anne-Frank-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Apotheker-Drees-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Auf den Kuhlen, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "August-Macke-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bachstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bahnhof Nord, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse, Bad Bentheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bankkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bardeler Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bauerschaft, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Baumwollstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Beckstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Beethovenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bentheimer Strasse, Bad Bentheim, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Berliner Ring, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bernhard-Hagels-Platz, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Binsenstrasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1713239,
+            52.2979686
+          ],
+          [
+            7.1713924,
+            52.2973201
+          ],
+          [
+            7.1714082,
+            52.2971119
+          ],
+          [
+            7.1713523,
+            52.2968673
+          ],
+          [
+            7.1712573,
+            52.2966112
+          ],
+          [
+            7.1711504,
+            52.2963967
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Blumenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bockholtsweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bockkoltsweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bogenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Brennereistrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Breslauer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Breteler Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Brinkweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Brookdiek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Brookweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Brunnenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Brünning Mersch, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Brüsseler Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Buchenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Budapester Str., Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bültstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Bunnhaken, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Burgsteinfurter Damm, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Buschweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Butterweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Carl-Diem-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Charlottenburger Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Clara-Schumann-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Dachsgrund, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Daimlerstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Danziger Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Deilmannstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Dietrich-Bonhoeffer-Strasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.0873586,
+              52.3006876
+            ],
+            [
+              7.0874096,
+              52.3007902
+            ],
+            [
+              7.0874473,
+              52.3009452
+            ],
+            [
+              7.0874795,
+              52.3011512
+            ],
+            [
+              7.0874837,
+              52.3013007
+            ],
+            [
+              7.0875159,
+              52.3013598
+            ],
+            [
+              7.0875745,
+              52.301405
+            ],
+            [
+              7.0876791,
+              52.3014215
+            ],
+            [
+              7.0877914,
+              52.3014049
+            ],
+            [
+              7.0883112,
+              52.3012671
+            ],
+            [
+              7.0886808,
+              52.3011508
+            ],
+            [
+              7.0887564,
+              52.3011091
+            ],
+            [
+              7.0888185,
+              52.3010429
+            ],
+            [
+              7.088934,
+              52.3006007
+            ]
+          ],
+          [
+            [
+              7.2092923,
+              52.3294558
+            ],
+            [
+              7.208959,
+              52.3292394
+            ],
+            [
+              7.2084995,
+              52.328903
+            ],
+            [
+              7.2084214,
+              52.3287714
+            ],
+            [
+              7.2077323,
+              52.3282324
+            ],
+            [
+              7.2076769,
+              52.3281905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Dillenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Doornekamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Drosselweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Edith-Stein-Strasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1269407,
+            52.2936721
+          ],
+          [
+            7.1277893,
+            52.2935939
+          ],
+          [
+            7.128244,
+            52.29352
+          ],
+          [
+            7.1293953,
+            52.2933028
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Eichendorffstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Eisenbahnstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Elbinger Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Elisabethstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Emil-Nolde-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Emilie-Schindler-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Emminghoff, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Emmingstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Erich-Heckel-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Erlenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ernst-Burmeyer-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Eschenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Euregiostrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Fahlstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Falkenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Familie-Wertheim-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Felsenstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Fichtenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Fiefhusenstadt, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Finkenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Fleuerweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Flurweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Franz-Marc-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Franziskusstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Friedrichshainer Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Fuchsweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Funkenstiege, Bad Bentheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gellenbecksweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gerstenkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Geschwister-Scholl-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gildehauser Esch, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gildehauser Strasse, Bad Bentheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gildestrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.1798194,
+              52.2887981
+            ],
+            [
+              7.1797443,
+              52.2889839
+            ],
+            [
+              7.1795025,
+              52.2900325
+            ],
+            [
+              7.1794518,
+              52.2902583
+            ],
+            [
+              7.1794511,
+              52.2902954
+            ],
+            [
+              7.1794707,
+              52.2903306
+            ],
+            [
+              7.1795083,
+              52.2903597
+            ],
+            [
+              7.1795575,
+              52.290379
+            ],
+            [
+              7.1796143,
+              52.2903876
+            ],
+            [
+              7.1800711,
+              52.2903852
+            ],
+            [
+              7.1803637,
+              52.2904107
+            ],
+            [
+              7.1821736,
+              52.2906614
+            ]
+          ],
+          [
+            [
+              7.1821736,
+              52.2906614
+            ],
+            [
+              7.182481,
+              52.2907097
+            ],
+            [
+              7.1844616,
+              52.2910207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Glückaufstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Goethestrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Göhlmannsweg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1427528,
+            52.3006081
+          ],
+          [
+            7.142915,
+            52.3002915
+          ],
+          [
+            7.1432847,
+            52.3003462
+          ],
+          [
+            7.1435928,
+            52.2997932
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Graf-Balduin-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Graf-von-Moltke-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gronauer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Grooten Kamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Grossfeldstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Grüner Kamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gut Friedrichstal, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gut Langen, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Gutenbergstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Haarer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Haarjanweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Habichtstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hagelskamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hakenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hasenbrink, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Haydnstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heckenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heeresstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heimstättenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Böll-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Hager-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Heine-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Kloppers-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Spalink-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hengeloer Strasse, Bad Bentheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Herderstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hertsfeld, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hetlage, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Heuteresch, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hildegard-von-Bingen-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hilgenstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hofstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hogenkamp",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.1693567,
+              52.2966623
+            ],
+            [
+              7.1695463,
+              52.2966826
+            ],
+            [
+              7.1697583,
+              52.2966811
+            ],
+            [
+              7.1699806,
+              52.2966561
+            ],
+            [
+              7.1703424,
+              52.2965873
+            ],
+            [
+              7.1705065,
+              52.2965441
+            ],
+            [
+              7.1711504,
+              52.2963967
+            ],
+            [
+              7.17214,
+              52.2961857
+            ],
+            [
+              7.1725717,
+              52.2970336
+            ],
+            [
+              7.1726237,
+              52.2971509
+            ],
+            [
+              7.1726547,
+              52.2972662
+            ],
+            [
+              7.1726547,
+              52.2973537
+            ],
+            [
+              7.1713924,
+              52.2973201
+            ]
+          ],
+          [
+            [
+              7.1726547,
+              52.2973537
+            ],
+            [
+              7.1728143,
+              52.2973505
+            ],
+            [
+              7.1730992,
+              52.2972983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Holter Diek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Holter Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Hördenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Igelweust, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Im Felde, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Im Freesländer, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Im Hagelshoek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Im Sieringhoek, Bad Bentheim, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Im Stegehoek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Im Vogelsang, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Im Zitter, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Imstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "In den Kämpen, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Isterberger Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ithorst, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Jahnstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Johann-Krabbe-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Julius-Leber-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kaiserei, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kampingstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Käthe-Kollwitz-Str., Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kerkpättken, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kerkweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kipkerstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Klapperstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kleidiek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kleiner Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kleinhoek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Klosterstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kolonatstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Königsberger Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kopenhagener Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Köpenicker Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kreuzberger Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kuhkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Kuhlenkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ladestrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Landwehrweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Leberichstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Lessingstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Leven Kamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Lichterfelder Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Liebigstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Lilienthalstr., Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Lingerstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Londoner Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Löwenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Lucie-Rackers-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Lurmannweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Lütterstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Luxemburger Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Marie-Curie-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Marktstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Mauerstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Max-Beckmann-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Max-Pechstein-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Mersch, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Milkmannstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Mittelweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Molkereistrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Möllenkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Moorweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Mozartstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Mühlenberg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Nachtigallenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Narzissenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Nelkenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Neue Stiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Neuer Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Neustadtstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Niehausstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Niehoffstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Nietberg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Nordhorner Weg, Bad Bentheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Nordring, Bad Bentheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ochtruper Diek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ochtruper Strasse, Bad Bentheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ohmsstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ohner Diek Haus Nr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ohner Diek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Oldenzaaler Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Oldenzaaler Strasse, Sieringhook, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Olderstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Oppelner Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ostend, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Osterberg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Östliche Hellendornstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ostpreussenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Otto-Müller-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Pappelweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Pastuninkstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Paul-Klee-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Paulinenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Peters Gärten, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Pieper-Werning-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Pommernstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Poolmaate, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Posener Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Prager Strasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.0692901,
+              52.314021
+            ],
+            [
+              7.0693109,
+              52.3137583
+            ],
+            [
+              7.0694175,
+              52.3124129
+            ],
+            [
+              7.0694276,
+              52.3122862
+            ]
+          ],
+          [
+            [
+              7.0695663,
+              52.3108662
+            ],
+            [
+              7.0694464,
+              52.3120937
+            ],
+            [
+              7.0694276,
+              52.3122862
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Prof.-Prakke-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Querstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ravenshorster Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Rehwinkel, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Rheiner Strasse, Bad Bentheim, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Rispenweg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1703424,
+            52.2965873
+          ],
+          [
+            7.1703782,
+            52.2967066
+          ],
+          [
+            7.1703542,
+            52.2970092
+          ],
+          [
+            7.1702858,
+            52.2972711
+          ],
+          [
+            7.1713924,
+            52.2973201
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Romberg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Röntgenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Roosmannstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Rosa-Luxemburg-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Rotdornstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Sandstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schillerstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schlesierstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schloss, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schlossstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schöneberger Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schooldiek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schoppenstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schrieverskamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schubertstr., Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schultwesselweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schürbrink, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schürkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schüttenesch, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schüttorfer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Schützenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Selmastrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Siedlerweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Sieringhoeker Weg, Bad Bentheim HausNr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Sieringhoeker Weg, Haus Nr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Sligtmerskamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Spandauer Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Sperberstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Springbiel, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Springbieler Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Steglitzer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Steinkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Steinweg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.1688822,
+              52.2999756
+            ],
+            [
+              7.1686168,
+              52.2999894
+            ]
+          ],
+          [
+            [
+              7.1686595,
+              52.3002729
+            ],
+            [
+              7.1686168,
+              52.2999894
+            ],
+            [
+              7.1686004,
+              52.2998773
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Stettiner Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Stockhaken, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Stockholmer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Stoltenkampstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Suddendorfer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Sudetenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Südstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Synagogenstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Talliner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Tannenhoek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Tannenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Tegeler Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Teichkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Tempelhofer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Tepperdiek, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Theodor-Heuss-Siedlung",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.1494334,
+              52.2998692
+            ],
+            [
+              7.1495122,
+              52.2999336
+            ],
+            [
+              7.1495746,
+              52.299949
+            ]
+          ],
+          [
+            [
+              7.1494334,
+              52.2998692
+            ],
+            [
+              7.1493076,
+              52.2996748
+            ],
+            [
+              7.1492548,
+              52.2995933
+            ],
+            [
+              7.149221,
+              52.2994576
+            ],
+            [
+              7.1494784,
+              52.2994373
+            ],
+            [
+              7.1495409,
+              52.2994322
+            ],
+            [
+              7.1496552,
+              52.2994184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Therese-Giehse-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Thomas-Mann-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Treptower Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Tulpenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Turmstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Ulmenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Unterstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Up de Haar, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Up de Högte, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Vahrenhorststiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Vennweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Waldseiter Strasse, Bad Bentheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Warschauer Strasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.0688436,
+              52.3140092
+            ],
+            [
+              7.0687394,
+              52.3155064
+            ],
+            [
+              7.0686786,
+              52.3162313
+            ],
+            [
+              7.0686414,
+              52.3166443
+            ],
+            [
+              7.0685471,
+              52.3175438
+            ],
+            [
+              7.0685375,
+              52.3176311
+            ],
+            [
+              7.0684649,
+              52.3182906
+            ],
+            [
+              7.0683867,
+              52.3190013
+            ],
+            [
+              7.0684735,
+              52.3190821
+            ]
+          ],
+          [
+            [
+              7.0686786,
+              52.3162313
+            ],
+            [
+              7.0710434,
+              52.3162905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Wasserwerkstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Weddinger Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Weidenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Weinkellerstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Wellkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Westenberger Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Wester Esch, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Westliche Hellendornstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Westring, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Weustenweg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Wilhelm-Leuschner-Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Wilhelmstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Wilmersdorfer Strasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Wittkampstiege, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zehlendorfer Weg, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zeppelinstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zollstrasse, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zum Ferienpark, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zum Fürstlichen Wald, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zum Golfplatz, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zum Herrenfehn, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zum Nordkamp, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zum Tüschenbrook, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zur Brechte, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zur Grenze, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    },
+    {
+      "street": "Zur Grossen Maate, Bad Bentheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1162,
+          52.307
+        ]
+      }
+    }
+  ]
+}

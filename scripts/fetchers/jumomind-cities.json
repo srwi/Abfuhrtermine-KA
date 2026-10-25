@@ -3168,24 +3168,6 @@
     ]
   },
   {
-    "id": "birstein",
-    "name": "Birstein",
-    "shortName": "BIR",
-    "serviceId": "mkk",
-    "cityId": "13",
-    "center": [
-      9.3044,
-      50.3923
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      50.3213,
-      9.2512,
-      50.4635,
-      9.3784
-    ]
-  },
-  {
     "id": "bruchkoebel",
     "name": "Bruchköbel",
     "shortName": "BRU",
@@ -3831,60 +3813,6 @@
       8.5923,
       50.3181,
       8.744
-    ]
-  },
-  {
-    "id": "ulm",
-    "name": "Ulm",
-    "shortName": "UL",
-    "serviceId": "mymuell",
-    "cityId": "62513",
-    "center": [
-      9.9912,
-      48.3985
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.3067,
-      9.8425,
-      48.4685,
-      10.0428
-    ]
-  },
-  {
-    "id": "aschaffenburg",
-    "name": "Aschaffenburg",
-    "shortName": "AB",
-    "serviceId": "mymuell",
-    "cityId": "70868",
-    "center": [
-      9.1385,
-      49.9707
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.9201,
-      9.0802,
-      50.0213,
-      9.238
-    ]
-  },
-  {
-    "id": "weissenhorn",
-    "name": "Weißenhorn",
-    "shortName": "WH",
-    "serviceId": "mymuell",
-    "cityId": "70866",
-    "center": [
-      10.1601,
-      48.3045
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.259,
-      10.1139,
-      48.3449,
-      10.2414
     ]
   }
 ]

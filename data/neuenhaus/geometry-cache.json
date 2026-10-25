@@ -1,0 +1,6105 @@
+{
+  "generatedAt": "2026-10-25T21:28:52.421Z",
+  "streets": [
+    {
+      "street": "Adolf-Meyer-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Adorfer Strasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Agnesstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ahornstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ahornstrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ahornweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Alt Lage",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.9598494,
+            52.4654865
+          ],
+          [
+            6.9598058,
+            52.4655063
+          ],
+          [
+            6.959179,
+            52.4657905
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Alte Piccardie, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Alter Schulweg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Bach, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Bahnhof, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Bauernmuseum, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Böltbach, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Bosthorstgraben, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Brill, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Filoort, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Friedhof, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Goor, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Hootmannsmeer, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Hootmannsmeer, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Kaiserplatz, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Nordbecksgraben, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Piccardie-Kanal, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Piccardie-Kanal, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Plass, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Ramsel",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.9793596,
+              52.490176
+            ],
+            [
+              6.9789598,
+              52.4894701
+            ],
+            [
+              6.9787345,
+              52.4890502
+            ]
+          ],
+          [
+            [
+              6.9783524,
+              52.48961
+            ],
+            [
+              6.9789598,
+              52.4894701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Am Rott, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Runhorst",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.9585954,
+              52.5391873
+            ],
+            [
+              6.9593257,
+              52.5386511
+            ]
+          ],
+          [
+            [
+              6.9592774,
+              52.5385265
+            ],
+            [
+              6.9592495,
+              52.5385397
+            ],
+            [
+              6.95923,
+              52.5385577
+            ],
+            [
+              6.959221,
+              52.5385785
+            ],
+            [
+              6.9592235,
+              52.5386
+            ],
+            [
+              6.9592371,
+              52.5386199
+            ],
+            [
+              6.9592604,
+              52.538636
+            ],
+            [
+              6.959291,
+              52.5386468
+            ],
+            [
+              6.9593257,
+              52.5386511
+            ],
+            [
+              6.9593619,
+              52.5386482
+            ],
+            [
+              6.9593945,
+              52.5386382
+            ],
+            [
+              6.9594199,
+              52.5386222
+            ],
+            [
+              6.9594351,
+              52.538602
+            ],
+            [
+              6.9594386,
+              52.5385798
+            ],
+            [
+              6.9594298,
+              52.5385583
+            ],
+            [
+              6.9594098,
+              52.5385397
+            ],
+            [
+              6.9593808,
+              52.5385261
+            ],
+            [
+              6.9593461,
+              52.5385191
+            ],
+            [
+              6.9593108,
+              52.5385194
+            ],
+            [
+              6.9592774,
+              52.5385265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Am Schwanensee, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Spoellberg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Stadtgraben, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Storkebrink, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Süd-Nord Kanal, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Wall, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Wiehenkamp, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Am Winkel, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Amselstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Amselstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "An der Bree, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "An der Schulenburg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Anemonenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Annastrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Annastrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Assmerstrasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Asternstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Auf der Woarte, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Azaleenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bachstelzenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bahnhof, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofsweg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ballast, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Baukamp, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Beethovenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bei der Braake, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Beningstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Berger Weg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Berger Weg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Berliner Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bertastrasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.0096244,
+            52.5265247
+          ],
+          [
+            7.0095006,
+            52.5265275
+          ],
+          [
+            7.0086551,
+            52.5265467
+          ],
+          [
+            7.0084459,
+            52.5262489
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Billerbecke, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bimolter Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bimolter Strasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bimolter Weg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Binnenborger Strasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Binnenborger Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Binnenbrook, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Binsenstrasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Birkenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Blaubeerweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Boerdiek, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Boerwinkelweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Borggrevesweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bosthorst, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Braakendiek, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Braakestrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Brecklenkamper Strasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Breslauer Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Brombeerweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Brömmels Kamp, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Brookdiek, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Brookstrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Brünemeyerstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Buchenstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Buchenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Buddenstiege, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Buitenborg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Buitenhook, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Burgstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Buschmaate, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Bussardweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Carl-van-der-Linde-Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Clara-Schumann-Ring, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Claus-von-Stauffenberg-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Coevordener Land, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dackhorstweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dahlienstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dahlienweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Daimlerstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Danziger Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dapperskamp, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Denkmalsweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Deponieweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dietrich-Bonhoeffer-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dietrich-Borggreve-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dinkelbogen, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dinkelmaate, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dinkelufer, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dr. Picardt-Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dr.-Picardt-Str., Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Drosselstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Drosselstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Drosselstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Drosten Land, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Dwarsdiek, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Edelweissstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eibenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eichenallee, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eichenhorst, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eisvogelweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Elchstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Elisabeth-Selbert-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Elisabeth-Selbert–Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Elisabethstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Elsterngasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Enzianstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Epmannsteege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Erdbeerweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Erikastrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Erikastrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Erlenstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Erlenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Erlenweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eschenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Escher Strasse, Neuenhaus, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Escher Strasse, Neuenhaus/Veldhausen, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eschkante, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eschweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Eulenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Falkenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Feldkamp, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Feldkampstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Feldweg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fennastrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fennhook, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fichtenweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Finkenstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Finkenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Finkenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fischerweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fliederstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fohlenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Freiherr-vom-Stein-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Frensdorfer Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Frieda-Nadig–Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Friedastr., Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fuchsienstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fuchsweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Füchtendiek, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Füchtenfelder Strasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fuhlfarve, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fürst zu Bentheim Str., Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fürstenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Fürstenweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Galgensteege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Georgsdorfer Strasse, Neuenhaus/Veldhausen, ungerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Georgsdorfer Strasse, Osterwald, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gerader Weg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gerader Weg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gerdastrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gerdastrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gerhard-Jeurink-Strasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.0002798,
+            52.4758089
+          ],
+          [
+            6.9998775,
+            52.4755254
+          ],
+          [
+            6.9998118,
+            52.475496
+          ],
+          [
+            6.9997381,
+            52.4754829
+          ],
+          [
+            6.9988959,
+            52.4754086
+          ],
+          [
+            6.9985539,
+            52.4753759
+          ],
+          [
+            6.998468,
+            52.4753424
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Ginsterstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gladiolenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Goldammerweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gölenkamper Str., Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Gommerstiege",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.9980432,
+            52.5168807
+          ],
+          [
+            6.9984696,
+            52.5166664
+          ],
+          [
+            6.999054,
+            52.5164658
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Goorstrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Goorweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grafenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grasdorfer Weg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grasfenne, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grasmückenweg , Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grenzstr., Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grenzstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Grünlandweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Haardiek, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Haarkamp, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Habichtstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hachtdiek, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hafenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Haferkamp, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Haftenkamper Strasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hakenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hans-Voshaar-Str., Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hardenbergstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hardinger Strasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hardinger Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Harmtienstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hasenweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Neuenhaus, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Osterwald, gerade Hsnr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Osterwald, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Heckenstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hedwigstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hegelstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Winkelmann-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Helene–Weber–Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Helene–Wessel–Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Helgastrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Helgastrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hermann-Borggreve -Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Herrendiek, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hertastrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hessinkfeld, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Heysenstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hildegardstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hillger Hoff, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hiltener Weg, Neuenhaus, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hinter Glüpker, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hinterstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hoegenweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hoffbeckenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hohenhorst, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hohenkörbener Weg, Hohenkörben, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Holtweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Holunderweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Hyazinthenring, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ilexweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Iltisstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Iltisweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Busch, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Goor, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Goor, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Holt, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Hoppenhook, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Hoppenhook, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Mittelviertel, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Mühlenpark, Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Ried, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Rott, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Stubbenbrook, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Imhorst, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "In den Kuhlen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "In´t Hooge, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Irisstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Jahnstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Jan-Albert-Blekker-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Jan-Jakobs-Strasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Jasminstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Julius-Leber-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Junkersweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kanalweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kantstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Karinstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Karl-Naber-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Karl-Sauvagerd-Stiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kastanienstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kater, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Katharina-Heinroth-Strasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.9800494,
+              52.4913815
+            ],
+            [
+              6.9798409,
+              52.4917583
+            ],
+            [
+              6.9796534,
+              52.4920972
+            ],
+            [
+              6.9792701,
+              52.4922916
+            ],
+            [
+              6.9788006,
+              52.4925296
+            ]
+          ],
+          [
+            [
+              6.9798409,
+              52.4917583
+            ],
+            [
+              6.9803864,
+              52.4918762
+            ]
+          ],
+          [
+            [
+              6.9792701,
+              52.4922916
+            ],
+            [
+              6.9791799,
+              52.4922375
+            ],
+            [
+              6.9788232,
+              52.492171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Kaveldiek, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kiebitzstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kiefernstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kiefernweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kipstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kirchbaumweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kirchweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kirschbaumweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kleiststrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Klinkhamer Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Knollendiek, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Koelskamp, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kohdiek, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kokkelingsvenne, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kolberger Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kollwitzstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Königsberger Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Koppeldiek, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Koppelstrasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Koppelstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kornblumenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Kranichring, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Krokusstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Krolenstr., Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Krullskamp, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Laardiek, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Laarkamp, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ladestr:, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lägendiek, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lager Busch, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lager Str., Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Langen Barg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Langen Diek, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Langersfeld, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lärchenweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Laubsängerweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lavendelweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Leestrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Leferskamp, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Leipziger Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lemker Weg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lerchenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ligusterweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lilienweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lindertschen Diek, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lingener Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lingener Strasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Linhorstweg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lönsweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lortzingstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ludwig-Sager-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lugthookstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Luisenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lupinenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Lusefeld, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mackstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mählersgrund, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Maisweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Malvenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Marderweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Marderweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Margeritenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Marktstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Meisenstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Meisenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Menzelstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Meyerdiek, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Miquelstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Moatdiek, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mohnweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Möhrenweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Monikastrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mons Hof",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.9563638,
+            52.500674
+          ],
+          [
+            6.9568305,
+            52.5004127
+          ],
+          [
+            6.9569056,
+            52.5003017
+          ],
+          [
+            6.9567769,
+            52.5001841
+          ],
+          [
+            6.9564443,
+            52.5000535
+          ],
+          [
+            6.956101,
+            52.4998478
+          ],
+          [
+            6.9556845,
+            52.4994441
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Morsstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mossdamm, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mossdiek, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mossweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Möwenstr., Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mozartstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Museumsweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Nachtigallenstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Nachtigallenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Narzissengasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neegen Barge, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Nelkenstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Nelkenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Nerling, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neuenhauser Strasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neuer Diek, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neuer Diek, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neuer Hiltener Weg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neues Land, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neuland, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neulandstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neumarkt, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neumarktstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Neustadtstrasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Nordhorner Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Nordhorner Strasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Nussbaumweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Oelstrasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Oelwall, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Oelweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Oelweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ootmarsumer Weg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Orchideenweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Orchideenweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ortfeld, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ost-West-Weg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ostende, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Osterwalder Strasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Osterwalder Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ottenjansstrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ottenkamp, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Papestrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Pappeldiek, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Pappelstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Paul-Gerhardt-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Pestalozzistrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Pinienstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Plaggenweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Platanenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Poolstrasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Poolstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Pöppeldiek, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Poststrasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Primelweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Prinzenhof, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Prinzenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Querweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Querweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rabenhauptstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rabenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Raiffeisenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Räkerskamp, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rasenweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Raterinks Esch, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rathausstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rebhuhnweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rebhuhnweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Reefmannsweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rehweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rehweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Reiherweg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.9782781,
+            52.4890838
+          ],
+          [
+            6.9781176,
+            52.4887483
+          ],
+          [
+            6.9780962,
+            52.4884527
+          ],
+          [
+            6.9790859,
+            52.4884216
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Reisstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Reisweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Reitgaarstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Richtweg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.9570654,
+              52.4972994
+            ],
+            [
+              6.9568356,
+              52.4973214
+            ],
+            [
+              6.9566145,
+              52.4973855
+            ],
+            [
+              6.9564203,
+              52.4974428
+            ],
+            [
+              6.9561983,
+              52.4975202
+            ]
+          ],
+          [
+            [
+              6.9558904,
+              52.4977292
+            ],
+            [
+              6.9557481,
+              52.4980397
+            ],
+            [
+              6.9555489,
+              52.4983594
+            ],
+            [
+              6.9555134,
+              52.4984188
+            ],
+            [
+              6.9554109,
+              52.4984434
+            ],
+            [
+              6.9552127,
+              52.498407
+            ],
+            [
+              6.9550141,
+              52.4984166
+            ]
+          ],
+          [
+            [
+              6.9561983,
+              52.4975202
+            ],
+            [
+              6.9560465,
+              52.4975824
+            ],
+            [
+              6.9558904,
+              52.4977292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Ringgasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Robert-Bosch-Strasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Roggenkamp, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Roggenkamp, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Röpershaar, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rostocker Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rotdornweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rotkehlchenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rottmannsweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rudolf-Diesel-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Rundweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Satingsbaane, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schimmelweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schlehenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schnepfenstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Scholtenstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schorffeldstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schorffeldweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schubertstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schulenburgs Hof, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schürenkamp, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schüürmannsweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schwalbenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schwarzer Weg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Schwattenkamp, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Seifendamm, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Slaage, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Slingkampstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Soeker Weg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Sonnenblumenweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Spechtstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Sperberstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Sperlingweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Sportplatz, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Sprakkeldiek, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Stamps Diek, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Starengasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Steechien, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Stettiner Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Stieglitzgasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Storchenweg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.9797709,
+              52.4888585
+            ],
+            [
+              6.9800766,
+              52.4894303
+            ],
+            [
+              6.9802725,
+              52.489815
+            ],
+            [
+              6.9803871,
+              52.4900479
+            ],
+            [
+              6.9804522,
+              52.4901935
+            ]
+          ],
+          [
+            [
+              6.9797342,
+              52.4894942
+            ],
+            [
+              6.9800766,
+              52.4894303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Stralsunder Hof, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Strankdiek, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Strootdiek, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Süd-Nord-Weg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Swennastrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Taubenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Teichplass, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Teichstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Teland, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Thesingfelder Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Tochtdiek, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Torfabfuhrweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Torffeldweg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Torfwerkstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Tulpenstrasse, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Tulpenweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Tummelhook, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Turmstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Tütwelpenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Twickels Kamp, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Uelsener Strasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Uelsener Strasse, Neuenhaus, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Uferstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Uhlandstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Ulmenweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "ungerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Unterm Nordesch, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Van-der-Reis-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Van-Heeckeren-Strasse, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Vechtedamm, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Vechtetalstrasse, Neuenhaus, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Vechteufer, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Veilchengasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Veldgaarstrasse, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Veldhausener Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Veldhausener Strasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Vennweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Vennweg, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Voestdiek, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Vogeskamp, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Vogtstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "von-Beesten-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "von-Bodelschwingh-Str, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wacholderweg, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wagenhorst, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wagnerstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Waldhaar, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wallstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Weghorst, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wehrweg, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Weidenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Weimarer Ring, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Weisserbergweg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Weizenweg, Neuenhaus/Veldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Westende, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wichmannstiege, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wieselweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wiesenbrook, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wilhelm-Staehle-Strasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Winkelfeld, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wittenkamp, Neuenhaus, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wolthaarstrasse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Wulvekamp, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zedernstrasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zedernweg, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zegers Höffte, Lage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zeisiggasse, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Esch, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Escher Feld, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Escher Feld, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Funner, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Kanal, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Lugthook, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Pallert, Georgsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Soermannsbach, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Stau, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Sternbusch, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Uhlenberg, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zum Zuschlag, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zur Eiche, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zur Hardinger Becke, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zur Heide, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zur Herrenmaat, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zur Hoffbecke, Neuenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zur Lee, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zur Schleuse, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zur Vechte, Esche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Züwerinks Kamp, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    },
+    {
+      "street": "Zwienskamp, Osterwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          52.5
+        ]
+      }
+    }
+  ]
+}

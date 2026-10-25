@@ -1,0 +1,5619 @@
+{
+  "generatedAt": "2026-10-25T21:27:44.954Z",
+  "streets": [
+    {
+      "street": "Aaltien-Bennink-Str., Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Aatalstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Aatalstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Aatalstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Aatalstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Aaweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Achterhook, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Agterhorner Strasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ahornstr., Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ahornstr., Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ahornstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Alexisdorfer Weg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Bahndamm, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Bahndamm, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Bahnhof, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Biegar, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Bruchgraben, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Damm, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Eekenberg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Esch, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Esch, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Falkenberg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Gerts Kamp, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Grenzlandheim, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Hamberg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Hüttenböilt, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal Nr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal, Emlichheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal, Emlichheim. gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Kirchplatz, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Markt, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Neuen Kamp, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Neuland, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Neuland, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Olden Slag, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Paradies, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Pferdekamp, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Schöpfwerk, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Schulfeld, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Speicher, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Timpen, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Voresch, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Wäldchen, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Am Wäldchen, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Amselstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Amselweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Amsterdamer Strasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "An der Mühle, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "An der Vechte, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "An Gerts Kamp, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Anne-Frank-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Arkel, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Asternstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Asternstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Astrid-Lindgren-Str.",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.8492197,
+              52.6177015
+            ],
+            [
+              6.8498322,
+              52.6177057
+            ],
+            [
+              6.8499416,
+              52.6176681
+            ]
+          ],
+          [
+            [
+              6.8479687,
+              52.6155066
+            ],
+            [
+              6.8479866,
+              52.6155597
+            ],
+            [
+              6.8481146,
+              52.6160308
+            ],
+            [
+              6.8481116,
+              52.616127
+            ],
+            [
+              6.8480754,
+              52.6161604
+            ],
+            [
+              6.8480136,
+              52.6162174
+            ],
+            [
+              6.8478496,
+              52.6163026
+            ],
+            [
+              6.8477684,
+              52.6164217
+            ],
+            [
+              6.8477306,
+              52.6167338
+            ],
+            [
+              6.8477363,
+              52.6172862
+            ],
+            [
+              6.8478054,
+              52.6174273
+            ],
+            [
+              6.8478799,
+              52.6176378
+            ],
+            [
+              6.8478913,
+              52.6178743
+            ],
+            [
+              6.8479625,
+              52.6179263
+            ],
+            [
+              6.8482018,
+              52.6179435
+            ],
+            [
+              6.8482626,
+              52.6180084
+            ],
+            [
+              6.8482441,
+              52.6182957
+            ],
+            [
+              6.8481411,
+              52.6183498
+            ],
+            [
+              6.8478526,
+              52.6183452
+            ],
+            [
+              6.8477461,
+              52.6184034
+            ],
+            [
+              6.8476837,
+              52.6194087
+            ],
+            [
+              6.8477785,
+              52.6194856
+            ],
+            [
+              6.848978,
+              52.6195051
+            ],
+            [
+              6.8490984,
+              52.6194466
+            ],
+            [
+              6.8491237,
+              52.619091
+            ],
+            [
+              6.8490487,
+              52.6190402
+            ],
+            [
+              6.8487403,
+              52.6190315
+            ],
+            [
+              6.8486495,
+              52.6189766
+            ],
+            [
+              6.8486759,
+              52.6186488
+            ],
+            [
+              6.8487666,
+              52.6186008
+            ],
+            [
+              6.849065,
+              52.618603
+            ],
+            [
+              6.8491602,
+              52.6185343
+            ],
+            [
+              6.8492197,
+              52.6177015
+            ]
+          ],
+          [
+            [
+              6.8492197,
+              52.6177015
+            ],
+            [
+              6.848904,
+              52.6176898
+            ],
+            [
+              6.8487004,
+              52.6176596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Aulen Diek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Baarlinkweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bachstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Backweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bahne, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bahner Weg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bahner Weg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bahnkampstege, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bahnweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ballast, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ballastweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bärkenbelt, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bathorner Diek, Hoogstede, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bathorner Siedlung, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bathorner Weg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Beesterkampweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Beethovenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Berger Feld, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Berliner Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bertha-Benz-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bessemsland, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bettinge, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Beukerweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bgm.-Harms-Ensink-Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Birger-Forell-Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Birkenstr., Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Birkenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Birkenstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Birkhahnweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Blanke, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Blickdiek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Blickstege, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Blumhardtstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Böbbeldiek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bogenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bogenstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bogenstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bolsenstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bonhoefferstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Borggrevenkamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Boschland, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Boschstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Botterdiek, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bree, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bree, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bremarkt, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Brennerstege, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Breslauer Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Breslauer Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Brink, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Brookdiek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Brookdiek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Brookdiek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Brookeschweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Brookstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Brunstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Buchenstr., Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Buchenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Buchenstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Budbergdiek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Bültendiek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Burhook, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Burhookweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Buschweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Carl-Zeiss-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Christian-David-Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Coevordener Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Coevordener Strasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Dahlienstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Danziger Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "De Bögede, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Deichweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Deichweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Deilmannstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Derk-Stöffer-Weg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Deterskamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Dresdner Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Drosselstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Drosselweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Drümpelweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Düshook, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Eärpeldiek, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Echteler Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Echteler Weg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Egerländer Weg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Eilsweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Elsternweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Emlichheimer Strasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Emlichheimer Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Emslandstrasse, Emlichheim, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Emslandstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Erich-Kästner-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Erlenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Erlenstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Erlenweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Erlenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ernst-Julius-Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Eschweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Eschweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Europark-Allee, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Feldkampweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Feldkante, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Feldstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Feldweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Feldweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Finkenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Fischerweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Friedrich-Kottemann-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Fuchsienstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Fürstenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Fürstenweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Fürstenweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Furt, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Fuulstege, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Gebr.-van-Eyk-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Geersdiek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Geranienstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Gerrits Diek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Geschwister-Scholl-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Geschwister-ten-Brink-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Gewerbestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ginsterweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Gnadauer Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Goorstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Gramsbergener Strasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grasriete, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grillendiek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grossringer Querstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grossringer Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grubers Hof, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Grüntalstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Haferkamp, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Haftenkamper Diek, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Haftenkamper Diek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hahnenberg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hahnenberger Diek, Emlichheim, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hal-Loo-Weg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hammstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Händelstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hardenberger Diek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Haselaarweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Haselastweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Hoogstede, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Haydnstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Heerspinkweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Heesterkanter Strasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Heidebült, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Helwegstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hermann-Steinberg-Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Herrnhuter Ring, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hilbinkstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hinrich-Wilhelm-Kopf-Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hinter dem Kanal, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hinter dem Kanal, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hinter der Bahn, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hinter der Vechte, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hofbrandweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Höftestrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hoher Esch, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hoher Esch, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hohlstiege, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hollweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Holunderstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Holunderweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Holunderweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hombertstiege, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Hoogsteger Diek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Huskamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ikenweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Im Berg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Im Dorf, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Im Friem, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Im Venn, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Im Wagenholt, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Im Winkel, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "In den Bülten, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Int Swatte, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Johannes-Arnstadt-Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "K16, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "K21, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kaller Mäss, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kaller Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kaller Weg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kampweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kampweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kanalstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kanalstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kanalstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kanalstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kanalweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Karl-Domke-Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Karls Diek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kasinoweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kastanienstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kastanienstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kastanienweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kaulenkamp, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kerperinstr., Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kerperinstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kiesstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kirchpfad, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kistemakerstroate, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kleikuhlenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kleine Maate, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kleinringer Querweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Knüvendiek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Koendersweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kölner Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Königsberger Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Königsberger Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Königsfelder Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Koppeldiek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kornweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Krokusstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kruppstr., Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Krüstervenne, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kuhdamm, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kurzer Weg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Kwaststege, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Laarwaldstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lägen Diek, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lägen Diek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lamberg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lambergweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Langenpatt, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Leeweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Leonberger Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lerchenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lindenallee, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lindhorstweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lise-Meitner-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lübbers Diek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lübbers Goarn, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Lükenstege, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Maatenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Männeäckerweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Markenweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Marlinkstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Marschdiek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mässdiek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Massdiek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Meisenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Meisenweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Meppener Strasse, Ringe, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Meppener Strasse, Ringe, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mersselarweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Miep-Gies-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mittelkamp, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mittelweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Moalenkamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Moatenweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Möhdiek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Molkereistrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Möllenflier, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Möllengasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Möllenkamp, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mozartstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mühlenkamp, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Muldenstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Müldersweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Nachtigallenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Nachtigallenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Naminkstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Nebenesch, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Nelkenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neue Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neuenhauser Strasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neuer Weg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neuer Wildediek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neuerostrasse, Emlichheim, nördl. Kanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neuerostrasse, Emlichheim, südl. Kanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neulandstege, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neulandstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neulandweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Neustadtstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Niemöllerstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Nordesch, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Obenholt, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Oelstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Oelstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Oeveringer Feldweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Oeveringer Querstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Oeveringer Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Olde Venn, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ossestr., Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ossestrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ostersand, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Osterwalder Weg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ostpreussenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Plaggenweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Pöhlerweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Pollstege, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Pommernweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Prengerweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Preussagstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Querstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Querweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Raiffeisenstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ramakers Diek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Rathausstr., Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Rathausstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Rerinkstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Richterskamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Richtervenn, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Riddergoar, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ringer Diek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ringer Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Robberts Venn, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Roggenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Rotraud-Saager-Weg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.8507604,
+            52.6063626
+          ],
+          [
+            6.8510471,
+            52.6063599
+          ],
+          [
+            6.8515098,
+            52.6063734
+          ],
+          [
+            6.8518533,
+            52.6063947
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Rudolf-Diesel-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Rüschenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Sandhook, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Sandweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Sandweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schäperdiek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Scheerhorner Diek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Scheerhorner Esch, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Scheerhorner Siedlung, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schiessstand in Scheerhorn, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schlättstiege, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schleestege, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schlehstege, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schleusenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schoapdiek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schoemakerskamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Scholtenweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Scholtmanns Diek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schoonebeeker Diek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schöpfwerk Eschebrügge, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schöpperts Diek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schulweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schwalbenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schwarzer Diek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Schwedenstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Siebenbürgener Weg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Siedlerstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Siedlerstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Siedlungsstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Siemensstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Slatweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Smitderks Diek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Spangenbergstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Sportplatzweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Stauweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Stege, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Steginkdiek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Stettiner Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Stettiner Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Stokmanstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Stralsunder Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Stroevenkamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Südesch, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Sudetenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Sünnenberg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Sunnerkampstege, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Suurdiek, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Swantönskamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tannenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tannenstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Thüringer Weg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tievert, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tilsiter Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tilsiter Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Timmerweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tinholter Feld, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Toslag, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tulpenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tulpenstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Tünnerweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Twistfeld, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ulmenstr., Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Ulmenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vechtemoate, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vechtemoe, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vechtestrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vechtetalstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vechtetalstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vechtetalstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vechteweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Veldgoorstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Veltien, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vennhook, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Volzeler Feldweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Volzeler Grenzweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Volzeler Grenzweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Volzeler Mühlenweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Von-Stauffenberg-Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vorwalder Strasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vosmatenweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Vossland, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wagenholter Diek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wallstrasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weg zum Busch, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weg zum Dönsberg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weg zum Fürstentum, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weidenstr., Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weidenweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weimarer Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weinbergstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weissdornweg, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Westerfeld, Emlichheim, nördl. Kanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Westerfeld, Emlichheim, südl. Kanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Westerfeldweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Westerhook, Emlichheim, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Westersand, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wetten Kämpe, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wetteringer Weg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Weustingstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wielener Strasse, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wiesengrund, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wiggerskamp, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wildediek, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wildestrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wilminkweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wilsumer Damm, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wilsumer Strasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wilsumer Strasse, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wilsumer Weg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Winkelskamp, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wintershallstrasse, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Woldaweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wöstendiek, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wöstener Schulweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Wulfweg, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zeisigweg, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zeisterstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zinzendorfplatz, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zollhausstrasse, Ringe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zollweg, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zum Bahndamm, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zum Feld, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zum Kanal, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zum Vechtetal, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zum Velgenhorst, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zum Wiesengrund, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Allee, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Braake, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Denne, Emlichheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Friedenseiche, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Grenzaa, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Grenze, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Haar, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Heest, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Maate, Hoogstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Maate, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Mühle, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    },
+    {
+      "street": "Zur Vechte, Laar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527,
+          52.612
+        ]
+      }
+    }
+  ]
+}

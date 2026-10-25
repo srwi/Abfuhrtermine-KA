@@ -1,0 +1,3927 @@
+{
+  "generatedAt": "2026-10-25T21:33:08.378Z",
+  "streets": [
+    {
+      "street": "Achterkamp, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Achterort, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Adlerstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Ahornstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Alexanderstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Allensteiner Str., Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Alte Franz-Josef-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Alte Haare, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Alte Nordhorner Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Alter Diek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Alter Diek, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Altschwartenpohl, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Alten Schulplatz, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Bramkamp, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Brook, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Elsebruch, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Eschkamp, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Geestkamp, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Hermelinghof, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Hillenhof, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Kirmesplatz, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Klostergarten, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am langen Graben, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Lohner Bach, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Markt, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Moersfeld, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Nundiek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Park, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Richtergraben, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Röwenkamp, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Ruhning, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Soermannsbach, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Stiftsbusch, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Südufer, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Vahrenhorstkamp, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Waldrand, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Wiesengrund, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Am Wildwechsel, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Amselweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "An der Alexishütte, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "An der Lichtung, Wietmarschen/Nordlohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "An der Mate, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Annastrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Antoniusstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Asternstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Auf der Haare, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Bachstelzenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Bachstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Badener Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Baierort, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Baus Blick, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Bayernweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Beethovenring, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Benzstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Berliner Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Binsengasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Birkenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Birkhuhnstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Borsigstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Boschstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Böttcherstr., Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Brandenburger Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Breden Pohl, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Breslauer Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Brookweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Bruegelstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Brunnenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Buchenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Buddendiek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Bussardstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Chagallstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Chemnitzer Str., Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Cranachstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dachsweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Daimlerstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dalumer Allee, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Danziger Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Darpe, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dieselstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dietrich-Bonhoeffer-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dohlenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dompfaffstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dorfweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Drechslergasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dresdner Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Drosselstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Dürerstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Eichendorffstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Eierhorn, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Eifelweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Einsteinstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Elisabethstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Elsterweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Erfurter Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Erikastrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Erlenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Erzweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Eschstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Eulenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Falkenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Federgrasweg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.212755,
+            52.508419
+          ],
+          [
+            7.2121275,
+            52.508557
+          ],
+          [
+            7.2120107,
+            52.5083765
+          ],
+          [
+            7.2119974,
+            52.5078599
+          ],
+          [
+            7.2128578,
+            52.507728
+          ],
+          [
+            7.2135734,
+            52.5076334
+          ],
+          [
+            7.2136804,
+            52.5078876
+          ],
+          [
+            7.2136134,
+            52.5080296
+          ],
+          [
+            7.2136724,
+            52.5082092
+          ],
+          [
+            7.212755,
+            52.508419
+          ],
+          [
+            7.2129658,
+            52.5087643
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Feldmannskamp, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Feldstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Finkenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Fledderstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Fledderstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Franz-Josef-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Fredenhof, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Friedensweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Friedhofstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Friedrich-Hellmann-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Friesenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Fuchsweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Füchtenfelder Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Fuhrmannsweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Fürstenring, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Genegelstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Georgsdorfer Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Gerhard-Hilling-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Gerhart-Hauptmann-Str., Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Ginsterweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Gleiwitzer Str., Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Görlitzer Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Grotenfehl, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Grünewaldstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Gustav-Heinemann-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Gutenbergstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Habichtstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Häherweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hahnstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Haingortstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hammweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hasenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Wietmarschen/Lohne, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Heckelstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Heidberg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Heidort",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.217124,
+            52.4780525
+          ],
+          [
+            7.2173975,
+            52.4780813
+          ],
+          [
+            7.2184779,
+            52.478065
+          ],
+          [
+            7.2194623,
+            52.4780562
+          ],
+          [
+            7.2196728,
+            52.4780957
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Heilkers Diek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Lübke-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Heinrichstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Henry-Dunant-Strasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.2136481,
+            52.4901552
+          ],
+          [
+            7.2142588,
+            52.4892385
+          ],
+          [
+            7.2149676,
+            52.4881744
+          ],
+          [
+            7.2165135,
+            52.4879858
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hermann-Lange-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hermannstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hermelingdiek, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hessenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Heuermannweg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.1454619,
+              52.5194376
+            ],
+            [
+              7.1452911,
+              52.5195744
+            ],
+            [
+              7.1447782,
+              52.5196902
+            ],
+            [
+              7.1441117,
+              52.5198485
+            ],
+            [
+              7.1437271,
+              52.5199433
+            ]
+          ],
+          [
+            [
+              7.1447782,
+              52.5196902
+            ],
+            [
+              7.1446171,
+              52.519428
+            ]
+          ],
+          [
+            [
+              7.1441117,
+              52.5198485
+            ],
+            [
+              7.1437415,
+              52.519272
+            ],
+            [
+              7.1435857,
+              52.5193075
+            ],
+            [
+              7.1430364,
+              52.5194413
+            ],
+            [
+              7.1426157,
+              52.519541
+            ],
+            [
+              7.1414809,
+              52.5198015
+            ]
+          ],
+          [
+            [
+              7.1437415,
+              52.519272
+            ],
+            [
+              7.1441119,
+              52.5191815
+            ]
+          ],
+          [
+            [
+              7.1426157,
+              52.519541
+            ],
+            [
+              7.1427437,
+              52.5197376
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hirschberger Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hof Buschel, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hof Tegeder, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hohnerberg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Holbeinstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hollandstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Holsteiner Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Holunderweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Honiggrasweg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.2114519,
+            52.5091171
+          ],
+          [
+            7.211349,
+            52.5089693
+          ],
+          [
+            7.2109538,
+            52.5074551
+          ],
+          [
+            7.210946,
+            52.5074374
+          ],
+          [
+            7.2108819,
+            52.5072927
+          ],
+          [
+            7.2107727,
+            52.5066897
+          ],
+          [
+            7.2104693,
+            52.5066853
+          ],
+          [
+            7.2103221,
+            52.5058983
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hüberskamp, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hummelweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Hüttenweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Igelweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Iltisweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Im Alten Dorf, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Im Schwatten, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Im Strubbenfeld, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Immenhof, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "In der Bauernschaft, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "In der Schanze, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Jahnstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kampstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kanälchen, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Karl-Carstens-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kastanienweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kiebitzweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kiesbergstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kirchnerstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kirchweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Klarastrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Klausheider Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kleestrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kleiberweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kleiner Dorfweg, Schwartenpohl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Klostergang, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kolbestrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kollwitzstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kolpingstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Königsberger Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Korbmacherstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kornweihenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kortenberken, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Krähenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kranichstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kruppstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kuckuckstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Kurze Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lagemannstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lanzstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Leinenweberpfad, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Leipziger Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lerchenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Libellenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lilienthalstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lingener Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lohner Flugplatzstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lohner Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lohnerbrucher Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lönsweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Ludgerusstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Lutherstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Magdeburger Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Marderweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Markenkoppel, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Marktstr., Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Marktstrasse , Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Matthias-Rosemann-Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Meisenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Meitnerstrasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.2067748,
+            52.4748217
+          ],
+          [
+            7.212361,
+            52.4763266
+          ],
+          [
+            7.2124576,
+            52.4763826
+          ],
+          [
+            7.2124687,
+            52.4764549
+          ],
+          [
+            7.2124457,
+            52.4765199
+          ],
+          [
+            7.2123356,
+            52.4766681
+          ],
+          [
+            7.21222,
+            52.4767762
+          ],
+          [
+            7.2120188,
+            52.4768273
+          ],
+          [
+            7.2119613,
+            52.4768365
+          ],
+          [
+            7.2087712,
+            52.4773455
+          ],
+          [
+            7.2078996,
+            52.4774953
+          ],
+          [
+            7.2078709,
+            52.4774919
+          ],
+          [
+            7.2077596,
+            52.4774789
+          ],
+          [
+            7.2053382,
+            52.4768215
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Melchers Weg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Menzelstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Milanweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Möllendiek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Monetstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Monikastrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Möwenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Mozartstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Münsterlandstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Nachtigallenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Nelkenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Neuenhauser Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Niels-Stensen-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Nord-Süd-Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Nordhorner Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Nordhorner Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Nordkampstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Nordstrasse Gerade Hausnummern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Nordstrasse Nr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Osterkamp, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Parkstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Pfälzer Weg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Pferdebahn, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Picassostrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Piccardiestrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Piggendiek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Pirolweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Plaggendiek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Planckstr.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.203632,
+            52.4791674
+          ],
+          [
+            7.2040172,
+            52.4786377
+          ],
+          [
+            7.2053382,
+            52.4768215
+          ],
+          [
+            7.2067748,
+            52.4748217
+          ],
+          [
+            7.2083436,
+            52.4726029
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Posener Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Poststrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Potsdamer Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Püttkuhle, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Raiffeisenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rebhuhnstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Reichenberger Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Reiherweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Remarquestrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rembrandtstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rheinlandstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rotkelchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rubensstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Ruisdaelstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rükelstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rupingdiek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Rupingdiek, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Saarländer Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Sachsstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Sandkuhle, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Sandstiege, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Sandstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schafweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schillerstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schmitt Maate, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schoolpatt, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schützenplatz, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schützenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schwalbenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schwanenborg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Schwartenpohler Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Seggenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Siedlerstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Siemensstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Spechtweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Speckendiek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Sperberweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Sperlingweg, Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Starenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Steinhaar, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Stellmacherstr., Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Stettiner Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Stevens Kamp, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Stieglitzstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Storchenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Südstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Taubenweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Tengers Patt, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Theodor-Heuss-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Tulpenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Twist, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Uhuweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Ulmenweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Unter den Buchen, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Urbrecherweg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Van-Eyck-Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "van-Gogh-Str., Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Vechtestrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Vermeerstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Vom-Stein-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Von-Büren-Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Von-Galen-Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Von-Hardenberg-Strasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2227623,
+              52.4913233
+            ],
+            [
+              7.2227879,
+              52.4911993
+            ]
+          ],
+          [
+            [
+              7.2219006,
+              52.4916244
+            ],
+            [
+              7.2217885,
+              52.4916521
+            ],
+            [
+              7.2212468,
+              52.4918646
+            ]
+          ],
+          [
+            [
+              7.2230003,
+              52.4918305
+            ],
+            [
+              7.2230249,
+              52.4918604
+            ],
+            [
+              7.2231562,
+              52.4921767
+            ]
+          ],
+          [
+            [
+              7.2222298,
+              52.4919457
+            ],
+            [
+              7.2219006,
+              52.4916244
+            ],
+            [
+              7.2226888,
+              52.4913153
+            ],
+            [
+              7.2227623,
+              52.4913233
+            ],
+            [
+              7.2228243,
+              52.4913377
+            ],
+            [
+              7.2230003,
+              52.4918305
+            ],
+            [
+              7.2222298,
+              52.4919457
+            ],
+            [
+              7.2220978,
+              52.492226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Von-Humboldt-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Von-Ketteler-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Von-Twickel-Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Vosshaar, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wachtelweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wagnerstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Waldenburger Strasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Walter-Scheel-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wartburgstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Weidelgrasweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Weidenstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wellings Patt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Westfalenstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Westring, Wietmarschen/Lohne, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wieselweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wietmarscher Strasse, Wietmarschen, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wietmarscher Strasse, Wietmarschen/Lohne, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wilhelm-Berning-Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wilhelmstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Windthorststrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Windusstrasse, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wollgrasweg, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Wulverdiek, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Württemberger Strasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zaunkönigstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zeisigstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zeissstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zeppelinstrasse, Wietmarschen/Lohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zu den Schorten, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zum Fürstenholz, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zum Lehmformer, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zum Naherholungsgebiet",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.249224,
+              52.5128067
+            ],
+            [
+              7.249446,
+              52.512852
+            ],
+            [
+              7.2547736,
+              52.5137616
+            ],
+            [
+              7.2557465,
+              52.5139246
+            ],
+            [
+              7.2560682,
+              52.5139805
+            ]
+          ],
+          [
+            [
+              7.2382869,
+              52.5114053
+            ],
+            [
+              7.2384259,
+              52.5113599
+            ],
+            [
+              7.2386754,
+              52.5113313
+            ],
+            [
+              7.2405438,
+              52.5113964
+            ],
+            [
+              7.2408534,
+              52.5114182
+            ],
+            [
+              7.2431837,
+              52.5117985
+            ]
+          ],
+          [
+            [
+              7.2560682,
+              52.5139805
+            ],
+            [
+              7.2563912,
+              52.5140392
+            ]
+          ],
+          [
+            [
+              7.2431837,
+              52.5117985
+            ],
+            [
+              7.2434182,
+              52.511838
+            ],
+            [
+              7.249224,
+              52.5128067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Zum Ottenstein, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zum Schlackenbölt, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zum Untermoor, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zum Wirkrieg, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zum Zuschlag, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    },
+    {
+      "street": "Zur Schanze, Wietmarschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331,
+          52.5183
+        ]
+      }
+    }
+  ]
+}

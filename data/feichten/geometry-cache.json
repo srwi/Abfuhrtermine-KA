@@ -1,0 +1,395 @@
+{
+  "generatedAt": "2026-10-25T21:23:22.840Z",
+  "streets": [
+    {
+      "street": "Amsham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Attenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Brandl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Bruckhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Brunnthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Edelham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Edenstrass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Eggfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Ellerting",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Eschetshub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Feichten a.d. Alz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Fernreith",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Fernschachen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Geberting",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Gigling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Gramsham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Haid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Hüttenthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Irgreit",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Kaitl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Kaltenstadl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Lehen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Lohner",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Manetsed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Mankham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Moos",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Oberweidach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Östern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Piretz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Priel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Reichstrass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Schachen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Schächen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Schifföd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Schmidstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Schregl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Steinbrecher",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Thal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    },
+    {
+      "street": "Veitlöd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624,
+          48.198
+        ]
+      }
+    }
+  ]
+}

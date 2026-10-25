@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-10-25T21:41:43.599Z",
+  "streets": [
+    {
+      "street": "Am Bach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Am Esch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Blasheimer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Gestringer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Horstweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Im Eiken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Kirschenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Kreuzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Linckestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Maschweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Oststrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Unterm Dorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Vogelpohl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    },
+    {
+      "street": "Zur Hope",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2176,
+          51.3534
+        ]
+      }
+    }
+  ]
+}

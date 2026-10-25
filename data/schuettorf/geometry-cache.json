@@ -1,0 +1,5023 @@
+{
+  "generatedAt": "2026-10-25T21:31:34.831Z",
+  "streets": [
+    {
+      "street": "Ackerstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ahornstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Akazienstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alfred-Delp-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alte Hofstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alte Kreisstrasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alte Landesstrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2526863,
+              52.3347519
+            ],
+            [
+              7.2510349,
+              52.3333863
+            ],
+            [
+              7.2506046,
+              52.3329978
+            ]
+          ],
+          [
+            [
+              7.2506046,
+              52.3329978
+            ],
+            [
+              7.2504925,
+              52.3329081
+            ],
+            [
+              7.2503707,
+              52.3328106
+            ]
+          ],
+          [
+            [
+              7.2538758,
+              52.3357037
+            ],
+            [
+              7.2526863,
+              52.3347519
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Alte Schüttorfer Strasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alter Bentheimer Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alter Emsbürener Weg, Stadt Schüttorf, nördl. A30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alter Emsbürener Weg, Stadt Schüttorf, südl. A30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alter Kirchweg, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Alter Postdamm, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Bahndamm, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Berg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Berg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Brook, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Brückenbrink, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Diek, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Dorfplatz, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Esch, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Felde, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Gemeindehaus, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Graben, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Heidekamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Isterloh, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Kapellenplatz, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Kreuzplatz, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Kuhm, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Mühlenkolk, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Rathkamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Runden Bült, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Schottbrink, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Schürkamp, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Schützenplatz, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am See, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Spieker, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2168872,
+              52.299003
+            ],
+            [
+              7.2173589,
+              52.2990542
+            ],
+            [
+              7.2180611,
+              52.2991371
+            ],
+            [
+              7.2181016,
+              52.2991786
+            ],
+            [
+              7.2180611,
+              52.299521
+            ],
+            [
+              7.2180534,
+              52.2996493
+            ]
+          ],
+          [
+            [
+              7.2180611,
+              52.299521
+            ],
+            [
+              7.2185052,
+              52.2995451
+            ]
+          ],
+          [
+            [
+              7.2173218,
+              52.2993244
+            ],
+            [
+              7.2173589,
+              52.2990542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Am Stadtesch, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Südhang, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Tannenkamp, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Tannenkamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Tiggelhoff, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Tor, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Vechtetal, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Vossgraben, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Wald, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Waldrand, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Wehr, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Werkshorn, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Am Zuschlag, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Amselstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "An der Haar, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "An der Nore",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "An der Ziegelei, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Anna-Holmer-Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Anne-Frank-Strasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2407278,
+              52.3265957
+            ],
+            [
+              7.2407062,
+              52.326508
+            ],
+            [
+              7.2406745,
+              52.3264001
+            ],
+            [
+              7.2405607,
+              52.3263105
+            ],
+            [
+              7.2402661,
+              52.3260957
+            ],
+            [
+              7.2399546,
+              52.3258363
+            ],
+            [
+              7.2389763,
+              52.3259775
+            ],
+            [
+              7.2388744,
+              52.3259366
+            ],
+            [
+              7.2384819,
+              52.3252588
+            ],
+            [
+              7.2381945,
+              52.3248155
+            ],
+            [
+              7.2381194,
+              52.3246649
+            ],
+            [
+              7.2380986,
+              52.3246232
+            ]
+          ],
+          [
+            [
+              7.2405607,
+              52.3263105
+            ],
+            [
+              7.2397624,
+              52.3264582
+            ]
+          ],
+          [
+            [
+              7.2406745,
+              52.3264001
+            ],
+            [
+              7.241089,
+              52.3263097
+            ]
+          ],
+          [
+            [
+              7.2402661,
+              52.3260957
+            ],
+            [
+              7.2405941,
+              52.3259473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Bült, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Lohkamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bad Bentheimer Weg, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Badweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Baltikumstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bauweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bentheimer Diek, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bentheimer Strasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bentheimer Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bierbaumsweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Birkenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bleichenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bleichenwall, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Blücherstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Blumenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Boggelhöst, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bramhaar, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Brandacker, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Breslauer Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Brunnengasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Brunnenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Brunnenweg, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Buchenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Bundesstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Burg-Altena-Platz, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Burstegge, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Buschenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Buschstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Claarstege, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dannenkamp, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Danziger Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "de Lutter Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Denekamper Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dieselstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dietrich-Bonhoeffer-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dollenweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dorf, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dorfplatz, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dr. Scheurmann Platz, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Dreiströmestr., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Drievordener Strasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Drievordener Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Drosselstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ebertstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Echelfortsweg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Edels Weiden, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Edelshof, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Eesmanns Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Emsbürener Strasse, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Emsbürener Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Emsbürener Weg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Emsfort, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Emslandstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Emsweg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Engdener Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Enscheder Str. , Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Erikastrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Erlenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ermlandstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Erster Rundweg ab Kemperstrasse bis Ratsherr Schlikker Str., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Erster Rundweg ab Ratsherr Schlikker Str. bis Emsbürener Str., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Eschenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Euregiostrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Fabrikstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Färberstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Farwicks Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Feldhoek, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Feldmark, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Feldstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Feldstrasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Feldweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Fichtenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Fillkuhle, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Finkenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Fliederstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Flödderweg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Föhnstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Föhrenweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Friedenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Friedlandstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Friedrich-Kröner-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Friedrich-Middendorff-Platz, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Friesenveener Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Fuchsstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Fünerken, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Gartenhofstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Gartenkamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Geiststrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Gerberstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Gerhard-Koppelmann-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Geschwister - Scholl - Str., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Geschwister-Scholl-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Gewerbeweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Gildestrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ginsterweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Glatzer Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Gleiwitzer Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Goethestrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Goorstiege, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Görtstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Graf-Egbert-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Grüner Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Haarweg, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Haddorfer Strasse, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Haferkamp, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hafermarkt, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hagels Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hagen, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hainstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hambeckstrasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Handelsweg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.251413,
+            52.3395524
+          ],
+          [
+            7.2526831,
+            52.3404324
+          ],
+          [
+            7.2530393,
+            52.3405591
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Handwerkstr.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.2457239,
+            52.3332501
+          ],
+          [
+            7.2427285,
+            52.3339604
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hansastrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hasenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Heckenweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Heidfeld, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Helpers Höhe, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hengeloer Str., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Herman-ten-Wolde-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hermann-Brinkmann-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hermann-Schlikker-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hessenweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hinterstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hoffboom, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Höhe Bleiche, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hoher Esch, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hoher Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hoher Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Holmers Esch, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Holmers Kamp, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Holmers Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Holtkamp, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Holunderweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Hummerts Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Eck, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Esch, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Hach, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Mersch, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Schlatt, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Slaat, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Steinfeld, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Im Winkel, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "In den Bergen, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Isterbergweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Jahnstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Johann-Wenning-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Julius-Leber-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Jürgenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kämpe, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kampstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kantstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Karlstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Karolinenstrasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Karolinenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kastanienstr. , Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kemperstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kettelerweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kiefernstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kirchgasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kleidiek, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Klosterweg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Klosterweg, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Knüvers Eck, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Knüversweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kohstegge, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Königsberger Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Koppelweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Körnerstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Krähenfurt, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Krähenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Krankenhausweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kuhlstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kuhmplatz, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kurlandstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Kurze Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ladestrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Langenfoort, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Lärchenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Laudiek, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Lehmkuhle, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Leibnizstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Lessingstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Liebigstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Lohkampstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Löschstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Losser Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Lütke Brook, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Marie-Juchacz-Strasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2396442,
+              52.3246958
+            ],
+            [
+              7.239636,
+              52.3247618
+            ],
+            [
+              7.2395742,
+              52.3252567
+            ],
+            [
+              7.2384819,
+              52.3252588
+            ]
+          ],
+          [
+            [
+              7.2395742,
+              52.3252567
+            ],
+            [
+              7.2398674,
+              52.3252798
+            ],
+            [
+              7.2399547,
+              52.3253799
+            ],
+            [
+              7.2399546,
+              52.3258363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Marienburger Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Markringstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Markt, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Martin - Niemöller - Str., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Martin Niemöller-Strasse, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Matthias-Claudius-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Mauerstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Maxel, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Meisenweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Mescheweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Mesterkamp, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Milchstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Milchweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Molkereistrasse, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Möllenweg, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Möllers Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Mühlengasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Mühlenmersch, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nachtigallenweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Narzissenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nebengasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Neerlager Postdamm, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Neerlager Weg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nelkenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Neue Kämpe, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Neuer Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Niedersachsenstrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2434953,
+              52.3352697
+            ],
+            [
+              7.242809,
+              52.3340879
+            ],
+            [
+              7.2427285,
+              52.3339604
+            ],
+            [
+              7.2424036,
+              52.3334268
+            ],
+            [
+              7.2415387,
+              52.3318844
+            ],
+            [
+              7.2411689,
+              52.3311998
+            ]
+          ],
+          [
+            [
+              7.2456109,
+              52.3384083
+            ],
+            [
+              7.2454915,
+              52.3383755
+            ],
+            [
+              7.2453172,
+              52.3383362
+            ],
+            [
+              7.2451628,
+              52.3383291
+            ],
+            [
+              7.2450489,
+              52.3383345
+            ],
+            [
+              7.2447886,
+              52.3383737
+            ],
+            [
+              7.2445022,
+              52.338436
+            ],
+            [
+              7.2437394,
+              52.3386021
+            ],
+            [
+              7.2424637,
+              52.3388809
+            ],
+            [
+              7.2419128,
+              52.3389998
+            ],
+            [
+              7.2417514,
+              52.3390178
+            ],
+            [
+              7.2416635,
+              52.3389931
+            ],
+            [
+              7.241587,
+              52.3389424
+            ],
+            [
+              7.2413899,
+              52.3385661
+            ],
+            [
+              7.2412803,
+              52.3383571
+            ],
+            [
+              7.2409465,
+              52.33772
+            ],
+            [
+              7.2406942,
+              52.3372384
+            ],
+            [
+              7.2406712,
+              52.3371655
+            ],
+            [
+              7.2406933,
+              52.3371111
+            ],
+            [
+              7.2407285,
+              52.3370799
+            ],
+            [
+              7.2407528,
+              52.3370585
+            ],
+            [
+              7.2437528,
+              52.3363936
+            ],
+            [
+              7.2438338,
+              52.3363595
+            ],
+            [
+              7.2438579,
+              52.3363136
+            ],
+            [
+              7.243842,
+              52.3362533
+            ],
+            [
+              7.2434748,
+              52.3356338
+            ],
+            [
+              7.2434627,
+              52.3355586
+            ],
+            [
+              7.2434657,
+              52.335457
+            ],
+            [
+              7.2434965,
+              52.3353628
+            ],
+            [
+              7.2434953,
+              52.3352697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Niels-Stensen-Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nordbeckstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nordhorner Strasse, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nordhorner Strasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nordhorner Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nordkamp",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2471902,
+              52.3261059
+            ],
+            [
+              7.2468223,
+              52.3264196
+            ],
+            [
+              7.2466367,
+              52.3266241
+            ],
+            [
+              7.2466366,
+              52.3267183
+            ],
+            [
+              7.2466364,
+              52.326886
+            ],
+            [
+              7.2466396,
+              52.3270913
+            ],
+            [
+              7.2466415,
+              52.3272106
+            ],
+            [
+              7.2466356,
+              52.3273245
+            ],
+            [
+              7.2464595,
+              52.3272864
+            ],
+            [
+              7.2462087,
+              52.3272692
+            ],
+            [
+              7.2460679,
+              52.3272388
+            ],
+            [
+              7.2459016,
+              52.3270987
+            ],
+            [
+              7.2458415,
+              52.3269957
+            ]
+          ],
+          [
+            [
+              7.2468223,
+              52.3264196
+            ],
+            [
+              7.2463651,
+              52.3262441
+            ]
+          ],
+          [
+            [
+              7.2466366,
+              52.3267183
+            ],
+            [
+              7.2465138,
+              52.326714
+            ],
+            [
+              7.246422,
+              52.3267018
+            ],
+            [
+              7.24606,
+              52.3265663
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Nordring, Stadt Schüttorf, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nordstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nordweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Nussbaumweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Oberescher Weg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ohner Diek, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ohner Diek, Suddendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ohner Strasse, Samern, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ohner Weg , Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Oldenzaaler Str., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ootmarsumer Str., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Oppelner Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Oststrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Pagenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Parallelweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Pastoarenpättken, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Pfalzgrafenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Pferdemaate, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Postweg, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Postweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Pottstiege, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Quendorfer Strasse, Haus-Nr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Querstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Querstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Rathausstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ratsherr-Schlikker-Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Rehfeldweg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Reiterstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Reuterstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Rheiner Damm, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Roggenkamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Röntgenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Rotdornweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Rotkehlchenweg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.2083481,
+            52.3241315
+          ],
+          [
+            7.2075093,
+            52.3239779
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Rundweg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Rüskau, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Rymselweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Salzbergener Strasse, Samern, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Salzbergener Weg, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Salzberger Strasse, Stadt Schüttorf, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Salzberger Strasse, Stadt Schüttorf, ungerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Samernsche Strasse, Stadt Schüttorf, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Samlandstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Sanddornweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Sandstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schevestrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schillerstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schinkenkämpe, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schlattdiek, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schlattweg, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schlehdornweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schlehenweg, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schmidtsmeetken, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schulbültstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schulweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schümers Damm, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schüttorfer Strasse, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schüttorfer Strasse, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schüttorfer Strasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schüttorfer Strasse, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schützenhalle, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schützenstrasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schützenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schwarzdornweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Schweers Eck, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Seitenweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Siedlungsstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Siemensstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Singel, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Sonnenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Sportplatz, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Sportplatzstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Steinstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Steinweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Sternstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Stettiner Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Stiftstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Strassburger Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Suddendorfer Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Südhoek, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Südkamp, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Sudmate, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Suerschott, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Süsterstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Syen-Venn-Strasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Tannenbergstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Tannenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Tappenfeld",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2328353,
+              52.3007442
+            ],
+            [
+              7.2328657,
+              52.3006864
+            ],
+            [
+              7.2330527,
+              52.3002765
+            ],
+            [
+              7.2332353,
+              52.2998759
+            ],
+            [
+              7.2333138,
+              52.2998038
+            ],
+            [
+              7.2334317,
+              52.2997328
+            ],
+            [
+              7.2334914,
+              52.2996775
+            ],
+            [
+              7.2335722,
+              52.2995807
+            ],
+            [
+              7.2336206,
+              52.299555
+            ],
+            [
+              7.2336949,
+              52.2995402
+            ],
+            [
+              7.2346442,
+              52.2997258
+            ]
+          ],
+          [
+            [
+              7.2325502,
+              52.3001997
+            ],
+            [
+              7.2330527,
+              52.3002765
+            ],
+            [
+              7.2343882,
+              52.3004244
+            ],
+            [
+              7.2350417,
+              52.3004417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Technikerstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Textilstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Tibbenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Tilsiter Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Töpferstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Toschlag, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Tüchters Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Tulpenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Uhlandstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ulmenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Unterwiesen, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Vechtestrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Vechtetal, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Vechtetalweg, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Veddelers Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Vierter Rundweg, Stadt Schüttorf, zwischen Alter Emsbürener Weg und Niedersachsenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Vierter Rundweg, Stadt Schüttorf, zwischen Niedersachsenstr. und Emslandstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Volkers Kamp, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Volkers Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Vorderfeld, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Vriezenveener Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wacholderstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Waldenburger Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Waldhausstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wasserstiege, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wehrstrasse, Isterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Weidenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Weissdornweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Weisse Riete, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Weisse Strasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wennings Kamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Werkstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Weststrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wettringer Strasse, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Weusten Weg, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wietkampstrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.2152752,
+              52.323737
+            ],
+            [
+              7.2151925,
+              52.3236464
+            ],
+            [
+              7.2146466,
+              52.3229133
+            ]
+          ],
+          [
+            [
+              7.2152752,
+              52.323737
+            ],
+            [
+              7.2166472,
+              52.3249817
+            ],
+            [
+              7.2166881,
+              52.3250188
+            ]
+          ],
+          [
+            [
+              7.2146466,
+              52.3229133
+            ],
+            [
+              7.214588,
+              52.3228377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Wietkampsweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wilhelm-Busch-Str., Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Wilhelmstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Windstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Winkelstrasse, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Winkelstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Woestendiek, Engden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zebelinger Weg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ziegeleistrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Ziegelstrasse, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zu den Höfen, Ohne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zum Adolfshof, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zum Dorfplatz, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zum Forsthaus, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zum Höring, Samern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zum Knüvers Eck, Quendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zum Wietkamp, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    },
+    {
+      "street": "Zweiter Rundweg, Stadt Schüttorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136,
+          52.3073
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4761 @@
+{
+  "generatedAt": "2026-10-25T21:32:25.179Z",
+  "streets": [
+    {
+      "street": "Achterende, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ahornstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ahornweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Altenaer Weg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Berge, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Blagschenberge, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Bürgerpark, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Esch, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Feld, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Feldkamp, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Feriengebiet, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Fertenbach, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Festplatz, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Friesenbach, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Geelkamp, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Goldberg, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Grollendiek, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am grossen Graben, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Ham, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Holtkamp, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Hopfenbach, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Horst, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Hundebrook, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Iland, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Iland, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Kindergarten, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Kopschen Berg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Krösenberg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Lemker Esch, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Loa, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Markt, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Mühlenberg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Mühlenteich, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Nackenberg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Nüssberg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Osthang, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Park, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Rott, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Ruge, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Schulkamp, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Spöllberg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Stahlbrink, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Ullenbach, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Ultbach, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Wäldchen, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Waldrand, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Wasserwerk, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Wasserwerk, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Am Zitterfeld, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Amselstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An den Neegenbargen, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Becke, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Itter, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Mühle, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Post, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Reithalle, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Schule, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Sporthalle, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Vechte, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "An der Voskuhle, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Zuschlag, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Balderhaar, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Balderhaar, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bauerhausener Weg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bauhofstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Becke-Daale, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Beethovenstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Belthoek, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Blaaschendiek, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Blankenfoort, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bliksteege, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bode-Steege, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bogenstrasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bogenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bonhöffer Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Bookesch, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Botterhook, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Brandenberg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Brink, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Broeker Diek, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Brookstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Buchenweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Buchenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Buchenweg, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Buschweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Butenhuse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Daalacker, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Daimlerstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dalenhoek, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "De Elst, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Deelenweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Deepe Moate, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dille, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Doosendiek, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dorfgemeinschaftshaus, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dr.-Leege-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dr.-Picardt-Hof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Dr.-Regenbogen-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Drosselstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Echteler Diek, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Echteler Strasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Egger Strasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Eichenallee, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Eichengrund, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Eisenstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Elshook, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Elsternstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Emilstrasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Emlichheimer Strasse, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Emlichheimer Strasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Erlenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Esch, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Escher Strasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Eschgarten, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Eschweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Eschweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.8668452,
+              52.4864273
+            ],
+            [
+              6.8673578,
+              52.4866188
+            ],
+            [
+              6.8676898,
+              52.4867051
+            ],
+            [
+              6.8680043,
+              52.4867122
+            ],
+            [
+              6.8686314,
+              52.4866862
+            ],
+            [
+              6.8698643,
+              52.4866306
+            ],
+            [
+              6.8702026,
+              52.4866139
+            ],
+            [
+              6.8704244,
+              52.4865449
+            ],
+            [
+              6.8705853,
+              52.4864562
+            ],
+            [
+              6.870648,
+              52.4863509
+            ],
+            [
+              6.8706012,
+              52.4860303
+            ],
+            [
+              6.8705984,
+              52.4859837
+            ]
+          ],
+          [
+            [
+              6.8627205,
+              52.4842072
+            ],
+            [
+              6.8627548,
+              52.4842382
+            ],
+            [
+              6.8632599,
+              52.484674
+            ],
+            [
+              6.8637661,
+              52.4851224
+            ],
+            [
+              6.8640151,
+              52.4853531
+            ],
+            [
+              6.8640519,
+              52.4853879
+            ],
+            [
+              6.8640975,
+              52.4854192
+            ],
+            [
+              6.8641309,
+              52.4854375
+            ],
+            [
+              6.8641663,
+              52.4854561
+            ],
+            [
+              6.8642307,
+              52.4854818
+            ],
+            [
+              6.8650686,
+              52.4857707
+            ]
+          ],
+          [
+            [
+              6.8625184,
+              52.4840299
+            ],
+            [
+              6.8626315,
+              52.4841273
+            ],
+            [
+              6.8627205,
+              52.4842072
+            ]
+          ],
+          [
+            [
+              6.8650686,
+              52.4857707
+            ],
+            [
+              6.8655835,
+              52.4859564
+            ],
+            [
+              6.8656278,
+              52.4859699
+            ],
+            [
+              6.8657672,
+              52.4860193
+            ],
+            [
+              6.8659239,
+              52.486077
+            ],
+            [
+              6.8662055,
+              52.4861761
+            ],
+            [
+              6.8668452,
+              52.4864273
+            ]
+          ],
+          [
+            [
+              6.8705984,
+              52.4859837
+            ],
+            [
+              6.870593,
+              52.4859281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Feldkamp, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Feldweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Feldweg, Uelsen Ort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Feriengebiet am Waldbad, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Fichtenstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Finkenstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Fischediek, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Fleyerbecke, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Fliederweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Gassgarten, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Geerinks Kamp, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Gerstenkamp, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Geschwister-Scholl-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Geteloer Strasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Geteloer Strasse, Uelsen, Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Geteloweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Gewerbestrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ginsterweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ginsterweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Gölenkamper Quellen, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Gölenkamper Strasse, Uelsen, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Gölenkamper Strasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Graf-Arnold-Hof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Grosse Schlichte, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Grösshof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Grünlandweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Habichtstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Haferkamp, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Haftenkamp, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Haftenkamper Weg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Haller Strasse, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Haller Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hardinger Goor, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hardinger Mühlenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hardinger Strasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hardinger Weg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hardinghauser Quellen, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hardinghauser Strasse, Gölenkamp, ungerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hardinghauser Strasse, Uelsen, ungerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hasselweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Heideweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Heidkamp, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Bernds-Hof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Heinrich-Specht-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hesinger Strasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hesinger Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hesinger Weg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hiltener Weg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hiltener Weg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hiltener Weg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hinter der Braake, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hoambarger Weg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hoambergsteege, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Höcklenkamper Strasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Höcklenkamper Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Höcklenkamper Weg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hohe Feld, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hoher Kamp, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hollboom, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Holthouse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Holthuis Kamp, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Holthuise, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Holthuiser Weg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Holthuiser Weg, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Holunderweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Holzstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hooge Weg, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hooge Weg, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hooge Weg, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hoogen Esch, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hoogsteder Strasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Hünenbachweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Im Glup, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Im Ried, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Im Westesch, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "In der Stadt, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Itterbecker Strasse, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Itterbecker Strasse, Uelsen, gerade Hsnr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Itterbecker Strasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Jan-Albert-Blekker-Hof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Jan-Hindrik-Körner-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Johann-Niehoff-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Jugendheim Egge, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kaller Strasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kampschott, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kapellendiek, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kappenberghof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Karkweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kiebitzstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kiefernstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kiefernweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kirchweg, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kleihook, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Konings-Iland, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Koningsweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Koninkhoek, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kreisstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kreisstrasse, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Krickenpatt, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Krummen Kamp, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kuckuckstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Kupferstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Lägen Esch, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Lärchenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Lasebrok, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Lemker Berg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Lemker Feld, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Lemker Wiesen",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.9027075,
+              52.4905308
+            ],
+            [
+              6.9045475,
+              52.4910093
+            ],
+            [
+              6.9047272,
+              52.4910763
+            ],
+            [
+              6.9048454,
+              52.4911624
+            ],
+            [
+              6.9049071,
+              52.4912538
+            ],
+            [
+              6.9049152,
+              52.4913257
+            ],
+            [
+              6.9048884,
+              52.4913992
+            ],
+            [
+              6.9047167,
+              52.4918026
+            ],
+            [
+              6.9037457,
+              52.491943
+            ],
+            [
+              6.9037136,
+              52.4920622
+            ],
+            [
+              6.903035,
+              52.4921586
+            ],
+            [
+              6.9030752,
+              52.4918826
+            ],
+            [
+              6.9025951,
+              52.4918646
+            ],
+            [
+              6.9026702,
+              52.4912996
+            ],
+            [
+              6.9024073,
+              52.4912816
+            ],
+            [
+              6.9024339,
+              52.4908705
+            ],
+            [
+              6.9021484,
+              52.4908555
+            ],
+            [
+              6.9021764,
+              52.4908183
+            ],
+            [
+              6.9022062,
+              52.4907002
+            ],
+            [
+              6.9022169,
+              52.4905581
+            ],
+            [
+              6.9021603,
+              52.4905096
+            ],
+            [
+              6.9018947,
+              52.4904508
+            ],
+            [
+              6.9017099,
+              52.4903589
+            ],
+            [
+              6.9015705,
+              52.4902364
+            ],
+            [
+              6.9015061,
+              52.4901923
+            ],
+            [
+              6.9021613,
+              52.4903916
+            ],
+            [
+              6.9027075,
+              52.4905308
+            ]
+          ],
+          [
+            [
+              6.9048558,
+              52.4915859
+            ],
+            [
+              6.9043328,
+              52.4915069
+            ],
+            [
+              6.9034143,
+              52.4917949
+            ],
+            [
+              6.9033657,
+              52.4917926
+            ],
+            [
+              6.9033227,
+              52.4917772
+            ],
+            [
+              6.903137,
+              52.4915483
+            ],
+            [
+              6.9029253,
+              52.4910182
+            ],
+            [
+              6.9028584,
+              52.4908505
+            ],
+            [
+              6.9030186,
+              52.4905728
+            ]
+          ],
+          [
+            [
+              6.9043328,
+              52.4915069
+            ],
+            [
+              6.9043124,
+              52.4914821
+            ],
+            [
+              6.9043034,
+              52.4914614
+            ],
+            [
+              6.9043419,
+              52.4913566
+            ],
+            [
+              6.9043419,
+              52.4913345
+            ],
+            [
+              6.9043328,
+              52.4913069
+            ],
+            [
+              6.9043034,
+              52.4912876
+            ],
+            [
+              6.9031981,
+              52.4909953
+            ],
+            [
+              6.9031234,
+              52.4909925
+            ],
+            [
+              6.9029253,
+              52.4910182
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Linnenbachweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Linnenbachweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Linnenboo, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Liststrasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Loarbergsweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ludwig-Sager-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Marsbrookweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Marschböltweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Marschgärten, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Marschstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Martin-Niemöller-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Melkweg, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mickenweg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mittelesch, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Molkereistrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mossweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mozartstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mühlenkamp, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mühlenmaat, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Nackenbergsgarten, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Nackenbergstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Neuenhauser Strasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Neuenhauser Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Neuland, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Nijenkamp, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Nordker Esch, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Oelstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ootmarsumer Strasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Osterend, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Osteresch, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ostermoor, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Oststrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.8930783,
+              52.4928724
+            ],
+            [
+              6.8931308,
+              52.4928766
+            ],
+            [
+              6.893327,
+              52.4928854
+            ],
+            [
+              6.8936472,
+              52.4929077
+            ],
+            [
+              6.8937925,
+              52.4929085
+            ],
+            [
+              6.8939402,
+              52.4929068
+            ],
+            [
+              6.8942206,
+              52.4929038
+            ],
+            [
+              6.894422,
+              52.4929085
+            ],
+            [
+              6.8946295,
+              52.4929079
+            ],
+            [
+              6.8946733,
+              52.4929031
+            ],
+            [
+              6.8947122,
+              52.4928849
+            ],
+            [
+              6.8947226,
+              52.4927316
+            ],
+            [
+              6.8947772,
+              52.49252
+            ],
+            [
+              6.8948641,
+              52.4919166
+            ],
+            [
+              6.8948871,
+              52.4917899
+            ],
+            [
+              6.8949042,
+              52.4915696
+            ],
+            [
+              6.8949107,
+              52.4914863
+            ],
+            [
+              6.8949201,
+              52.4913283
+            ],
+            [
+              6.8949001,
+              52.4911555
+            ],
+            [
+              6.8947758,
+              52.4911351
+            ],
+            [
+              6.8946101,
+              52.4911497
+            ],
+            [
+              6.8942657,
+              52.4911832
+            ],
+            [
+              6.8936093,
+              52.4912228
+            ],
+            [
+              6.8935134,
+              52.4912276
+            ]
+          ],
+          [
+            [
+              6.8933755,
+              52.4918121
+            ],
+            [
+              6.8948871,
+              52.4917899
+            ]
+          ],
+          [
+            [
+              6.8955169,
+              52.4911086
+            ],
+            [
+              6.8949001,
+              52.4911555
+            ]
+          ],
+          [
+            [
+              6.8955169,
+              52.4911086
+            ],
+            [
+              6.8964369,
+              52.4910841
+            ],
+            [
+              6.8965724,
+              52.4910991
+            ],
+            [
+              6.8967203,
+              52.4911366
+            ],
+            [
+              6.8968196,
+              52.4912267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Pappelstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Postweg, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Pötterdiek, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Querweg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ratzeler Strasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ratzeler Strasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Reiherstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ridderskamp, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Riedtal, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Rietweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Robert-Bosch-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Roggenkamp, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Rönnebergstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Rotdornstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Rotthook, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Rudolf-Diesel-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Sandgrubenweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schäpersbusch, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schäperspöll, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schäperspöll, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schensken, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Scholtenkamp, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schoolstege, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schubertstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schulten-Kamp, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schulweg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schulweg, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Schwarzer Weg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Siedlerstrasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Söven Pölle, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Spielkreis Halle, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Spöllbergstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Springorumstrasse, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Steenebarg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Stegken, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Steinberg, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Stöltinks Feld, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Striepe, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Strieper Diek, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Südesch, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Südstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Suke, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Talsicht, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Tangenbarg, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Tangenberg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Tangenberg, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Telgtenweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Tochdiek, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Tubbergener Strasse, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Tüsterberg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Uelsener Strasse, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Uelsener Strasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Uelsener Strasse, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Uelsener Strasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Uelser Diek, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Uelser Feld, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Uelser Holt, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ullenstrasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ulmenstrasse, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Unter den Brinkbäumen, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Upt Hooge, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Van-der-Linde-Hof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vechtetalstrasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vechteweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Veldhoffs Kamp, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Velge, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Venndiek, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vennebrügge, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vennweg, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "von-Stauffenberg-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vor den Sandgruben, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vor der Braake, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vorgrundweg, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vos-Vorsanger-Hof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vossbölt, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Vuer Int Venne",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wacholderstrasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wacholderweg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wacholderweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wagnerstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Waldweg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Waldweg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wedekindhof, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Weidenstrasse Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Weisser Berg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Weizenkamp, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Westervenn, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wilhelm-A.-Jacobs-Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wilsumer Strasse, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wilsumer Strasse, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wilsumer Strasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Winnebrook, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Woellenstiege, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Wurtsteege, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Ziegeleistrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zinnstrasse, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Erholungspark",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.8598601,
+            52.4883403
+          ],
+          [
+            6.8600666,
+            52.4882849
+          ],
+          [
+            6.8601515,
+            52.4882741
+          ],
+          [
+            6.8602476,
+            52.4882692
+          ],
+          [
+            6.860741,
+            52.4882815
+          ],
+          [
+            6.8608742,
+            52.4882737
+          ],
+          [
+            6.8609964,
+            52.4882558
+          ],
+          [
+            6.8610873,
+            52.4882287
+          ],
+          [
+            6.861163,
+            52.4881889
+          ],
+          [
+            6.8613581,
+            52.4880765
+          ],
+          [
+            6.8615305,
+            52.487979
+          ],
+          [
+            6.8615901,
+            52.4879565
+          ],
+          [
+            6.8616488,
+            52.4879462
+          ],
+          [
+            6.8617217,
+            52.4879456
+          ],
+          [
+            6.8619405,
+            52.4879606
+          ],
+          [
+            6.8620579,
+            52.4879554
+          ],
+          [
+            6.8621555,
+            52.4879398
+          ],
+          [
+            6.862236,
+            52.4879081
+          ],
+          [
+            6.8622956,
+            52.4878683
+          ],
+          [
+            6.8625369,
+            52.4876163
+          ],
+          [
+            6.8628373,
+            52.4873193
+          ],
+          [
+            6.862917,
+            52.487249
+          ],
+          [
+            6.8630049,
+            52.4871891
+          ],
+          [
+            6.863194,
+            52.4870602
+          ],
+          [
+            6.8635741,
+            52.4868049
+          ],
+          [
+            6.8650686,
+            52.4857707
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Zum Feriengebiet, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Forsthaus, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Haamberg, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Hoambarg, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Lönsberg, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Modellflugplatz, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Ried, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Waldbad, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Wasserwerk, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zum Weissen Berg, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Birke, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Bleeke, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Braake, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Braake, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Eiche, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Ferte, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Haar, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Hopfenbachquelle, Wilsum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Itterquelle, Itterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Kläranlage, Gölenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Peckelbrücke, Wielen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Quelle, Getelo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Quelle, Halle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Reithalle, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Statt, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    },
+    {
+      "street": "Zur Wuerde, Uelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8861,
+          52.4938
+        ]
+      }
+    }
+  ]
+}

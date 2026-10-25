@@ -1,0 +1,1165 @@
+{
+  "generatedAt": "2026-10-25T21:24:09.765Z",
+  "streets": [
+    {
+      "street": "Aichpoint",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Aigengrub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Aigner a. Holz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Aigner a. Wald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Altenbuch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Bachmaier a. d. Alz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Baumgartner",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Berger a. Brunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Bichl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Bonauer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Böslhäusl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Brandstätt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Brandstätt a. d. Alz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Brunnjodl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Dorfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Edmaier",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Endfelln",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Erber",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Ettlberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Fagl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Fellner i. Dorfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Ferndörfl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Forstergütl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Forsthaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Freudelsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Friedl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Fuchs i. Reit",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Fürstberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Gasteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Geier",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Geierschuster",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Gerl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Gerlhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Gloneck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Göpping",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Gröbn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Grub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Grund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Haindl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Hansbauer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Hauslehen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Herrenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Hinterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Hub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Jakobhub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Kager",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Kagerer a. Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Kalteneck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Kammerlehner",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Kastl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Klaffl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Klugham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Kothdörfl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Maierhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Maierhöfl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Meisterlehen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Mittersass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Moosen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Moosener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Mühlhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Neuhäusl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Niedersass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Nöhhäusl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Obergöpping",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Oberöd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Obersass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Oberthaling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Pirach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Popp a. Wald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Poschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Prähub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Putz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Radeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Radfelln",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Reichkobl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Reit",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Riching",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schachen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schauer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schiessler",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schmid i. Lehen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schmidhub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schnitzlehen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schönwinkl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schwaikl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Schwarz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Sebald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Seidlalber",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Starneck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Staudhub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Stegen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Steinberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Stepf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Strahlehen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Strass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Strassdorfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Strickerschneider",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Strohhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Strohmaier",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Thalmann",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Untergöpping",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Unterthaling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Wallner a. Wald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Weglehner",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Weindlgrub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Weinthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Wichtl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Wimmer a. d. Alz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Wimmer a. Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Winkler a. Holz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Zauner",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Zimmermeister",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Zipfer a. Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Zwirglmaier",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    },
+    {
+      "street": "Zwiselsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6834,
+          49.3667
+        ]
+      }
+    }
+  ]
+}
