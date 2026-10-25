@@ -977,15 +977,6 @@ export const MUELLMAX_FETCHERS: CityFetcher[] = [
     bbox: [51.9304, 7.7038, 52.0643, 7.8964]
   }),
   new RegioItFetcher({
-    id: 'versmold',
-    name: 'Versmold',
-    shortName: 'VER',
-    serviceDomain: 'krwaf',
-    center: [8.1742, 52.0422],
-    defaultZoom: 12,
-    bbox: [51.9971, 8.0756, 52.0875, 8.2614]
-  }),
-  new RegioItFetcher({
     id: 'wadersloh',
     name: 'Wadersloh',
     shortName: 'WAD',

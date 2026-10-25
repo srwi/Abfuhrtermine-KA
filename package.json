@@ -8,7 +8,8 @@
     "check": "bunx svelte-kit sync && bunx svelte-check --tsconfig ./tsconfig.json",
     "preview": "bunx vite preview",
     "data:cache": "bun scripts/build-cache.ts",
-    "data:refresh": "bun scripts/refresh-data.ts"
+    "data:refresh": "bun scripts/refresh-data.ts",
+    "data:missing": "bun scripts/build-missing.ts"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.8",

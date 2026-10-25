@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-09-10T20:12:39.787Z",
+  "streets": [
+    {
+      "street": "Am Mönch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "An der Eiche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Aubek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Austrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Buschkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Glückstädter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Hingstheider Moor",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Neel-Greve-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Schmiedeberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Seestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Vossbarg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    },
+    {
+      "street": "Zum Felde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7941,
+          54.2158
+        ]
+      }
+    }
+  ]
+}

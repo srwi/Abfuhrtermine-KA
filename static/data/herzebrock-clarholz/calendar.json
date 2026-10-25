@@ -1,0 +1,238 @@
+{
+  "year": 2026,
+  "generatedAt": "2026-09-10T20:20:41.086Z",
+  "categories": [
+    {
+      "key": "restmuell",
+      "label": "Restmüll",
+      "color": "#4b5563"
+    },
+    {
+      "key": "bioabfall",
+      "label": "Bioabfall",
+      "color": "#92400e"
+    },
+    {
+      "key": "wertstoff",
+      "label": "Wertstoff / Gelb",
+      "color": "#eab308"
+    },
+    {
+      "key": "papier",
+      "label": "Papier",
+      "color": "#1d4ed8"
+    }
+  ],
+  "days": [
+    {
+      "isoDate": "2026-06-09",
+      "date": "09.06.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-06-12",
+      "date": "12.06.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-06-23",
+      "date": "23.06.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-06-24",
+      "date": "24.06.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-07-07",
+      "date": "07.07.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-07-10",
+      "date": "10.07.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-07-21",
+      "date": "21.07.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-07-22",
+      "date": "22.07.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-08-04",
+      "date": "04.08.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-08-07",
+      "date": "07.08.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-08-18",
+      "date": "18.08.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-08-19",
+      "date": "19.08.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-09-01",
+      "date": "01.09.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-09-04",
+      "date": "04.09.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-09-15",
+      "date": "15.09.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-09-16",
+      "date": "16.09.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-09-29",
+      "date": "29.09.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-10-02",
+      "date": "02.10.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-10-13",
+      "date": "13.10.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-10-14",
+      "date": "14.10.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-10-27",
+      "date": "27.10.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-10-30",
+      "date": "30.10.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-11-10",
+      "date": "10.11.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-11-11",
+      "date": "11.11.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-11-24",
+      "date": "24.11.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-11-27",
+      "date": "27.11.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-12-08",
+      "date": "08.12.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-12-09",
+      "date": "09.12.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-12-21",
+      "date": "21.12.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-12-24",
+      "date": "24.12.2026",
+      "categories": [
+        "papier"
+      ]
+    }
+  ]
+}

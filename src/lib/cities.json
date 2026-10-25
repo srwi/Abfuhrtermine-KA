@@ -4384,22 +4384,6 @@
     ]
   },
   {
-    "id": "versmold",
-    "name": "Versmold",
-    "shortName": "VER",
-    "center": [
-      8.1742,
-      52.0422
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      51.9971,
-      8.0756,
-      52.0875,
-      8.2614
-    ]
-  },
-  {
     "id": "vettweiss",
     "name": "Vettweiß",
     "shortName": "VET",

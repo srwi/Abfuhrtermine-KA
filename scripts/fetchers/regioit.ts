@@ -112,14 +112,15 @@ export class RegioItFetcher implements CityFetcher {
           return (await res.json()) as T;
         }
 
-        if (res.status === 404 && this.activeBaseUrl === this.primaryBaseUrl) {
-          this.activeBaseUrl = this.fallbackBaseUrl;
+        if (res.status === 404) {
+          if (this.activeBaseUrl === this.primaryBaseUrl) {
+            this.activeBaseUrl = this.fallbackBaseUrl;
+          } else {
+            this.activeBaseUrl = this.primaryBaseUrl;
+          }
         }
       } catch (err) {
         lastError = err;
-        if (this.activeBaseUrl === this.primaryBaseUrl) {
-          this.activeBaseUrl = this.fallbackBaseUrl;
-        }
         await Bun.sleep(500 * attempt);
       }
     }
@@ -129,7 +130,16 @@ export class RegioItFetcher implements CityFetcher {
 
   async fetchStreets(): Promise<string[]> {
     console.log(`[${this.name}] Fetching cities from RegioIT (${this.serviceDomain})...`);
-    const orte = await this.fetchJson<RegioItOrt[]>('orte');
+    let orte: RegioItOrt[] | null = null;
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        orte = await this.fetchJson<RegioItOrt[]>('orte');
+        if (orte && orte.length > 0) break;
+      } catch (err) {
+        if (attempt === 3) throw err;
+      }
+      await Bun.sleep(1500 * attempt);
+    }
     if (!orte || orte.length === 0) {
       throw new Error(`[${this.name}] No city entries found for service domain ${this.serviceDomain}`);
     }
