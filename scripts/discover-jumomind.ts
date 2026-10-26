@@ -84,17 +84,8 @@ async function geocode(cityName: string, region: string): Promise<{ center: [num
 }
 
 const SERVICES_TO_SCAN: { service: string; region: string }[] = [
-  { service: 'zaw', region: 'Hessen' },
-  { service: 'zac', region: 'Niedersachsen' },
-  { service: 'aoe', region: 'Bayern' },
-  { service: 'ben', region: 'Niedersachsen' },
-  { service: 'hox', region: 'Nordrhein-Westfalen' },
-  { service: 'mkk', region: 'Hessen' },
-  { service: 'lka', region: 'Niedersachsen' },
-  { service: 'lue', region: 'Nordrhein-Westfalen' },
-  { service: 'kbl', region: 'Hessen' },
-  { service: 'ros', region: 'Hessen' },
-  { service: 'mymuell', region: 'Deutschland' }
+  { service: 'bdg', region: 'Barnim, Brandenburg' },
+  { service: 'wol', region: 'Wolfenbüttel, Niedersachsen' }
 ];
 
 async function main() {

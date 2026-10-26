@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-26T19:03:13.157Z",
+  "streets": [
+    {
+      "street": "Gewerbegebiet Willmersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.692,
+          52.6629
+        ]
+      }
+    },
+    {
+      "street": "In Willmersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.692,
+          52.6629
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-26T18:57:36.337Z",
+  "streets": [
+    {
+      "street": "Kellerberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8561,
+          52.9637
+        ]
+      }
+    },
+    {
+      "street": "Neue Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8561,
+          52.9637
+        ]
+      }
+    },
+    {
+      "street": "Ziethener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8561,
+          52.9637
+        ]
+      }
+    }
+  ]
+}

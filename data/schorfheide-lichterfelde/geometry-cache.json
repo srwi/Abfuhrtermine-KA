@@ -1,0 +1,475 @@
+{
+  "generatedAt": "2026-10-26T19:02:00.521Z",
+  "streets": [
+    {
+      "street": "Am Graben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Anna-Karbe-Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Bachstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Beethovenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Bei den Buchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Blütenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Blütenberger Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Britzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Buckow",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              13.7338481,
+              52.8849757
+            ],
+            [
+              13.7331224,
+              52.8847928
+            ],
+            [
+              13.7316429,
+              52.8844199
+            ]
+          ],
+          [
+            [
+              13.7313122,
+              52.8833807
+            ],
+            [
+              13.7316854,
+              52.8834704
+            ],
+            [
+              13.7333732,
+              52.8838537
+            ],
+            [
+              13.7336646,
+              52.8839963
+            ],
+            [
+              13.7338153,
+              52.88407
+            ],
+            [
+              13.7342078,
+              52.8841811
+            ]
+          ],
+          [
+            [
+              13.7342078,
+              52.8841811
+            ],
+            [
+              13.7341728,
+              52.8843017
+            ],
+            [
+              13.7340419,
+              52.884575
+            ],
+            [
+              13.7339057,
+              52.8848592
+            ],
+            [
+              13.7338935,
+              52.8848849
+            ]
+          ],
+          [
+            [
+              13.7338935,
+              52.8848849
+            ],
+            [
+              13.7338481,
+              52.8849757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Carl-von-Linde-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Eberswalder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Feldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Fliederweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Galgenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Gutshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Händelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Haydnstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Joachimsthaler Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Karlshöhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Kieferneck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Kirschenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Koppelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Kurzer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Lichterfelder Bruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Lichterfelder Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Lichterfelder Weidenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Margaretenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Messingwerkstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Mozartstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Oderberger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Pehlmann-Ring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Rosenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Schäferweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Steinfurter Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Steinfurter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Wagnerstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Wassertorbrücke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7335,
+          52.8846
+        ]
+      }
+    }
+  ]
+}

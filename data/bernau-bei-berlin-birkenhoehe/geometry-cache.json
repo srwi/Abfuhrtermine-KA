@@ -1,0 +1,175 @@
+{
+  "generatedAt": "2026-10-26T18:58:08.144Z",
+  "streets": [
+    {
+      "street": "Ahornstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Akazienstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Birkenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Blumberger Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Börnicker Landweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Buchenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Eschenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Fichtenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Kastanienstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Kiefernweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Lärchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Pappelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Rotdornstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Wacholderweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    },
+    {
+      "street": "Weissdornstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6021,
+          52.6544
+        ]
+      }
+    }
+  ]
+}

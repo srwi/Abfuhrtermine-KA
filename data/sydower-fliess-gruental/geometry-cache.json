@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2026-10-26T19:02:05.956Z",
+  "streets": [
+    {
+      "street": "Am Postweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Bernauer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Biesenthaler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Gratzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Gutshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Karl-Marx-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Melchower Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Mühlenbergweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Parkstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    },
+    {
+      "street": "Schönholzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7158,
+          52.7415
+        ]
+      }
+    }
+  ]
+}

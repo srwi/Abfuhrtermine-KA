@@ -1,0 +1,375 @@
+{
+  "generatedAt": "2026-10-26T19:00:18.617Z",
+  "streets": [
+    {
+      "street": "Ahornweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Am Finowkanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Am Kastanienhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Am Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Am Wald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "An den Kuten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Anglerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Biesenthaler Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Birkensteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Eichensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Eiserbuder Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Feldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Gartensteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Holundergasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Im Ausbau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Insel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Kieferngasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Kiefernsteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Klosterfelder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Kranichweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Pilzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Prendener Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Seesteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Spatzenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Taubenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Weidengasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Zerpenschleuser Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Zu den Sandenden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Zum Auwinkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Zum Pfarrgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Zum Zeltplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Zur Leesenbrücker Schleuse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    },
+    {
+      "street": "Zur Rehwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018,
+          52.8364
+        ]
+      }
+    }
+  ]
+}

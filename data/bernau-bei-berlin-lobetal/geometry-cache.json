@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-26T18:58:26.730Z",
+  "streets": [
+    {
+      "street": "Alt-Lobetal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Am Brüderberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Am Dorfplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "An der einsamen Kiefer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "An der Schmiede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Bethelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Bodelschwinghstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Bonhoefferweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Handwerkerstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Kirschbergweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Ladeburger Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    },
+    {
+      "street": "Nazarethweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258,
+          52.7167
+        ]
+      }
+    }
+  ]
+}

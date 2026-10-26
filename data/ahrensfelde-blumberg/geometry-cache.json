@@ -1,0 +1,565 @@
+{
+  "generatedAt": "2026-10-26T18:57:09.448Z",
+  "streets": [
+    {
+      "street": "Ahornring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Ahrensfelder Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Albrecht-Thaer-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Alte Bernauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Am Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Am Busch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Am Kleeberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "An der Koppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Berliner Platz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Berliner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Bernauer Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Birkholzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Blumberger Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Börnicker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Chausseedreieck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Ehrig-Hahn-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Elisenauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Freienwalder Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Friedensweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Grünstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Gutshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Helenenauer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Henry-Kruse-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Hönower Spitze",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Kietz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Kleine Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Kleine Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Krummenseer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Landsberger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Liebigstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Mc-Donald's-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Mehrower Landweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Mittelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Möbel-Hübner-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Parkstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Rehhahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Scheunengasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Schlossstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Seestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Spittelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Strasse an der Bahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Wiesenring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.5948
+        ]
+      }
+    },
+    {
+      "street": "Zeppelinstrasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5988644,
+            52.5969293
+          ],
+          [
+            13.5987684,
+            52.5968831
+          ],
+          [
+            13.5986223,
+            52.5967827
+          ],
+          [
+            13.5982447,
+            52.5965234
+          ],
+          [
+            13.5981891,
+            52.5964852
+          ],
+          [
+            13.5979858,
+            52.5963425
+          ],
+          [
+            13.5975366,
+            52.5960281
+          ],
+          [
+            13.5971474,
+            52.5957601
+          ],
+          [
+            13.5970465,
+            52.595687
+          ],
+          [
+            13.596477,
+            52.5952902
+          ],
+          [
+            13.5962095,
+            52.59511
+          ],
+          [
+            13.5960811,
+            52.5950691
+          ],
+          [
+            13.5959424,
+            52.5950515
+          ]
+        ]
+      }
+    }
+  ]
+}

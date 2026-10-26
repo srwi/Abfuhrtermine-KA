@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-10-26T19:02:26.514Z",
+  "streets": [
+    {
+      "street": "Am Liepnitzsee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Am Obersee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Am Waldhang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "An den Eichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Arendsee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Baggerberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Bernauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Biesenthaler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Eichenhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Feldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Hellmühler Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Kieferngasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Küsterfleck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Lanker Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Nikolai-Ostrowski-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Prendener Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Prendener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Schwarzer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Wandlitzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5401,
+          52.7306
+        ]
+      }
+    }
+  ]
+}

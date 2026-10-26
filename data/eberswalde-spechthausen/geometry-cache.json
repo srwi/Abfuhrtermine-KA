@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-26T18:59:49.502Z",
+  "streets": [
+    {
+      "street": "Spechthausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7908,
+          52.8203
+        ]
+      }
+    },
+    {
+      "street": "Zur Buchte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7908,
+          52.8203
+        ]
+      }
+    }
+  ]
+}

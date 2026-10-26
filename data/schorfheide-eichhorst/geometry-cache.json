@@ -1,0 +1,173 @@
+{
+  "generatedAt": "2026-10-26T19:01:32.318Z",
+  "streets": [
+    {
+      "street": "Am Fennberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Am Werbellinkanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "An der Ablage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Eberswalder Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Eichhorster Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Försterei Üderheide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Forstsiedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Moospfuhl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Rosenbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Rosenbecker Schleuse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Rosenbecker Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Schwarze Bahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    },
+    {
+      "street": "Strasse zur Schorfheide",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6477758,
+            52.9106188
+          ],
+          [
+            13.6477231,
+            52.9105743
+          ],
+          [
+            13.6475655,
+            52.910402
+          ],
+          [
+            13.6475014,
+            52.9102507
+          ],
+          [
+            13.6474684,
+            52.9101073
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Wildau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6476,
+          52.9104
+        ]
+      }
+    }
+  ]
+}

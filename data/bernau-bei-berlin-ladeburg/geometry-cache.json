@@ -1,0 +1,455 @@
+{
+  "generatedAt": "2026-10-26T18:58:21.360Z",
+  "streets": [
+    {
+      "street": "Ahornweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Akazienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Alte Lanker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Alte Lanker Strasse101-102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Am Fliederbusch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Am Wasserturm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Amselsteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "An den Schäferpfühlen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "An den Weiden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "An der Kirche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "An der Plantage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Anemonenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Asternweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Barbara-McClintock-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Bernauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Biesenthaler Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Birkensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Dahlienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Drosselgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Erikasteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Erlengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Feldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Finkenschlag",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Goldsternring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Im Dohl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Kastanienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Kirschgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Krokussteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Narzissensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Nelkensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Orchideensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Otto-Schmidt-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Pappelsteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Paulsfelde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Rollberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Rüdnitzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Schmetzdorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Sonnenblumenring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Tempelfelder Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Tulpensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Ulmenring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Veilchensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    },
+    {
+      "street": "Zepernicker Landstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5934,
+          52.6999
+        ]
+      }
+    }
+  ]
+}

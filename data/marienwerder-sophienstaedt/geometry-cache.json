@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-10-26T19:00:25.459Z",
+  "streets": [
+    {
+      "street": "Alte Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Eiserbuder Waldweg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              13.5856284,
+              52.8167709
+            ],
+            [
+              13.5852293,
+              52.8165246
+            ],
+            [
+              13.5847112,
+              52.8161768
+            ],
+            [
+              13.5839997,
+              52.8156541
+            ]
+          ],
+          [
+            [
+              13.588382,
+              52.8187466
+            ],
+            [
+              13.5872937,
+              52.8180174
+            ],
+            [
+              13.5861154,
+              52.8171728
+            ],
+            [
+              13.5856284,
+              52.8167709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Im Luch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Kirchsteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Prendener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Rosalienstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Ruhlsdorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Waldrand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Weg nach Marienwerder",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5856284,
+            52.8167709
+          ],
+          [
+            13.5864458,
+            52.8163837
+          ],
+          [
+            13.5868974,
+            52.816185
+          ],
+          [
+            13.5870668,
+            52.8161019
+          ],
+          [
+            13.5872454,
+            52.8160234
+          ],
+          [
+            13.5877269,
+            52.8157934
+          ],
+          [
+            13.5878434,
+            52.8155972
+          ],
+          [
+            13.5882188,
+            52.8145822
+          ],
+          [
+            13.5885347,
+            52.8137442
+          ],
+          [
+            13.58865,
+            52.8134356
+          ],
+          [
+            13.5886976,
+            52.8132796
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Zum Fliess",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Zum Mittelprendener",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    },
+    {
+      "street": "Zur Eiserlake",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5878,
+          52.8156
+        ]
+      }
+    }
+  ]
+}

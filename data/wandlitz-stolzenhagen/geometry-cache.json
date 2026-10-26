@@ -1,0 +1,555 @@
+{
+  "generatedAt": "2026-10-26T19:02:41.158Z",
+  "streets": [
+    {
+      "street": "Akazienhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Am Kiewitt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Am Steinberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Amselgrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "An der Trift",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Asterngrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Basdorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Birkensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Bodestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Brunhildeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Drosselgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Elbetal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Elstergasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Feldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Fichtenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Finkengasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Fischergasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Fuchsbau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Gartengasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Hasensprung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Haveltal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Isoldeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Jasminweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Kieferngrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Klosterfelder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Kuckucksweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Lanker Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Lehmweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Liebenwalder Ende",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Muldestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Nelkengasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Netzetal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Odertal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Oranienburger Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Philipp-Müller-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Rehwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Saalestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "See-Carré",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Seepromenade",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Siegfriedweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Sieglindeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Spreetal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Strasse am See",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Talstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Tristanweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Uferstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Uhlenhorst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Waldmeisterweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Weichseltal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Wensickendorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Wildgatter",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Zum Zickenpuhl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    },
+    {
+      "street": "Zur Waldpromenade",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462,
+          52.776
+        ]
+      }
+    }
+  ]
+}

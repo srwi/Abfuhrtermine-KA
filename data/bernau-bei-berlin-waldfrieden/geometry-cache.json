@@ -1,0 +1,231 @@
+{
+  "generatedAt": "2026-10-26T18:58:42.014Z",
+  "streets": [
+    {
+      "street": "Am Amselhorst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Am Falkensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Am Finkenhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Am Fuchsbau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Am Hasensprung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Am Hirschwechsel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Am Rehpfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "An der Wildbahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Basdorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Dohlensteg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Franz-Mehring-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Fritz-Heckert-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Hannes-Meyer-Campus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Hans-Wittwer-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Lanker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555,
+          52.6955
+        ]
+      }
+    },
+    {
+      "street": "Wandlitzer Chaussee",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5558597,
+            52.6931444
+          ],
+          [
+            13.5554994,
+            52.6935682
+          ],
+          [
+            13.5553273,
+            52.6938471
+          ],
+          [
+            13.5551315,
+            52.6941872
+          ],
+          [
+            13.5547455,
+            52.6948405
+          ],
+          [
+            13.5546424,
+            52.6949857
+          ],
+          [
+            13.5545432,
+            52.6950903
+          ],
+          [
+            13.5541085,
+            52.6954827
+          ],
+          [
+            13.5531751,
+            52.6962883
+          ],
+          [
+            13.5527445,
+            52.6966248
+          ],
+          [
+            13.5526945,
+            52.6966617
+          ],
+          [
+            13.5522576,
+            52.696952
+          ],
+          [
+            13.5521393,
+            52.69703
+          ],
+          [
+            13.552055,
+            52.6970817
+          ],
+          [
+            13.5520278,
+            52.6970984
+          ],
+          [
+            13.5516647,
+            52.6973253
+          ],
+          [
+            13.5515634,
+            52.6973886
+          ]
+        ]
+      }
+    }
+  ]
+}

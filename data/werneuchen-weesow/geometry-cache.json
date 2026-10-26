@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-26T19:02:54.366Z",
+  "streets": [
+    {
+      "street": "Siedlungsstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7128,
+          52.6445
+        ]
+      }
+    },
+    {
+      "street": "Weesower Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7128,
+          52.6445
+        ]
+      }
+    },
+    {
+      "street": "Willmersdorfer Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7128,
+          52.6445
+        ]
+      }
+    }
+  ]
+}

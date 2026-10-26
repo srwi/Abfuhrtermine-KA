@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-26T18:59:09.744Z",
+  "streets": [
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6767,
+          52.7591
+        ]
+      }
+    },
+    {
+      "street": "Danewitzer Heideweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6767,
+          52.7591
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6767,
+          52.7591
+        ]
+      }
+    },
+    {
+      "street": "Kiefernweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6767,
+          52.7591
+        ]
+      }
+    },
+    {
+      "street": "Rehwaldeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6767,
+          52.7591
+        ]
+      }
+    },
+    {
+      "street": "Willmersdorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6767,
+          52.7591
+        ]
+      }
+    }
+  ]
+}

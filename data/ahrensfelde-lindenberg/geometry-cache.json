@@ -1,0 +1,575 @@
+{
+  "generatedAt": "2026-10-26T18:57:25.370Z",
+  "streets": [
+    {
+      "street": "Ahrensfelder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Ahrensfelder Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Alte Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Am Feldrain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Am Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Am Wiesenrain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Ambossweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Amselgrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Asternstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Ausbau Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Bebelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Bernauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Birkholzer Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Brunhildstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Bucher Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Dahlienstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Dietrichstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Eisenhutstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Finkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Florastrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Gernotstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Goldrutenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Gudrunstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Guntherstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Hagenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Im Winkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Karl-Marx-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Karower Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Kiebitzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Kornblumenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Krimhildstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Kuckucksweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Lilienstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Lindenberger Ring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Maiglöckchenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Margaritenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Nelkenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Ortwinstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Primelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Rosenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Rudolf-Diesel-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Schneeglöckchenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Siegfriedstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Sonnenblumenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Steinstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Stiefmütterchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Thälmannstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Thomas-Müntzer-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Treidelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Tulpenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Turnerstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Volkerstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Wachtelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Wartenberger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Wickenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    },
+    {
+      "street": "Zeisigstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5228,
+          52.6079
+        ]
+      }
+    }
+  ]
+}

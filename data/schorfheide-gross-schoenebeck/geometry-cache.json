@@ -1,0 +1,335 @@
+{
+  "generatedAt": "2026-10-26T19:01:48.480Z",
+  "streets": [
+    {
+      "street": "Alte Joachimsthaler Strasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              13.5541758,
+              52.9145387
+            ],
+            [
+              13.5558248,
+              52.9148657
+            ],
+            [
+              13.5616724,
+              52.9160318
+            ],
+            [
+              13.5677434,
+              52.9173131
+            ]
+          ],
+          [
+            [
+              13.5677434,
+              52.9173131
+            ],
+            [
+              13.5689107,
+              52.9175616
+            ],
+            [
+              13.570998,
+              52.9182793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Alte Triftstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Ausbau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Berliner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Birkenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Döllner Heide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Döllner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Eichhorster Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Ernst-Thälmann-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Feldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Friedenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Hirschweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Industrieweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Kannegiesser Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Kastanienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Kurze Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Liebenthaler Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Liebenwalder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Prenzlauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Priesterweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Prötze",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Rehweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Rosenbecker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Schlossstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Schlufter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Sperlingsau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Steindamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    },
+    {
+      "street": "Walter-Krumbach-Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5594,
+          52.9199
+        ]
+      }
+    }
+  ]
+}

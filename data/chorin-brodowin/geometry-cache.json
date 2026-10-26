@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-26T18:59:23.694Z",
+  "streets": [
+    {
+      "street": "Am Pehlitzwerder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9035,
+          52.918
+        ]
+      }
+    },
+    {
+      "street": "An der alten Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9035,
+          52.918
+        ]
+      }
+    },
+    {
+      "street": "Brodowiner Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9035,
+          52.918
+        ]
+      }
+    },
+    {
+      "street": "Pehlitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9035,
+          52.918
+        ]
+      }
+    },
+    {
+      "street": "Weissensee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9035,
+          52.918
+        ]
+      }
+    }
+  ]
+}

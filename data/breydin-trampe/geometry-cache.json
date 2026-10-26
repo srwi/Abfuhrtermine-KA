@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-10-26T18:59:15.207Z",
+  "streets": [
+    {
+      "street": "Am Landhotel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    },
+    {
+      "street": "Eberswalder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    },
+    {
+      "street": "Falkenberger Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    },
+    {
+      "street": "Gersdorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    },
+    {
+      "street": "Kirschweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    },
+    {
+      "street": "Klobbicker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    },
+    {
+      "street": "Kruger Damm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    },
+    {
+      "street": "Schwarzer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8304,
+          52.7756
+        ]
+      }
+    }
+  ]
+}

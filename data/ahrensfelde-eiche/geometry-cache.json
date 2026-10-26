@@ -1,0 +1,355 @@
+{
+  "generatedAt": "2026-10-26T18:57:16.373Z",
+  "streets": [
+    {
+      "street": "Ahornzeile",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Ahrensfelder Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Am Gehrenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Am Graben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Am Luch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Amselweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "An der Wiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Biberstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Birkenring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Eichner Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Eichner Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Eichner Grenzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Eichner Spitze",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Erlengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Gärtnerstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Helgolandstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Immenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "In den Wörden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Kirchweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Landsberger Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Mehrower Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Meisenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Moselstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Rheinstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Ruhrstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Saarstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Strasse der Arbeit",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Strasse der Einheit",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Strasse der Freundschaft",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Strasse der Jugend",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Strasse des Friedens",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Verbindungsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Zur Tränke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    },
+    {
+      "street": "Zur Wuhle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5997,
+          52.5486
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-26T19:01:24.071Z",
+  "streets": [
+    {
+      "street": "Am Wirtschaftsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0341,
+          52.9233
+        ]
+      }
+    },
+    {
+      "street": "Angermünder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0341,
+          52.9233
+        ]
+      }
+    },
+    {
+      "street": "Lüdersdorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0341,
+          52.9233
+        ]
+      }
+    },
+    {
+      "street": "Oderberger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0341,
+          52.9233
+        ]
+      }
+    },
+    {
+      "street": "Parsteinsee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0341,
+          52.9233
+        ]
+      }
+    },
+    {
+      "street": "Wallyshofer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0341,
+          52.9233
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-10-26T18:58:13.450Z",
+  "streets": [
+    {
+      "street": "Am Ahornweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Am Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Am Kiefernweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Am Lindenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Am Waldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Apfelallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Börnicker Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Börnicker Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Börnicker Landweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Chausseestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Elisenauer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Ernst-Thälmann-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Helenenauer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Parkweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    },
+    {
+      "street": "Vorwerk Thaerfelde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          52.6578
+        ]
+      }
+    }
+  ]
+}

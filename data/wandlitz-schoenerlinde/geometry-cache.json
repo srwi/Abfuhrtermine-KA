@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-10-26T19:02:32.076Z",
+  "streets": [
+    {
+      "street": "Alter Heerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Am Bärwinkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Am Feld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Am Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "An den Heidebergen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Berliner Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Hobrechtsfelder Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Mühlenbecker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Schönerlinder Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Schönerlinder Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Schönerlinder Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Zu den Heubergen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Zum hohen Graben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    },
+    {
+      "street": "Zur Reitbahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4224,
+          52.6498
+        ]
+      }
+    }
+  ]
+}

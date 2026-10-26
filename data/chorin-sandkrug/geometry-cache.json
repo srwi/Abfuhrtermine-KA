@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-26T18:59:32.093Z",
+  "streets": [
+    {
+      "street": "Angermünder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8762,
+          52.8826
+        ]
+      }
+    },
+    {
+      "street": "Bundesstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8762,
+          52.8826
+        ]
+      }
+    },
+    {
+      "street": "Golzower Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8762,
+          52.8826
+        ]
+      }
+    },
+    {
+      "street": "Karlstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8762,
+          52.8826
+        ]
+      }
+    },
+    {
+      "street": "Lieper Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8762,
+          52.8826
+        ]
+      }
+    },
+    {
+      "street": "Ragöser Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8762,
+          52.8826
+        ]
+      }
+    },
+    {
+      "street": "Seestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8762,
+          52.8826
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8762,
+          52.8826
+        ]
+      }
+    }
+  ]
+}
