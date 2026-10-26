@@ -1,0 +1,149 @@
+[
+  {
+    "id": "essen",
+    "name": "Essen",
+    "shortName": "E",
+    "serviceKey": "51be67f3758f1fb57b420efe065c0663",
+    "center": [7.0158, 51.4582],
+    "defaultZoom": 12,
+    "bbox": [51.3476, 6.8943, 51.5342, 7.1376]
+  },
+  {
+    "id": "duisburg",
+    "name": "Duisburg",
+    "shortName": "DU",
+    "serviceKey": "80acad6c77fe9342ebafad29a8c58bf6",
+    "center": [6.7596, 51.435],
+    "defaultZoom": 12,
+    "bbox": [51.3334, 6.6256, 51.5601, 6.8303]
+  },
+  {
+    "id": "villingen-schwenningen",
+    "name": "Villingen-Schwenningen",
+    "shortName": "VS",
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85",
+    "center": [8.493, 48.0632],
+    "defaultZoom": 12,
+    "bbox": [47.9809, 8.3081, 48.1254, 8.6366]
+  },
+  {
+    "id": "neckarsulm",
+    "name": "Neckarsulm",
+    "shortName": "NSU",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4794",
+    "center": [9.2249, 49.1917],
+    "defaultZoom": 12,
+    "bbox": [49.1696, 9.1596, 49.2198, 9.3188]
+  },
+  {
+    "id": "bad-friedrichshall",
+    "name": "Bad Friedrichshall",
+    "shortName": "BFH",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4802",
+    "center": [9.2101, 49.228],
+    "defaultZoom": 12,
+    "bbox": [49.2045, 9.1771, 49.2766, 9.2677]
+  },
+  {
+    "id": "bad-rappenau",
+    "name": "Bad Rappenau",
+    "shortName": "RAP",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4803",
+    "center": [9.1013, 49.2393],
+    "defaultZoom": 12,
+    "bbox": [49.1958, 8.9629, 49.2995, 9.1602]
+  },
+  {
+    "id": "bad-wimpfen",
+    "name": "Bad Wimpfen",
+    "shortName": "WIM",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4779",
+    "center": [9.1622, 49.2303],
+    "defaultZoom": 12,
+    "bbox": [49.2065, 9.1094, 49.2514, 9.2038]
+  },
+  {
+    "id": "brackenheim",
+    "name": "Brackenheim",
+    "shortName": "BRA",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4816",
+    "center": [9.0821, 49.0817],
+    "defaultZoom": 12,
+    "bbox": [49.045, 8.9904, 49.1185, 9.1258]
+  },
+  {
+    "id": "eppingen",
+    "name": "Eppingen",
+    "shortName": "EPP",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4783",
+    "center": [8.9096, 49.1369],
+    "defaultZoom": 12,
+    "bbox": [49.0747, 8.8161, 49.1948, 9.003]
+  },
+  {
+    "id": "lauffen-am-neckar",
+    "name": "Lauffen am Neckar",
+    "shortName": "LAU",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4790",
+    "center": [9.1507, 49.0761],
+    "defaultZoom": 12,
+    "bbox": [49.0514, 9.1148, 49.1085, 9.3757]
+  },
+  {
+    "id": "weinsberg",
+    "name": "Weinsberg",
+    "shortName": "WEI",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4800",
+    "center": [9.2865, 49.1504],
+    "defaultZoom": 12,
+    "bbox": [49.1177, 9.2543, 49.1911, 9.3735]
+  },
+  {
+    "id": "schwaigern",
+    "name": "Schwaigern",
+    "shortName": "SWG",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4822",
+    "center": [9.0571, 49.1414],
+    "defaultZoom": 12,
+    "bbox": [49.0957, 8.945, 49.1958, 9.0913]
+  },
+  {
+    "id": "neuenstadt-am-kocher",
+    "name": "Neuenstadt am Kocher",
+    "shortName": "NEU",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4810",
+    "center": [9.3293, 49.2362],
+    "defaultZoom": 12,
+    "bbox": [49.187, 9.263, 49.2794, 9.3691]
+  },
+  {
+    "id": "obersulm",
+    "name": "Obersulm",
+    "shortName": "OBS",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4796",
+    "center": [9.3712, 49.1359],
+    "defaultZoom": 12,
+    "bbox": [49.1016, 9.3325, 49.1592, 9.4481]
+  },
+  {
+    "id": "moeckmuehl",
+    "name": "Möckmühl",
+    "shortName": "MÖC",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4808",
+    "center": [9.3611, 49.3233],
+    "defaultZoom": 12,
+    "bbox": [49.2775, 9.2874, 49.3663, 9.4176]
+  }
+]

@@ -319,6 +319,22 @@
     ]
   },
   {
+    "id": "bad-friedrichshall",
+    "name": "Bad Friedrichshall",
+    "shortName": "BFH",
+    "center": [
+      9.2101,
+      49.228
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2045,
+      9.1771,
+      49.2766,
+      9.2677
+    ]
+  },
+  {
     "id": "bad-homburg",
     "name": "Bad Homburg",
     "shortName": "HG",
@@ -354,6 +370,38 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "bad-rappenau",
+    "name": "Bad Rappenau",
+    "shortName": "RAP",
+    "center": [
+      9.1013,
+      49.2393
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1958,
+      8.9629,
+      49.2995,
+      9.1602
+    ]
+  },
+  {
+    "id": "bad-wimpfen",
+    "name": "Bad Wimpfen",
+    "shortName": "WIM",
+    "center": [
+      9.1622,
+      49.2303
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2065,
+      9.1094,
+      49.2514,
+      9.2038
     ]
   },
   {
@@ -829,6 +877,22 @@
     ]
   },
   {
+    "id": "brackenheim",
+    "name": "Brackenheim",
+    "shortName": "BRA",
+    "center": [
+      9.0821,
+      49.0817
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.045,
+      8.9904,
+      49.1185,
+      9.1258
+    ]
+  },
+  {
     "id": "brakel",
     "name": "Brakel",
     "shortName": "BRA",
@@ -1243,6 +1307,22 @@
     ]
   },
   {
+    "id": "duisburg",
+    "name": "Duisburg",
+    "shortName": "DU",
+    "center": [
+      6.7596,
+      51.435
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3334,
+      6.6256,
+      51.5601,
+      6.8303
+    ]
+  },
+  {
     "id": "duelmen",
     "name": "Dülmen",
     "shortName": "DÜL",
@@ -1514,6 +1594,22 @@
     ]
   },
   {
+    "id": "eppingen",
+    "name": "Eppingen",
+    "shortName": "EPP",
+    "center": [
+      8.9096,
+      49.1369
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0747,
+      8.8161,
+      49.1948,
+      9.003
+    ]
+  },
+  {
     "id": "erkelenz",
     "name": "Erkelenz",
     "shortName": "ERK",
@@ -1616,6 +1712,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "essen",
+    "name": "Essen",
+    "shortName": "E",
+    "center": [
+      7.0158,
+      51.4582
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3476,
+      6.8943,
+      51.5342,
+      7.1376
     ]
   },
   {
@@ -1753,6 +1865,22 @@
       9.0679,
       50.1632,
       9.2116
+    ]
+  },
+  {
+    "id": "friedberg",
+    "name": "Friedberg",
+    "shortName": "FB",
+    "center": [
+      8.7547,
+      50.3356
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3,
+      8.71,
+      50.37,
+      8.81
     ]
   },
   {
@@ -2241,6 +2369,22 @@
     ]
   },
   {
+    "id": "haltern-am-see",
+    "name": "Haltern am See",
+    "shortName": "HAL",
+    "center": [
+      7.1872,
+      51.7431
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6954,
+      7.0473,
+      51.8214,
+      7.3213
+    ]
+  },
+  {
     "id": "hambuehren",
     "name": "Hambühren",
     "shortName": "HAM",
@@ -2257,6 +2401,22 @@
     ]
   },
   {
+    "id": "hamm",
+    "name": "Hamm",
+    "shortName": "HAM",
+    "center": [
+      7.8189,
+      51.6814
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.61,
+      7.67,
+      51.75,
+      7.97
+    ]
+  },
+  {
     "id": "hammersbach",
     "name": "Hammersbach",
     "shortName": "HAM",
@@ -2270,6 +2430,22 @@
       8.9355,
       50.2533,
       9.0327
+    ]
+  },
+  {
+    "id": "hanau",
+    "name": "Hanau",
+    "shortName": "HU",
+    "center": [
+      8.917,
+      50.1329
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0753,
+      8.862,
+      50.1955,
+      9.0302
     ]
   },
   {
@@ -2997,6 +3173,22 @@
     ]
   },
   {
+    "id": "kaiserslautern",
+    "name": "Kaiserslautern",
+    "shortName": "KL",
+    "center": [
+      7.769,
+      49.4432
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3587,
+      7.6271,
+      49.4951,
+      7.8707
+    ]
+  },
+  {
     "id": "kamen",
     "name": "Kamen",
     "shortName": "KAM",
@@ -3418,6 +3610,22 @@
     ]
   },
   {
+    "id": "lauffen-am-neckar",
+    "name": "Lauffen am Neckar",
+    "shortName": "LAU",
+    "center": [
+      9.1507,
+      49.0761
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0514,
+      9.1148,
+      49.1085,
+      9.3757
+    ]
+  },
+  {
     "id": "leer",
     "name": "Leer",
     "shortName": "LER",
@@ -3657,6 +3865,22 @@
     ]
   },
   {
+    "id": "maintal",
+    "name": "Maintal",
+    "shortName": "MTL",
+    "center": [
+      8.8371,
+      50.1439
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.125,
+      8.7798,
+      50.1851,
+      8.8824
+    ]
+  },
+  {
     "id": "mainz",
     "name": "Mainz",
     "shortName": "MZ",
@@ -3810,6 +4034,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "moeckmuehl",
+    "name": "Möckmühl",
+    "shortName": "MÖC",
+    "center": [
+      9.3611,
+      49.3233
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2775,
+      9.2874,
+      49.3663,
+      9.4176
     ]
   },
   {
@@ -4007,6 +4247,22 @@
     ]
   },
   {
+    "id": "neckarsulm",
+    "name": "Neckarsulm",
+    "shortName": "NSU",
+    "center": [
+      9.2249,
+      49.1917
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1696,
+      9.1596,
+      49.2198,
+      9.3188
+    ]
+  },
+  {
     "id": "nettelstedt",
     "name": "Nettelstedt",
     "shortName": "NET",
@@ -4068,6 +4324,22 @@
       6.9178,
       52.5391,
       7.0168
+    ]
+  },
+  {
+    "id": "neuenstadt-am-kocher",
+    "name": "Neuenstadt am Kocher",
+    "shortName": "NEU",
+    "center": [
+      9.3293,
+      49.2362
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.187,
+      9.263,
+      49.2794,
+      9.3691
     ]
   },
   {
@@ -4438,6 +4710,22 @@
       8.5607,
       52.3023,
       8.6007
+    ]
+  },
+  {
+    "id": "obersulm",
+    "name": "Obersulm",
+    "shortName": "OBS",
+    "center": [
+      9.3712,
+      49.1359
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1016,
+      9.3325,
+      49.1592,
+      9.4481
     ]
   },
   {
@@ -5324,6 +5612,22 @@
     ]
   },
   {
+    "id": "schwaigern",
+    "name": "Schwaigern",
+    "shortName": "SWG",
+    "center": [
+      9.0571,
+      49.1414
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0957,
+      8.945,
+      49.1958,
+      9.0913
+    ]
+  },
+  {
     "id": "schwalmtal",
     "name": "Schwalmtal",
     "shortName": "SCH",
@@ -6099,6 +6403,22 @@
     ]
   },
   {
+    "id": "villingen-schwenningen",
+    "name": "Villingen-Schwenningen",
+    "shortName": "VS",
+    "center": [
+      8.493,
+      48.0632
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.9809,
+      8.3081,
+      48.1254,
+      8.6366
+    ]
+  },
+  {
     "id": "voehringen",
     "name": "Vöhringen",
     "shortName": "VÖH",
@@ -6373,6 +6693,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "weinsberg",
+    "name": "Weinsberg",
+    "shortName": "WEI",
+    "center": [
+      9.2865,
+      49.1504
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1177,
+      9.2543,
+      49.1911,
+      9.3735
     ]
   },
   {
