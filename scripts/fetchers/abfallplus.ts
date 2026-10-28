@@ -19,6 +19,7 @@ export interface AbfallPlusConfig {
   shortName: string;
   serviceKey?: string; // 32-char service key (e.g. from https://api.abfall.io?key=...)
   apiKey?: string; // Direct x-abfallplus-api-key header value
+  origin?: string; // Optional Origin header if required by provider
   cityId?: string; // Numeric city ID
   center: [number, number];
   defaultZoom: number;
@@ -83,6 +84,7 @@ export class AbfallPlusFetcher implements CityFetcher {
   readonly name: string;
   readonly shortName: string;
   readonly serviceKey?: string;
+  readonly origin?: string;
   readonly center: [number, number];
   readonly defaultZoom: number;
   readonly bbox: [number, number, number, number];
@@ -100,6 +102,7 @@ export class AbfallPlusFetcher implements CityFetcher {
     this.shortName = config.shortName;
     this.serviceKey = config.serviceKey;
     this.apiKey = config.apiKey;
+    this.origin = config.origin;
     this.cityId = config.cityId;
     this.center = config.center;
     this.defaultZoom = config.defaultZoom;
@@ -136,12 +139,17 @@ export class AbfallPlusFetcher implements CityFetcher {
 
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
       try {
+        const headers: Record<string, string> = {
+          'Content-Type': 'application/json',
+          'x-abfallplus-api-key': apiKey
+        };
+        if (this.origin) {
+          headers['Origin'] = this.origin;
+        }
+
         const res = await fetch(GRAPHQL_URL, {
           method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'x-abfallplus-api-key': apiKey
-          },
+          headers,
           body: JSON.stringify({ query, variables })
         });
 

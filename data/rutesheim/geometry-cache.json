@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-28T20:07:04.320Z",
+  "streets": [
+    {
+      "street": "Bahnhofstr. 200, 204, 206, 208, 210",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9453,
+          48.8081
+        ]
+      }
+    },
+    {
+      "street": "restliche Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9453,
+          48.8081
+        ]
+      }
+    }
+  ]
+}

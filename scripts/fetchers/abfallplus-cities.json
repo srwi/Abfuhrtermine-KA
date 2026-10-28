@@ -1,40 +1,41 @@
 [
   {
-    "id": "essen",
-    "name": "Essen",
-    "shortName": "E",
-    "serviceKey": "51be67f3758f1fb57b420efe065c0663",
-    "center": [7.0158, 51.4582],
+    "id": "aidlingen",
+    "name": "Aidlingen",
+    "shortName": "AID",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2977",
+    "center": [
+      8.8983,
+      48.6786
+    ],
     "defaultZoom": 12,
-    "bbox": [51.3476, 6.8943, 51.5342, 7.1376]
+    "bbox": [
+      48.6539,
+      8.8179,
+      48.71,
+      8.93
+    ]
   },
   {
-    "id": "duisburg",
-    "name": "Duisburg",
-    "shortName": "DU",
-    "serviceKey": "80acad6c77fe9342ebafad29a8c58bf6",
-    "center": [6.7596, 51.435],
+    "id": "altdorf-bb",
+    "name": "Altdorf",
+    "shortName": "ALT",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2978",
+    "center": [
+      8.9956,
+      48.6309
+    ],
     "defaultZoom": 12,
-    "bbox": [51.3334, 6.6256, 51.5601, 6.8303]
-  },
-  {
-    "id": "villingen-schwenningen",
-    "name": "Villingen-Schwenningen",
-    "shortName": "VS",
-    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85",
-    "center": [8.493, 48.0632],
-    "defaultZoom": 12,
-    "bbox": [47.9809, 8.3081, 48.1254, 8.6366]
-  },
-  {
-    "id": "neckarsulm",
-    "name": "Neckarsulm",
-    "shortName": "NSU",
-    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
-    "cityId": "4794",
-    "center": [9.2249, 49.1917],
-    "defaultZoom": 12,
-    "bbox": [49.1696, 9.1596, 49.2198, 9.3188]
+    "bbox": [
+      48.576,
+      8.9767,
+      48.648,
+      9.0434
+    ]
   },
   {
     "id": "bad-friedrichshall",
@@ -42,9 +43,17 @@
     "shortName": "BFH",
     "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
     "cityId": "4802",
-    "center": [9.2101, 49.228],
+    "center": [
+      9.2101,
+      49.228
+    ],
     "defaultZoom": 12,
-    "bbox": [49.2045, 9.1771, 49.2766, 9.2677]
+    "bbox": [
+      49.2045,
+      9.1771,
+      49.2766,
+      9.2677
+    ]
   },
   {
     "id": "bad-rappenau",
@@ -52,9 +61,17 @@
     "shortName": "RAP",
     "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
     "cityId": "4803",
-    "center": [9.1013, 49.2393],
+    "center": [
+      9.1013,
+      49.2393
+    ],
     "defaultZoom": 12,
-    "bbox": [49.1958, 8.9629, 49.2995, 9.1602]
+    "bbox": [
+      49.1958,
+      8.9629,
+      49.2995,
+      9.1602
+    ]
   },
   {
     "id": "bad-wimpfen",
@@ -62,9 +79,55 @@
     "shortName": "WIM",
     "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
     "cityId": "4779",
-    "center": [9.1622, 49.2303],
+    "center": [
+      9.1622,
+      49.2303
+    ],
     "defaultZoom": 12,
-    "bbox": [49.2065, 9.1094, 49.2514, 9.2038]
+    "bbox": [
+      49.2065,
+      9.1094,
+      49.2514,
+      9.2038
+    ]
+  },
+  {
+    "id": "boeblingen",
+    "name": "Böblingen",
+    "shortName": "BB",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2980",
+    "center": [
+      9.0113,
+      48.685
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.655,
+      8.9322,
+      48.7038,
+      9.1141
+    ]
+  },
+  {
+    "id": "bondorf",
+    "name": "Bondorf",
+    "shortName": "BON",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2979",
+    "center": [
+      8.8336,
+      48.5215
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4975,
+      8.7849,
+      48.5424,
+      8.8659
+    ]
   },
   {
     "id": "brackenheim",
@@ -72,9 +135,72 @@
     "shortName": "BRA",
     "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
     "cityId": "4816",
-    "center": [9.0821, 49.0817],
+    "center": [
+      9.0821,
+      49.0817
+    ],
     "defaultZoom": 12,
-    "bbox": [49.045, 8.9904, 49.1185, 9.1258]
+    "bbox": [
+      49.045,
+      8.9904,
+      49.1185,
+      9.1258
+    ]
+  },
+  {
+    "id": "deckenpfronn",
+    "name": "Deckenpfronn",
+    "shortName": "DEC",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2981",
+    "center": [
+      8.8226,
+      48.6516
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6337,
+      8.7907,
+      48.6667,
+      8.8526
+    ]
+  },
+  {
+    "id": "duisburg",
+    "name": "Duisburg",
+    "shortName": "DU",
+    "serviceKey": "80acad6c77fe9342ebafad29a8c58bf6",
+    "center": [
+      6.7596,
+      51.435
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3334,
+      6.6256,
+      51.5601,
+      6.8303
+    ]
+  },
+  {
+    "id": "ehningen",
+    "name": "Ehningen",
+    "shortName": "EHN",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2982",
+    "center": [
+      8.9405,
+      48.6593
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6374,
+      8.9002,
+      48.6754,
+      8.9921
+    ]
   },
   {
     "id": "eppingen",
@@ -82,9 +208,167 @@
     "shortName": "EPP",
     "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
     "cityId": "4783",
-    "center": [8.9096, 49.1369],
+    "center": [
+      8.9096,
+      49.1369
+    ],
     "defaultZoom": 12,
-    "bbox": [49.0747, 8.8161, 49.1948, 9.003]
+    "bbox": [
+      49.0747,
+      8.8161,
+      49.1948,
+      9.003
+    ]
+  },
+  {
+    "id": "essen",
+    "name": "Essen",
+    "shortName": "E",
+    "serviceKey": "51be67f3758f1fb57b420efe065c0663",
+    "center": [
+      7.0158,
+      51.4582
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3476,
+      6.8943,
+      51.5342,
+      7.1376
+    ]
+  },
+  {
+    "id": "gaertringen",
+    "name": "Gärtringen",
+    "shortName": "GAE",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2984",
+    "center": [
+      8.9026,
+      48.6419
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6142,
+      8.845,
+      48.6623,
+      8.9726
+    ]
+  },
+  {
+    "id": "gaeufelden",
+    "name": "Gäufelden",
+    "shortName": "GAEU",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2985",
+    "center": [
+      8.8472,
+      48.5526
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5371,
+      8.7915,
+      48.5777,
+      8.8908
+    ]
+  },
+  {
+    "id": "grafenau-bb",
+    "name": "Grafenau",
+    "shortName": "GRA",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2983",
+    "center": [
+      8.9007,
+      48.7155
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6965,
+      8.8551,
+      48.7309,
+      8.9441
+    ]
+  },
+  {
+    "id": "herrenberg",
+    "name": "Herrenberg",
+    "shortName": "HBG",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2986",
+    "center": [
+      8.8702,
+      48.5964
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5602,
+      8.7897,
+      48.6393,
+      8.9818
+    ]
+  },
+  {
+    "id": "hildrizhausen",
+    "name": "Hildrizhausen",
+    "shortName": "HIL",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2987",
+    "center": [
+      8.9702,
+      48.6253
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5952,
+      8.9192,
+      48.6459,
+      8.9896
+    ]
+  },
+  {
+    "id": "holzgerlingen",
+    "name": "Holzgerlingen",
+    "shortName": "HOL",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2988",
+    "center": [
+      9.0116,
+      48.6392
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5961,
+      8.9841,
+      48.6642,
+      9.0486
+    ]
+  },
+  {
+    "id": "jettingen",
+    "name": "Jettingen",
+    "shortName": "JET",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2989",
+    "center": [
+      8.78,
+      48.5711
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5481,
+      8.7464,
+      48.6049,
+      8.8251
+    ]
   },
   {
     "id": "lauffen-am-neckar",
@@ -92,49 +376,55 @@
     "shortName": "LAU",
     "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
     "cityId": "4790",
-    "center": [9.1507, 49.0761],
+    "center": [
+      9.1507,
+      49.0761
+    ],
     "defaultZoom": 12,
-    "bbox": [49.0514, 9.1148, 49.1085, 9.3757]
+    "bbox": [
+      49.0514,
+      9.1148,
+      49.1085,
+      9.3757
+    ]
   },
   {
-    "id": "weinsberg",
-    "name": "Weinsberg",
-    "shortName": "WEI",
-    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
-    "cityId": "4800",
-    "center": [9.2865, 49.1504],
+    "id": "leonberg",
+    "name": "Leonberg",
+    "shortName": "LEO",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2990",
+    "center": [
+      9.015,
+      48.8013
+    ],
     "defaultZoom": 12,
-    "bbox": [49.1177, 9.2543, 49.1911, 9.3735]
+    "bbox": [
+      48.7459,
+      8.9573,
+      48.8336,
+      9.0689
+    ]
   },
   {
-    "id": "schwaigern",
-    "name": "Schwaigern",
-    "shortName": "SWG",
-    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
-    "cityId": "4822",
-    "center": [9.0571, 49.1414],
+    "id": "magstadt",
+    "name": "Magstadt",
+    "shortName": "MAG",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2991",
+    "center": [
+      8.9628,
+      48.7424
+    ],
     "defaultZoom": 12,
-    "bbox": [49.0957, 8.945, 49.1958, 9.0913]
-  },
-  {
-    "id": "neuenstadt-am-kocher",
-    "name": "Neuenstadt am Kocher",
-    "shortName": "NEU",
-    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
-    "cityId": "4810",
-    "center": [9.3293, 49.2362],
-    "defaultZoom": 12,
-    "bbox": [49.187, 9.263, 49.2794, 9.3691]
-  },
-  {
-    "id": "obersulm",
-    "name": "Obersulm",
-    "shortName": "OBS",
-    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
-    "cityId": "4796",
-    "center": [9.3712, 49.1359],
-    "defaultZoom": 12,
-    "bbox": [49.1016, 9.3325, 49.1592, 9.4481]
+    "bbox": [
+      48.7285,
+      8.9291,
+      48.7635,
+      9.0366
+    ]
   },
   {
     "id": "moeckmuehl",
@@ -142,8 +432,332 @@
     "shortName": "MÖC",
     "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
     "cityId": "4808",
-    "center": [9.3611, 49.3233],
+    "center": [
+      9.3611,
+      49.3233
+    ],
     "defaultZoom": 12,
-    "bbox": [49.2775, 9.2874, 49.3663, 9.4176]
+    "bbox": [
+      49.2775,
+      9.2874,
+      49.3663,
+      9.4176
+    ]
+  },
+  {
+    "id": "moetzingen",
+    "name": "Mötzingen",
+    "shortName": "MOET",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2992",
+    "center": [
+      8.7747,
+      48.5355
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5211,
+      8.7555,
+      48.5498,
+      8.8089
+    ]
+  },
+  {
+    "id": "neckarsulm",
+    "name": "Neckarsulm",
+    "shortName": "NSU",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4794",
+    "center": [
+      9.2249,
+      49.1917
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1696,
+      9.1596,
+      49.2198,
+      9.3188
+    ]
+  },
+  {
+    "id": "neuenstadt-am-kocher",
+    "name": "Neuenstadt am Kocher",
+    "shortName": "NEU",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4810",
+    "center": [
+      9.3293,
+      49.2362
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.187,
+      9.263,
+      49.2794,
+      9.3691
+    ]
+  },
+  {
+    "id": "nufringen",
+    "name": "Nufringen",
+    "shortName": "NUF",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2993",
+    "center": [
+      8.8881,
+      48.6224
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6059,
+      8.8642,
+      48.6366,
+      8.9296
+    ]
+  },
+  {
+    "id": "obersulm",
+    "name": "Obersulm",
+    "shortName": "OBS",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4796",
+    "center": [
+      9.3712,
+      49.1359
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1016,
+      9.3325,
+      49.1592,
+      9.4481
+    ]
+  },
+  {
+    "id": "renningen",
+    "name": "Renningen",
+    "shortName": "REN",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2994",
+    "center": [
+      8.9347,
+      48.7648
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7333,
+      8.8772,
+      48.8084,
+      8.9766
+    ]
+  },
+  {
+    "id": "rutesheim",
+    "name": "Rutesheim",
+    "shortName": "RUT",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2995",
+    "center": [
+      8.9453,
+      48.8081
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.79,
+      8.8717,
+      48.8316,
+      8.9673
+    ]
+  },
+  {
+    "id": "schoenaich",
+    "name": "Schönaich",
+    "shortName": "SCH",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2996",
+    "center": [
+      9.0588,
+      48.6565
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6416,
+      9.0214,
+      48.6754,
+      9.1062
+    ]
+  },
+  {
+    "id": "schwaigern",
+    "name": "Schwaigern",
+    "shortName": "SWG",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4822",
+    "center": [
+      9.0571,
+      49.1414
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0957,
+      8.945,
+      49.1958,
+      9.0913
+    ]
+  },
+  {
+    "id": "sindelfingen",
+    "name": "Sindelfingen",
+    "shortName": "SIN",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2997",
+    "center": [
+      9.0035,
+      48.7084
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6738,
+      8.9048,
+      48.7469,
+      9.1085
+    ]
+  },
+  {
+    "id": "steinenbronn",
+    "name": "Steinenbronn",
+    "shortName": "STE",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2998",
+    "center": [
+      9.1195,
+      48.66
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6438,
+      9.0882,
+      48.6806,
+      9.1575
+    ]
+  },
+  {
+    "id": "villingen-schwenningen",
+    "name": "Villingen-Schwenningen",
+    "shortName": "VS",
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85",
+    "center": [
+      8.493,
+      48.0632
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.9809,
+      8.3081,
+      48.1254,
+      8.6366
+    ]
+  },
+  {
+    "id": "waldenbuch",
+    "name": "Waldenbuch",
+    "shortName": "WAL",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "2999",
+    "center": [
+      9.1312,
+      48.6374
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6001,
+      9.0878,
+      48.6579,
+      9.1738
+    ]
+  },
+  {
+    "id": "weil-der-stadt",
+    "name": "Weil der Stadt",
+    "shortName": "WDS",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "3000",
+    "center": [
+      8.8707,
+      48.7501
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.717,
+      8.7999,
+      48.803,
+      8.9326
+    ]
+  },
+  {
+    "id": "weil-im-schoenbuch",
+    "name": "Weil im Schönbuch",
+    "shortName": "WIS",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "3001",
+    "center": [
+      9.061,
+      48.6212
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5879,
+      9.0223,
+      48.6515,
+      9.1053
+    ]
+  },
+  {
+    "id": "weinsberg",
+    "name": "Weinsberg",
+    "shortName": "WEI",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4800",
+    "center": [
+      9.2865,
+      49.1504
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1177,
+      9.2543,
+      49.1911,
+      9.3735
+    ]
+  },
+  {
+    "id": "weissach",
+    "name": "Weissach",
+    "shortName": "WEI",
+    "apiKey": "caac1d0b40973ad8ed652ef666ab7336fd50eede75ff868d",
+    "origin": "https://www.awb-bb.de",
+    "cityId": "3002",
+    "center": [
+      8.9216,
+      48.8418
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8161,
+      8.8715,
+      48.8676,
+      8.966
+    ]
   }
 ]

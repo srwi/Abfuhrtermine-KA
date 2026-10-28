@@ -233,6 +233,22 @@
     ]
   },
   {
+    "id": "aidlingen",
+    "name": "Aidlingen",
+    "shortName": "AID",
+    "center": [
+      8.8983,
+      48.6786
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6539,
+      8.8179,
+      48.71,
+      8.93
+    ]
+  },
+  {
     "id": "aldenhoven",
     "name": "Aldenhoven",
     "shortName": "ALD",
@@ -294,6 +310,22 @@
       8.5429,
       52.3584,
       8.5829
+    ]
+  },
+  {
+    "id": "altdorf-bb",
+    "name": "Altdorf",
+    "shortName": "ALT",
+    "center": [
+      8.9956,
+      48.6309
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.576,
+      8.9767,
+      48.648,
+      9.0434
     ]
   },
   {
@@ -1134,6 +1166,22 @@
     ]
   },
   {
+    "id": "boeblingen",
+    "name": "Böblingen",
+    "shortName": "BB",
+    "center": [
+      9.0113,
+      48.685
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.655,
+      8.9322,
+      48.7038,
+      9.1141
+    ]
+  },
+  {
     "id": "bocholt",
     "name": "Bocholt",
     "shortName": "BOH",
@@ -1239,6 +1287,22 @@
       9.68,
       53.7973,
       9.7466
+    ]
+  },
+  {
+    "id": "bondorf",
+    "name": "Bondorf",
+    "shortName": "BON",
+    "center": [
+      8.8336,
+      48.5215
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4975,
+      8.7849,
+      48.5424,
+      8.8659
     ]
   },
   {
@@ -1804,6 +1868,22 @@
     ]
   },
   {
+    "id": "deckenpfronn",
+    "name": "Deckenpfronn",
+    "shortName": "DEC",
+    "center": [
+      8.8226,
+      48.6516
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6337,
+      8.7907,
+      48.6667,
+      8.8526
+    ]
+  },
+  {
     "id": "delbrueck",
     "name": "Delbrück",
     "shortName": "DEL",
@@ -2091,6 +2171,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "ehningen",
+    "name": "Ehningen",
+    "shortName": "EHN",
+    "center": [
+      8.9405,
+      48.6593
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6374,
+      8.9002,
+      48.6754,
+      8.9921
     ]
   },
   {
@@ -2783,6 +2879,38 @@
     ]
   },
   {
+    "id": "gaertringen",
+    "name": "Gärtringen",
+    "shortName": "GAE",
+    "center": [
+      8.9026,
+      48.6419
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6142,
+      8.845,
+      48.6623,
+      8.9726
+    ]
+  },
+  {
+    "id": "gaeufelden",
+    "name": "Gäufelden",
+    "shortName": "GAEU",
+    "center": [
+      8.8472,
+      48.5526
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5371,
+      8.7915,
+      48.5777,
+      8.8908
+    ]
+  },
+  {
     "id": "gehlenbeck",
     "name": "Gehlenbeck",
     "shortName": "GEH",
@@ -2898,6 +3026,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "grafenau-bb",
+    "name": "Grafenau",
+    "shortName": "GRA",
+    "center": [
+      8.9007,
+      48.7155
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6965,
+      8.8551,
+      48.7309,
+      8.9441
     ]
   },
   {
@@ -3837,6 +3981,22 @@
     ]
   },
   {
+    "id": "herrenberg",
+    "name": "Herrenberg",
+    "shortName": "HBG",
+    "center": [
+      8.8702,
+      48.5964
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5602,
+      8.7897,
+      48.6393,
+      8.9818
+    ]
+  },
+  {
     "id": "herzebrock-clarholz",
     "name": "Herzebrock-Clarholz",
     "shortName": "HC",
@@ -3920,6 +4080,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "hildrizhausen",
+    "name": "Hildrizhausen",
+    "shortName": "HIL",
+    "center": [
+      8.9702,
+      48.6253
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5952,
+      8.9192,
+      48.6459,
+      8.9896
     ]
   },
   {
@@ -4035,6 +4211,22 @@
       9.6487,
       53.6414,
       9.7559
+    ]
+  },
+  {
+    "id": "holzgerlingen",
+    "name": "Holzgerlingen",
+    "shortName": "HOL",
+    "center": [
+      9.0116,
+      48.6392
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5961,
+      8.9841,
+      48.6642,
+      9.0486
     ]
   },
   {
@@ -4284,6 +4476,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "jettingen",
+    "name": "Jettingen",
+    "shortName": "JET",
+    "center": [
+      8.78,
+      48.5711
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5481,
+      8.7464,
+      48.6049,
+      8.8251
     ]
   },
   {
@@ -5107,6 +5315,22 @@
     ]
   },
   {
+    "id": "leonberg",
+    "name": "Leonberg",
+    "shortName": "LEO",
+    "center": [
+      9.015,
+      48.8013
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7459,
+      8.9573,
+      48.8336,
+      9.0689
+    ]
+  },
+  {
     "id": "liepe-liepe",
     "name": "Liepe-Liepe",
     "shortName": "LL",
@@ -5334,6 +5558,22 @@
       9.7433,
       53.8599,
       9.8298
+    ]
+  },
+  {
+    "id": "magstadt",
+    "name": "Magstadt",
+    "shortName": "MAG",
+    "center": [
+      8.9628,
+      48.7424
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7285,
+      8.9291,
+      48.7635,
+      9.0366
     ]
   },
   {
@@ -5704,6 +5944,22 @@
       7.6458,
       50.9173,
       7.7665
+    ]
+  },
+  {
+    "id": "moetzingen",
+    "name": "Mötzingen",
+    "shortName": "MOET",
+    "center": [
+      8.7747,
+      48.5355
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5211,
+      8.7555,
+      48.5498,
+      8.8089
     ]
   },
   {
@@ -6221,6 +6477,22 @@
       7.2541,
       51.9706,
       7.4624
+    ]
+  },
+  {
+    "id": "nufringen",
+    "name": "Nufringen",
+    "shortName": "NUF",
+    "center": [
+      8.8881,
+      48.6224
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6059,
+      8.8642,
+      48.6366,
+      8.9296
     ]
   },
   {
@@ -6894,6 +7166,22 @@
     ]
   },
   {
+    "id": "renningen",
+    "name": "Renningen",
+    "shortName": "REN",
+    "center": [
+      8.9347,
+      48.7648
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7333,
+      8.8772,
+      48.8084,
+      8.9766
+    ]
+  },
+  {
     "id": "rhauderfehn",
     "name": "Rhauderfehn",
     "shortName": "RHA",
@@ -7105,6 +7393,22 @@
       13.5969,
       52.7452,
       13.6677
+    ]
+  },
+  {
+    "id": "rutesheim",
+    "name": "Rutesheim",
+    "shortName": "RUT",
+    "center": [
+      8.9453,
+      48.8081
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.79,
+      8.8717,
+      48.8316,
+      8.9673
     ]
   },
   {
@@ -7376,6 +7680,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "schoenaich",
+    "name": "Schönaich",
+    "shortName": "SCH",
+    "center": [
+      9.0588,
+      48.6565
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6416,
+      9.0214,
+      48.6754,
+      9.1062
     ]
   },
   {
@@ -7896,6 +8216,22 @@
     ]
   },
   {
+    "id": "sindelfingen",
+    "name": "Sindelfingen",
+    "shortName": "SIN",
+    "center": [
+      9.0035,
+      48.7084
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6738,
+      8.9048,
+      48.7469,
+      9.1085
+    ]
+  },
+  {
     "id": "sinntal",
     "name": "Sinntal",
     "shortName": "SIN",
@@ -7995,6 +8331,22 @@
       8.7755,
       49.7583,
       8.8001
+    ]
+  },
+  {
+    "id": "steinenbronn",
+    "name": "Steinenbronn",
+    "shortName": "STE",
+    "center": [
+      9.1195,
+      48.66
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6438,
+      9.0882,
+      48.6806,
+      9.1575
     ]
   },
   {
@@ -8633,6 +8985,22 @@
     ]
   },
   {
+    "id": "waldenbuch",
+    "name": "Waldenbuch",
+    "shortName": "WAL",
+    "center": [
+      9.1312,
+      48.6374
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6001,
+      9.0878,
+      48.6579,
+      9.1738
+    ]
+  },
+  {
     "id": "waldfeucht",
     "name": "Waldfeucht",
     "shortName": "WAL",
@@ -9000,6 +9368,38 @@
     ]
   },
   {
+    "id": "weil-der-stadt",
+    "name": "Weil der Stadt",
+    "shortName": "WDS",
+    "center": [
+      8.8707,
+      48.7501
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.717,
+      8.7999,
+      48.803,
+      8.9326
+    ]
+  },
+  {
+    "id": "weil-im-schoenbuch",
+    "name": "Weil im Schönbuch",
+    "shortName": "WIS",
+    "center": [
+      9.061,
+      48.6212
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5879,
+      9.0223,
+      48.6515,
+      9.1053
+    ]
+  },
+  {
     "id": "weinsberg",
     "name": "Weinsberg",
     "shortName": "WEI",
@@ -9013,6 +9413,22 @@
       9.2543,
       49.1911,
       9.3735
+    ]
+  },
+  {
+    "id": "weissach",
+    "name": "Weissach",
+    "shortName": "WEI",
+    "center": [
+      8.9216,
+      48.8418
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8161,
+      8.8715,
+      48.8676,
+      8.966
     ]
   },
   {
