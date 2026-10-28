@@ -8,11 +8,12 @@ import { RegioItFetcher } from './regioit.ts';
 import { HeidelbergFetcher } from './heidelberg.ts';
 import { KoelnFetcher } from './koeln.ts';
 import { LeipzigFetcher } from './leipzig.ts';
-import { MuellmaxFetcher } from './muellmax.ts';
+import { MuellmaxFetcher, type MuellmaxConfig } from './muellmax.ts';
 import { AbfallPlusFetcher, type AbfallPlusConfig } from './abfallplus.ts';
 import { JumoMindFetcher, type JumoMindConfig } from './jumomind.ts';
 import jumoCitiesRaw from './jumomind-cities.json';
 import abfallPlusCitiesRaw from './abfallplus-cities.json';
+import muellmaxCitiesRaw from './muellmax-cities.json';
 
 export * from './types.ts';
 export * from './karlsruhe.ts';
@@ -30,6 +31,7 @@ export * from './darmstadt.ts';
 
 const jumoCities = jumoCitiesRaw as JumoMindConfig[];
 const abfallPlusCities = abfallPlusCitiesRaw as AbfallPlusConfig[];
+const muellmaxCities = muellmaxCitiesRaw as MuellmaxConfig[];
 
 export const REGIOIT_EXTRA_FETCHERS: CityFetcher[] = [
   new RegioItFetcher({
@@ -220,18 +222,6 @@ export const REGIOIT_EXTRA_FETCHERS: CityFetcher[] = [
     center: [6.3161, 51.081],
     defaultZoom: 12,
     bbox: [51.0127, 6.2007, 51.117, 6.4774]
-  })
-];
-
-export const MUELLMAX_FETCHERS: CityFetcher[] = [
-  new MuellmaxFetcher({
-    id: 'bochum',
-    name: 'Bochum',
-    shortName: 'BO',
-    service: 'Usb',
-    center: [7.2197, 51.4818],
-    defaultZoom: 12,
-    bbox: [51.4105, 7.1021, 51.5314, 7.3493]
   }),
   new RegioItFetcher({
     id: 'ascheberg',
@@ -1609,80 +1599,12 @@ export const MUELLMAX_FETCHERS: CityFetcher[] = [
     center: [9.6802, 53.8526],
     defaultZoom: 12,
     bbox: [53.848, 9.6457, 53.8893, 9.7012]
-  }),
-  new MuellmaxFetcher({
-    id: 'muenster',
-    name: 'Münster',
-    shortName: 'MS',
-    service: 'Awm',
-    center: [7.6252, 51.9625],
-    defaultZoom: 12,
-    bbox: [51.8401, 7.4738, 52.06, 7.7744]
-  }),
-  new MuellmaxFetcher({
-    id: 'mainz',
-    name: 'Mainz',
-    shortName: 'MZ',
-    service: 'Ebm',
-    center: [8.2736, 49.9995],
-    defaultZoom: 12,
-    bbox: [49.8955, 8.1431, 50.0353, 8.3431]
-  }),
-  new MuellmaxFetcher({
-    id: 'hamm',
-    name: 'Hamm',
-    shortName: 'HAM',
-    service: 'Ash',
-    center: [7.8189, 51.6814],
-    defaultZoom: 12,
-    bbox: [51.61, 7.67, 51.75, 7.97]
-  }),
-  new MuellmaxFetcher({
-    id: 'hanau',
-    name: 'Hanau',
-    shortName: 'HU',
-    service: 'His',
-    center: [8.917, 50.1329],
-    defaultZoom: 12,
-    bbox: [50.0753, 8.862, 50.1955, 9.0302]
-  }),
-  new MuellmaxFetcher({
-    id: 'kaiserslautern',
-    name: 'Kaiserslautern',
-    shortName: 'KL',
-    service: 'Ask',
-    center: [7.769, 49.4432],
-    defaultZoom: 12,
-    bbox: [49.3587, 7.6271, 49.4951, 7.8707]
-  }),
-  new MuellmaxFetcher({
-    id: 'maintal',
-    name: 'Maintal',
-    shortName: 'MTL',
-    service: 'Mai',
-    center: [8.8371, 50.1439],
-    defaultZoom: 12,
-    bbox: [50.125, 8.7798, 50.1851, 8.8824]
-  }),
-  new MuellmaxFetcher({
-    id: 'haltern-am-see',
-    name: 'Haltern am See',
-    shortName: 'HAL',
-    service: 'Hal',
-    center: [7.1872, 51.7431],
-    defaultZoom: 12,
-    bbox: [51.6954, 7.0473, 51.8214, 7.3213]
-  }),
-  new MuellmaxFetcher({
-    id: 'friedberg',
-    name: 'Friedberg',
-    shortName: 'FB',
-    service: 'Efb',
-    center: [8.7547, 50.3356],
-    defaultZoom: 12,
-    bbox: [50.3, 8.71, 50.37, 8.81]
   })
 ];
+
+export const MUELLMAX_FETCHERS: CityFetcher[] = muellmaxCities.map(
+  (cfg) => new MuellmaxFetcher(cfg)
+);
 
 export const ABFALLPLUS_FETCHERS: CityFetcher[] = abfallPlusCities.map(
   (cfg) => new AbfallPlusFetcher(cfg)

@@ -265,6 +265,44 @@
     ]
   },
   {
+    "id": "alfter",
+    "name": "Alfter",
+    "shortName": "ALF",
+    "center": [
+      7.0094,
+      50.7371
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6614,
+      6.9584,
+      50.7566,
+      7.0442
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "allendorf-lumda",
+    "name": "Allendorf (Lumda)",
+    "shortName": "ALL",
+    "center": [
+      8.8177,
+      50.6737
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.646,
+      8.7796,
+      50.7078,
+      8.8638
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "alsbach-haehnlein",
     "name": "Alsbach-Hähnlein",
     "shortName": "AH",
@@ -860,6 +898,25 @@
       8.4961,
       50.2745,
       8.7124
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "bad-honnef",
+    "name": "Bad Honnef",
+    "shortName": "BAD",
+    "center": [
+      7.2273,
+      50.6449
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6233,
+      7.1995,
+      50.6873,
+      7.364
     ],
     "defaultCategories": [
       "restmuell"
@@ -1502,6 +1559,25 @@
     ]
   },
   {
+    "id": "biebertal",
+    "name": "Biebertal",
+    "shortName": "BIE",
+    "center": [
+      8.5714,
+      50.6529
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6031,
+      8.5192,
+      50.6991,
+      8.6273
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "biesenthal-biesenthal",
     "name": "Biesenthal-Biesenthal",
     "shortName": "BB",
@@ -1879,6 +1955,25 @@
       6.6543,
       53.6182,
       6.8135
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "bornheim",
+    "name": "Bornheim",
+    "shortName": "BOR",
+    "center": [
+      6.9891,
+      50.7628
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7186,
+      6.8594,
+      50.8054,
+      7.0667
     ],
     "defaultCategories": [
       "restmuell"
@@ -2269,6 +2364,25 @@
       7.0576,
       51.119,
       7.1692
+    ]
+  },
+  {
+    "id": "buseck",
+    "name": "Buseck",
+    "shortName": "BUS",
+    "center": [
+      8.776,
+      50.6179
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5684,
+      8.7315,
+      50.6487,
+      8.8607
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -3028,6 +3142,25 @@
     ]
   },
   {
+    "id": "eitorf",
+    "name": "Eitorf",
+    "shortName": "EIT",
+    "center": [
+      7.4504,
+      50.771
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7118,
+      7.3799,
+      50.8182,
+      7.5388
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "eitzum",
     "name": "Eitzum",
     "shortName": "EIT",
@@ -3456,6 +3589,25 @@
       12.0424,
       48.218,
       12.0824
+    ]
+  },
+  {
+    "id": "fernwald",
+    "name": "Fernwald",
+    "shortName": "FER",
+    "center": [
+      8.7771,
+      50.5674
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5306,
+      8.7394,
+      50.5935,
+      8.8239
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -4347,6 +4499,25 @@
     ]
   },
   {
+    "id": "gruenberg",
+    "name": "Grünberg",
+    "shortName": "GRÜ",
+    "center": [
+      8.9459,
+      50.6137
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5555,
+      8.8499,
+      50.6903,
+      9.0695
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "gruenow",
     "name": "Grünow",
     "shortName": "GRUE",
@@ -5082,6 +5253,25 @@
     ]
   },
   {
+    "id": "hennef",
+    "name": "Hennef",
+    "shortName": "HEN",
+    "center": [
+      7.2848,
+      50.7754
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6962,
+      7.228,
+      50.8134,
+      7.439
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "hepberg",
     "name": "Hepberg",
     "shortName": "HEP",
@@ -5181,6 +5371,25 @@
       9.5372,
       53.6402,
       9.6626
+    ]
+  },
+  {
+    "id": "heuchelheim",
+    "name": "Heuchelheim",
+    "shortName": "HEU",
+    "center": [
+      8.6286,
+      50.5825
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5646,
+      8.6099,
+      50.6046,
+      8.6433
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -5590,6 +5799,25 @@
       7.2695,
       51.1967,
       7.3988
+    ]
+  },
+  {
+    "id": "hungen",
+    "name": "Hungen",
+    "shortName": "HUN",
+    "center": [
+      8.9171,
+      50.4696
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4262,
+      8.7952,
+      50.5282,
+      9.0022
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -6356,6 +6584,25 @@
     ]
   },
   {
+    "id": "koenigswinter",
+    "name": "Königswinter",
+    "shortName": "KÖN",
+    "center": [
+      7.1931,
+      50.674
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6617,
+      7.1683,
+      50.7477,
+      7.3721
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "korweiler",
     "name": "Korweiler",
     "shortName": "KOR",
@@ -6634,6 +6881,25 @@
     ]
   },
   {
+    "id": "langgoens",
+    "name": "Langgöns",
+    "shortName": "LAN",
+    "center": [
+      8.6291,
+      50.4918
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4159,
+      8.5294,
+      50.5166,
+      8.703
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "langlingen",
     "name": "Langlingen",
     "shortName": "LAN",
@@ -6663,6 +6929,25 @@
       7.4799,
       50.072,
       7.541
+    ]
+  },
+  {
+    "id": "laubach-hessen",
+    "name": "Laubach (Hessen)",
+    "shortName": "LAU",
+    "center": [
+      9.0349,
+      50.5431
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4885,
+      8.9069,
+      50.5816,
+      9.1344
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -6867,6 +7152,25 @@
     ]
   },
   {
+    "id": "lich",
+    "name": "Lich",
+    "shortName": "LIC",
+    "center": [
+      8.8416,
+      50.5052
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4567,
+      8.7381,
+      50.5581,
+      8.9271
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "liebshausen",
     "name": "Liebshausen",
     "shortName": "LIE",
@@ -6912,6 +7216,25 @@
       10.549,
       52.1608,
       10.5794
+    ]
+  },
+  {
+    "id": "linden-hessen",
+    "name": "Linden (Hessen)",
+    "shortName": "LIN",
+    "center": [
+      8.6678,
+      50.5333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5024,
+      8.6162,
+      50.5644,
+      8.7114
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -7008,6 +7331,25 @@
       9.8159,
       52.9058,
       9.939
+    ]
+  },
+  {
+    "id": "lollar",
+    "name": "Lollar",
+    "shortName": "LOL",
+    "center": [
+      8.694,
+      50.6696
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.632,
+      8.6461,
+      50.7037,
+      8.7281
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -9189,6 +9531,25 @@
     ]
   },
   {
+    "id": "pohlheim",
+    "name": "Pohlheim",
+    "shortName": "POH",
+    "center": [
+      8.7346,
+      50.5166
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4748,
+      8.6887,
+      50.558,
+      8.7897
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
     "id": "pollenfeld",
     "name": "Pollenfeld",
     "shortName": "POL",
@@ -9349,6 +9710,25 @@
       9.5643,
       53.7709,
       9.6373
+    ]
+  },
+  {
+    "id": "rabenau",
+    "name": "Rabenau",
+    "shortName": "RAB",
+    "center": [
+      8.8915,
+      50.6696
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.63,
+      8.8279,
+      50.7093,
+      8.9552
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -9547,6 +9927,25 @@
       12.6802,
       48.3324,
       12.7555
+    ]
+  },
+  {
+    "id": "reiskirchen",
+    "name": "Reiskirchen",
+    "shortName": "REI",
+    "center": [
+      8.8465,
+      50.5957
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5474,
+      8.8022,
+      50.6318,
+      8.9249
+    ],
+    "defaultCategories": [
+      "restmuell"
     ]
   },
   {
@@ -11160,6 +11559,25 @@
       11.403,
       48.9021,
       11.5443
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "staufenberg",
+    "name": "Staufenberg",
+    "shortName": "STA",
+    "center": [
+      8.7637,
+      50.6649
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6336,
+      8.7184,
+      50.6963,
+      8.8089
     ],
     "defaultCategories": [
       "restmuell"
@@ -12872,6 +13290,25 @@
       7.3628,
       53.2143,
       7.5157
+    ],
+    "defaultCategories": [
+      "restmuell"
+    ]
+  },
+  {
+    "id": "wettenberg",
+    "name": "Wettenberg",
+    "shortName": "WET",
+    "center": [
+      8.649,
+      50.6373
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5944,
+      8.5976,
+      50.6992,
+      8.6965
     ],
     "defaultCategories": [
       "restmuell"

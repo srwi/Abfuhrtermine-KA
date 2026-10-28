@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "bochum",
+    "name": "Bochum",
+    "shortName": "BO",
+    "service": "Usb",
+    "center": [
+      7.2197,
+      51.4818
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4105,
+      7.1021,
+      51.5314,
+      7.3493
+    ]
+  },
+  {
+    "id": "muenster",
+    "name": "Münster",
+    "shortName": "MS",
+    "service": "Awm",
+    "center": [
+      7.6252,
+      51.9625
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.8401,
+      7.4738,
+      52.06,
+      7.7744
+    ]
+  },
+  {
+    "id": "mainz",
+    "name": "Mainz",
+    "shortName": "MZ",
+    "service": "Ebm",
+    "center": [
+      8.2736,
+      49.9995
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8955,
+      8.1431,
+      50.0353,
+      8.3431
+    ]
+  },
+  {
+    "id": "hamm",
+    "name": "Hamm",
+    "shortName": "HAM",
+    "service": "Ash",
+    "center": [
+      7.8189,
+      51.6814
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.61,
+      7.67,
+      51.75,
+      7.97
+    ]
+  },
+  {
+    "id": "hanau",
+    "name": "Hanau",
+    "shortName": "HU",
+    "service": "His",
+    "center": [
+      8.917,
+      50.1329
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0753,
+      8.862,
+      50.1955,
+      9.0302
+    ]
+  },
+  {
+    "id": "kaiserslautern",
+    "name": "Kaiserslautern",
+    "shortName": "KL",
+    "service": "Ask",
+    "center": [
+      7.769,
+      49.4432
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3587,
+      7.6271,
+      49.4951,
+      7.8707
+    ]
+  },
+  {
+    "id": "maintal",
+    "name": "Maintal",
+    "shortName": "MTL",
+    "service": "Mai",
+    "center": [
+      8.8371,
+      50.1439
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.125,
+      8.7798,
+      50.1851,
+      8.8824
+    ]
+  },
+  {
+    "id": "haltern-am-see",
+    "name": "Haltern am See",
+    "shortName": "HAL",
+    "service": "Hal",
+    "center": [
+      7.1872,
+      51.7431
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6954,
+      7.0473,
+      51.8214,
+      7.3213
+    ]
+  },
+  {
+    "id": "friedberg",
+    "name": "Friedberg",
+    "shortName": "FB",
+    "service": "Efb",
+    "center": [
+      8.7547,
+      50.3356
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3,
+      8.71,
+      50.37,
+      8.81
+    ]
+  },
+  {
+    "id": "allendorf-lumda",
+    "name": "Allendorf (Lumda)",
+    "shortName": "ALL",
+    "service": "Lkg",
+    "ort": "Allendorf (Lumda)",
+    "center": [
+      8.8177,
+      50.6737
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.646,
+      8.7796,
+      50.7078,
+      8.8638
+    ]
+  },
+  {
+    "id": "biebertal",
+    "name": "Biebertal",
+    "shortName": "BIE",
+    "service": "Lkg",
+    "ort": "Biebertal",
+    "center": [
+      8.5714,
+      50.6529
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6031,
+      8.5192,
+      50.6991,
+      8.6273
+    ]
+  },
+  {
+    "id": "buseck",
+    "name": "Buseck",
+    "shortName": "BUS",
+    "service": "Lkg",
+    "ort": "Buseck",
+    "center": [
+      8.776,
+      50.6179
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5684,
+      8.7315,
+      50.6487,
+      8.8607
+    ]
+  },
+  {
+    "id": "fernwald",
+    "name": "Fernwald",
+    "shortName": "FER",
+    "service": "Lkg",
+    "ort": "Fernwald",
+    "center": [
+      8.7771,
+      50.5674
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5306,
+      8.7394,
+      50.5935,
+      8.8239
+    ]
+  },
+  {
+    "id": "gruenberg",
+    "name": "Grünberg",
+    "shortName": "GRÜ",
+    "service": "Lkg",
+    "ort": "Grünberg",
+    "center": [
+      8.9459,
+      50.6137
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5555,
+      8.8499,
+      50.6903,
+      9.0695
+    ]
+  },
+  {
+    "id": "heuchelheim",
+    "name": "Heuchelheim",
+    "shortName": "HEU",
+    "service": "Lkg",
+    "ort": "Heuchelheim",
+    "center": [
+      8.6286,
+      50.5825
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5646,
+      8.6099,
+      50.6046,
+      8.6433
+    ]
+  },
+  {
+    "id": "hungen",
+    "name": "Hungen",
+    "shortName": "HUN",
+    "service": "Lkg",
+    "ort": "Hungen",
+    "center": [
+      8.9171,
+      50.4696
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4262,
+      8.7952,
+      50.5282,
+      9.0022
+    ]
+  },
+  {
+    "id": "langgoens",
+    "name": "Langgöns",
+    "shortName": "LAN",
+    "service": "Lkg",
+    "ort": "Langgöns",
+    "center": [
+      8.6291,
+      50.4918
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4159,
+      8.5294,
+      50.5166,
+      8.703
+    ]
+  },
+  {
+    "id": "laubach-hessen",
+    "name": "Laubach (Hessen)",
+    "shortName": "LAU",
+    "service": "Lkg",
+    "ort": "Laubach",
+    "center": [
+      9.0349,
+      50.5431
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4885,
+      8.9069,
+      50.5816,
+      9.1344
+    ]
+  },
+  {
+    "id": "lich",
+    "name": "Lich",
+    "shortName": "LIC",
+    "service": "Lkg",
+    "ort": "Lich",
+    "center": [
+      8.8416,
+      50.5052
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4567,
+      8.7381,
+      50.5581,
+      8.9271
+    ]
+  },
+  {
+    "id": "linden-hessen",
+    "name": "Linden (Hessen)",
+    "shortName": "LIN",
+    "service": "Lkg",
+    "ort": "Linden",
+    "center": [
+      8.6678,
+      50.5333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5024,
+      8.6162,
+      50.5644,
+      8.7114
+    ]
+  },
+  {
+    "id": "lollar",
+    "name": "Lollar",
+    "shortName": "LOL",
+    "service": "Lkg",
+    "ort": "Lollar",
+    "center": [
+      8.694,
+      50.6696
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.632,
+      8.6461,
+      50.7037,
+      8.7281
+    ]
+  },
+  {
+    "id": "pohlheim",
+    "name": "Pohlheim",
+    "shortName": "POH",
+    "service": "Lkg",
+    "ort": "Pohlheim",
+    "center": [
+      8.7346,
+      50.5166
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4748,
+      8.6887,
+      50.558,
+      8.7897
+    ]
+  },
+  {
+    "id": "rabenau",
+    "name": "Rabenau",
+    "shortName": "RAB",
+    "service": "Lkg",
+    "ort": "Rabenau",
+    "center": [
+      8.8915,
+      50.6696
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.63,
+      8.8279,
+      50.7093,
+      8.9552
+    ]
+  },
+  {
+    "id": "reiskirchen",
+    "name": "Reiskirchen",
+    "shortName": "REI",
+    "service": "Lkg",
+    "ort": "Reiskirchen",
+    "center": [
+      8.8465,
+      50.5957
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5474,
+      8.8022,
+      50.6318,
+      8.9249
+    ]
+  },
+  {
+    "id": "staufenberg",
+    "name": "Staufenberg",
+    "shortName": "STA",
+    "service": "Lkg",
+    "ort": "Staufenberg",
+    "center": [
+      8.7637,
+      50.6649
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6336,
+      8.7184,
+      50.6963,
+      8.8089
+    ]
+  },
+  {
+    "id": "wettenberg",
+    "name": "Wettenberg",
+    "shortName": "WET",
+    "service": "Lkg",
+    "ort": "Wettenberg",
+    "center": [
+      8.649,
+      50.6373
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5944,
+      8.5976,
+      50.6992,
+      8.6965
+    ]
+  },
+  {
+    "id": "alfter",
+    "name": "Alfter",
+    "shortName": "ALF",
+    "service": "Rsa",
+    "ort": "Alfter",
+    "center": [
+      7.0094,
+      50.7371
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6614,
+      6.9584,
+      50.7566,
+      7.0442
+    ]
+  },
+  {
+    "id": "bad-honnef",
+    "name": "Bad Honnef",
+    "shortName": "BAD",
+    "service": "Rsa",
+    "ort": "Bad Honnef",
+    "center": [
+      7.2273,
+      50.6449
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6233,
+      7.1995,
+      50.6873,
+      7.364
+    ]
+  },
+  {
+    "id": "bornheim",
+    "name": "Bornheim",
+    "shortName": "BOR",
+    "service": "Rsa",
+    "ort": "Bornheim",
+    "center": [
+      6.9891,
+      50.7628
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7186,
+      6.8594,
+      50.8054,
+      7.0667
+    ]
+  },
+  {
+    "id": "eitorf",
+    "name": "Eitorf",
+    "shortName": "EIT",
+    "service": "Rsa",
+    "ort": "Eitorf",
+    "center": [
+      7.4504,
+      50.771
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7118,
+      7.3799,
+      50.8182,
+      7.5388
+    ]
+  },
+  {
+    "id": "hennef",
+    "name": "Hennef",
+    "shortName": "HEN",
+    "service": "Rsa",
+    "ort": "Hennef",
+    "center": [
+      7.2848,
+      50.7754
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6962,
+      7.228,
+      50.8134,
+      7.439
+    ]
+  },
+  {
+    "id": "koenigswinter",
+    "name": "Königswinter",
+    "shortName": "KÖN",
+    "service": "Rsa",
+    "ort": "Königswinter",
+    "center": [
+      7.1931,
+      50.674
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6617,
+      7.1683,
+      50.7477,
+      7.3721
+    ]
+  },
+  {
+    "id": "lohmar",
+    "name": "Lohmar",
+    "shortName": "LOH",
+    "service": "Rsa",
+    "ort": "Lohmar",
+    "center": [
+      7.2127,
+      50.8402
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.8118,
+      7.1908,
+      50.9285,
+      7.3066
+    ]
+  },
+  {
+    "id": "meckenheim",
+    "name": "Meckenheim",
+    "shortName": "MEC",
+    "service": "Rsa",
+    "ort": "Meckenheim",
+    "center": [
+      7.0216,
+      50.6257
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5643,
+      6.9563,
+      50.6665,
+      7.0644
+    ]
+  },
+  {
+    "id": "much",
+    "name": "Much",
+    "shortName": "MUC",
+    "service": "Rsa",
+    "ort": "Much",
+    "center": [
+      7.4018,
+      50.9044
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.8414,
+      7.3031,
+      50.9497,
+      7.4793
+    ]
+  },
+  {
+    "id": "neunkirchen-seelscheid",
+    "name": "Neunkirchen-Seelscheid",
+    "shortName": "NEU",
+    "service": "Rsa",
+    "ort": "Neunkirchen-Seelscheid",
+    "center": [
+      7.3295,
+      50.8545
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.8086,
+      7.2754,
+      50.9068,
+      7.4074
+    ]
+  },
+  {
+    "id": "niederkassel",
+    "name": "Niederkassel",
+    "shortName": "NIE",
+    "service": "Rsa",
+    "ort": "Niederkassel",
+    "center": [
+      7.0352,
+      50.8137
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7673,
+      6.979,
+      50.8501,
+      7.1009
+    ]
+  },
+  {
+    "id": "rheinbach",
+    "name": "Rheinbach",
+    "shortName": "RHE",
+    "service": "Rsa",
+    "ort": "Rheinbach",
+    "center": [
+      6.9491,
+      50.6257
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5559,
+      6.8838,
+      50.6733,
+      7.0192
+    ]
+  },
+  {
+    "id": "ruppichteroth",
+    "name": "Ruppichteroth",
+    "shortName": "RUP",
+    "service": "Rsa",
+    "ort": "Ruppichteroth",
+    "center": [
+      7.4834,
+      50.8442
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7774,
+      7.3361,
+      50.8798,
+      7.5303
+    ]
+  },
+  {
+    "id": "sankt-augustin",
+    "name": "Sankt Augustin",
+    "shortName": "SAN",
+    "service": "Rsa",
+    "ort": "Sankt Augustin",
+    "center": [
+      7.1896,
+      50.7753
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7394,
+      7.1254,
+      50.8005,
+      7.2457
+    ]
+  },
+  {
+    "id": "siegburg",
+    "name": "Siegburg",
+    "shortName": "SIE",
+    "service": "Rsa",
+    "ort": "Siegburg",
+    "center": [
+      7.2071,
+      50.7928
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7798,
+      7.1742,
+      50.828,
+      7.3105
+    ]
+  },
+  {
+    "id": "swisttal",
+    "name": "Swisttal",
+    "shortName": "SWI",
+    "service": "Rsa",
+    "ort": "Swisttal",
+    "center": [
+      6.9312,
+      50.684
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6357,
+      6.8542,
+      50.7341,
+      6.9967
+    ]
+  },
+  {
+    "id": "troisdorf",
+    "name": "Troisdorf",
+    "shortName": "TRO",
+    "service": "Rsa",
+    "ort": "Troisdorf",
+    "center": [
+      7.1593,
+      50.8153
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7616,
+      7.0772,
+      50.8745,
+      7.2149
+    ]
+  },
+  {
+    "id": "wachtberg",
+    "name": "Wachtberg",
+    "shortName": "WAC",
+    "service": "Rsa",
+    "ort": "Wachtberg",
+    "center": [
+      7.0883,
+      50.6436
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5859,
+      7.0398,
+      50.6595,
+      7.1951
+    ]
+  },
+  {
+    "id": "windeck",
+    "name": "Windeck",
+    "shortName": "WIN",
+    "service": "Rsa",
+    "ort": "Windeck",
+    "center": [
+      7.5746,
+      50.7977
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7382,
+      7.4684,
+      50.8426,
+      7.6827
+    ]
+  },
+  {
+    "id": "beckingen",
+    "name": "Beckingen",
+    "shortName": "BEC",
+    "service": "Evs",
+    "ort": "Beckingen",
+    "center": [
+      6.7041,
+      49.3877
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3721,
+      6.663,
+      49.4672,
+      6.8022
+    ]
+  },
+  {
+    "id": "bexbach",
+    "name": "Bexbach",
+    "shortName": "BEX",
+    "service": "Evs",
+    "ort": "Bexbach",
+    "center": [
+      7.2549,
+      49.3473
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3219,
+      7.2195,
+      49.4079,
+      7.3057
+    ]
+  },
+  {
+    "id": "blieskastel",
+    "name": "Blieskastel",
+    "shortName": "BLI",
+    "service": "Evs",
+    "ort": "Blieskastel",
+    "center": [
+      7.2599,
+      49.2371
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1296,
+      7.1782,
+      49.2991,
+      7.369
+    ]
+  },
+  {
+    "id": "bous",
+    "name": "Bous",
+    "shortName": "BOU",
+    "service": "Evs",
+    "ort": "Bous",
+    "center": [
+      6.7956,
+      49.2751
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2698,
+      6.7747,
+      49.2868,
+      6.8585
+    ]
+  },
+  {
+    "id": "dillingen",
+    "name": "Dillingen",
+    "shortName": "DIL",
+    "service": "Evs",
+    "ort": "Dillingen",
+    "center": [
+      6.7221,
+      49.3525
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3475,
+      6.7171,
+      49.3575,
+      6.7271
+    ]
+  },
+  {
+    "id": "ensdorf",
+    "name": "Ensdorf",
+    "shortName": "ENS",
+    "service": "Evs",
+    "ort": "Ensdorf",
+    "center": [
+      6.7791,
+      49.302
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2777,
+      6.7628,
+      49.3233,
+      6.8042
+    ]
+  },
+  {
+    "id": "freisen",
+    "name": "Freisen",
+    "shortName": "FRE",
+    "service": "Evs",
+    "ort": "Freisen",
+    "center": [
+      7.248,
+      49.5526
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4993,
+      7.1697,
+      49.5849,
+      7.3092
+    ]
+  },
+  {
+    "id": "friedrichsthal",
+    "name": "Friedrichsthal",
+    "shortName": "FRI",
+    "service": "Evs",
+    "ort": "Friedrichsthal",
+    "center": [
+      7.0964,
+      49.3219
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3126,
+      7.0543,
+      49.3468,
+      7.1148
+    ]
+  },
+  {
+    "id": "gersheim",
+    "name": "Gersheim",
+    "shortName": "GER",
+    "service": "Evs",
+    "ort": "Gersheim",
+    "center": [
+      7.2036,
+      49.146
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.115,
+      7.159,
+      49.1947,
+      7.3103
+    ]
+  },
+  {
+    "id": "grossrosseln",
+    "name": "Großrosseln",
+    "shortName": "GRO",
+    "service": "Evs",
+    "ort": "Großrosseln",
+    "center": [
+      6.8354,
+      49.2039
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1513,
+      6.7759,
+      49.2176,
+      6.8619
+    ]
+  },
+  {
+    "id": "heusweiler",
+    "name": "Heusweiler",
+    "shortName": "HEU",
+    "service": "Evs",
+    "ort": "Heusweiler",
+    "center": [
+      6.9299,
+      49.3385
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3182,
+      6.8632,
+      49.3777,
+      7.0208
+    ]
+  },
+  {
+    "id": "illingen",
+    "name": "Illingen",
+    "shortName": "ILL",
+    "service": "Evs",
+    "ort": "Illingen",
+    "center": [
+      7.0525,
+      49.3777
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3495,
+      6.994,
+      49.4165,
+      7.1242
+    ]
+  },
+  {
+    "id": "kirkel",
+    "name": "Kirkel",
+    "shortName": "KIR",
+    "service": "Evs",
+    "ort": "Kirkel",
+    "center": [
+      7.2333,
+      49.2833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2598,
+      7.1846,
+      49.3405,
+      7.3164
+    ]
+  },
+  {
+    "id": "kleinblittersdorf",
+    "name": "Kleinblittersdorf",
+    "shortName": "KLE",
+    "service": "Evs",
+    "ort": "Kleinblittersdorf",
+    "center": [
+      7.0353,
+      49.1586
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.112,
+      7.0277,
+      49.1815,
+      7.1294
+    ]
+  },
+  {
+    "id": "losheim-am-see",
+    "name": "Losheim am See",
+    "shortName": "LOS",
+    "service": "Evs",
+    "ort": "Losheim am See",
+    "center": [
+      6.7447,
+      49.5083
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4542,
+      6.6334,
+      49.5616,
+      6.8152
+    ]
+  },
+  {
+    "id": "mandelbachtal",
+    "name": "Mandelbachtal",
+    "shortName": "MAN",
+    "service": "Evs",
+    "ort": "Mandelbachtal",
+    "center": [
+      7.1519,
+      49.1865
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1204,
+      7.1009,
+      49.2504,
+      7.2031
+    ]
+  },
+  {
+    "id": "marpingen",
+    "name": "Marpingen",
+    "shortName": "MAR",
+    "service": "Evs",
+    "ort": "Marpingen",
+    "center": [
+      7.0573,
+      49.4516
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4093,
+      6.995,
+      49.5036,
+      7.1119
+    ]
+  },
+  {
+    "id": "merchweiler",
+    "name": "Merchweiler",
+    "shortName": "MER",
+    "service": "Evs",
+    "ort": "Merchweiler",
+    "center": [
+      7.0573,
+      49.3574
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3284,
+      7.0233,
+      49.3807,
+      7.1028
+    ]
+  },
+  {
+    "id": "mettlach",
+    "name": "Mettlach",
+    "shortName": "MET",
+    "service": "Evs",
+    "ort": "Mettlach",
+    "center": [
+      6.5942,
+      49.4904
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4461,
+      6.4473,
+      49.5445,
+      6.6576
+    ]
+  },
+  {
+    "id": "nalbach",
+    "name": "Nalbach",
+    "shortName": "NAL",
+    "service": "Evs",
+    "ort": "Nalbach",
+    "center": [
+      6.7877,
+      49.3784
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3669,
+      6.7464,
+      49.4159,
+      6.855
+    ]
+  },
+  {
+    "id": "namborn",
+    "name": "Namborn",
+    "shortName": "NAM",
+    "service": "Evs",
+    "ort": "Namborn",
+    "center": [
+      7.1403,
+      49.5217
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4855,
+      7.122,
+      49.546,
+      7.2069
+    ]
+  },
+  {
+    "id": "nohfelden",
+    "name": "Nohfelden",
+    "shortName": "NOH",
+    "service": "Evs",
+    "ort": "Nohfelden",
+    "center": [
+      7.143,
+      49.5871
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5221,
+      6.9909,
+      49.6394,
+      7.214
+    ]
+  },
+  {
+    "id": "nonnweiler",
+    "name": "Nonnweiler",
+    "shortName": "NON",
+    "service": "Evs",
+    "ort": "Nonnweiler",
+    "center": [
+      6.9708,
+      49.6059
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5093,
+      6.8915,
+      49.6359,
+      7.0415
+    ]
+  },
+  {
+    "id": "oberthal",
+    "name": "Oberthal",
+    "shortName": "OBE",
+    "service": "Evs",
+    "ort": "Oberthal",
+    "center": [
+      7.0849,
+      49.5114
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4941,
+      7.0481,
+      49.5519,
+      7.142
+    ]
+  },
+  {
+    "id": "ottweiler",
+    "name": "Ottweiler",
+    "shortName": "OTT",
+    "service": "Evs",
+    "ort": "Ottweiler",
+    "center": [
+      7.1631,
+      49.403
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3844,
+      7.0908,
+      49.4411,
+      7.2928
+    ]
+  },
+  {
+    "id": "perl",
+    "name": "Perl",
+    "shortName": "PER",
+    "service": "Evs",
+    "ort": "Perl",
+    "center": [
+      6.4292,
+      49.502
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4529,
+      6.3576,
+      49.5514,
+      6.5006
+    ]
+  },
+  {
+    "id": "puettlingen",
+    "name": "Püttlingen",
+    "shortName": "PÜT",
+    "service": "Evs",
+    "ort": "Püttlingen",
+    "center": [
+      6.8828,
+      49.2873
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2622,
+      6.8552,
+      49.3267,
+      6.9293
+    ]
+  },
+  {
+    "id": "quierschied",
+    "name": "Quierschied",
+    "shortName": "QUI",
+    "service": "Evs",
+    "ort": "Quierschied",
+    "center": [
+      7.0528,
+      49.326
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2833,
+      6.9919,
+      49.3511,
+      7.0621
+    ]
+  },
+  {
+    "id": "rehlingen-siersburg",
+    "name": "Rehlingen-Siersburg",
+    "shortName": "REH",
+    "service": "Evs",
+    "ort": "Rehlingen-Siersburg",
+    "center": [
+      6.6792,
+      49.3672
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.33,
+      6.5372,
+      49.4194,
+      6.7042
+    ]
+  },
+  {
+    "id": "riegelsberg",
+    "name": "Riegelsberg",
+    "shortName": "RIE",
+    "service": "Evs",
+    "ort": "Riegelsberg",
+    "center": [
+      6.9454,
+      49.3023
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2826,
+      6.9012,
+      49.3314,
+      6.9834
+    ]
+  },
+  {
+    "id": "saarwellingen",
+    "name": "Saarwellingen",
+    "shortName": "SAA",
+    "service": "Evs",
+    "ort": "Saarwellingen",
+    "center": [
+      6.8063,
+      49.3527
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3168,
+      6.7638,
+      49.3844,
+      6.9222
+    ]
+  },
+  {
+    "id": "schiffweiler",
+    "name": "Schiffweiler",
+    "shortName": "SCH",
+    "service": "Evs",
+    "ort": "Schiffweiler",
+    "center": [
+      7.1294,
+      49.3704
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3369,
+      7.0792,
+      49.3966,
+      7.1505
+    ]
+  },
+  {
+    "id": "schmelz",
+    "name": "Schmelz",
+    "shortName": "SCH",
+    "service": "Evs",
+    "ort": "Schmelz",
+    "center": [
+      6.8525,
+      49.4424
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3922,
+      6.7854,
+      49.5017,
+      6.9368
+    ]
+  },
+  {
+    "id": "schwalbach",
+    "name": "Schwalbach",
+    "shortName": "SCH",
+    "service": "Evs",
+    "ort": "Schwalbach",
+    "center": [
+      6.8221,
+      49.3027
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.282,
+      6.7825,
+      49.3341,
+      6.8829
+    ]
+  },
+  {
+    "id": "spiesen-elversberg",
+    "name": "Spiesen-Elversberg",
+    "shortName": "SPI",
+    "service": "Evs",
+    "ort": "Spiesen-Elversberg",
+    "center": [
+      7.137,
+      49.3145
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2958,
+      7.1061,
+      49.3258,
+      7.1886
+    ]
+  },
+  {
+    "id": "sulzbach",
+    "name": "Sulzbach",
+    "shortName": "SUL",
+    "service": "Evs",
+    "ort": "Sulzbach",
+    "center": [
+      7.0894,
+      49.4305
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4249,
+      7.0798,
+      49.4312,
+      7.0976
+    ]
+  },
+  {
+    "id": "tholey",
+    "name": "Tholey",
+    "shortName": "THO",
+    "service": "Evs",
+    "ort": "Tholey",
+    "center": [
+      7.0323,
+      49.4814
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4366,
+      6.9101,
+      49.5266,
+      7.0626
+    ]
+  },
+  {
+    "id": "ueberherrn",
+    "name": "Überherrn",
+    "shortName": "ÜBE",
+    "service": "Evs",
+    "ort": "Überherrn",
+    "center": [
+      6.7,
+      49.2448
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2152,
+      6.6601,
+      49.3045,
+      6.7625
+    ]
+  },
+  {
+    "id": "wadern",
+    "name": "Wadern",
+    "shortName": "WAD",
+    "service": "Evs",
+    "ort": "Wadern",
+    "center": [
+      6.8889,
+      49.541
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4689,
+      6.7999,
+      49.613,
+      6.963
+    ]
+  },
+  {
+    "id": "wadgassen",
+    "name": "Wadgassen",
+    "shortName": "WAD",
+    "service": "Evs",
+    "ort": "Wadgassen",
+    "center": [
+      6.7922,
+      49.2635
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2189,
+      6.7196,
+      49.2741,
+      6.8383
+    ]
+  },
+  {
+    "id": "wallerfangen",
+    "name": "Wallerfangen",
+    "shortName": "WAL",
+    "service": "Evs",
+    "ort": "Wallerfangen",
+    "center": [
+      6.7184,
+      49.3277
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2798,
+      6.5891,
+      49.3496,
+      6.7326
+    ]
+  },
+  {
+    "id": "weiskirchen",
+    "name": "Weiskirchen",
+    "shortName": "WEI",
+    "service": "Evs",
+    "ort": "Weiskirchen",
+    "center": [
+      6.8181,
+      49.5561
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5082,
+      6.7573,
+      49.5921,
+      6.8513
+    ]
+  },
+  {
+    "id": "remscheid",
+    "name": "Remscheid",
+    "shortName": "REM",
+    "service": "Tbr",
+    "ort": "Remscheid",
+    "center": [
+      7.1929,
+      51.1746
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1423,
+      7.131,
+      51.2069,
+      7.2449
+    ]
+  }
+]

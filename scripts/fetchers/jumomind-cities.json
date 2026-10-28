@@ -10384,5 +10384,113 @@
       53.2116,
       14.1065
     ]
+  },
+  {
+    "id": "halberstadt",
+    "name": "Halberstadt",
+    "shortName": "HBS",
+    "serviceId": "enwi",
+    "cityId": "53",
+    "center": [
+      11.0521,
+      51.8954
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.831,
+      10.8814,
+      51.9572,
+      11.1748
+    ]
+  },
+  {
+    "id": "wernigerode",
+    "name": "Wernigerode",
+    "shortName": "WR",
+    "serviceId": "enwi",
+    "cityId": "141",
+    "center": [
+      10.7863,
+      51.8344
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7522,
+      10.5739,
+      51.887,
+      10.9005
+    ]
+  },
+  {
+    "id": "quedlinburg",
+    "name": "Quedlinburg",
+    "shortName": "QLB",
+    "serviceId": "enwi",
+    "cityId": "95",
+    "center": [
+      11.152,
+      51.7855
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6642,
+      11.0545,
+      51.8456,
+      11.2587
+    ]
+  },
+  {
+    "id": "blankenburg",
+    "name": "Blankenburg (Harz)",
+    "shortName": "BLK",
+    "serviceId": "enwi",
+    "cityId": "20",
+    "center": [
+      10.9552,
+      51.7903
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7369,
+      10.8299,
+      51.9044,
+      11.0565
+    ]
+  },
+  {
+    "id": "thale",
+    "name": "Thale",
+    "shortName": "THA",
+    "serviceId": "enwi",
+    "cityId": "127",
+    "center": [
+      11.0377,
+      51.7528
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6531,
+      10.8866,
+      51.8382,
+      11.115
+    ]
+  },
+  {
+    "id": "harsleben",
+    "name": "Harsleben",
+    "shortName": "HSL",
+    "serviceId": "enwi",
+    "cityId": "54",
+    "center": [
+      11.0961,
+      51.8708
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.8267,
+      11.0575,
+      51.8958,
+      11.1421
+    ]
   }
 ]
