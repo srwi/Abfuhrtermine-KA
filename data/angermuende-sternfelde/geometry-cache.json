@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-28T20:35:11.106Z",
+  "streets": [
+    {
+      "street": "Kastanienallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9803,
+          52.9958
+        ]
+      }
+    },
+    {
+      "street": "Parkweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9803,
+          52.9958
+        ]
+      }
+    },
+    {
+      "street": "Zuchenberger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9803,
+          52.9958
+        ]
+      }
+    }
+  ]
+}

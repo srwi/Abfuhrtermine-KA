@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-28T20:37:11.281Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2766,
+          53.2109
+        ]
+      }
+    },
+    {
+      "street": "Gewerbegebiet",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2766,
+          53.2109
+        ]
+      }
+    },
+    {
+      "street": "Grosser Lychensee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2766,
+          53.2109
+        ]
+      }
+    }
+  ]
+}

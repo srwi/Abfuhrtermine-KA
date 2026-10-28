@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-28T20:40:27.840Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6033,
+          53.0472
+        ]
+      }
+    },
+    {
+      "street": "Reiersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6033,
+          53.0472
+        ]
+      }
+    },
+    {
+      "street": "Wucker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6033,
+          53.0472
+        ]
+      }
+    }
+  ]
+}

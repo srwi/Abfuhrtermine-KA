@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-28T20:35:16.432Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1134,
+          52.9784
+        ]
+      }
+    },
+    {
+      "street": "An der Waldquelle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1134,
+          52.9784
+        ]
+      }
+    },
+    {
+      "street": "Linde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1134,
+          52.9784
+        ]
+      }
+    },
+    {
+      "street": "Stolpe Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1134,
+          52.9784
+        ]
+      }
+    }
+  ]
+}

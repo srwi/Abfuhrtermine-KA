@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-28T20:34:38.722Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9463,
+          53.054
+        ]
+      }
+    },
+    {
+      "street": "Am Tiergarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9463,
+          53.054
+        ]
+      }
+    }
+  ]
+}

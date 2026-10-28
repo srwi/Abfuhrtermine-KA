@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-28T20:38:03.844Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8723,
+          53.1776
+        ]
+      }
+    },
+    {
+      "street": "Am Ring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8723,
+          53.1776
+        ]
+      }
+    },
+    {
+      "street": "Am Stubben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8723,
+          53.1776
+        ]
+      }
+    },
+    {
+      "street": "Dreiecksee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8723,
+          53.1776
+        ]
+      }
+    },
+    {
+      "street": "Hügelhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8723,
+          53.1776
+        ]
+      }
+    },
+    {
+      "street": "Seeblick",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8723,
+          53.1776
+        ]
+      }
+    }
+  ]
+}

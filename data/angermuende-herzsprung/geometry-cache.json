@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-28T20:34:44.155Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0106,
+          52.9985
+        ]
+      }
+    },
+    {
+      "street": "Am Parsteinsee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0106,
+          52.9985
+        ]
+      }
+    },
+    {
+      "street": "Augustenfelde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0106,
+          52.9985
+        ]
+      }
+    }
+  ]
+}

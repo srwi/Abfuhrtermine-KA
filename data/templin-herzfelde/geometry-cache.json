@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-28T20:40:33.049Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6045,
+          53.1976
+        ]
+      }
+    },
+    {
+      "street": "Annenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6045,
+          53.1976
+        ]
+      }
+    },
+    {
+      "street": "Mittenwalder Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6045,
+          53.1976
+        ]
+      }
+    }
+  ]
+}

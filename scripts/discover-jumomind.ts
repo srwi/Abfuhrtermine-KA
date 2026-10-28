@@ -84,8 +84,8 @@ async function geocode(cityName: string, region: string): Promise<{ center: [num
 }
 
 const SERVICES_TO_SCAN: { service: string; region: string }[] = [
-  { service: 'bdg', region: 'Barnim, Brandenburg' },
-  { service: 'wol', region: 'Wolfenbüttel, Niedersachsen' }
+  { service: 'rhe', region: 'Rhein-Hunsrück-Kreis, Rheinland-Pfalz' },
+  { service: 'udg', region: 'Uckermark, Brandenburg' }
 ];
 
 async function main() {

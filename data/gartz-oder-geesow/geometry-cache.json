@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-28T20:36:25.545Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3962,
+          53.2254
+        ]
+      }
+    },
+    {
+      "street": "Bahnhof Geesow",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3962,
+          53.2254
+        ]
+      }
+    },
+    {
+      "street": "Kirschenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3962,
+          53.2254
+        ]
+      }
+    },
+    {
+      "street": "Salvey-Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3962,
+          53.2254
+        ]
+      }
+    }
+  ]
+}

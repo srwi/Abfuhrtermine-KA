@@ -6622,5 +6622,3767 @@
       52.2234,
       10.6449
     ]
+  },
+  {
+    "id": "alterkuelz",
+    "name": "Alterkülz",
+    "shortName": "ALT",
+    "serviceId": "rhe",
+    "cityId": "1",
+    "center": [
+      7.4658,
+      50.0315
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0183,
+      7.4303,
+      50.0453,
+      7.4884
+    ]
+  },
+  {
+    "id": "altweidelbach",
+    "name": "Altweidelbach",
+    "shortName": "ALT",
+    "serviceId": "rhe",
+    "cityId": "2",
+    "center": [
+      7.5655,
+      49.9943
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9864,
+      7.5423,
+      50.0114,
+      7.5834
+    ]
+  },
+  {
+    "id": "argenthal",
+    "name": "Argenthal",
+    "shortName": "ARG",
+    "serviceId": "rhe",
+    "cityId": "3",
+    "center": [
+      7.5967,
+      49.9757
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9265,
+      7.5614,
+      49.9904,
+      7.6622
+    ]
+  },
+  {
+    "id": "bacharach",
+    "name": "Bacharach",
+    "shortName": "BAC",
+    "serviceId": "rhe",
+    "cityId": "5",
+    "center": [
+      7.7483,
+      50.078
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.078,
+      7.7483,
+      50.0781,
+      7.7484
+    ]
+  },
+  {
+    "id": "badenhard",
+    "name": "Badenhard",
+    "shortName": "BAD",
+    "serviceId": "rhe",
+    "cityId": "7",
+    "center": [
+      7.6322,
+      50.1229
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1085,
+      7.5988,
+      50.1274,
+      7.6566
+    ]
+  },
+  {
+    "id": "baerenbach",
+    "name": "Bärenbach",
+    "shortName": "BAER",
+    "serviceId": "rhe",
+    "cityId": "8",
+    "center": [
+      7.3024,
+      49.9472
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9418,
+      7.2708,
+      49.9651,
+      7.3128
+    ]
+  },
+  {
+    "id": "belg",
+    "name": "Belg",
+    "shortName": "BEL",
+    "serviceId": "rhe",
+    "cityId": "9",
+    "center": [
+      7.3093,
+      49.9833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9678,
+      7.2851,
+      49.9969,
+      7.333
+    ]
+  },
+  {
+    "id": "belgweiler",
+    "name": "Belgweiler",
+    "shortName": "BEL",
+    "serviceId": "rhe",
+    "cityId": "10",
+    "center": [
+      7.4855,
+      49.9439
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.935,
+      7.4818,
+      49.9563,
+      7.5163
+    ]
+  },
+  {
+    "id": "bell",
+    "name": "Bell",
+    "shortName": "BEL",
+    "serviceId": "rhe",
+    "cityId": "11",
+    "center": [
+      7.4163,
+      50.0631
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0179,
+      7.3501,
+      50.0717,
+      7.4427
+    ]
+  },
+  {
+    "id": "beltheim",
+    "name": "Beltheim",
+    "shortName": "BEL",
+    "serviceId": "rhe",
+    "cityId": "12",
+    "center": [
+      7.4614,
+      50.1059
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0892,
+      7.4219,
+      50.1385,
+      7.5263
+    ]
+  },
+  {
+    "id": "benzweiler",
+    "name": "Benzweiler",
+    "shortName": "BEN",
+    "serviceId": "rhe",
+    "cityId": "13",
+    "center": [
+      7.6058,
+      50.0204
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0124,
+      7.5929,
+      50.0369,
+      7.6222
+    ]
+  },
+  {
+    "id": "bergenhausen",
+    "name": "Bergenhausen",
+    "shortName": "BER",
+    "serviceId": "rhe",
+    "cityId": "14",
+    "center": [
+      7.5719,
+      50.0242
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0204,
+      7.5403,
+      50.0358,
+      7.588
+    ]
+  },
+  {
+    "id": "beulich",
+    "name": "Beulich",
+    "shortName": "BEU",
+    "serviceId": "rhe",
+    "cityId": "15",
+    "center": [
+      7.4525,
+      50.174
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1366,
+      7.4268,
+      50.1919,
+      7.4806
+    ]
+  },
+  {
+    "id": "biebern",
+    "name": "Biebern",
+    "shortName": "BIE",
+    "serviceId": "rhe",
+    "cityId": "17",
+    "center": [
+      7.4436,
+      49.9917
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9818,
+      7.4226,
+      50.0125,
+      7.4585
+    ]
+  },
+  {
+    "id": "birkheim",
+    "name": "Birkheim",
+    "shortName": "BIR",
+    "serviceId": "rhe",
+    "cityId": "18",
+    "center": [
+      7.6223,
+      50.1168
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1037,
+      7.6007,
+      50.1207,
+      7.6383
+    ]
+  },
+  {
+    "id": "boppard",
+    "name": "Boppard",
+    "shortName": "BOP",
+    "serviceId": "rhe",
+    "cityId": "19",
+    "center": [
+      7.5886,
+      50.2313
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1568,
+      7.4591,
+      50.2656,
+      7.6657
+    ]
+  },
+  {
+    "id": "braunshorn",
+    "name": "Braunshorn",
+    "shortName": "BRA",
+    "serviceId": "rhe",
+    "cityId": "20",
+    "center": [
+      7.5177,
+      50.0909
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0661,
+      7.5083,
+      50.1013,
+      7.5493
+    ]
+  },
+  {
+    "id": "bubach",
+    "name": "Bubach",
+    "shortName": "BUB",
+    "serviceId": "rhe",
+    "cityId": "21",
+    "center": [
+      7.5559,
+      50.0714
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0588,
+      7.5285,
+      50.0865,
+      7.58
+    ]
+  },
+  {
+    "id": "buch",
+    "name": "Buch",
+    "shortName": "BUC",
+    "serviceId": "rhe",
+    "cityId": "22",
+    "center": [
+      7.3898,
+      50.0764
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0602,
+      7.3553,
+      50.1015,
+      7.4312
+    ]
+  },
+  {
+    "id": "buechenbeuren",
+    "name": "Büchenbeuren",
+    "shortName": "BUEC",
+    "serviceId": "rhe",
+    "cityId": "23",
+    "center": [
+      7.2758,
+      49.9199
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9128,
+      7.2384,
+      49.9369,
+      7.2954
+    ]
+  },
+  {
+    "id": "budenbach",
+    "name": "Budenbach",
+    "shortName": "BUD",
+    "serviceId": "rhe",
+    "cityId": "24",
+    "center": [
+      7.5681,
+      50.037
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0295,
+      7.54,
+      50.0512,
+      7.5851
+    ]
+  },
+  {
+    "id": "damscheid",
+    "name": "Damscheid",
+    "shortName": "DAM",
+    "serviceId": "rhe",
+    "cityId": "25",
+    "center": [
+      7.6826,
+      50.1016
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0826,
+      7.5976,
+      50.117,
+      7.7154
+    ]
+  },
+  {
+    "id": "dichtelbach",
+    "name": "Dichtelbach",
+    "shortName": "DIC",
+    "serviceId": "rhe",
+    "cityId": "26",
+    "center": [
+      7.6951,
+      50.0091
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9969,
+      7.6799,
+      50.024,
+      7.7347
+    ]
+  },
+  {
+    "id": "dickenschied",
+    "name": "Dickenschied",
+    "shortName": "DIC",
+    "serviceId": "rhe",
+    "cityId": "27",
+    "center": [
+      7.4191,
+      49.9006
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8876,
+      7.3944,
+      49.9177,
+      7.4501
+    ]
+  },
+  {
+    "id": "dill",
+    "name": "Dill",
+    "shortName": "DIL",
+    "serviceId": "rhe",
+    "cityId": "28",
+    "center": [
+      7.3466,
+      49.9167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9017,
+      7.3071,
+      49.9278,
+      7.3666
+    ]
+  },
+  {
+    "id": "dillendorf",
+    "name": "Dillendorf",
+    "shortName": "DIL",
+    "serviceId": "rhe",
+    "cityId": "29",
+    "center": [
+      7.3832,
+      49.925
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9127,
+      7.3484,
+      49.9379,
+      7.4002
+    ]
+  },
+  {
+    "id": "dommershausen",
+    "name": "Dommershausen",
+    "shortName": "DOM",
+    "serviceId": "rhe",
+    "cityId": "30",
+    "center": [
+      7.4005,
+      50.1437
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0985,
+      7.3633,
+      50.175,
+      7.4522
+    ]
+  },
+  {
+    "id": "doerth",
+    "name": "Dörth",
+    "shortName": "DOER",
+    "serviceId": "rhe",
+    "cityId": "31",
+    "center": [
+      7.5903,
+      50.1492
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.142,
+      7.5648,
+      50.1746,
+      7.6031
+    ]
+  },
+  {
+    "id": "ellern",
+    "name": "Ellern",
+    "shortName": "ELL",
+    "serviceId": "rhe",
+    "cityId": "32",
+    "center": [
+      7.6414,
+      49.9862
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.954,
+      7.6205,
+      50.0029,
+      7.6701
+    ]
+  },
+  {
+    "id": "emmelshausen",
+    "name": "Emmelshausen",
+    "shortName": "EMM",
+    "serviceId": "rhe",
+    "cityId": "33",
+    "center": [
+      7.5558,
+      50.1558
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1387,
+      7.5103,
+      50.1797,
+      7.5654
+    ]
+  },
+  {
+    "id": "erbach",
+    "name": "Erbach",
+    "shortName": "ERB",
+    "serviceId": "rhe",
+    "cityId": "34",
+    "center": [
+      7.6816,
+      50.0261
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0181,
+      7.6649,
+      50.032,
+      7.695
+    ]
+  },
+  {
+    "id": "fronhofen",
+    "name": "Fronhofen",
+    "shortName": "FRO",
+    "serviceId": "rhe",
+    "cityId": "35",
+    "center": [
+      7.4654,
+      49.9917
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9802,
+      7.4463,
+      50.0089,
+      7.4827
+    ]
+  },
+  {
+    "id": "gehlweiler",
+    "name": "Gehlweiler",
+    "shortName": "GEH",
+    "serviceId": "rhe",
+    "cityId": "36",
+    "center": [
+      7.467,
+      49.883
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8661,
+      7.4505,
+      49.8922,
+      7.4995
+    ]
+  },
+  {
+    "id": "gemuenden",
+    "name": "Gemünden",
+    "shortName": "GEM",
+    "serviceId": "rhe",
+    "cityId": "37",
+    "center": [
+      7.4797,
+      49.8958
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.881,
+      7.4362,
+      49.913,
+      7.5224
+    ]
+  },
+  {
+    "id": "goedenroth",
+    "name": "Gödenroth",
+    "shortName": "GOED",
+    "serviceId": "rhe",
+    "cityId": "38",
+    "center": [
+      7.4877,
+      50.0873
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0673,
+      7.4685,
+      50.1006,
+      7.5154
+    ]
+  },
+  {
+    "id": "gondershausen",
+    "name": "Gondershausen",
+    "shortName": "GON",
+    "serviceId": "rhe",
+    "cityId": "39",
+    "center": [
+      7.4938,
+      50.1597
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1339,
+      7.4566,
+      50.1793,
+      7.5205
+    ]
+  },
+  {
+    "id": "hahn",
+    "name": "Hahn",
+    "shortName": "HAH",
+    "serviceId": "rhe",
+    "cityId": "40",
+    "center": [
+      7.2711,
+      49.9635
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9463,
+      7.2434,
+      49.9763,
+      7.2867
+    ]
+  },
+  {
+    "id": "halsenbach",
+    "name": "Halsenbach",
+    "shortName": "HAL",
+    "serviceId": "rhe",
+    "cityId": "41",
+    "center": [
+      7.5523,
+      50.1751
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1576,
+      7.5238,
+      50.1979,
+      7.595
+    ]
+  },
+  {
+    "id": "hasselbach",
+    "name": "Hasselbach",
+    "shortName": "HAS",
+    "serviceId": "rhe",
+    "cityId": "42",
+    "center": [
+      7.446,
+      50.0393
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0208,
+      7.418,
+      50.056,
+      7.4557
+    ]
+  },
+  {
+    "id": "hausbay",
+    "name": "Hausbay",
+    "shortName": "HAU",
+    "serviceId": "rhe",
+    "cityId": "43",
+    "center": [
+      7.5588,
+      50.1069
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0993,
+      7.5377,
+      50.1197,
+      7.5817
+    ]
+  },
+  {
+    "id": "hecken",
+    "name": "Hecken",
+    "shortName": "HEC",
+    "serviceId": "rhe",
+    "cityId": "44",
+    "center": [
+      7.3982,
+      49.9157
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9029,
+      7.3759,
+      49.9269,
+      7.4263
+    ]
+  },
+  {
+    "id": "heinzenbach",
+    "name": "Heinzenbach",
+    "shortName": "HEI",
+    "serviceId": "rhe",
+    "cityId": "45",
+    "center": [
+      7.4174,
+      49.9741
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9644,
+      7.3839,
+      49.986,
+      7.4305
+    ]
+  },
+  {
+    "id": "henau",
+    "name": "Henau",
+    "shortName": "HEN",
+    "serviceId": "rhe",
+    "cityId": "46",
+    "center": [
+      7.496,
+      49.8688
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8588,
+      7.4678,
+      49.8924,
+      7.535
+    ]
+  },
+  {
+    "id": "hirschfeld",
+    "name": "Hirschfeld",
+    "shortName": "HIR",
+    "serviceId": "rhe",
+    "cityId": "47",
+    "center": [
+      7.2416,
+      49.8972
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.885,
+      7.2119,
+      49.9118,
+      7.2538
+    ]
+  },
+  {
+    "id": "hollnich",
+    "name": "Hollnich",
+    "shortName": "HOL",
+    "serviceId": "rhe",
+    "cityId": "48",
+    "center": [
+      7.4877,
+      50.0728
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0637,
+      7.4724,
+      50.0808,
+      7.5044
+    ]
+  },
+  {
+    "id": "holzbach",
+    "name": "Holzbach",
+    "shortName": "HOL",
+    "serviceId": "rhe",
+    "cityId": "49",
+    "center": [
+      7.532,
+      49.9542
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9387,
+      7.5128,
+      49.9677,
+      7.5498
+    ]
+  },
+  {
+    "id": "horn",
+    "name": "Horn",
+    "shortName": "HOR",
+    "serviceId": "rhe",
+    "cityId": "50",
+    "center": [
+      7.5426,
+      50.0445
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0362,
+      7.5244,
+      50.0625,
+      7.5703
+    ]
+  },
+  {
+    "id": "hungenroth",
+    "name": "Hungenroth",
+    "shortName": "HUN",
+    "serviceId": "rhe",
+    "cityId": "51",
+    "center": [
+      7.5997,
+      50.1431
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1351,
+      7.5799,
+      50.1553,
+      7.6581
+    ]
+  },
+  {
+    "id": "kappel",
+    "name": "Kappel",
+    "shortName": "KAP",
+    "serviceId": "rhe",
+    "cityId": "52",
+    "center": [
+      7.3597,
+      49.9999
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9752,
+      7.3311,
+      50.0254,
+      7.3886
+    ]
+  },
+  {
+    "id": "karbach",
+    "name": "Karbach",
+    "shortName": "KAR",
+    "serviceId": "rhe",
+    "cityId": "53",
+    "center": [
+      7.6158,
+      50.1583
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1492,
+      7.5941,
+      50.1671,
+      7.6496
+    ]
+  },
+  {
+    "id": "kastellaun",
+    "name": "Kastellaun",
+    "shortName": "KAS",
+    "serviceId": "rhe",
+    "cityId": "54",
+    "center": [
+      7.4422,
+      50.0713
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0538,
+      7.4246,
+      50.0854,
+      7.4999
+    ]
+  },
+  {
+    "id": "keidelheim",
+    "name": "Keidelheim",
+    "shortName": "KEI",
+    "serviceId": "rhe",
+    "cityId": "55",
+    "center": [
+      7.4993,
+      49.9923
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9795,
+      7.4781,
+      49.9975,
+      7.5057
+    ]
+  },
+  {
+    "id": "kirchberg",
+    "name": "Kirchberg",
+    "shortName": "KIR",
+    "serviceId": "rhe",
+    "cityId": "56",
+    "center": [
+      7.4084,
+      49.9432
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9184,
+      7.3742,
+      49.9813,
+      7.4533
+    ]
+  },
+  {
+    "id": "kisselbach",
+    "name": "Kisselbach",
+    "shortName": "KIS",
+    "serviceId": "rhe",
+    "cityId": "57",
+    "center": [
+      7.6108,
+      50.0511
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0373,
+      7.585,
+      50.0725,
+      7.6375
+    ]
+  },
+  {
+    "id": "klosterkumbd",
+    "name": "Klosterkumbd",
+    "shortName": "KLO",
+    "serviceId": "rhe",
+    "cityId": "58",
+    "center": [
+      7.5344,
+      50.0278
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0193,
+      7.4863,
+      50.049,
+      7.5488
+    ]
+  },
+  {
+    "id": "kludenbach",
+    "name": "Kludenbach",
+    "shortName": "KLU",
+    "serviceId": "rhe",
+    "cityId": "59",
+    "center": [
+      7.3702,
+      49.9881
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9757,
+      7.3491,
+      49.9917,
+      7.386
+    ]
+  },
+  {
+    "id": "korweiler",
+    "name": "Korweiler",
+    "shortName": "KOR",
+    "serviceId": "rhe",
+    "cityId": "60",
+    "center": [
+      7.4155,
+      50.1074
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0963,
+      7.4037,
+      50.1188,
+      7.4251
+    ]
+  },
+  {
+    "id": "kratzenburg",
+    "name": "Kratzenburg",
+    "shortName": "KRA",
+    "serviceId": "rhe",
+    "cityId": "61",
+    "center": [
+      7.554,
+      50.1872
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.179,
+      7.5294,
+      50.2134,
+      7.579
+    ]
+  },
+  {
+    "id": "kuelz",
+    "name": "Külz",
+    "shortName": "KUEL",
+    "serviceId": "rhe",
+    "cityId": "62",
+    "center": [
+      7.4938,
+      50.0063
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.996,
+      7.4547,
+      50.0194,
+      7.5278
+    ]
+  },
+  {
+    "id": "kuembdchen",
+    "name": "Kümbdchen",
+    "shortName": "KUEM",
+    "serviceId": "rhe",
+    "cityId": "63",
+    "center": [
+      7.5088,
+      49.9921
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9839,
+      7.5019,
+      50.0085,
+      7.5355
+    ]
+  },
+  {
+    "id": "lahr",
+    "name": "Lahr",
+    "shortName": "LAH",
+    "serviceId": "rhe",
+    "cityId": "64",
+    "center": [
+      7.3657,
+      50.1254
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1115,
+      7.34,
+      50.1336,
+      7.3749
+    ]
+  },
+  {
+    "id": "laubach",
+    "name": "Laubach",
+    "shortName": "LAU",
+    "serviceId": "rhe",
+    "cityId": "65",
+    "center": [
+      7.5099,
+      50.0557
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0336,
+      7.4799,
+      50.072,
+      7.541
+    ]
+  },
+  {
+    "id": "laudert",
+    "name": "Laudert",
+    "shortName": "LAU",
+    "serviceId": "rhe",
+    "cityId": "66",
+    "center": [
+      7.6033,
+      50.0776
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0661,
+      7.5844,
+      50.0961,
+      7.6244
+    ]
+  },
+  {
+    "id": "laufersweiler",
+    "name": "Laufersweiler",
+    "shortName": "LAU",
+    "serviceId": "rhe",
+    "cityId": "67",
+    "center": [
+      7.3044,
+      49.8972
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.879,
+      7.2808,
+      49.9091,
+      7.331
+    ]
+  },
+  {
+    "id": "lautzenhausen",
+    "name": "Lautzenhausen",
+    "shortName": "LAU",
+    "serviceId": "rhe",
+    "cityId": "68",
+    "center": [
+      7.274,
+      49.9378
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9275,
+      7.249,
+      49.952,
+      7.2936
+    ]
+  },
+  {
+    "id": "leiningen",
+    "name": "Leiningen",
+    "shortName": "LEI",
+    "serviceId": "rhe",
+    "cityId": "69",
+    "center": [
+      7.5709,
+      50.132
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1214,
+      7.5461,
+      50.1534,
+      7.5941
+    ]
+  },
+  {
+    "id": "liebshausen",
+    "name": "Liebshausen",
+    "shortName": "LIE",
+    "serviceId": "rhe",
+    "cityId": "70",
+    "center": [
+      7.6295,
+      50.0327
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0249,
+      7.6098,
+      50.048,
+      7.6651
+    ]
+  },
+  {
+    "id": "lindenschied",
+    "name": "Lindenschied",
+    "shortName": "LIN",
+    "serviceId": "rhe",
+    "cityId": "71",
+    "center": [
+      7.3921,
+      49.9022
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8913,
+      7.3743,
+      49.9101,
+      7.4082
+    ]
+  },
+  {
+    "id": "lingerhahn",
+    "name": "Lingerhahn",
+    "shortName": "LIN",
+    "serviceId": "rhe",
+    "cityId": "72",
+    "center": [
+      7.5644,
+      50.094
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0791,
+      7.5386,
+      50.1042,
+      7.6066
+    ]
+  },
+  {
+    "id": "maisborn",
+    "name": "Maisborn",
+    "shortName": "MAI",
+    "serviceId": "rhe",
+    "cityId": "74",
+    "center": [
+      7.5813,
+      50.0819
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.074,
+      7.5673,
+      50.0894,
+      7.5917
+    ]
+  },
+  {
+    "id": "maitzborn",
+    "name": "Maitzborn",
+    "shortName": "MAI",
+    "serviceId": "rhe",
+    "cityId": "75",
+    "center": [
+      7.436,
+      49.9332
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9262,
+      7.4199,
+      49.944,
+      7.4593
+    ]
+  },
+  {
+    "id": "mastershausen",
+    "name": "Mastershausen",
+    "shortName": "MAS",
+    "serviceId": "rhe",
+    "cityId": "76",
+    "center": [
+      7.3548,
+      50.0645
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0239,
+      7.3146,
+      50.0827,
+      7.3774
+    ]
+  },
+  {
+    "id": "mengerschied",
+    "name": "Mengerschied",
+    "shortName": "MEN",
+    "serviceId": "rhe",
+    "cityId": "77",
+    "center": [
+      7.506,
+      49.9126
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8887,
+      7.4832,
+      49.9235,
+      7.5447
+    ]
+  },
+  {
+    "id": "mermuth",
+    "name": "Mermuth",
+    "shortName": "MER",
+    "serviceId": "rhe",
+    "cityId": "78",
+    "center": [
+      7.483,
+      50.1705
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.164,
+      7.4601,
+      50.1918,
+      7.5052
+    ]
+  },
+  {
+    "id": "metzenhausen",
+    "name": "Metzenhausen",
+    "shortName": "MET",
+    "serviceId": "rhe",
+    "cityId": "79",
+    "center": [
+      7.3621,
+      49.97
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9611,
+      7.3403,
+      49.9816,
+      7.3858
+    ]
+  },
+  {
+    "id": "michelbach",
+    "name": "Michelbach",
+    "shortName": "MIC",
+    "serviceId": "rhe",
+    "cityId": "80",
+    "center": [
+      7.4543,
+      50.0153
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0098,
+      7.4351,
+      50.024,
+      7.4764
+    ]
+  },
+  {
+    "id": "moerschbach",
+    "name": "Mörschbach",
+    "shortName": "MOER",
+    "serviceId": "rhe",
+    "cityId": "81",
+    "center": [
+      7.6235,
+      50.0103
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9919,
+      7.6032,
+      50.0266,
+      7.6392
+    ]
+  },
+  {
+    "id": "moersdorf",
+    "name": "Mörsdorf",
+    "shortName": "MOER",
+    "serviceId": "rhe",
+    "cityId": "82",
+    "center": [
+      7.3443,
+      50.1029
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0805,
+      7.2933,
+      50.135,
+      7.3784
+    ]
+  },
+  {
+    "id": "morshausen",
+    "name": "Morshausen",
+    "shortName": "MOR",
+    "serviceId": "rhe",
+    "cityId": "83",
+    "center": [
+      7.4406,
+      50.1921
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1791,
+      7.4134,
+      50.2154,
+      7.4629
+    ]
+  },
+  {
+    "id": "muehlpfad",
+    "name": "Mühlpfad",
+    "shortName": "MUEH",
+    "serviceId": "rhe",
+    "cityId": "84",
+    "center": [
+      7.5551,
+      50.1213
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1143,
+      7.5427,
+      50.1261,
+      7.5663
+    ]
+  },
+  {
+    "id": "mutterschied",
+    "name": "Mutterschied",
+    "shortName": "MUT",
+    "serviceId": "rhe",
+    "cityId": "85",
+    "center": [
+      7.5677,
+      49.9828
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9691,
+      7.552,
+      49.9911,
+      7.5822
+    ]
+  },
+  {
+    "id": "nannhausen",
+    "name": "Nannhausen",
+    "shortName": "NAN",
+    "serviceId": "rhe",
+    "cityId": "86",
+    "center": [
+      7.4787,
+      49.9749
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9561,
+      7.4517,
+      49.9879,
+      7.5039
+    ]
+  },
+  {
+    "id": "neuerkirch",
+    "name": "Neuerkirch",
+    "shortName": "NEU",
+    "serviceId": "rhe",
+    "cityId": "87",
+    "center": [
+      7.4907,
+      50.0139
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0088,
+      7.4688,
+      50.0309,
+      7.5188
+    ]
+  },
+  {
+    "id": "ney",
+    "name": "Ney",
+    "shortName": "NEY",
+    "serviceId": "rhe",
+    "cityId": "88",
+    "center": [
+      7.5366,
+      50.1839
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1724,
+      7.5023,
+      50.1985,
+      7.5502
+    ]
+  },
+  {
+    "id": "niederburg",
+    "name": "Niederburg",
+    "shortName": "NIE",
+    "serviceId": "rhe",
+    "cityId": "89",
+    "center": [
+      7.6947,
+      50.1178
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1036,
+      7.6377,
+      50.127,
+      7.7152
+    ]
+  },
+  {
+    "id": "niederkumbd",
+    "name": "Niederkumbd",
+    "shortName": "NIE",
+    "serviceId": "rhe",
+    "cityId": "91",
+    "center": [
+      7.5358,
+      50.0134
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0035,
+      7.5181,
+      50.023,
+      7.5465
+    ]
+  },
+  {
+    "id": "niedersohren",
+    "name": "Niedersohren",
+    "shortName": "NIE",
+    "serviceId": "rhe",
+    "cityId": "92",
+    "center": [
+      7.3321,
+      49.9291
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9131,
+      7.3154,
+      49.9417,
+      7.3537
+    ]
+  },
+  {
+    "id": "niedert",
+    "name": "Niedert",
+    "shortName": "NIE",
+    "serviceId": "rhe",
+    "cityId": "93",
+    "center": [
+      7.5424,
+      50.127
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1104,
+      7.5291,
+      50.1355,
+      7.5579
+    ]
+  },
+  {
+    "id": "niederweiler",
+    "name": "Niederweiler",
+    "shortName": "NIE",
+    "serviceId": "rhe",
+    "cityId": "94",
+    "center": [
+      7.284,
+      49.9095
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.896,
+      7.2581,
+      49.9193,
+      7.3132
+    ]
+  },
+  {
+    "id": "norath",
+    "name": "Norath",
+    "shortName": "NOR",
+    "serviceId": "rhe",
+    "cityId": "95",
+    "center": [
+      7.5777,
+      50.1246
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1169,
+      7.5628,
+      50.1362,
+      7.6057
+    ]
+  },
+  {
+    "id": "oberkostenz",
+    "name": "Oberkostenz",
+    "shortName": "OBE",
+    "serviceId": "rhe",
+    "cityId": "96",
+    "center": [
+      7.3444,
+      49.9536
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.953,
+      7.3434,
+      49.9541,
+      7.3454
+    ]
+  },
+  {
+    "id": "oberwesel",
+    "name": "Oberwesel",
+    "shortName": "OBE",
+    "serviceId": "rhe",
+    "cityId": "97",
+    "center": [
+      7.7266,
+      50.1075
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0671,
+      7.6744,
+      50.1337,
+      7.7653
+    ]
+  },
+  {
+    "id": "ohlweiler",
+    "name": "Ohlweiler",
+    "shortName": "OHL",
+    "serviceId": "rhe",
+    "cityId": "98",
+    "center": [
+      7.4981,
+      49.9652
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9487,
+      7.4731,
+      49.9748,
+      7.5201
+    ]
+  },
+  {
+    "id": "oppertshausen",
+    "name": "Oppertshausen",
+    "shortName": "OPP",
+    "serviceId": "rhe",
+    "cityId": "99",
+    "center": [
+      7.4729,
+      49.9474
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9405,
+      7.4566,
+      49.953,
+      7.4901
+    ]
+  },
+  {
+    "id": "perscheid",
+    "name": "Perscheid",
+    "shortName": "PER",
+    "serviceId": "rhe",
+    "cityId": "100",
+    "center": [
+      7.6994,
+      50.0715
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0332,
+      7.6337,
+      50.0951,
+      7.7176
+    ]
+  },
+  {
+    "id": "pfalzfeld",
+    "name": "Pfalzfeld",
+    "shortName": "PFA",
+    "serviceId": "rhe",
+    "cityId": "101",
+    "center": [
+      7.5788,
+      50.1132
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0971,
+      7.5603,
+      50.1246,
+      7.6038
+    ]
+  },
+  {
+    "id": "pleizenhausen",
+    "name": "Pleizenhausen",
+    "shortName": "PLE",
+    "serviceId": "rhe",
+    "cityId": "102",
+    "center": [
+      7.5679,
+      50.0159
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0049,
+      7.5437,
+      50.027,
+      7.5807
+    ]
+  },
+  {
+    "id": "ravengiersburg",
+    "name": "Ravengiersburg",
+    "shortName": "RAV",
+    "serviceId": "rhe",
+    "cityId": "103",
+    "center": [
+      7.4767,
+      49.9363
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9113,
+      7.457,
+      49.9439,
+      7.5395
+    ]
+  },
+  {
+    "id": "raversbeuren",
+    "name": "Raversbeuren",
+    "shortName": "RAV",
+    "serviceId": "rhe",
+    "cityId": "104",
+    "center": [
+      7.2275,
+      49.9561
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9415,
+      7.202,
+      49.9674,
+      7.2586
+    ]
+  },
+  {
+    "id": "rayerschied",
+    "name": "Rayerschied",
+    "shortName": "RAY",
+    "serviceId": "rhe",
+    "cityId": "105",
+    "center": [
+      7.5859,
+      50.0174
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0143,
+      7.5695,
+      50.0352,
+      7.5986
+    ]
+  },
+  {
+    "id": "reckershausen",
+    "name": "Reckershausen",
+    "shortName": "REC",
+    "serviceId": "rhe",
+    "cityId": "106",
+    "center": [
+      7.4017,
+      49.9825
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9728,
+      7.3819,
+      50.0196,
+      7.4208
+    ]
+  },
+  {
+    "id": "reich",
+    "name": "Reich",
+    "shortName": "REI",
+    "serviceId": "rhe",
+    "cityId": "107",
+    "center": [
+      7.4324,
+      50.0027
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9855,
+      7.4043,
+      50.0146,
+      7.4497
+    ]
+  },
+  {
+    "id": "rheinboellen",
+    "name": "Rheinböllen",
+    "shortName": "RHE",
+    "serviceId": "rhe",
+    "cityId": "108",
+    "center": [
+      7.6725,
+      50.0087
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9701,
+      7.6319,
+      50.032,
+      7.7058
+    ]
+  },
+  {
+    "id": "riegenroth",
+    "name": "Riegenroth",
+    "shortName": "RIE",
+    "serviceId": "rhe",
+    "cityId": "109",
+    "center": [
+      7.58,
+      50.0575
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0474,
+      7.5674,
+      50.0753,
+      7.5967
+    ]
+  },
+  {
+    "id": "riesweiler",
+    "name": "Riesweiler",
+    "shortName": "RIE",
+    "serviceId": "rhe",
+    "cityId": "110",
+    "center": [
+      7.5573,
+      49.9603
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9118,
+      7.539,
+      49.9718,
+      7.6187
+    ]
+  },
+  {
+    "id": "roedelhausen",
+    "name": "Rödelhausen",
+    "shortName": "ROED",
+    "serviceId": "rhe",
+    "cityId": "111",
+    "center": [
+      7.329,
+      49.994
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9754,
+      7.3172,
+      50.0038,
+      7.3448
+    ]
+  },
+  {
+    "id": "roedern",
+    "name": "Rödern",
+    "shortName": "ROED",
+    "serviceId": "rhe",
+    "cityId": "112",
+    "center": [
+      7.4482,
+      49.9465
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9375,
+      7.4293,
+      49.9561,
+      7.4631
+    ]
+  },
+  {
+    "id": "rohrbach",
+    "name": "Rohrbach",
+    "shortName": "ROH",
+    "serviceId": "rhe",
+    "cityId": "113",
+    "center": [
+      7.4209,
+      49.8875
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8778,
+      7.3944,
+      49.896,
+      7.4508
+    ]
+  },
+  {
+    "id": "roth",
+    "name": "Roth",
+    "shortName": "ROT",
+    "serviceId": "rhe",
+    "cityId": "114",
+    "center": [
+      7.4564,
+      50.0862
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0649,
+      7.4442,
+      50.0957,
+      7.4775
+    ]
+  },
+  {
+    "id": "sargenroth",
+    "name": "Sargenroth",
+    "shortName": "SAR",
+    "serviceId": "rhe",
+    "cityId": "115",
+    "center": [
+      7.5145,
+      49.9307
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.895,
+      7.4981,
+      49.9438,
+      7.5863
+    ]
+  },
+  {
+    "id": "schlierschied",
+    "name": "Schlierschied",
+    "shortName": "SCH",
+    "serviceId": "rhe",
+    "cityId": "116",
+    "center": [
+      7.4417,
+      49.8752
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8453,
+      7.4193,
+      49.8885,
+      7.4692
+    ]
+  },
+  {
+    "id": "schnorbach",
+    "name": "Schnorbach",
+    "shortName": "SCH",
+    "serviceId": "rhe",
+    "cityId": "117",
+    "center": [
+      7.609,
+      49.9911
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9803,
+      7.5742,
+      50.0009,
+      7.6249
+    ]
+  },
+  {
+    "id": "schoenborn",
+    "name": "Schönborn",
+    "shortName": "SCH",
+    "serviceId": "rhe",
+    "cityId": "118",
+    "center": [
+      7.4743,
+      49.9565
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9459,
+      7.4534,
+      49.9669,
+      7.4974
+    ]
+  },
+  {
+    "id": "schwall",
+    "name": "Schwall",
+    "shortName": "SCH",
+    "serviceId": "rhe",
+    "cityId": "119",
+    "center": [
+      7.5557,
+      50.1456
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1333,
+      7.5387,
+      50.1533,
+      7.5667
+    ]
+  },
+  {
+    "id": "schwarzen",
+    "name": "Schwarzen",
+    "shortName": "SCH",
+    "serviceId": "rhe",
+    "cityId": "120",
+    "center": [
+      7.331,
+      49.9604
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.954,
+      7.3089,
+      49.9772,
+      7.3499
+    ]
+  },
+  {
+    "id": "simmern",
+    "name": "Simmern",
+    "shortName": "SIM",
+    "serviceId": "rhe",
+    "cityId": "121",
+    "center": [
+      7.5228,
+      49.9837
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9613,
+      7.5013,
+      50.0104,
+      7.566
+    ]
+  },
+  {
+    "id": "sohren",
+    "name": "Sohren",
+    "shortName": "SOH",
+    "serviceId": "rhe",
+    "cityId": "122",
+    "center": [
+      7.3082,
+      49.9311
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9121,
+      7.2808,
+      49.9547,
+      7.3377
+    ]
+  },
+  {
+    "id": "sohrschied",
+    "name": "Sohrschied",
+    "shortName": "SOH",
+    "serviceId": "rhe",
+    "cityId": "123",
+    "center": [
+      7.3583,
+      49.9033
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8958,
+      7.3303,
+      49.9142,
+      7.3811
+    ]
+  },
+  {
+    "id": "spesenroth",
+    "name": "Spesenroth",
+    "shortName": "SPE",
+    "serviceId": "rhe",
+    "cityId": "124",
+    "center": [
+      7.4603,
+      50.0494
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0404,
+      7.4488,
+      50.0587,
+      7.4853
+    ]
+  },
+  {
+    "id": "st-goar",
+    "name": "St. Goar",
+    "shortName": "SG",
+    "serviceId": "rhe",
+    "cityId": "125",
+    "center": [
+      7.7167,
+      50.15
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1188,
+      7.6357,
+      50.1718,
+      7.7263
+    ]
+  },
+  {
+    "id": "steinbach",
+    "name": "Steinbach",
+    "shortName": "STE",
+    "serviceId": "rhe",
+    "cityId": "126",
+    "center": [
+      7.5939,
+      50.0437
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0342,
+      7.5726,
+      50.0505,
+      7.6102
+    ]
+  },
+  {
+    "id": "thoerlingen",
+    "name": "Thörlingen",
+    "shortName": "THOE",
+    "serviceId": "rhe",
+    "cityId": "127",
+    "center": [
+      7.5328,
+      50.1346
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1268,
+      7.5072,
+      50.1416,
+      7.5433
+    ]
+  },
+  {
+    "id": "tiefenbach",
+    "name": "Tiefenbach",
+    "shortName": "TIE",
+    "serviceId": "rhe",
+    "cityId": "128",
+    "center": [
+      7.544,
+      49.9377
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9229,
+      7.5247,
+      49.9482,
+      7.5666
+    ]
+  },
+  {
+    "id": "todenroth",
+    "name": "Todenroth",
+    "shortName": "TOD",
+    "serviceId": "rhe",
+    "cityId": "129",
+    "center": [
+      7.3553,
+      49.9762
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9679,
+      7.344,
+      49.9865,
+      7.366
+    ]
+  },
+  {
+    "id": "uhler",
+    "name": "Uhler",
+    "shortName": "UHL",
+    "serviceId": "rhe",
+    "cityId": "130",
+    "center": [
+      7.4322,
+      50.088
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0769,
+      7.4016,
+      50.1009,
+      7.4478
+    ]
+  },
+  {
+    "id": "unzenberg",
+    "name": "Unzenberg",
+    "shortName": "UNZ",
+    "serviceId": "rhe",
+    "cityId": "131",
+    "center": [
+      7.44,
+      49.9695
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9554,
+      7.4223,
+      49.9854,
+      7.458
+    ]
+  },
+  {
+    "id": "urbar",
+    "name": "Urbar",
+    "shortName": "URB",
+    "serviceId": "rhe",
+    "cityId": "132",
+    "center": [
+      7.7197,
+      50.1309
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1184,
+      7.6884,
+      50.1389,
+      7.7375
+    ]
+  },
+  {
+    "id": "utzenhain",
+    "name": "Utzenhain",
+    "shortName": "UTZ",
+    "serviceId": "rhe",
+    "cityId": "133",
+    "center": [
+      7.6397,
+      50.1316
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1259,
+      7.601,
+      50.1414,
+      7.6517
+    ]
+  },
+  {
+    "id": "wahlbach",
+    "name": "Wahlbach",
+    "shortName": "WAH",
+    "serviceId": "rhe",
+    "cityId": "134",
+    "center": [
+      7.5957,
+      50.0003
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9934,
+      7.5775,
+      50.0173,
+      7.6107
+    ]
+  },
+  {
+    "id": "wahlenau",
+    "name": "Wahlenau",
+    "shortName": "WAH",
+    "serviceId": "rhe",
+    "cityId": "135",
+    "center": [
+      7.2507,
+      49.9042
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8904,
+      7.2238,
+      49.9212,
+      7.2718
+    ]
+  },
+  {
+    "id": "wiebelsheim",
+    "name": "Wiebelsheim",
+    "shortName": "WIE",
+    "serviceId": "rhe",
+    "cityId": "136",
+    "center": [
+      7.6358,
+      50.0762
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0645,
+      7.6171,
+      50.0924,
+      7.6661
+    ]
+  },
+  {
+    "id": "womrath",
+    "name": "Womrath",
+    "shortName": "WOM",
+    "serviceId": "rhe",
+    "cityId": "137",
+    "center": [
+      7.449,
+      49.9182
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9036,
+      7.4233,
+      49.934,
+      7.4839
+    ]
+  },
+  {
+    "id": "woppenroth",
+    "name": "Woppenroth",
+    "shortName": "WOP",
+    "serviceId": "rhe",
+    "cityId": "138",
+    "center": [
+      7.4135,
+      49.874
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8406,
+      7.3863,
+      49.888,
+      7.4372
+    ]
+  },
+  {
+    "id": "wuerrich",
+    "name": "Würrich",
+    "shortName": "WUER",
+    "serviceId": "rhe",
+    "cityId": "139",
+    "center": [
+      7.3031,
+      49.977
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9593,
+      7.2838,
+      49.9864,
+      7.315
+    ]
+  },
+  {
+    "id": "wueschheim",
+    "name": "Wüschheim",
+    "shortName": "WUES",
+    "serviceId": "rhe",
+    "cityId": "140",
+    "center": [
+      7.4215,
+      50.0119
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.006,
+      7.3793,
+      50.0212,
+      7.446
+    ]
+  },
+  {
+    "id": "zilshausen",
+    "name": "Zilshausen",
+    "shortName": "ZIL",
+    "serviceId": "rhe",
+    "cityId": "141",
+    "center": [
+      7.3832,
+      50.1134
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.0989,
+      7.3651,
+      50.1337,
+      7.4043
+    ]
+  },
+  {
+    "id": "angermuende",
+    "name": "Angermünde",
+    "shortName": "ANG",
+    "serviceId": "udg",
+    "cityId": "71257",
+    "center": [
+      13.9982,
+      53.0173
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9316,
+      13.7865,
+      53.1595,
+      14.1469
+    ]
+  },
+  {
+    "id": "angermuende-gellmersdorf",
+    "name": "Angermünde - Gellmersdorf",
+    "shortName": "AG",
+    "serviceId": "udg",
+    "cityId": "71066",
+    "center": [
+      14.07,
+      52.9678
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9677,
+      14.07,
+      52.9678,
+      14.0701
+    ]
+  },
+  {
+    "id": "angermuende-goerlsdorf",
+    "name": "Angermünde - Görlsdorf",
+    "shortName": "AG",
+    "serviceId": "udg",
+    "cityId": "71067",
+    "center": [
+      13.9463,
+      53.054
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.054,
+      13.9463,
+      53.0541,
+      13.9464
+    ]
+  },
+  {
+    "id": "angermuende-herzsprung",
+    "name": "Angermünde - Herzsprung",
+    "shortName": "AH",
+    "serviceId": "udg",
+    "cityId": "71062",
+    "center": [
+      14.0106,
+      52.9985
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9985,
+      14.0106,
+      52.9986,
+      14.0107
+    ]
+  },
+  {
+    "id": "angermuende-kerkow",
+    "name": "Angermünde - Kerkow",
+    "shortName": "AK",
+    "serviceId": "udg",
+    "cityId": "71063",
+    "center": [
+      13.9675,
+      53.0359
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0359,
+      13.9674,
+      53.036,
+      13.9675
+    ]
+  },
+  {
+    "id": "angermuende-neuhof",
+    "name": "Angermünde - Neuhof",
+    "shortName": "AN",
+    "serviceId": "udg",
+    "cityId": "71073",
+    "center": [
+      14.0824,
+      53.0303
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0303,
+      14.0824,
+      53.0304,
+      14.0825
+    ]
+  },
+  {
+    "id": "angermuende-neukuenkendorf",
+    "name": "Angermünde - Neukünkendorf",
+    "shortName": "AN",
+    "serviceId": "udg",
+    "cityId": "71074",
+    "center": [
+      14.0266,
+      53.0002
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9991,
+      14.025,
+      53.0013,
+      14.0289
+    ]
+  },
+  {
+    "id": "angermuende-steinhoefel",
+    "name": "Angermünde - Steinhöfel",
+    "shortName": "AS",
+    "serviceId": "udg",
+    "cityId": "71077",
+    "center": [
+      13.8768,
+      53.0939
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0938,
+      13.8767,
+      53.0939,
+      13.8768
+    ]
+  },
+  {
+    "id": "angermuende-sternfelde",
+    "name": "Angermünde - Sternfelde",
+    "shortName": "AS",
+    "serviceId": "udg",
+    "cityId": "71078",
+    "center": [
+      13.9803,
+      52.9958
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9946,
+      13.9788,
+      52.9969,
+      13.9816
+    ]
+  },
+  {
+    "id": "angermuende-stolpe",
+    "name": "Angermünde - Stolpe",
+    "shortName": "AS",
+    "serviceId": "udg",
+    "cityId": "71079",
+    "center": [
+      14.1134,
+      52.9784
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9783,
+      14.1133,
+      52.9784,
+      14.1134
+    ]
+  },
+  {
+    "id": "angermuende-wilmersdorf",
+    "name": "Angermünde - Wilmersdorf",
+    "shortName": "AW",
+    "serviceId": "udg",
+    "cityId": "71081",
+    "center": [
+      13.8921,
+      53.1122
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1072,
+      13.8871,
+      53.1172,
+      13.8971
+    ]
+  },
+  {
+    "id": "angermuende-wolletz",
+    "name": "Angermünde - Wolletz",
+    "shortName": "AW",
+    "serviceId": "udg",
+    "cityId": "71082",
+    "center": [
+      13.9056,
+      53.026
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.026,
+      13.9056,
+      53.0261,
+      13.9057
+    ]
+  },
+  {
+    "id": "angermuende-zuchenberg",
+    "name": "Angermünde - Zuchenberg",
+    "shortName": "AZ",
+    "serviceId": "udg",
+    "cityId": "71083",
+    "center": [
+      13.9384,
+      52.9976
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.996,
+      13.9351,
+      52.9993,
+      13.9401
+    ]
+  },
+  {
+    "id": "boitzenburger-land-boitzenburg",
+    "name": "Boitzenburger Land - Boitzenburg",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71087",
+    "center": [
+      13.6163,
+      53.2659
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2658,
+      13.6163,
+      53.2659,
+      13.6164
+    ]
+  },
+  {
+    "id": "bruessow",
+    "name": "Brüssow",
+    "shortName": "BRUE",
+    "serviceId": "udg",
+    "cityId": "71096",
+    "center": [
+      14.1267,
+      53.3995
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3219,
+      14.051,
+      53.4417,
+      14.2438
+    ]
+  },
+  {
+    "id": "carmzow-wallmow",
+    "name": "Carmzow-Wallmow",
+    "shortName": "CW",
+    "serviceId": "udg",
+    "cityId": "71097",
+    "center": [
+      14.0619,
+      53.3674
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3254,
+      13.9984,
+      53.4089,
+      14.1101
+    ]
+  },
+  {
+    "id": "casekow",
+    "name": "Casekow",
+    "shortName": "CAS",
+    "serviceId": "udg",
+    "cityId": "71098",
+    "center": [
+      14.2086,
+      53.211
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1637,
+      14.092,
+      53.2678,
+      14.2876
+    ]
+  },
+  {
+    "id": "casekow-biesendahlshof",
+    "name": "Casekow - Biesendahlshof",
+    "shortName": "CB",
+    "serviceId": "udg",
+    "cityId": "71099",
+    "center": [
+      14.2075,
+      53.2099
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2098,
+      14.2075,
+      53.2099,
+      14.2076
+    ]
+  },
+  {
+    "id": "casekow-wartin",
+    "name": "Casekow - Wartin",
+    "shortName": "CW",
+    "serviceId": "udg",
+    "cityId": "71103",
+    "center": [
+      14.171,
+      53.2579
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2544,
+      14.1623,
+      53.2602,
+      14.1801
+    ]
+  },
+  {
+    "id": "flieth-stegelitz-flieth",
+    "name": "Flieth-Stegelitz - Flieth",
+    "shortName": "FS",
+    "serviceId": "udg",
+    "cityId": "71106",
+    "center": [
+      13.8294,
+      53.1392
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0919,
+      13.7636,
+      53.1802,
+      13.913
+    ]
+  },
+  {
+    "id": "flieth-stegelitz-stegelitz",
+    "name": "Flieth-Stegelitz - Stegelitz",
+    "shortName": "FS",
+    "serviceId": "udg",
+    "cityId": "71107",
+    "center": [
+      13.8294,
+      53.1392
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0919,
+      13.7636,
+      53.1802,
+      13.913
+    ]
+  },
+  {
+    "id": "gartz-oder",
+    "name": "Gartz (Oder)",
+    "shortName": "G(",
+    "serviceId": "udg",
+    "cityId": "71108",
+    "center": [
+      14.3914,
+      53.2086
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1258,
+      14.2811,
+      53.2683,
+      14.4255
+    ]
+  },
+  {
+    "id": "gartz-oder-geesow",
+    "name": "Gartz (Oder) - Geesow",
+    "shortName": "G(",
+    "serviceId": "udg",
+    "cityId": "71110",
+    "center": [
+      14.3962,
+      53.2254
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2253,
+      14.3961,
+      53.2254,
+      14.3962
+    ]
+  },
+  {
+    "id": "gerswalde",
+    "name": "Gerswalde",
+    "shortName": "GER",
+    "serviceId": "udg",
+    "cityId": "71112",
+    "center": [
+      13.7081,
+      53.1602
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0898,
+      13.6504,
+      53.2305,
+      13.8537
+    ]
+  },
+  {
+    "id": "goeritz",
+    "name": "Göritz",
+    "shortName": "GOER",
+    "serviceId": "udg",
+    "cityId": "71113",
+    "center": [
+      13.9129,
+      53.4096
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3736,
+      13.8641,
+      53.4318,
+      13.977
+    ]
+  },
+  {
+    "id": "gramzow",
+    "name": "Gramzow",
+    "shortName": "GRA",
+    "serviceId": "udg",
+    "cityId": "71114",
+    "center": [
+      13.9944,
+      53.2043
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.143,
+      13.9214,
+      53.2649,
+      14.0979
+    ]
+  },
+  {
+    "id": "gruenow",
+    "name": "Grünow",
+    "shortName": "GRUE",
+    "serviceId": "udg",
+    "cityId": "71119",
+    "center": [
+      13.9754,
+      53.31
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2785,
+      13.9207,
+      53.3411,
+      14.0341
+    ]
+  },
+  {
+    "id": "hohenselchow-gross-pinnow",
+    "name": "Hohenselchow-Groß Pinnow",
+    "shortName": "HG",
+    "serviceId": "udg",
+    "cityId": "71123",
+    "center": [
+      14.2873,
+      53.1905
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1465,
+      14.2299,
+      53.2339,
+      14.3454
+    ]
+  },
+  {
+    "id": "hohenselchow-gross-pinnow-gross-pinnow",
+    "name": "Hohenselchow-Groß Pinnow - Groß Pinnow",
+    "shortName": "HG",
+    "serviceId": "udg",
+    "cityId": "71124",
+    "center": [
+      14.2806,
+      53.2037
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1609,
+      14.2299,
+      53.2339,
+      14.3454
+    ]
+  },
+  {
+    "id": "hohenselchow-gross-pinnow-hohenselchow",
+    "name": "Hohenselchow-Groß Pinnow - Hohenselchow",
+    "shortName": "HG",
+    "serviceId": "udg",
+    "cityId": "71126",
+    "center": [
+      14.2773,
+      53.2078
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2077,
+      14.2773,
+      53.2078,
+      14.2774
+    ]
+  },
+  {
+    "id": "lychen",
+    "name": "Lychen",
+    "shortName": "LYC",
+    "serviceId": "udg",
+    "cityId": "71127",
+    "center": [
+      13.3165,
+      53.2083
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1101,
+      13.2398,
+      53.2811,
+      13.4297
+    ]
+  },
+  {
+    "id": "lychen-retzow",
+    "name": "Lychen - Retzow",
+    "shortName": "LR",
+    "serviceId": "udg",
+    "cityId": "71129",
+    "center": [
+      13.2766,
+      53.2109
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2108,
+      13.2765,
+      53.2109,
+      13.2766
+    ]
+  },
+  {
+    "id": "lychen-retzow-kastaven",
+    "name": "Lychen - Retzow (Kastaven)",
+    "shortName": "LR",
+    "serviceId": "udg",
+    "cityId": "71130",
+    "center": [
+      13.2766,
+      53.2109
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2108,
+      13.2765,
+      53.2109,
+      13.2766
+    ]
+  },
+  {
+    "id": "mescherin",
+    "name": "Mescherin",
+    "shortName": "MES",
+    "serviceId": "udg",
+    "cityId": "71135",
+    "center": [
+      14.4051,
+      53.2807
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.234,
+      14.3092,
+      53.3301,
+      14.4506
+    ]
+  },
+  {
+    "id": "mescherin-neurochlitz",
+    "name": "Mescherin - Neurochlitz",
+    "shortName": "MN",
+    "serviceId": "udg",
+    "cityId": "71136",
+    "center": [
+      14.4351,
+      53.2604
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2599,
+      14.4341,
+      53.261,
+      14.436
+    ]
+  },
+  {
+    "id": "mescherin-staffelde",
+    "name": "Mescherin - Staffelde",
+    "shortName": "MS",
+    "serviceId": "udg",
+    "cityId": "71139",
+    "center": [
+      14.4351,
+      53.2604
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2599,
+      14.4341,
+      53.261,
+      14.436
+    ]
+  },
+  {
+    "id": "milmersdorf",
+    "name": "Milmersdorf",
+    "shortName": "MIL",
+    "serviceId": "udg",
+    "cityId": "71140",
+    "center": [
+      13.6311,
+      53.1024
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0587,
+      13.5659,
+      53.1462,
+      13.782
+    ]
+  },
+  {
+    "id": "mittenwalde",
+    "name": "Mittenwalde",
+    "shortName": "MIT",
+    "serviceId": "udg",
+    "cityId": "71141",
+    "center": [
+      13.6636,
+      53.1849
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.162,
+      13.6232,
+      53.2151,
+      13.7364
+    ]
+  },
+  {
+    "id": "nordwestuckermark-schoenermark",
+    "name": "Nordwestuckermark - Schönermark",
+    "shortName": "NS",
+    "serviceId": "udg",
+    "cityId": "71168",
+    "center": [
+      13.7081,
+      53.3328
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3327,
+      13.7081,
+      53.3328,
+      13.7082
+    ]
+  },
+  {
+    "id": "nordwestuckermark-wilhelmshof",
+    "name": "Nordwestuckermark - Wilhelmshof",
+    "shortName": "NW",
+    "serviceId": "udg",
+    "cityId": "71174",
+    "center": [
+      13.7081,
+      53.3328
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3327,
+      13.7081,
+      53.3328,
+      13.7082
+    ]
+  },
+  {
+    "id": "oberuckersee-seehausen",
+    "name": "Oberuckersee - Seehausen",
+    "shortName": "OS",
+    "serviceId": "udg",
+    "cityId": "71180",
+    "center": [
+      13.8646,
+      53.2322
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1388,
+      13.7896,
+      53.2489,
+      13.9677
+    ]
+  },
+  {
+    "id": "oberuckersee-warnitz",
+    "name": "Oberuckersee - Warnitz",
+    "shortName": "OW",
+    "serviceId": "udg",
+    "cityId": "71182",
+    "center": [
+      13.8723,
+      53.1776
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1762,
+      13.8703,
+      53.1789,
+      13.8738
+    ]
+  },
+  {
+    "id": "oberuckersee-warnitz-melzow",
+    "name": "Oberuckersee - Warnitz - Melzow",
+    "shortName": "OW",
+    "serviceId": "udg",
+    "cityId": "71184",
+    "center": [
+      13.8723,
+      53.1776
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1762,
+      13.8703,
+      53.1789,
+      13.8738
+    ]
+  },
+  {
+    "id": "pinnow",
+    "name": "Pinnow",
+    "shortName": "PIN",
+    "serviceId": "udg",
+    "cityId": "71190",
+    "center": [
+      14.0855,
+      53.0604
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0389,
+      14.0666,
+      53.0811,
+      14.1348
+    ]
+  },
+  {
+    "id": "prenzlau",
+    "name": "Prenzlau",
+    "shortName": "PRE",
+    "serviceId": "udg",
+    "cityId": "71191",
+    "center": [
+      13.8666,
+      53.3167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2414,
+      13.7554,
+      53.4014,
+      13.9626
+    ]
+  },
+  {
+    "id": "prenzlau-alexanderhof",
+    "name": "Prenzlau - Alexanderhof",
+    "shortName": "PA",
+    "serviceId": "udg",
+    "cityId": "71192",
+    "center": [
+      13.912,
+      53.2978
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2977,
+      13.9119,
+      53.2978,
+      13.912
+    ]
+  },
+  {
+    "id": "prenzlau-blindow",
+    "name": "Prenzlau - Blindow",
+    "shortName": "PB",
+    "serviceId": "udg",
+    "cityId": "71194",
+    "center": [
+      13.8683,
+      53.3426
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3426,
+      13.8682,
+      53.3427,
+      13.8683
+    ]
+  },
+  {
+    "id": "prenzlau-guestow",
+    "name": "Prenzlau - Güstow",
+    "shortName": "PG",
+    "serviceId": "udg",
+    "cityId": "71197",
+    "center": [
+      13.8153,
+      53.3137
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3135,
+      13.8143,
+      53.3139,
+      13.8163
+    ]
+  },
+  {
+    "id": "prenzlau-muehlhof",
+    "name": "Prenzlau - Mühlhof",
+    "shortName": "PM",
+    "serviceId": "udg",
+    "cityId": "71199",
+    "center": [
+      13.8207,
+      53.308
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.308,
+      13.8207,
+      53.3081,
+      13.8208
+    ]
+  },
+  {
+    "id": "prenzlau-seeluebbe",
+    "name": "Prenzlau - Seelübbe",
+    "shortName": "PS",
+    "serviceId": "udg",
+    "cityId": "71201",
+    "center": [
+      13.9054,
+      53.2678
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2676,
+      13.905,
+      53.2681,
+      13.9059
+    ]
+  },
+  {
+    "id": "schenkenberg",
+    "name": "Schenkenberg",
+    "shortName": "SCH",
+    "serviceId": "udg",
+    "cityId": "71205",
+    "center": [
+      13.9599,
+      53.3576
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3266,
+      13.8977,
+      53.3894,
+      14.0425
+    ]
+  },
+  {
+    "id": "schoenfeld",
+    "name": "Schönfeld",
+    "shortName": "SCH",
+    "serviceId": "udg",
+    "cityId": "71212",
+    "center": [
+      13.9844,
+      53.4141
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3718,
+      13.9591,
+      53.4349,
+      14.0537
+    ]
+  },
+  {
+    "id": "schwedt-oder",
+    "name": "Schwedt-Oder",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71213",
+    "center": [
+      14.2841,
+      53.0586
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9614,
+      14.025,
+      53.1974,
+      14.3823
+    ]
+  },
+  {
+    "id": "schwedt-oder-berkholz",
+    "name": "Schwedt-Oder - Berkholz",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71265",
+    "center": [
+      14.2002,
+      53.0681
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0638,
+      14.1953,
+      53.0715,
+      14.2057
+    ]
+  },
+  {
+    "id": "schwedt-oder-gatow",
+    "name": "Schwedt-Oder - Gatow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71216",
+    "center": [
+      14.3328,
+      53.1018
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0996,
+      14.3239,
+      53.1041,
+      14.3348
+    ]
+  },
+  {
+    "id": "schwedt-oder-heinersdorf",
+    "name": "Schwedt-Oder - Heinersdorf",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71217",
+    "center": [
+      14.2372,
+      53.0953
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0785,
+      14.2076,
+      53.1122,
+      14.2671
+    ]
+  },
+  {
+    "id": "schwedt-oder-landin",
+    "name": "Schwedt-Oder - Landin",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71260",
+    "center": [
+      14.2841,
+      53.0586
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9614,
+      14.025,
+      53.1974,
+      14.3823
+    ]
+  },
+  {
+    "id": "schwedt-oder-meyenburg",
+    "name": "Schwedt-Oder - Meyenburg",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71261",
+    "center": [
+      14.2604,
+      53.0487
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0479,
+      14.2597,
+      53.0495,
+      14.261
+    ]
+  },
+  {
+    "id": "tantow",
+    "name": "Tantow",
+    "shortName": "TAN",
+    "serviceId": "udg",
+    "cityId": "71224",
+    "center": [
+      14.3249,
+      53.2676
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.236,
+      14.2615,
+      53.2995,
+      14.3908
+    ]
+  },
+  {
+    "id": "tantow-schoenfeld",
+    "name": "Tantow - Schönfeld",
+    "shortName": "TS",
+    "serviceId": "udg",
+    "cityId": "71226",
+    "center": [
+      14.291,
+      53.2757
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2757,
+      14.291,
+      53.2758,
+      14.2911
+    ]
+  },
+  {
+    "id": "temmen-ringenwalde-ringenwalde",
+    "name": "Temmen-Ringenwalde - Ringenwalde",
+    "shortName": "TR",
+    "serviceId": "udg",
+    "cityId": "71227",
+    "center": [
+      13.7526,
+      53.0636
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0011,
+      13.6224,
+      53.1131,
+      13.8209
+    ]
+  },
+  {
+    "id": "temmen-ringenwalde-temmen",
+    "name": "Temmen-Ringenwalde - Temmen",
+    "shortName": "TR",
+    "serviceId": "udg",
+    "cityId": "71228",
+    "center": [
+      13.7526,
+      53.0636
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0011,
+      13.6224,
+      53.1131,
+      13.8209
+    ]
+  },
+  {
+    "id": "templin",
+    "name": "Templin",
+    "shortName": "TEM",
+    "serviceId": "udg",
+    "cityId": "71229",
+    "center": [
+      13.5006,
+      53.1193
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.987,
+      13.3223,
+      53.217,
+      13.6717
+    ]
+  },
+  {
+    "id": "templin-ahrensdorf",
+    "name": "Templin - Ahrensdorf",
+    "shortName": "TA",
+    "serviceId": "udg",
+    "cityId": "71230",
+    "center": [
+      13.5761,
+      53.1123
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1122,
+      13.5761,
+      53.1123,
+      13.5762
+    ]
+  },
+  {
+    "id": "templin-gollin",
+    "name": "Templin - Gollin",
+    "shortName": "TG",
+    "serviceId": "udg",
+    "cityId": "71234",
+    "center": [
+      13.6033,
+      53.0472
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0472,
+      13.6033,
+      53.0473,
+      13.6034
+    ]
+  },
+  {
+    "id": "templin-herzfelde",
+    "name": "Templin - Herzfelde",
+    "shortName": "TH",
+    "serviceId": "udg",
+    "cityId": "71238",
+    "center": [
+      13.6045,
+      53.1976
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1975,
+      13.6043,
+      53.1977,
+      13.6046
+    ]
+  },
+  {
+    "id": "templin-hindenburg",
+    "name": "Templin - Hindenburg",
+    "shortName": "TH",
+    "serviceId": "udg",
+    "cityId": "71239",
+    "center": [
+      13.4513,
+      53.0946
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0938,
+      13.4484,
+      53.0956,
+      13.4543
+    ]
+  },
+  {
+    "id": "templin-klosterwalde",
+    "name": "Templin - Klosterwalde",
+    "shortName": "TK",
+    "serviceId": "udg",
+    "cityId": "71240",
+    "center": [
+      13.5452,
+      53.1588
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1583,
+      13.5451,
+      53.1592,
+      13.5467
+    ]
+  },
+  {
+    "id": "templin-petznick",
+    "name": "Templin - Petznick",
+    "shortName": "TP",
+    "serviceId": "udg",
+    "cityId": "71243",
+    "center": [
+      13.5603,
+      53.1372
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1372,
+      13.5602,
+      53.1373,
+      13.5603
+    ]
+  },
+  {
+    "id": "templin-roeddelin",
+    "name": "Templin - Röddelin",
+    "shortName": "TR",
+    "serviceId": "udg",
+    "cityId": "71244",
+    "center": [
+      13.4513,
+      53.0946
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0938,
+      13.4484,
+      53.0956,
+      13.4543
+    ]
+  },
+  {
+    "id": "templin-vietmannsdorf",
+    "name": "Templin - Vietmannsdorf",
+    "shortName": "TV",
+    "serviceId": "udg",
+    "cityId": "71246",
+    "center": [
+      13.5016,
+      53.0934
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0933,
+      13.5015,
+      53.0934,
+      13.5016
+    ]
+  },
+  {
+    "id": "uckerland",
+    "name": "Uckerland",
+    "shortName": "UCK",
+    "serviceId": "udg",
+    "cityId": "71251",
+    "center": [
+      13.7889,
+      53.4731
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3869,
+      13.6257,
+      53.5591,
+      13.9185
+    ]
+  },
+  {
+    "id": "zichow",
+    "name": "Zichow",
+    "shortName": "ZIC",
+    "serviceId": "udg",
+    "cityId": "71254",
+    "center": [
+      14.0377,
+      53.1886
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1206,
+      14.0009,
+      53.2116,
+      14.1065
+    ]
   }
 ]

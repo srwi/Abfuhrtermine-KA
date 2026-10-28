@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-28T20:34:54.845Z",
+  "streets": [
+    {
+      "street": "Neuhofer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0824,
+          53.0303
+        ]
+      }
+    }
+  ]
+}

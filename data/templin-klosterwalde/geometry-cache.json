@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-28T20:40:43.771Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5452,
+          53.1588
+        ]
+      }
+    },
+    {
+      "street": "Eselshütte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5452,
+          53.1588
+        ]
+      }
+    },
+    {
+      "street": "Gleuenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5452,
+          53.1588
+        ]
+      }
+    },
+    {
+      "street": "Metzelthin",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5452,
+          53.1588
+        ]
+      }
+    },
+    {
+      "street": "Paulinenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5452,
+          53.1588
+        ]
+      }
+    },
+    {
+      "street": "Wassermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5452,
+          53.1588
+        ]
+      }
+    }
+  ]
+}

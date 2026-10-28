@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-28T20:35:05.659Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8768,
+          53.0939
+        ]
+      }
+    },
+    {
+      "street": "Koppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8768,
+          53.0939
+        ]
+      }
+    },
+    {
+      "street": "Luisenthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8768,
+          53.0939
+        ]
+      }
+    },
+    {
+      "street": "Neuhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8768,
+          53.0939
+        ]
+      }
+    }
+  ]
+}

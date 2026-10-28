@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-28T20:35:38.083Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6163,
+          53.2659
+        ]
+      }
+    },
+    {
+      "street": "Goethestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6163,
+          53.2659
+        ]
+      }
+    },
+    {
+      "street": "Herzfelder Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6163,
+          53.2659
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6163,
+          53.2659
+        ]
+      }
+    },
+    {
+      "street": "Templiner Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6163,
+          53.2659
+        ]
+      }
+    },
+    {
+      "street": "Zervelin",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6163,
+          53.2659
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-28T20:40:49.611Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5603,
+          53.1372
+        ]
+      }
+    },
+    {
+      "street": "Henkinshain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5603,
+          53.1372
+        ]
+      }
+    },
+    {
+      "street": "Kreuzkrug",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5603,
+          53.1372
+        ]
+      }
+    }
+  ]
+}

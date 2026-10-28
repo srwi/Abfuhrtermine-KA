@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-28T20:38:53.150Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9054,
+          53.2678
+        ]
+      }
+    },
+    {
+      "street": "Am Seelübber See",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9054,
+          53.2678
+        ]
+      }
+    },
+    {
+      "street": "Seehausener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9054,
+          53.2678
+        ]
+      }
+    },
+    {
+      "street": "Siefertshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9054,
+          53.2678
+        ]
+      }
+    }
+  ]
+}

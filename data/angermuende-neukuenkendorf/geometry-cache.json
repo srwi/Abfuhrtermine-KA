@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-28T20:35:00.176Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0266,
+          53.0002
+        ]
+      }
+    },
+    {
+      "street": "Ausbau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0266,
+          53.0002
+        ]
+      }
+    },
+    {
+      "street": "Lindenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0266,
+          53.0002
+        ]
+      }
+    },
+    {
+      "street": "Wilhelmsfelde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0266,
+          53.0002
+        ]
+      }
+    }
+  ]
+}

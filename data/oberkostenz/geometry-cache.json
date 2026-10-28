@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-10-28T20:30:55.275Z",
+  "streets": [
+    {
+      "street": "Aspelwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Rech",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Brunnenstrasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.3456293,
+            49.9536549
+          ],
+          [
+            7.3455785,
+            49.9537275
+          ],
+          [
+            7.3451635,
+            49.9543203
+          ],
+          [
+            7.3451028,
+            49.954407
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Erlenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Kappeler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Kehrmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Osterbahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Poststrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Raiffeisenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Sonnenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    },
+    {
+      "street": "Zum Kyrbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3444,
+          49.9536
+        ]
+      }
+    }
+  ]
+}

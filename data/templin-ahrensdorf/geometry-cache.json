@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-28T20:40:22.592Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5761,
+          53.1123
+        ]
+      }
+    },
+    {
+      "street": "Drei Häuser",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5761,
+          53.1123
+        ]
+      }
+    },
+    {
+      "street": "Im Wäldchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5761,
+          53.1123
+        ]
+      }
+    },
+    {
+      "street": "Milmersdorfer Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5761,
+          53.1123
+        ]
+      }
+    }
+  ]
+}

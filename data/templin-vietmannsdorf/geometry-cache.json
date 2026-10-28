@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-28T20:40:59.937Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5016,
+          53.0934
+        ]
+      }
+    },
+    {
+      "street": "Albrechtsthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5016,
+          53.0934
+        ]
+      }
+    },
+    {
+      "street": "Alte Angermünder Landstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5016,
+          53.0934
+        ]
+      }
+    },
+    {
+      "street": "Bassdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5016,
+          53.0934
+        ]
+      }
+    },
+    {
+      "street": "Dargersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5016,
+          53.0934
+        ]
+      }
+    },
+    {
+      "street": "Ringofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5016,
+          53.0934
+        ]
+      }
+    },
+    {
+      "street": "Uhlenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5016,
+          53.0934
+        ]
+      }
+    }
+  ]
+}
