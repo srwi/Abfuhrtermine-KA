@@ -1,5 +1,61 @@
 [
   {
+    "id": "abstatt",
+    "name": "Abstatt",
+    "shortName": "ABS",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4778",
+    "center": [
+      9.2908,
+      49.0684
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0602,
+      9.2721,
+      49.0924,
+      9.3638
+    ]
+  },
+  {
+    "id": "adelberg",
+    "name": "Adelberg",
+    "shortName": "ADE",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "894",
+    "center": [
+      9.6001,
+      48.7622
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7437,
+      9.5708,
+      48.781,
+      9.6226
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "aichelberg",
+    "name": "Aichelberg",
+    "shortName": "AIC",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "895",
+    "center": [
+      9.5681,
+      48.6358
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6164,
+      9.5349,
+      48.6412,
+      9.5946
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "aidlingen",
     "name": "Aidlingen",
     "shortName": "AID",
@@ -19,6 +75,25 @@
     ]
   },
   {
+    "id": "albershausen",
+    "name": "Albershausen",
+    "shortName": "ALB",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "896",
+    "center": [
+      9.5558,
+      48.688
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6715,
+      9.5346,
+      48.7044,
+      9.5788
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "altdorf-bb",
     "name": "Altdorf",
     "shortName": "ALT",
@@ -36,6 +111,63 @@
       48.648,
       9.0434
     ]
+  },
+  {
+    "id": "bad-boll",
+    "name": "Bad Boll",
+    "shortName": "BAD",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "897",
+    "center": [
+      9.6168,
+      48.6387
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6189,
+      9.5781,
+      48.66,
+      9.633
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "bad-ditzenbach",
+    "name": "Bad Ditzenbach",
+    "shortName": "BAD",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "898",
+    "center": [
+      9.6866,
+      48.5937
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5499,
+      9.6539,
+      48.6376,
+      9.731
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "bad-duerrheim",
+    "name": "Bad Dürrheim",
+    "shortName": "BAD",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "166",
+    "center": [
+      8.6148,
+      47.9977
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.9449,
+      8.5055,
+      48.0502,
+      8.6632
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
   },
   {
     "id": "bad-friedrichshall",
@@ -74,6 +206,25 @@
     ]
   },
   {
+    "id": "bad-ueberkingen",
+    "name": "Bad Überkingen",
+    "shortName": "BAD",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "899",
+    "center": [
+      9.7694,
+      48.6214
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5855,
+      9.717,
+      48.6572,
+      9.8162
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "bad-wimpfen",
     "name": "Bad Wimpfen",
     "shortName": "WIM",
@@ -90,6 +241,62 @@
       49.2514,
       9.2038
     ]
+  },
+  {
+    "id": "beilstein",
+    "name": "Beilstein",
+    "shortName": "BEI",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4780",
+    "center": [
+      9.3138,
+      49.0404
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0321,
+      9.2865,
+      49.0799,
+      9.4273
+    ]
+  },
+  {
+    "id": "birenbach",
+    "name": "Birenbach",
+    "shortName": "BIR",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "900",
+    "center": [
+      9.6609,
+      48.7491
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7395,
+      9.6487,
+      48.7612,
+      9.6741
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "blumberg",
+    "name": "Blumberg",
+    "shortName": "BLU",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "167",
+    "center": [
+      8.5341,
+      47.8401
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.7705,
+      8.4698,
+      47.8923,
+      8.6402
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
   },
   {
     "id": "boeblingen",
@@ -111,6 +318,25 @@
     ]
   },
   {
+    "id": "boehmenkirch",
+    "name": "Böhmenkirch",
+    "shortName": "BOEH",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "901",
+    "center": [
+      9.9321,
+      48.6844
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6402,
+      9.8507,
+      48.7337,
+      9.9947
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "bondorf",
     "name": "Bondorf",
     "shortName": "BON",
@@ -130,6 +356,25 @@
     ]
   },
   {
+    "id": "boertlingen",
+    "name": "Börtlingen",
+    "shortName": "BOER",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "902",
+    "center": [
+      9.6323,
+      48.7549
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7421,
+      9.6129,
+      48.7746,
+      9.6589
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "brackenheim",
     "name": "Brackenheim",
     "shortName": "BRA",
@@ -146,6 +391,81 @@
       49.1185,
       9.1258
     ]
+  },
+  {
+    "id": "braeunlingen",
+    "name": "Bräunlingen",
+    "shortName": "BRAE",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "168",
+    "center": [
+      8.4483,
+      47.9301
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.8747,
+      8.2697,
+      47.983,
+      8.4767
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "brigachtal",
+    "name": "Brigachtal",
+    "shortName": "BRI",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "169",
+    "center": [
+      8.464,
+      48.0118
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.9866,
+      8.4128,
+      48.0268,
+      8.5215
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "cleebronn",
+    "name": "Cleebronn",
+    "shortName": "CLE",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4817",
+    "center": [
+      9.0352,
+      49.0447
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.021,
+      8.9869,
+      49.0684,
+      9.0642
+    ]
+  },
+  {
+    "id": "dauchingen",
+    "name": "Dauchingen",
+    "shortName": "DAU",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "170",
+    "center": [
+      8.5504,
+      48.0903
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.0683,
+      8.5196,
+      48.1159,
+      8.5849
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
   },
   {
     "id": "deckenpfronn",
@@ -167,6 +487,82 @@
     ]
   },
   {
+    "id": "deggingen",
+    "name": "Deggingen",
+    "shortName": "DEG",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "903",
+    "center": [
+      9.7175,
+      48.5963
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5631,
+      9.6872,
+      48.6393,
+      9.7515
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "donaueschingen",
+    "name": "Donaueschingen",
+    "shortName": "DON",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "171",
+    "center": [
+      8.4959,
+      47.9534
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.8845,
+      8.3114,
+      48.0091,
+      8.6209
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "donzdorf",
+    "name": "Donzdorf",
+    "shortName": "DON",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "904",
+    "center": [
+      9.8111,
+      48.6866
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6324,
+      9.7603,
+      48.7345,
+      9.8681
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "drackenstein",
+    "name": "Drackenstein",
+    "shortName": "DRA",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "905",
+    "center": [
+      9.6761,
+      48.5581
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5402,
+      9.6486,
+      48.5658,
+      9.7231
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "duisburg",
     "name": "Duisburg",
     "shortName": "DU",
@@ -181,6 +577,62 @@
       6.6256,
       51.5601,
       6.8303
+    ]
+  },
+  {
+    "id": "duernau",
+    "name": "Dürnau",
+    "shortName": "DUER",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "906",
+    "center": [
+      9.6357,
+      48.6418
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6231,
+      9.6212,
+      48.6586,
+      9.6481
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "ebersbach",
+    "name": "Ebersbach",
+    "shortName": "EBE",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "907",
+    "center": [
+      9.5264,
+      48.7161
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7111,
+      9.5214,
+      48.7211,
+      9.5314
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "eberstadt",
+    "name": "Eberstadt",
+    "shortName": "EBE",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4781",
+    "center": [
+      9.3205,
+      49.1808
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1648,
+      9.2932,
+      49.1999,
+      9.3698
     ]
   },
   {
@@ -203,6 +655,43 @@
     ]
   },
   {
+    "id": "eislingen",
+    "name": "Eislingen",
+    "shortName": "EIS",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "908",
+    "center": [
+      9.7038,
+      48.6968
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6918,
+      9.6988,
+      48.7018,
+      9.7088
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "ellhofen",
+    "name": "Ellhofen",
+    "shortName": "ELL",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4782",
+    "center": [
+      9.3229,
+      49.1421
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1246,
+      9.3059,
+      49.1655,
+      9.3764
+    ]
+  },
+  {
     "id": "eppingen",
     "name": "Eppingen",
     "shortName": "EPP",
@@ -221,6 +710,43 @@
     ]
   },
   {
+    "id": "erlenbach",
+    "name": "Erlenbach",
+    "shortName": "ERL",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4784",
+    "center": [
+      9.2692,
+      49.1703
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1596,
+      9.2353,
+      49.2037,
+      9.2949
+    ]
+  },
+  {
+    "id": "eschenbach",
+    "name": "Eschenbach",
+    "shortName": "ESC",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "909",
+    "center": [
+      9.6767,
+      48.6623
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6337,
+      9.6598,
+      48.6832,
+      9.6886
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "essen",
     "name": "Essen",
     "shortName": "E",
@@ -236,6 +762,62 @@
       51.5342,
       7.1376
     ]
+  },
+  {
+    "id": "flein",
+    "name": "Flein",
+    "shortName": "FLE",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4785",
+    "center": [
+      9.2139,
+      49.1006
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0874,
+      9.189,
+      49.113,
+      9.2606
+    ]
+  },
+  {
+    "id": "furtwangen",
+    "name": "Furtwangen",
+    "shortName": "FUR",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "172",
+    "center": [
+      8.2074,
+      48.0512
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.9916,
+      8.1308,
+      48.1042,
+      8.2823
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "gammelshausen",
+    "name": "Gammelshausen",
+    "shortName": "GAM",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "910",
+    "center": [
+      9.6507,
+      48.641
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6234,
+      9.6414,
+      48.6537,
+      9.6618
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
   },
   {
     "id": "gaertringen",
@@ -276,6 +858,81 @@
     ]
   },
   {
+    "id": "geislingen",
+    "name": "Geislingen",
+    "shortName": "GEI",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "911",
+    "center": [
+      9.8357,
+      48.623
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5565,
+      9.7301,
+      48.6724,
+      9.9454
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "gemmingen",
+    "name": "Gemmingen",
+    "shortName": "GEM",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4786",
+    "center": [
+      8.9763,
+      49.1532
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1267,
+      8.9362,
+      49.1799,
+      9.0173
+    ]
+  },
+  {
+    "id": "gingen",
+    "name": "Gingen",
+    "shortName": "GIN",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "912",
+    "center": [
+      9.7881,
+      48.6606
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6597,
+      9.7873,
+      48.6615,
+      9.7889
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "goeppingen",
+    "name": "Göppingen",
+    "shortName": "GOEP",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "913",
+    "center": [
+      9.6541,
+      48.7031
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6549,
+      9.5912,
+      48.7763,
+      9.7522
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "grafenau-bb",
     "name": "Grafenau",
     "shortName": "GRA",
@@ -293,6 +950,117 @@
       48.7309,
       8.9441
     ]
+  },
+  {
+    "id": "gruibingen",
+    "name": "Gruibingen",
+    "shortName": "GRU",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "914",
+    "center": [
+      9.6431,
+      48.5945
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5786,
+      9.5881,
+      48.6264,
+      9.6782
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "gueglingen",
+    "name": "Güglingen",
+    "shortName": "GUEG",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4818",
+    "center": [
+      9,
+      49.0668
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0366,
+      8.9702,
+      49.0912,
+      9.0485
+    ]
+  },
+  {
+    "id": "gundelsheim",
+    "name": "Gundelsheim",
+    "shortName": "GUN",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4804",
+    "center": [
+      9.1619,
+      49.2844
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2531,
+      9.1303,
+      49.3285,
+      9.2424
+    ]
+  },
+  {
+    "id": "guetenbach",
+    "name": "Gütenbach",
+    "shortName": "GUET",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "173",
+    "center": [
+      8.1382,
+      48.0455
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.0078,
+      8.1095,
+      48.0754,
+      8.1756
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "hardthausen",
+    "name": "Hardthausen",
+    "shortName": "HAR",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4805",
+    "center": [
+      9.3886,
+      49.2548
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2316,
+      9.3463,
+      49.3001,
+      9.445
+    ]
+  },
+  {
+    "id": "hattenhofen",
+    "name": "Hattenhofen",
+    "shortName": "HAT",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "915",
+    "center": [
+      9.5708,
+      48.6668
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6553,
+      9.5405,
+      48.6796,
+      9.601
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
   },
   {
     "id": "herrenberg",
@@ -333,6 +1101,25 @@
     ]
   },
   {
+    "id": "hohenstadt",
+    "name": "Hohenstadt",
+    "shortName": "HOH",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "917",
+    "center": [
+      9.6636,
+      48.5444
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5175,
+      9.6326,
+      48.5544,
+      9.6966
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "holzgerlingen",
     "name": "Holzgerlingen",
     "shortName": "HOL",
@@ -349,6 +1136,79 @@
       8.9841,
       48.6642,
       9.0486
+    ]
+  },
+  {
+    "id": "huefingen",
+    "name": "Hüfingen",
+    "shortName": "HUEF",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "174",
+    "center": [
+      8.4892,
+      47.9269
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.8456,
+      8.3365,
+      47.9635,
+      8.6157
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "ilsfeld",
+    "name": "Ilsfeld",
+    "shortName": "ILS",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4787",
+    "center": [
+      9.2458,
+      49.0554
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0273,
+      9.2023,
+      49.0848,
+      9.3208
+    ]
+  },
+  {
+    "id": "ittlingen",
+    "name": "Ittlingen",
+    "shortName": "ITT",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4788",
+    "center": [
+      8.9274,
+      49.1956
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1784,
+      8.8863,
+      49.213,
+      8.9649
+    ]
+  },
+  {
+    "id": "jagsthausen",
+    "name": "Jagsthausen",
+    "shortName": "JAG",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4806",
+    "center": [
+      9.4694,
+      49.3098
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2882,
+      9.4145,
+      49.3372,
+      9.5202
     ]
   },
   {
@@ -371,6 +1231,98 @@
     ]
   },
   {
+    "id": "kirchardt",
+    "name": "Kirchardt",
+    "shortName": "KIR",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4789",
+    "center": [
+      8.9957,
+      49.1981
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1732,
+      8.9541,
+      49.2228,
+      9.0269
+    ]
+  },
+  {
+    "id": "koenigsfeld",
+    "name": "Königsfeld",
+    "shortName": "KOEN",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "175",
+    "center": [
+      8.4326,
+      48.1454
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1338,
+      8.4042,
+      48.1571,
+      8.4432
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "kuchen",
+    "name": "Kuchen",
+    "shortName": "KUC",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "918",
+    "center": [
+      9.7988,
+      48.6357
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6174,
+      9.7618,
+      48.6559,
+      9.8182
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "langenbrettach",
+    "name": "Langenbrettach",
+    "shortName": "LAN",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4807",
+    "center": [
+      9.3972,
+      49.2176
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1836,
+      9.3521,
+      49.2381,
+      9.4531
+    ]
+  },
+  {
+    "id": "lauffen",
+    "name": "Lauffen",
+    "shortName": "LAU",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4790",
+    "center": [
+      9.1462,
+      49.0765
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0715,
+      9.1412,
+      49.0815,
+      9.1512
+    ]
+  },
+  {
     "id": "lauffen-am-neckar",
     "name": "Lauffen am Neckar",
     "shortName": "LAU",
@@ -386,6 +1338,61 @@
       9.1148,
       49.1085,
       9.3757
+    ]
+  },
+  {
+    "id": "lauterstein",
+    "name": "Lauterstein",
+    "shortName": "LAU",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "919",
+    "center": [
+      9.8763,
+      48.7109
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.693,
+      9.8333,
+      48.7539,
+      9.9438
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "lehrensteinsfeld",
+    "name": "Lehrensteinsfeld",
+    "shortName": "LEH",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4791",
+    "center": [
+      9.3246,
+      49.1287
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1067,
+      9.2999,
+      49.138,
+      9.3427
+    ]
+  },
+  {
+    "id": "leingarten",
+    "name": "Leingarten",
+    "shortName": "LEI",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4819",
+    "center": [
+      9.1241,
+      49.1434
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1183,
+      9.0716,
+      49.1712,
+      9.1609
     ]
   },
   {
@@ -408,6 +1415,24 @@
     ]
   },
   {
+    "id": "loewenstein",
+    "name": "Löwenstein",
+    "shortName": "LOEW",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4792",
+    "center": [
+      9.3809,
+      49.0953
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0576,
+      9.3365,
+      49.1203,
+      9.4535
+    ]
+  },
+  {
     "id": "magstadt",
     "name": "Magstadt",
     "shortName": "MAG",
@@ -424,6 +1449,24 @@
       8.9291,
       48.7635,
       9.0366
+    ]
+  },
+  {
+    "id": "massenbachhausen",
+    "name": "Massenbachhausen",
+    "shortName": "MAS",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4793",
+    "center": [
+      9.0468,
+      49.1775
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1646,
+      9.0099,
+      49.2005,
+      9.0573
     ]
   },
   {
@@ -445,6 +1488,25 @@
     ]
   },
   {
+    "id": "moenchweiler",
+    "name": "Mönchweiler",
+    "shortName": "MOEN",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "176",
+    "center": [
+      8.4268,
+      48.0993
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.0897,
+      8.3928,
+      48.1306,
+      8.4492
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
     "id": "moetzingen",
     "name": "Mötzingen",
     "shortName": "MOET",
@@ -462,6 +1524,25 @@
       48.5498,
       8.8089
     ]
+  },
+  {
+    "id": "muehlhausen",
+    "name": "Mühlhausen",
+    "shortName": "MUEH",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "920",
+    "center": [
+      9.6639,
+      48.5836
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5836,
+      9.6639,
+      48.5837,
+      9.664
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
   },
   {
     "id": "neckarsulm",
@@ -482,6 +1563,42 @@
     ]
   },
   {
+    "id": "neckarwestheim",
+    "name": "Neckarwestheim",
+    "shortName": "NEC",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4795",
+    "center": [
+      9.1989,
+      49.0417
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0203,
+      9.1661,
+      49.063,
+      9.2563
+    ]
+  },
+  {
+    "id": "neudenau",
+    "name": "Neudenau",
+    "shortName": "NEU",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4809",
+    "center": [
+      9.2732,
+      49.2941
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2644,
+      9.2277,
+      49.3309,
+      9.3585
+    ]
+  },
+  {
     "id": "neuenstadt-am-kocher",
     "name": "Neuenstadt am Kocher",
     "shortName": "NEU",
@@ -497,6 +1614,43 @@
       9.263,
       49.2794,
       9.3691
+    ]
+  },
+  {
+    "id": "niedereschach",
+    "name": "Niedereschach",
+    "shortName": "NIE",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "177",
+    "center": [
+      8.5281,
+      48.1323
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1014,
+      8.4561,
+      48.1689,
+      8.5583
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "nordheim",
+    "name": "Nordheim",
+    "shortName": "NOR",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4820",
+    "center": [
+      9.1296,
+      49.109
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0966,
+      9.0687,
+      49.1254,
+      9.1511
     ]
   },
   {
@@ -537,6 +1691,98 @@
     ]
   },
   {
+    "id": "oedheim",
+    "name": "Oedheim",
+    "shortName": "OED",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4811",
+    "center": [
+      9.2556,
+      49.2398
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2074,
+      9.2272,
+      49.2632,
+      9.3128
+    ]
+  },
+  {
+    "id": "offenau",
+    "name": "Offenau",
+    "shortName": "OFF",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4812",
+    "center": [
+      9.1641,
+      49.2434
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2307,
+      9.1573,
+      49.2648,
+      9.189
+    ]
+  },
+  {
+    "id": "ottenbach",
+    "name": "Ottenbach",
+    "shortName": "OTT",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "921",
+    "center": [
+      9.7494,
+      48.7338
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7099,
+      9.725,
+      48.7537,
+      9.7917
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "pfaffenhofen",
+    "name": "Pfaffenhofen",
+    "shortName": "PFA",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4821",
+    "center": [
+      8.9754,
+      49.0642
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0346,
+      8.9333,
+      49.0806,
+      8.9865
+    ]
+  },
+  {
+    "id": "rechberghausen",
+    "name": "Rechberghausen",
+    "shortName": "REC",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "922",
+    "center": [
+      9.6441,
+      48.7305
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.719,
+      9.6211,
+      48.7473,
+      9.674
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
     "id": "renningen",
     "name": "Renningen",
     "shortName": "REN",
@@ -553,6 +1799,24 @@
       8.8772,
       48.8084,
       8.9766
+    ]
+  },
+  {
+    "id": "roigheim",
+    "name": "Roigheim",
+    "shortName": "ROI",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4813",
+    "center": [
+      9.3411,
+      49.3635
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3438,
+      9.3093,
+      49.3876,
+      9.3754
     ]
   },
   {
@@ -575,6 +1839,82 @@
     ]
   },
   {
+    "id": "salach",
+    "name": "Salach",
+    "shortName": "SAL",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "923",
+    "center": [
+      9.7395,
+      48.6904
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.682,
+      9.7238,
+      48.7162,
+      9.7845
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "schlat",
+    "name": "Schlat",
+    "shortName": "SCH",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "924",
+    "center": [
+      9.7074,
+      48.654
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6339,
+      9.6858,
+      48.6731,
+      9.7342
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "schlierbach",
+    "name": "Schlierbach",
+    "shortName": "SCH",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "925",
+    "center": [
+      9.5179,
+      48.6738
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6565,
+      9.4906,
+      48.6925,
+      9.5529
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "schonach",
+    "name": "Schonach",
+    "shortName": "SCH",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "178",
+    "center": [
+      8.1975,
+      48.1427
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1133,
+      8.1254,
+      48.184,
+      8.2473
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
     "id": "schoenaich",
     "name": "Schönaich",
     "shortName": "SCH",
@@ -594,6 +1934,25 @@
     ]
   },
   {
+    "id": "schoenwald",
+    "name": "Schönwald",
+    "shortName": "SCH",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "179",
+    "center": [
+      8.2034,
+      48.1053
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.0853,
+      8.1834,
+      48.1253,
+      8.2234
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
     "id": "schwaigern",
     "name": "Schwaigern",
     "shortName": "SWG",
@@ -609,6 +1968,24 @@
       8.945,
       49.1958,
       9.0913
+    ]
+  },
+  {
+    "id": "siegelsbach",
+    "name": "Siegelsbach",
+    "shortName": "SIE",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4814",
+    "center": [
+      9.0897,
+      49.2697
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2572,
+      9.0604,
+      49.28,
+      9.1165
     ]
   },
   {
@@ -631,6 +2008,25 @@
     ]
   },
   {
+    "id": "st-georgen",
+    "name": "St. Georgen",
+    "shortName": "STG",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "180",
+    "center": [
+      8.333,
+      48.1258
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.073,
+      8.2727,
+      48.1731,
+      8.4027
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
     "id": "steinenbronn",
     "name": "Steinenbronn",
     "shortName": "STE",
@@ -650,6 +2046,155 @@
     ]
   },
   {
+    "id": "suessen",
+    "name": "Süßen",
+    "shortName": "SUESS",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "926",
+    "center": [
+      9.7372,
+      48.6708
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6511,
+      9.7115,
+      48.6904,
+      9.7866
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "talheim",
+    "name": "Talheim",
+    "shortName": "TAL",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4797",
+    "center": [
+      9.1954,
+      49.0845
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0684,
+      9.1613,
+      49.105,
+      9.2489
+    ]
+  },
+  {
+    "id": "triberg",
+    "name": "Triberg",
+    "shortName": "TRI",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "181",
+    "center": [
+      8.2323,
+      48.1298
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.0954,
+      8.2137,
+      48.1874,
+      8.2979
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "tuningen",
+    "name": "Tuningen",
+    "shortName": "TUN",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "182",
+    "center": [
+      8.6016,
+      48.0256
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.0083,
+      8.5771,
+      48.0493,
+      8.6441
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "uhingen",
+    "name": "Uhingen",
+    "shortName": "UHI",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "927",
+    "center": [
+      9.5856,
+      48.7042
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6708,
+      9.5024,
+      48.7625,
+      9.6123
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "untereisesheim",
+    "name": "Untereisesheim",
+    "shortName": "UNT",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4798",
+    "center": [
+      9.2037,
+      49.2101
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.201,
+      9.1711,
+      49.2183,
+      9.2172
+    ]
+  },
+  {
+    "id": "untergruppenbach",
+    "name": "Untergruppenbach",
+    "shortName": "UNT",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4799",
+    "center": [
+      9.2751,
+      49.0897
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0741,
+      9.2449,
+      49.1167,
+      9.3773
+    ]
+  },
+  {
+    "id": "unterkirnach",
+    "name": "Unterkirnach",
+    "shortName": "UNT",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "183",
+    "center": [
+      8.3659,
+      48.0777
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.0499,
+      8.3124,
+      48.111,
+      8.4097
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
     "id": "villingen-schwenningen",
     "name": "Villingen-Schwenningen",
     "shortName": "VS",
@@ -665,6 +2210,25 @@
       48.1254,
       8.6366
     ]
+  },
+  {
+    "id": "voehrenbach",
+    "name": "Vöhrenbach",
+    "shortName": "VOEH",
+    "apiKey": "eda698881653b32e8a74364c7170c91c54c7a658489d3db8",
+    "cityId": "185",
+    "center": [
+      8.3039,
+      48.0458
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.9652,
+      8.1907,
+      48.0815,
+      8.3641
+    ],
+    "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
   },
   {
     "id": "waldenbuch",
@@ -684,6 +2248,44 @@
       48.6579,
       9.1738
     ]
+  },
+  {
+    "id": "wangen",
+    "name": "Wangen",
+    "shortName": "WAN",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "928",
+    "center": [
+      9.6097,
+      48.726
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7171,
+      9.5679,
+      48.7501,
+      9.6317
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "waeschenbeuren",
+    "name": "Wäschenbeuren",
+    "shortName": "WAES",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "929",
+    "center": [
+      9.6898,
+      48.7594
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7404,
+      9.6523,
+      48.7792,
+      9.7161
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
   },
   {
     "id": "weil-der-stadt",
@@ -759,5 +2361,97 @@
       48.8676,
       8.966
     ]
+  },
+  {
+    "id": "widdern",
+    "name": "Widdern",
+    "shortName": "WID",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4815",
+    "center": [
+      9.4217,
+      49.3181
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2941,
+      9.3884,
+      49.3645,
+      9.4673
+    ]
+  },
+  {
+    "id": "wiesensteig",
+    "name": "Wiesensteig",
+    "shortName": "WIE",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "930",
+    "center": [
+      9.6264,
+      48.5621
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5367,
+      9.5603,
+      48.5861,
+      9.6528
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "wuestenrot",
+    "name": "Wüstenrot",
+    "shortName": "WUES",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4801",
+    "center": [
+      9.4606,
+      49.0808
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0467,
+      9.4125,
+      49.1395,
+      9.5275
+    ]
+  },
+  {
+    "id": "zaberfeld",
+    "name": "Zaberfeld",
+    "shortName": "ZAB",
+    "apiKey": "18adb00cb5135f6aa16b5fdea6dae2c63a507ae0f836540e",
+    "cityId": "4823",
+    "center": [
+      8.9095,
+      49.0601
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.0356,
+      8.8649,
+      49.0845,
+      8.9507
+    ]
+  },
+  {
+    "id": "zell-u-a",
+    "name": "Zell u. A.",
+    "shortName": "ZEL",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "931",
+    "center": [
+      9.5743,
+      48.6486
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6304,
+      9.55,
+      48.6601,
+      9.6029
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
   }
 ]

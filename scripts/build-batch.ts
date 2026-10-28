@@ -1,10 +1,13 @@
 import fs from 'fs';
 import { spawn } from 'child_process';
-import jumoCities from './fetchers/jumomind-cities.json';
+import jumoCities from './fetchers/jumomind-cities.json' with { type: 'json' };
 
 async function runCommand(args: string[]): Promise<void> {
+  const isBun = Boolean((process.versions as any).bun);
+  const runtime = isBun ? 'bun' : process.execPath;
+  const runtimeArgs = isBun ? [] : ['--experimental-strip-types'];
   return new Promise((resolve, reject) => {
-    const proc = spawn('bun', args, { stdio: 'inherit', shell: true });
+    const proc = spawn(runtime, [...runtimeArgs, ...args], { stdio: 'inherit' });
     proc.on('close', (code) => {
       if (code === 0) resolve();
       else reject(new Error(`Command failed with code ${code}`));

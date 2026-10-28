@@ -52,40 +52,50 @@ function makeShortName(name: string): string {
 
 async function geocode(cityName: string, region: string): Promise<{ center: [number, number]; bbox: [number, number, number, number] } | null> {
   const cleanName = cityName.replace(/\s*\([^)]*\)/g, '').trim();
-  const q = encodeURIComponent(`${cleanName}, ${region}, Deutschland`);
-  const url = `https://nominatim.openstreetmap.org/search?format=json&countrycodes=de&limit=1&q=${q}`;
+  const searchTerms: string[] = [];
 
-  try {
-    const res = await fetch(url, {
-      headers: {
-        'User-Agent': 'Abfuhrtermine-Bot/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)'
+  if (cleanName.includes(' - ')) {
+    const parts = cleanName.split(' - ').map((p) => p.trim());
+    searchTerms.push(parts[1]);
+    searchTerms.push(parts[0]);
+  } else if (cleanName.includes('-')) {
+    const parts = cleanName.split('-').map((p) => p.trim());
+    searchTerms.push(parts[1]);
+    searchTerms.push(parts[0]);
+  }
+  searchTerms.push(cleanName);
+
+  for (const term of searchTerms) {
+    try {
+      const url = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(term)}&count=1&language=de&country_code=DE`;
+      const res = await fetch(url, { signal: AbortSignal.timeout(3000) });
+      if (!res.ok) continue;
+      const data = await res.json();
+      const r = data.results?.[0];
+      if (r && r.latitude && r.longitude) {
+        const center: [number, number] = [
+          Math.round(r.longitude * 10000) / 10000,
+          Math.round(r.latitude * 10000) / 10000
+        ];
+        const bbox: [number, number, number, number] = [
+          Math.round((center[1] - 0.04) * 10000) / 10000,
+          Math.round((center[0] - 0.05) * 10000) / 10000,
+          Math.round((center[1] + 0.04) * 10000) / 10000,
+          Math.round((center[0] + 0.05) * 10000) / 10000
+        ];
+        return { center, bbox };
       }
-    });
-    if (!res.ok) return null;
-    const data = await res.json();
-    if (data && data[0]) {
-      const d = data[0];
-      const south = Math.round(parseFloat(d.boundingbox[0]) * 10000) / 10000;
-      const north = Math.round(parseFloat(d.boundingbox[1]) * 10000) / 10000;
-      const west = Math.round(parseFloat(d.boundingbox[2]) * 10000) / 10000;
-      const east = Math.round(parseFloat(d.boundingbox[3]) * 10000) / 10000;
-      const lon = Math.round(parseFloat(d.lon) * 10000) / 10000;
-      const lat = Math.round(parseFloat(d.lat) * 10000) / 10000;
-
-      return {
-        center: [lon, lat],
-        bbox: [south, west, north, east]
-      };
+    } catch {
+      // Try next search term
     }
-  } catch (err) {
-    console.warn(`Geocode error for ${cityName}:`, err);
   }
   return null;
 }
 
 const SERVICES_TO_SCAN: { service: string; region: string }[] = [
-  { service: 'rhe', region: 'Rhein-Hunsrück-Kreis, Rheinland-Pfalz' },
-  { service: 'udg', region: 'Uckermark, Brandenburg' }
+  { service: 'udg', region: 'Uckermark, Brandenburg' },
+  { service: 'bdg', region: 'Landkreis Barnim, Brandenburg' },
+  { service: 'zvo', region: 'Ostholstein, Schleswig-Holstein' }
 ];
 
 async function main() {
@@ -169,8 +179,8 @@ async function main() {
         addedCount++;
         console.log(`  ✅ Added: ${city.name} (${id}, ${shortName}) [${geo.center.join(', ')}]`);
 
-        // Respect Nominatim rate limit (1 req/sec)
-        await new Promise((r) => setTimeout(r, 1100));
+        // Brief pause between requests
+        await new Promise((r) => setTimeout(r, 250));
       }
     } catch (err) {
       console.error(`Error scanning ${service}:`, err);

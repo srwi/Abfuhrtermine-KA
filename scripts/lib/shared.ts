@@ -4,11 +4,28 @@
 // scripts live outside the SvelteKit type world on purpose, hence the local
 // `declare const Bun`/`process` blocks.
 
+import fs from 'node:fs';
+
 declare const Bun: {
   file(path: string | URL): { text(): Promise<string> };
   write(path: string | URL, data: string): Promise<void>;
   sleep(ms: number): Promise<void>;
 };
+
+if (typeof (globalThis as any).Bun === 'undefined') {
+  (globalThis as any).Bun = {
+    file: (path: string | URL) => ({
+      text: () => fs.promises.readFile(path instanceof URL ? path : String(path), 'utf8')
+    }),
+    write: async (path: string | URL, data: string) => {
+      const p = path instanceof URL ? path.pathname : String(path);
+      const dir = p.substring(0, p.lastIndexOf('/'));
+      if (dir && !fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+      await fs.promises.writeFile(path, data, 'utf8');
+    },
+    sleep: (ms: number) => new Promise((resolve) => setTimeout(resolve, ms))
+  };
+}
 
 declare const process: {
   env: Record<string, string | undefined>;

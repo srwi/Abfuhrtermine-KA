@@ -10492,5 +10492,2921 @@
       51.8958,
       11.1421
     ]
+  },
+  {
+    "id": "angermuende-altkuenkendorf",
+    "name": "Angermünde - Altkünkendorf",
+    "shortName": "AA",
+    "serviceId": "udg",
+    "cityId": "71055",
+    "center": [
+      13.8768,
+      53.0082
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9733,
+      13.8209,
+      53.0238,
+      13.9395
+    ]
+  },
+  {
+    "id": "angermuende-biesenbrow",
+    "name": "Angermünde - Biesenbrow",
+    "shortName": "AB",
+    "serviceId": "udg",
+    "cityId": "71056",
+    "center": [
+      14.0157,
+      53.1191
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1011,
+      13.9758,
+      53.1595,
+      14.0472
+    ]
+  },
+  {
+    "id": "angermuende-boelkendorf",
+    "name": "Angermünde - Bölkendorf",
+    "shortName": "AB",
+    "serviceId": "udg",
+    "cityId": "71057",
+    "center": [
+      14,
+      52.95
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9316,
+      13.9783,
+      52.9676,
+      14.0277
+    ]
+  },
+  {
+    "id": "angermuende-bruchhagen",
+    "name": "Angermünde - Bruchhagen",
+    "shortName": "AB",
+    "serviceId": "udg",
+    "cityId": "71058",
+    "center": [
+      13.9736,
+      53.08
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0623,
+      13.927,
+      53.0939,
+      14.0124
+    ]
+  },
+  {
+    "id": "angermuende-crussow",
+    "name": "Angermünde - Crussow",
+    "shortName": "AC",
+    "serviceId": "udg",
+    "cityId": "71059",
+    "center": [
+      14.0814,
+      53.0002
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9819,
+      14.0505,
+      53.0321,
+      14.1247
+    ]
+  },
+  {
+    "id": "angermuende-dobberzin",
+    "name": "Angermünde - Dobberzin",
+    "shortName": "AD",
+    "serviceId": "udg",
+    "cityId": "71060",
+    "center": [
+      14.0345,
+      53.0219
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9958,
+      14.0154,
+      53.0437,
+      14.076
+    ]
+  },
+  {
+    "id": "angermuende-frauenhagen",
+    "name": "Angermünde - Frauenhagen",
+    "shortName": "AF",
+    "serviceId": "udg",
+    "cityId": "71061",
+    "center": [
+      14.0412,
+      53.0816
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0622,
+      14.0051,
+      53.1066,
+      14.0768
+    ]
+  },
+  {
+    "id": "angermuende-friedrichsfelde",
+    "name": "Angermünde - Friedrichsfelde",
+    "shortName": "AF",
+    "serviceId": "udg",
+    "cityId": "71065",
+    "center": [
+      13.8451,
+      53.0926
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0726,
+      13.8251,
+      53.1126,
+      13.8651
+    ]
+  },
+  {
+    "id": "angermuende-greiffenberg",
+    "name": "Angermünde - Greiffenberg",
+    "shortName": "AG",
+    "serviceId": "udg",
+    "cityId": "71068",
+    "center": [
+      13.9562,
+      53.0887
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0571,
+      13.8795,
+      53.106,
+      13.9661
+    ]
+  },
+  {
+    "id": "angermuende-guenterberg",
+    "name": "Angermünde - Günterberg",
+    "shortName": "AG",
+    "serviceId": "udg",
+    "cityId": "71069",
+    "center": [
+      13.9667,
+      53.098
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0858,
+      13.9329,
+      53.1235,
+      14.0114
+    ]
+  },
+  {
+    "id": "prenzlau-schoenwerder",
+    "name": "Prenzlau - Schönwerder",
+    "shortName": "PS",
+    "serviceId": "udg",
+    "cityId": "71200",
+    "center": [
+      13.8445,
+      53.3679
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3546,
+      13.8111,
+      53.4014,
+      13.8763
+    ]
+  },
+  {
+    "id": "schwedt-oder-briest",
+    "name": "Schwedt-Oder - Briest",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71269",
+    "center": [
+      14.0579,
+      53.1531
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1262,
+      14.051,
+      53.1785,
+      14.0967
+    ]
+  },
+  {
+    "id": "schwedt-oder-criewen",
+    "name": "Schwedt-Oder - Criewen",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71215",
+    "center": [
+      14.2235,
+      53.0125
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9871,
+      14.1744,
+      53.0358,
+      14.2613
+    ]
+  },
+  {
+    "id": "schwedt-oder-felchow",
+    "name": "Schwedt-Oder - Felchow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71208",
+    "center": [
+      14.1117,
+      53.0336
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0163,
+      14.0751,
+      53.0559,
+      14.1488
+    ]
+  },
+  {
+    "id": "schwedt-oder-flemsdorf",
+    "name": "Schwedt-Oder - Flemsdorf",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71209",
+    "center": [
+      14.1698,
+      53.0302
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0142,
+      14.1372,
+      53.0613,
+      14.1939
+    ]
+  },
+  {
+    "id": "schwedt-oder-gruenow",
+    "name": "Schwedt-Oder - Grünow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71258",
+    "center": [
+      13.9754,
+      53.31
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2785,
+      13.9207,
+      53.3411,
+      14.0341
+    ]
+  },
+  {
+    "id": "schwedt-oder-hohenfelde",
+    "name": "Schwedt-Oder - Hohenfelde",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71218",
+    "center": [
+      14.2797,
+      53.1345
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1045,
+      14.2655,
+      53.1759,
+      14.3606
+    ]
+  },
+  {
+    "id": "schwedt-oder-jamikow",
+    "name": "Schwedt-Oder - Jamikow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71268",
+    "center": [
+      14.1757,
+      53.1648
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1448,
+      14.1557,
+      53.1848,
+      14.1957
+    ]
+  },
+  {
+    "id": "schwedt-oder-kummerow",
+    "name": "Schwedt-Oder - Kummerow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71219",
+    "center": [
+      14.2027,
+      53.1498
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1332,
+      14.1852,
+      53.1725,
+      14.2355
+    ]
+  },
+  {
+    "id": "schwedt-oder-kunow",
+    "name": "Schwedt-Oder - Kunow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71220",
+    "center": [
+      14.2565,
+      53.1376
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1205,
+      14.2195,
+      53.1644,
+      14.2805
+    ]
+  },
+  {
+    "id": "angermuende-henriettenhof",
+    "name": "Angermünde - Henriettenhof",
+    "shortName": "AH",
+    "serviceId": "udg",
+    "cityId": "71070",
+    "center": [
+      14.0608,
+      53.0219
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9819,
+      14.0108,
+      53.0619,
+      14.1108
+    ]
+  },
+  {
+    "id": "angermuende-leopoldsthal",
+    "name": "Angermünde - Leopoldsthal",
+    "shortName": "AL",
+    "serviceId": "udg",
+    "cityId": "71064",
+    "center": [
+      14.0011,
+      53.1488
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1088,
+      13.9511,
+      53.1888,
+      14.0511
+    ]
+  },
+  {
+    "id": "angermuende-louisenhof",
+    "name": "Angermünde - Louisenhof",
+    "shortName": "AL",
+    "serviceId": "udg",
+    "cityId": "71071",
+    "center": [
+      13.3947,
+      53.602
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.562,
+      13.3447,
+      53.642,
+      13.4447
+    ]
+  },
+  {
+    "id": "angermuende-muerow",
+    "name": "Angermünde - Mürow",
+    "shortName": "AM",
+    "serviceId": "udg",
+    "cityId": "71072",
+    "center": [
+      17.9456,
+      50.8631
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.8231,
+      17.8956,
+      50.9031,
+      17.9956
+    ]
+  },
+  {
+    "id": "angermuende-schmargendorf",
+    "name": "Angermünde - Schmargendorf",
+    "shortName": "AS",
+    "serviceId": "udg",
+    "cityId": "71075",
+    "center": [
+      13.9585,
+      52.9815
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9415,
+      13.9085,
+      53.0215,
+      14.0085
+    ]
+  },
+  {
+    "id": "angermuende-schmiedeberg",
+    "name": "Angermünde - Schmiedeberg",
+    "shortName": "AS",
+    "serviceId": "udg",
+    "cityId": "71076",
+    "center": [
+      13.6762,
+      50.8364
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.7964,
+      13.6262,
+      50.8764,
+      13.7262
+    ]
+  },
+  {
+    "id": "angermuende-welsow",
+    "name": "Angermünde - Welsow",
+    "shortName": "AW",
+    "serviceId": "udg",
+    "cityId": "71080",
+    "center": [
+      14.0022,
+      53.0692
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0292,
+      13.9522,
+      53.1092,
+      14.0522
+    ]
+  },
+  {
+    "id": "boitzenburger-land-berkholz",
+    "name": "Boitzenburger Land - Berkholz",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71086",
+    "center": [
+      13.6609,
+      53.2821
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2421,
+      13.6109,
+      53.3221,
+      13.7109
+    ]
+  },
+  {
+    "id": "boitzenburger-land-buchenhain",
+    "name": "Boitzenburger Land - Buchenhain",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71088",
+    "center": [
+      13.5438,
+      53.3098
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2698,
+      13.4938,
+      53.3498,
+      13.5938
+    ]
+  },
+  {
+    "id": "boitzenburger-land-funkenhagen",
+    "name": "Boitzenburger Land - Funkenhagen",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71089",
+    "center": [
+      15.9204,
+      54.238
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.198,
+      15.8704,
+      54.278,
+      15.9704
+    ]
+  },
+  {
+    "id": "boitzenburger-land-hardenbeck",
+    "name": "Boitzenburger Land - Hardenbeck",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71090",
+    "center": [
+      13.55,
+      53.2598
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2198,
+      13.5,
+      53.2998,
+      13.6
+    ]
+  },
+  {
+    "id": "boitzenburger-land-hassleben",
+    "name": "Boitzenburger Land - Haßleben",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71091",
+    "center": [
+      10.9964,
+      51.1088
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0688,
+      10.9464,
+      51.1488,
+      11.0464
+    ]
+  },
+  {
+    "id": "boitzenburger-land-jakobshagen",
+    "name": "Boitzenburger Land - Jakobshagen",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71092",
+    "center": [
+      15.4289,
+      53.3591
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3191,
+      15.3789,
+      53.3991,
+      15.4789
+    ]
+  },
+  {
+    "id": "boitzenburger-land-klaushagen",
+    "name": "Boitzenburger Land - Klaushagen",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71093",
+    "center": [
+      13.5813,
+      53.23
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.19,
+      13.5313,
+      53.27,
+      13.6313
+    ]
+  },
+  {
+    "id": "boitzenburger-land-warthe",
+    "name": "Boitzenburger Land - Warthe",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71094",
+    "center": [
+      13.9112,
+      53.9836
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9436,
+      13.8612,
+      54.0236,
+      13.9612
+    ]
+  },
+  {
+    "id": "boitzenburger-land-wichmannsdorf",
+    "name": "Boitzenburger Land - Wichmannsdorf",
+    "shortName": "BL",
+    "serviceId": "udg",
+    "cityId": "71095",
+    "center": [
+      11.7369,
+      54.1117
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0717,
+      11.6869,
+      54.1517,
+      11.7869
+    ]
+  },
+  {
+    "id": "casekow-blumberg",
+    "name": "Casekow - Blumberg",
+    "shortName": "CB",
+    "serviceId": "udg",
+    "cityId": "71100",
+    "center": [
+      8.5333,
+      47.8406
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.8006,
+      8.4833,
+      47.8806,
+      8.5833
+    ]
+  },
+  {
+    "id": "casekow-luckow",
+    "name": "Casekow - Luckow",
+    "shortName": "CL",
+    "serviceId": "udg",
+    "cityId": "71101",
+    "center": [
+      14.1603,
+      53.7071
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6671,
+      14.1103,
+      53.7471,
+      14.2103
+    ]
+  },
+  {
+    "id": "casekow-petershagen",
+    "name": "Casekow - Petershagen",
+    "shortName": "CP",
+    "serviceId": "udg",
+    "cityId": "71102",
+    "center": [
+      8.9654,
+      52.3751
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3351,
+      8.9154,
+      52.4151,
+      9.0154
+    ]
+  },
+  {
+    "id": "casekow-woltersdorf",
+    "name": "Casekow - Woltersdorf",
+    "shortName": "CW",
+    "serviceId": "udg",
+    "cityId": "71104",
+    "center": [
+      13.7499,
+      52.4555
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4155,
+      13.6999,
+      52.4955,
+      13.7999
+    ]
+  },
+  {
+    "id": "gartz-oder-friedrichsthal",
+    "name": "Gartz (Oder) - Friedrichsthal",
+    "shortName": "G(",
+    "serviceId": "udg",
+    "cityId": "71109",
+    "center": [
+      7.0962,
+      49.3279
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.2879,
+      7.0462,
+      49.3679,
+      7.1462
+    ]
+  },
+  {
+    "id": "gartz-oder-hohenreinkendorf",
+    "name": "Gartz (Oder) - Hohenreinkendorf",
+    "shortName": "G(",
+    "serviceId": "udg",
+    "cityId": "71111",
+    "center": [
+      14.3303,
+      53.2304
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1904,
+      14.2803,
+      53.2704,
+      14.3803
+    ]
+  },
+  {
+    "id": "gramzow-luetzlow",
+    "name": "Gramzow - Lützlow",
+    "shortName": "GL",
+    "serviceId": "udg",
+    "cityId": "71115",
+    "center": [
+      14.0441,
+      53.2415
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2015,
+      13.9941,
+      53.2815,
+      14.0941
+    ]
+  },
+  {
+    "id": "gramzow-meichow",
+    "name": "Gramzow - Meichow",
+    "shortName": "GM",
+    "serviceId": "udg",
+    "cityId": "71116",
+    "center": [
+      13.9869,
+      53.1842
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1442,
+      13.9369,
+      53.2242,
+      14.0369
+    ]
+  },
+  {
+    "id": "gramzow-neu-meichow",
+    "name": "Gramzow - Neu-Meichow",
+    "shortName": "GN",
+    "serviceId": "udg",
+    "cityId": "71117",
+    "center": [
+      14.0075,
+      53.2125
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1725,
+      13.9575,
+      53.2525,
+      14.0575
+    ]
+  },
+  {
+    "id": "gramzow-polssen",
+    "name": "Gramzow - Polßen",
+    "shortName": "GP",
+    "serviceId": "udg",
+    "cityId": "71118",
+    "center": [
+      13.9732,
+      53.1649
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1249,
+      13.9232,
+      53.2049,
+      14.0232
+    ]
+  },
+  {
+    "id": "gruenow-damme",
+    "name": "Grünow - Damme",
+    "shortName": "GD",
+    "serviceId": "udg",
+    "cityId": "71120",
+    "center": [
+      3.2814,
+      51.2515
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2115,
+      3.2314,
+      51.2915,
+      3.3314
+    ]
+  },
+  {
+    "id": "gruenow-drense",
+    "name": "Grünow - Drense",
+    "shortName": "GD",
+    "serviceId": "udg",
+    "cityId": "71121",
+    "center": [
+      13.9746,
+      53.3095
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2695,
+      13.9246,
+      53.3495,
+      14.0246
+    ]
+  },
+  {
+    "id": "gruenow-heiseshof",
+    "name": "Grünow - Heiseshof",
+    "shortName": "GH",
+    "serviceId": "udg",
+    "cityId": "71122",
+    "center": [
+      13.9484,
+      53.3164
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2764,
+      13.8984,
+      53.3564,
+      13.9984
+    ]
+  },
+  {
+    "id": "hohenselchow-gross-pinnow-heinrichshof",
+    "name": "Hohenselchow-Groß Pinnow - Heinrichshof",
+    "shortName": "HG",
+    "serviceId": "udg",
+    "cityId": "71125",
+    "center": [
+      13.8614,
+      53.7142
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6742,
+      13.8114,
+      53.7542,
+      13.9114
+    ]
+  },
+  {
+    "id": "lychen-beenz",
+    "name": "Lychen - Beenz",
+    "shortName": "LB",
+    "serviceId": "udg",
+    "cityId": "71128",
+    "center": [
+      13.3474,
+      53.2682
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2282,
+      13.2974,
+      53.3082,
+      13.3974
+    ]
+  },
+  {
+    "id": "lychen-rutenberg",
+    "name": "Lychen - Rutenberg",
+    "shortName": "LR",
+    "serviceId": "udg",
+    "cityId": "71131",
+    "center": [
+      13.3068,
+      53.2518
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2118,
+      13.2568,
+      53.2918,
+      13.3568
+    ]
+  },
+  {
+    "id": "mescherin-radekow",
+    "name": "Mescherin - Radekow",
+    "shortName": "MR",
+    "serviceId": "udg",
+    "cityId": "71137",
+    "center": [
+      14.3531,
+      53.3002
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2602,
+      14.3031,
+      53.3402,
+      14.4031
+    ]
+  },
+  {
+    "id": "mescherin-rosow",
+    "name": "Mescherin - Rosow",
+    "shortName": "MR",
+    "serviceId": "udg",
+    "cityId": "71138",
+    "center": [
+      14.3863,
+      53.3057
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2657,
+      14.3363,
+      53.3457,
+      14.4363
+    ]
+  },
+  {
+    "id": "nordwestuckermark-arendsee",
+    "name": "Nordwestuckermark - Arendsee",
+    "shortName": "NA",
+    "serviceId": "udg",
+    "cityId": "71142",
+    "center": [
+      11.7432,
+      54.1476
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.1076,
+      11.6932,
+      54.1876,
+      11.7932
+    ]
+  },
+  {
+    "id": "nordwestuckermark-augustfelde",
+    "name": "Nordwestuckermark - Augustfelde",
+    "shortName": "NA",
+    "serviceId": "udg",
+    "cityId": "71143",
+    "center": [
+      13.6959,
+      53.3984
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3584,
+      13.6459,
+      53.4384,
+      13.7459
+    ]
+  },
+  {
+    "id": "nordwestuckermark-beenz",
+    "name": "Nordwestuckermark - Beenz",
+    "shortName": "NB",
+    "serviceId": "udg",
+    "cityId": "71144",
+    "center": [
+      13.3474,
+      53.2682
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2282,
+      13.2974,
+      53.3082,
+      13.3974
+    ]
+  },
+  {
+    "id": "nordwestuckermark-christianenhof",
+    "name": "Nordwestuckermark - Christianenhof",
+    "shortName": "NC",
+    "serviceId": "udg",
+    "cityId": "71146",
+    "center": [
+      12.4333,
+      54
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.96,
+      12.3833,
+      54.04,
+      12.4833
+    ]
+  },
+  {
+    "id": "nordwestuckermark-damerow",
+    "name": "Nordwestuckermark - Damerow",
+    "shortName": "ND",
+    "serviceId": "udg",
+    "cityId": "71147",
+    "center": [
+      16.3942,
+      54.2754
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.2354,
+      16.3442,
+      54.3154,
+      16.4442
+    ]
+  },
+  {
+    "id": "nordwestuckermark-falkenhagen",
+    "name": "Nordwestuckermark - Falkenhagen",
+    "shortName": "NF",
+    "serviceId": "udg",
+    "cityId": "71148",
+    "center": [
+      14.3167,
+      52.4333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3933,
+      14.2667,
+      52.4733,
+      14.3667
+    ]
+  },
+  {
+    "id": "nordwestuckermark-ferdinandshof",
+    "name": "Nordwestuckermark - Ferdinandshof",
+    "shortName": "NF",
+    "serviceId": "udg",
+    "cityId": "71149",
+    "center": [
+      13.8872,
+      53.6612
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6212,
+      13.8372,
+      53.7012,
+      13.9372
+    ]
+  },
+  {
+    "id": "nordwestuckermark-ferdinandshorst",
+    "name": "Nordwestuckermark - Ferdinandshorst",
+    "shortName": "NF",
+    "serviceId": "udg",
+    "cityId": "71150",
+    "center": [
+      13.6358,
+      53.3665
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3265,
+      13.5858,
+      53.4065,
+      13.6858
+    ]
+  },
+  {
+    "id": "nordwestuckermark-fuerstenwerder",
+    "name": "Nordwestuckermark - Fürstenwerder",
+    "shortName": "NF",
+    "serviceId": "udg",
+    "cityId": "71151",
+    "center": [
+      13.5834,
+      53.3911
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3511,
+      13.5334,
+      53.4311,
+      13.6334
+    ]
+  },
+  {
+    "id": "nordwestuckermark-fuerstenwerder-fiebigershof",
+    "name": "Nordwestuckermark - Fürstenwerder - Fiebigershof",
+    "shortName": "NF",
+    "serviceId": "udg",
+    "cityId": "71152",
+    "center": [
+      13.5834,
+      53.3911
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3511,
+      13.5334,
+      53.4311,
+      13.6334
+    ]
+  },
+  {
+    "id": "nordwestuckermark-gollmitz",
+    "name": "Nordwestuckermark - Gollmitz",
+    "shortName": "NG",
+    "serviceId": "udg",
+    "cityId": "71153",
+    "center": [
+      13.7254,
+      53.2955
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2555,
+      13.6754,
+      53.3355,
+      13.7754
+    ]
+  },
+  {
+    "id": "nordwestuckermark-gross-sperrenwalde",
+    "name": "Nordwestuckermark - Groß Sperrenwalde",
+    "shortName": "NG",
+    "serviceId": "udg",
+    "cityId": "71154",
+    "center": [
+      13.7551,
+      53.2728
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2328,
+      13.7051,
+      53.3128,
+      13.8051
+    ]
+  },
+  {
+    "id": "nordwestuckermark-holzendorf",
+    "name": "Nordwestuckermark - Holzendorf",
+    "shortName": "NH",
+    "serviceId": "udg",
+    "cityId": "71155",
+    "center": [
+      11.8641,
+      53.679
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.639,
+      11.8141,
+      53.719,
+      11.9141
+    ]
+  },
+  {
+    "id": "nordwestuckermark-horst",
+    "name": "Nordwestuckermark - Horst",
+    "shortName": "NH",
+    "serviceId": "udg",
+    "cityId": "71156",
+    "center": [
+      6.0514,
+      51.4542
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4142,
+      6.0014,
+      51.4942,
+      6.1014
+    ]
+  },
+  {
+    "id": "nordwestuckermark-klein-sperrenwalde",
+    "name": "Nordwestuckermark - Klein Sperrenwalde",
+    "shortName": "NK",
+    "serviceId": "udg",
+    "cityId": "71157",
+    "center": [
+      13.7303,
+      53.2859
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2459,
+      13.6803,
+      53.3259,
+      13.7803
+    ]
+  },
+  {
+    "id": "nordwestuckermark-kraatz",
+    "name": "Nordwestuckermark - Kraatz",
+    "shortName": "NK",
+    "serviceId": "udg",
+    "cityId": "71158",
+    "center": [
+      13.6653,
+      53.388
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.348,
+      13.6153,
+      53.428,
+      13.7153
+    ]
+  },
+  {
+    "id": "nordwestuckermark-kroechlendorff",
+    "name": "Nordwestuckermark - Kröchlendorff",
+    "shortName": "NK",
+    "serviceId": "udg",
+    "cityId": "71159",
+    "center": [
+      13.6927,
+      53.2743
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2343,
+      13.6427,
+      53.3143,
+      13.7427
+    ]
+  },
+  {
+    "id": "nordwestuckermark-lindenhagen",
+    "name": "Nordwestuckermark - Lindenhagen",
+    "shortName": "NL",
+    "serviceId": "udg",
+    "cityId": "71160",
+    "center": [
+      13.7678,
+      53.247
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.207,
+      13.7178,
+      53.287,
+      13.8178
+    ]
+  },
+  {
+    "id": "nordwestuckermark-naugarten",
+    "name": "Nordwestuckermark - Naugarten",
+    "shortName": "NN",
+    "serviceId": "udg",
+    "cityId": "71161",
+    "center": [
+      13.6787,
+      53.3112
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2712,
+      13.6287,
+      53.3512,
+      13.7287
+    ]
+  },
+  {
+    "id": "nordwestuckermark-parmen",
+    "name": "Nordwestuckermark - Parmen",
+    "shortName": "NP",
+    "serviceId": "udg",
+    "cityId": "71162",
+    "center": [
+      13.5825,
+      53.3507
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3107,
+      13.5325,
+      53.3907,
+      13.6325
+    ]
+  },
+  {
+    "id": "nordwestuckermark-raakow",
+    "name": "Nordwestuckermark - Raakow",
+    "shortName": "NR",
+    "serviceId": "udg",
+    "cityId": "71163",
+    "center": [
+      13.63,
+      53.3503
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3103,
+      13.58,
+      53.3903,
+      13.68
+    ]
+  },
+  {
+    "id": "nordwestuckermark-rittgarten",
+    "name": "Nordwestuckermark - Rittgarten",
+    "shortName": "NR",
+    "serviceId": "udg",
+    "cityId": "71164",
+    "center": [
+      13.723,
+      53.3751
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3351,
+      13.673,
+      53.4151,
+      13.773
+    ]
+  },
+  {
+    "id": "nordwestuckermark-roepersdorf",
+    "name": "Nordwestuckermark - Röpersdorf",
+    "shortName": "NR",
+    "serviceId": "udg",
+    "cityId": "71165",
+    "center": [
+      13.8452,
+      53.2816
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2416,
+      13.7952,
+      53.3216,
+      13.8952
+    ]
+  },
+  {
+    "id": "nordwestuckermark-schapow",
+    "name": "Nordwestuckermark - Schapow",
+    "shortName": "NS",
+    "serviceId": "udg",
+    "cityId": "71166",
+    "center": [
+      13.7054,
+      53.3565
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3165,
+      13.6554,
+      53.3965,
+      13.7554
+    ]
+  },
+  {
+    "id": "nordwestuckermark-schmachtenhagen",
+    "name": "Nordwestuckermark - Schmachtenhagen",
+    "shortName": "NS",
+    "serviceId": "udg",
+    "cityId": "71167",
+    "center": [
+      13.7846,
+      53.2704
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2304,
+      13.7346,
+      53.3104,
+      13.8346
+    ]
+  },
+  {
+    "id": "nordwestuckermark-schulzenhof",
+    "name": "Nordwestuckermark - Schulzenhof",
+    "shortName": "NS",
+    "serviceId": "udg",
+    "cityId": "71169",
+    "center": [
+      12.9975,
+      53.0871
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0471,
+      12.9475,
+      53.1271,
+      13.0475
+    ]
+  },
+  {
+    "id": "nordwestuckermark-sternhagen",
+    "name": "Nordwestuckermark - Sternhagen",
+    "shortName": "NS",
+    "serviceId": "udg",
+    "cityId": "71170",
+    "center": [
+      13.8019,
+      53.2426
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2026,
+      13.7519,
+      53.2826,
+      13.8519
+    ]
+  },
+  {
+    "id": "nordwestuckermark-warbende",
+    "name": "Nordwestuckermark - Warbende",
+    "shortName": "NW",
+    "serviceId": "udg",
+    "cityId": "71171",
+    "center": [
+      13.3137,
+      53.4152
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3752,
+      13.2637,
+      53.4552,
+      13.3637
+    ]
+  },
+  {
+    "id": "nordwestuckermark-weggun",
+    "name": "Nordwestuckermark - Weggun",
+    "shortName": "NW",
+    "serviceId": "udg",
+    "cityId": "71172",
+    "center": [
+      13.5786,
+      53.3293
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2893,
+      13.5286,
+      53.3693,
+      13.6286
+    ]
+  },
+  {
+    "id": "nordwestuckermark-wilhelmshayn",
+    "name": "Nordwestuckermark - Wilhelmshayn",
+    "shortName": "NW",
+    "serviceId": "udg",
+    "cityId": "71173",
+    "center": [
+      13.6281,
+      53.383
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.343,
+      13.5781,
+      53.423,
+      13.6781
+    ]
+  },
+  {
+    "id": "nordwestuckermark-wittstock",
+    "name": "Nordwestuckermark - Wittstock",
+    "shortName": "NW",
+    "serviceId": "udg",
+    "cityId": "71175",
+    "center": [
+      12.4829,
+      53.1612
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1212,
+      12.4329,
+      53.2012,
+      12.5329
+    ]
+  },
+  {
+    "id": "nordwestuckermark-zernikow",
+    "name": "Nordwestuckermark - Zernikow",
+    "shortName": "NZ",
+    "serviceId": "udg",
+    "cityId": "71176",
+    "center": [
+      12.0769,
+      52.9656
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9256,
+      12.0269,
+      53.0056,
+      12.1269
+    ]
+  },
+  {
+    "id": "nordwestuckermark-zollchow",
+    "name": "Nordwestuckermark - Zollchow",
+    "shortName": "NZ",
+    "serviceId": "udg",
+    "cityId": "71177",
+    "center": [
+      13.8483,
+      53.261
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.221,
+      13.7983,
+      53.301,
+      13.8983
+    ]
+  },
+  {
+    "id": "oberuckersee-blankenburg",
+    "name": "Oberuckersee - Blankenburg",
+    "shortName": "OB",
+    "serviceId": "udg",
+    "cityId": "71178",
+    "center": [
+      10.75,
+      51.2
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.16,
+      10.7,
+      51.24,
+      10.8
+    ]
+  },
+  {
+    "id": "oberuckersee-potzlow",
+    "name": "Oberuckersee - Potzlow",
+    "shortName": "OP",
+    "serviceId": "udg",
+    "cityId": "71179",
+    "center": [
+      13.8411,
+      53.2188
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1788,
+      13.7911,
+      53.2588,
+      13.8911
+    ]
+  },
+  {
+    "id": "oberuckersee-strehlow",
+    "name": "Oberuckersee - Strehlow",
+    "shortName": "OS",
+    "serviceId": "udg",
+    "cityId": "71181",
+    "center": [
+      13.843,
+      53.2279
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1879,
+      13.793,
+      53.2679,
+      13.893
+    ]
+  },
+  {
+    "id": "oberuckersee-warnitz-gruenheide",
+    "name": "Oberuckersee - Warnitz - Grünheide",
+    "shortName": "OW",
+    "serviceId": "udg",
+    "cityId": "71183",
+    "center": [
+      14.994,
+      53.2538
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2138,
+      14.944,
+      53.2938,
+      15.044
+    ]
+  },
+  {
+    "id": "oberuckersee-warnitz-neuhof",
+    "name": "Oberuckersee - Warnitz - Neuhof",
+    "shortName": "OW",
+    "serviceId": "udg",
+    "cityId": "71185",
+    "center": [
+      14.994,
+      53.2538
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2138,
+      14.944,
+      53.2938,
+      15.044
+    ]
+  },
+  {
+    "id": "prenzlau-basedow",
+    "name": "Prenzlau - Basedow",
+    "shortName": "PB",
+    "serviceId": "udg",
+    "cityId": "71193",
+    "center": [
+      10.5885,
+      53.4169
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3769,
+      10.5385,
+      53.4569,
+      10.6385
+    ]
+  },
+  {
+    "id": "prenzlau-dauer",
+    "name": "Prenzlau - Dauer",
+    "shortName": "PD",
+    "serviceId": "udg",
+    "cityId": "71195",
+    "center": [
+      13.9138,
+      53.3898
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3498,
+      13.8638,
+      53.4298,
+      13.9638
+    ]
+  },
+  {
+    "id": "prenzlau-dedelow",
+    "name": "Prenzlau - Dedelow",
+    "shortName": "PD",
+    "serviceId": "udg",
+    "cityId": "71196",
+    "center": [
+      13.7988,
+      53.3613
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3213,
+      13.7488,
+      53.4013,
+      13.8488
+    ]
+  },
+  {
+    "id": "prenzlau-klinkow",
+    "name": "Prenzlau - Klinkow",
+    "shortName": "PK",
+    "serviceId": "udg",
+    "cityId": "71198",
+    "center": [
+      13.8088,
+      53.336
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.296,
+      13.7588,
+      53.376,
+      13.8588
+    ]
+  },
+  {
+    "id": "randowtal-eickstedt",
+    "name": "Randowtal - Eickstedt",
+    "shortName": "RE",
+    "serviceId": "udg",
+    "cityId": "71202",
+    "center": [
+      14.0412,
+      53.2985
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2585,
+      13.9912,
+      53.3385,
+      14.0912
+    ]
+  },
+  {
+    "id": "randowtal-schmoelln",
+    "name": "Randowtal - Schmölln",
+    "shortName": "RS",
+    "serviceId": "udg",
+    "cityId": "71203",
+    "center": [
+      12.3534,
+      50.8968
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.8568,
+      12.3034,
+      50.9368,
+      12.4034
+    ]
+  },
+  {
+    "id": "randowtal-ziemkendorf",
+    "name": "Randowtal - Ziemkendorf",
+    "shortName": "RZ",
+    "serviceId": "udg",
+    "cityId": "71204",
+    "center": [
+      14.0178,
+      53.3199
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2799,
+      13.9678,
+      53.3599,
+      14.0678
+    ]
+  },
+  {
+    "id": "schwedt-oder-blumenhagen",
+    "name": "Schwedt-Oder - Blumenhagen",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71214",
+    "center": [
+      13.875,
+      53.5321
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4921,
+      13.825,
+      53.5721,
+      13.925
+    ]
+  },
+  {
+    "id": "schwedt-oder-passow",
+    "name": "Schwedt-Oder - Passow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71262",
+    "center": [
+      14.1142,
+      53.1429
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1029,
+      14.0642,
+      53.1829,
+      14.1642
+    ]
+  },
+  {
+    "id": "schwedt-oder-schoeneberg",
+    "name": "Schwedt-Oder - Schöneberg",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71206",
+    "center": [
+      13.3443,
+      52.498
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.458,
+      13.2943,
+      52.538,
+      13.3943
+    ]
+  },
+  {
+    "id": "schwedt-oder-schoenermark",
+    "name": "Schwedt-Oder - Schönermark",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71263",
+    "center": [
+      13.1202,
+      53.007
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.967,
+      13.0702,
+      53.047,
+      13.1702
+    ]
+  },
+  {
+    "id": "schwedt-oder-schoenow",
+    "name": "Schwedt-Oder - Schönow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71264",
+    "center": [
+      14.153,
+      53.1789
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1389,
+      14.103,
+      53.2189,
+      14.203
+    ]
+  },
+  {
+    "id": "schwedt-oder-stendell",
+    "name": "Schwedt-Oder - Stendell",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71221",
+    "center": [
+      14.1661,
+      53.1435
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1035,
+      14.1161,
+      53.1835,
+      14.2161
+    ]
+  },
+  {
+    "id": "schwedt-oder-stuetzkow",
+    "name": "Schwedt-Oder - Stützkow",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71211",
+    "center": [
+      14.1731,
+      52.9929
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9529,
+      14.1231,
+      53.0329,
+      14.2231
+    ]
+  },
+  {
+    "id": "schwedt-oder-vierraden",
+    "name": "Schwedt-Oder - Vierraden",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71222",
+    "center": [
+      14.2934,
+      53.0967
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0567,
+      14.2434,
+      53.1367,
+      14.3434
+    ]
+  },
+  {
+    "id": "schwedt-oder-wendemark",
+    "name": "Schwedt-Oder - Wendemark",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71267",
+    "center": [
+      11.9261,
+      52.8599
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.8199,
+      11.8761,
+      52.8999,
+      11.9761
+    ]
+  },
+  {
+    "id": "schwedt-oder-zuetzen",
+    "name": "Schwedt-Oder - Zützen",
+    "shortName": "SO",
+    "serviceId": "udg",
+    "cityId": "71223",
+    "center": [
+      14.2349,
+      53.0263
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9863,
+      14.1849,
+      53.0663,
+      14.2849
+    ]
+  },
+  {
+    "id": "tantow-damitzow",
+    "name": "Tantow - Damitzow",
+    "shortName": "TD",
+    "serviceId": "udg",
+    "cityId": "71225",
+    "center": [
+      14.3335,
+      53.2873
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2473,
+      14.2835,
+      53.3273,
+      14.3835
+    ]
+  },
+  {
+    "id": "templin-beutel",
+    "name": "Templin - Beutel",
+    "shortName": "TB",
+    "serviceId": "udg",
+    "cityId": "71231",
+    "center": [
+      13.3889,
+      53.1138
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0738,
+      13.3389,
+      53.1538,
+      13.4389
+    ]
+  },
+  {
+    "id": "templin-densow",
+    "name": "Templin - Densow",
+    "shortName": "TD",
+    "serviceId": "udg",
+    "cityId": "71232",
+    "center": [
+      13.3779,
+      53.1453
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1053,
+      13.3279,
+      53.1853,
+      13.4279
+    ]
+  },
+  {
+    "id": "templin-gandenitz",
+    "name": "Templin - Gandenitz",
+    "shortName": "TG",
+    "serviceId": "udg",
+    "cityId": "71233",
+    "center": [
+      13.4409,
+      53.1735
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1335,
+      13.3909,
+      53.2135,
+      13.4909
+    ]
+  },
+  {
+    "id": "templin-gross-doelln",
+    "name": "Templin - Groß Dölln",
+    "shortName": "TG",
+    "serviceId": "udg",
+    "cityId": "71235",
+    "center": [
+      13.5255,
+      52.9928
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9528,
+      13.4755,
+      53.0328,
+      13.5755
+    ]
+  },
+  {
+    "id": "templin-grunewald",
+    "name": "Templin - Grunewald",
+    "shortName": "TG",
+    "serviceId": "udg",
+    "cityId": "71236",
+    "center": [
+      14,
+      51.4
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.36,
+      13.95,
+      51.44,
+      14.05
+    ]
+  },
+  {
+    "id": "templin-hammelspring",
+    "name": "Templin - Hammelspring",
+    "shortName": "TH",
+    "serviceId": "udg",
+    "cityId": "71237",
+    "center": [
+      13.4319,
+      53.0714
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0314,
+      13.3819,
+      53.1114,
+      13.4819
+    ]
+  },
+  {
+    "id": "templin-knehden",
+    "name": "Templin - Knehden",
+    "shortName": "TK",
+    "serviceId": "udg",
+    "cityId": "71241",
+    "center": [
+      13.5022,
+      53.1187
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0787,
+      13.4522,
+      53.1587,
+      13.5522
+    ]
+  },
+  {
+    "id": "templin-netzow",
+    "name": "Templin - Netzow",
+    "shortName": "TN",
+    "serviceId": "udg",
+    "cityId": "71242",
+    "center": [
+      13.4987,
+      53.1563
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1163,
+      13.4487,
+      53.1963,
+      13.5487
+    ]
+  },
+  {
+    "id": "templin-storkow",
+    "name": "Templin - Storkow",
+    "shortName": "TS",
+    "serviceId": "udg",
+    "cityId": "71245",
+    "center": [
+      13.9334,
+      52.2566
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2166,
+      13.8834,
+      52.2966,
+      13.9834
+    ]
+  },
+  {
+    "id": "uckerfelde-bertikow",
+    "name": "Uckerfelde - Bertikow",
+    "shortName": "UB",
+    "serviceId": "udg",
+    "cityId": "71247",
+    "center": [
+      13.9381,
+      53.2449
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2049,
+      13.8881,
+      53.2849,
+      13.9881
+    ]
+  },
+  {
+    "id": "uckerfelde-bietikow",
+    "name": "Uckerfelde - Bietikow",
+    "shortName": "UB",
+    "serviceId": "udg",
+    "cityId": "71248",
+    "center": [
+      13.9394,
+      53.2694
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2294,
+      13.8894,
+      53.3094,
+      13.9894
+    ]
+  },
+  {
+    "id": "uckerfelde-falkenwalde",
+    "name": "Uckerfelde - Falkenwalde",
+    "shortName": "UF",
+    "serviceId": "udg",
+    "cityId": "71249",
+    "center": [
+      14.0054,
+      53.2671
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2271,
+      13.9554,
+      53.3071,
+      14.0554
+    ]
+  },
+  {
+    "id": "uckerfelde-hohenguestow",
+    "name": "Uckerfelde - Hohengüstow",
+    "shortName": "UH",
+    "serviceId": "udg",
+    "cityId": "71250",
+    "center": [
+      13.9842,
+      53.237
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.197,
+      13.9342,
+      53.277,
+      14.0342
+    ]
+  },
+  {
+    "id": "uckerland-luebbenow",
+    "name": "Uckerland - Lübbenow",
+    "shortName": "UL",
+    "serviceId": "udg",
+    "cityId": "71252",
+    "center": [
+      13.8052,
+      53.4504
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4104,
+      13.7552,
+      53.4904,
+      13.8552
+    ]
+  },
+  {
+    "id": "uckerland-wolfshagen",
+    "name": "Uckerland - Wolfshagen",
+    "shortName": "UW",
+    "serviceId": "udg",
+    "cityId": "71253",
+    "center": [
+      21.4773,
+      54.2555
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.2155,
+      21.4273,
+      54.2955,
+      21.5273
+    ]
+  },
+  {
+    "id": "zichow-fredersdorf",
+    "name": "Zichow - Fredersdorf",
+    "shortName": "ZF",
+    "serviceId": "udg",
+    "cityId": "71255",
+    "center": [
+      14.0315,
+      53.1716
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1316,
+      13.9815,
+      53.2116,
+      14.0815
+    ]
+  },
+  {
+    "id": "zichow-golm",
+    "name": "Zichow - Golm",
+    "shortName": "ZG",
+    "serviceId": "udg",
+    "cityId": "71256",
+    "center": [
+      13.5643,
+      53.5643
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5243,
+      13.5143,
+      53.6043,
+      13.6143
+    ]
+  },
+  {
+    "id": "ahrensfelde-mehrow",
+    "name": "Ahrensfelde-Mehrow",
+    "shortName": "AM",
+    "serviceId": "bdg",
+    "cityId": "177",
+    "center": [
+      13.6155,
+      52.5709
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5309,
+      13.5655,
+      52.6109,
+      13.6655
+    ]
+  },
+  {
+    "id": "bernau-bei-berlin-birkholz",
+    "name": "Bernau bei Berlin-Birkholz",
+    "shortName": "BB",
+    "serviceId": "bdg",
+    "cityId": "93",
+    "center": [
+      11.8391,
+      52.4162
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3762,
+      11.7891,
+      52.4562,
+      11.8891
+    ]
+  },
+  {
+    "id": "bernau-bei-berlin-birkholzaue",
+    "name": "Bernau bei Berlin-Birkholzaue",
+    "shortName": "BB",
+    "serviceId": "bdg",
+    "cityId": "94",
+    "center": [
+      13.6092,
+      52.6341
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5941,
+      13.5592,
+      52.6741,
+      13.6592
+    ]
+  },
+  {
+    "id": "breydin-tuchen-klobbicke",
+    "name": "Breydin-Tuchen-Klobbicke",
+    "shortName": "BT",
+    "serviceId": "bdg",
+    "cityId": "104",
+    "center": [
+      12.0931,
+      53.0626
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0226,
+      12.0431,
+      53.1026,
+      12.1431
+    ]
+  },
+  {
+    "id": "chorin-golzow",
+    "name": "Chorin-Golzow",
+    "shortName": "CG",
+    "serviceId": "bdg",
+    "cityId": "108",
+    "center": [
+      12.6005,
+      52.2762
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2362,
+      12.5505,
+      52.3162,
+      12.6505
+    ]
+  },
+  {
+    "id": "chorin-neuehuette",
+    "name": "Chorin-Neuehütte",
+    "shortName": "CN",
+    "serviceId": "bdg",
+    "cityId": "109",
+    "center": [
+      13.8539,
+      52.8676
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.8276,
+      13.8039,
+      52.9076,
+      13.9039
+    ]
+  },
+  {
+    "id": "chorin-senftenhuette",
+    "name": "Chorin-Senftenhütte",
+    "shortName": "CS",
+    "serviceId": "bdg",
+    "cityId": "111",
+    "center": [
+      13.86,
+      52.9334
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.8934,
+      13.81,
+      52.9734,
+      13.91
+    ]
+  },
+  {
+    "id": "chorin-serwest",
+    "name": "Chorin-Serwest",
+    "shortName": "CS",
+    "serviceId": "bdg",
+    "cityId": "112",
+    "center": [
+      13.9293,
+      52.9351
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.8951,
+      13.8793,
+      52.9751,
+      13.9793
+    ]
+  },
+  {
+    "id": "eberswalde-sommerfelde",
+    "name": "Eberswalde-Sommerfelde",
+    "shortName": "ES",
+    "serviceId": "bdg",
+    "cityId": "113",
+    "center": [
+      13.8677,
+      52.8236
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.7836,
+      13.8177,
+      52.8636,
+      13.9177
+    ]
+  },
+  {
+    "id": "eberswalde-tornow",
+    "name": "Eberswalde-Tornow",
+    "shortName": "ET",
+    "serviceId": "bdg",
+    "cityId": "116",
+    "center": [
+      14.9563,
+      52.7617
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.7217,
+      14.9063,
+      52.8017,
+      15.0063
+    ]
+  },
+  {
+    "id": "friedrichswalde-parlow-glambeck",
+    "name": "Friedrichswalde-Parlow-Glambeck",
+    "shortName": "FP",
+    "serviceId": "bdg",
+    "cityId": "118",
+    "center": [
+      13.7621,
+      53.0254
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9854,
+      13.7121,
+      53.0654,
+      13.8121
+    ]
+  },
+  {
+    "id": "melchow-schoenholz",
+    "name": "Melchow-Schönholz",
+    "shortName": "MS",
+    "serviceId": "bdg",
+    "cityId": "128",
+    "center": [
+      13.7599,
+      52.7801
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.7401,
+      13.7099,
+      52.8201,
+      13.8099
+    ]
+  },
+  {
+    "id": "panketal-hobrechtsfelde",
+    "name": "Panketal-Hobrechtsfelde",
+    "shortName": "PH",
+    "serviceId": "bdg",
+    "cityId": "183",
+    "center": [
+      13.4944,
+      52.6655
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6255,
+      13.4444,
+      52.7055,
+      13.5444
+    ]
+  },
+  {
+    "id": "parsteinsee-luedersdorf",
+    "name": "Parsteinsee-Lüdersdorf",
+    "shortName": "PL",
+    "serviceId": "bdg",
+    "cityId": "131",
+    "center": [
+      11.7489,
+      53.8683
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8283,
+      11.6989,
+      53.9083,
+      11.7989
+    ]
+  },
+  {
+    "id": "schorfheide-altenhof",
+    "name": "Schorfheide-Altenhof",
+    "shortName": "SA",
+    "serviceId": "bdg",
+    "cityId": "135",
+    "center": [
+      9.8727,
+      54.434
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.394,
+      9.8227,
+      54.474,
+      9.9227
+    ]
+  },
+  {
+    "id": "schorfheide-boehmerheide",
+    "name": "Schorfheide-Böhmerheide",
+    "shortName": "SB",
+    "serviceId": "bdg",
+    "cityId": "136",
+    "center": [
+      13.4767,
+      52.8864
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.8464,
+      13.4267,
+      52.9264,
+      13.5267
+    ]
+  },
+  {
+    "id": "schorfheide-klandorf",
+    "name": "Schorfheide-Klandorf",
+    "shortName": "SK",
+    "serviceId": "bdg",
+    "cityId": "140",
+    "center": [
+      13.565,
+      52.8735
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.8335,
+      13.515,
+      52.9135,
+      13.615
+    ]
+  },
+  {
+    "id": "schorfheide-schluft",
+    "name": "Schorfheide-Schluft",
+    "shortName": "SS",
+    "serviceId": "bdg",
+    "cityId": "142",
+    "center": [
+      13.471,
+      52.9446
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9046,
+      13.421,
+      52.9846,
+      13.521
+    ]
+  },
+  {
+    "id": "schorfheide-werbellin",
+    "name": "Schorfheide-Werbellin",
+    "shortName": "SW",
+    "serviceId": "bdg",
+    "cityId": "143",
+    "center": [
+      13.7035,
+      52.8902
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.8502,
+      13.6535,
+      52.9302,
+      13.7535
+    ]
+  },
+  {
+    "id": "sydower-fliess-tempelfelde",
+    "name": "Sydower Fließ-Tempelfelde",
+    "shortName": "SF",
+    "serviceId": "bdg",
+    "cityId": "145",
+    "center": [
+      13.7192,
+      52.7089
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6689,
+      13.6692,
+      52.7489,
+      13.7692
+    ]
+  },
+  {
+    "id": "wandlitz-klosterfelde",
+    "name": "Wandlitz-Klosterfelde",
+    "shortName": "WK",
+    "serviceId": "bdg",
+    "cityId": "147",
+    "center": [
+      13.4789,
+      52.7971
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.7571,
+      13.4289,
+      52.8371,
+      13.5289
+    ]
+  },
+  {
+    "id": "wandlitz-prenden",
+    "name": "Wandlitz-Prenden",
+    "shortName": "WP",
+    "serviceId": "bdg",
+    "cityId": "149",
+    "center": [
+      13.549,
+      52.7921
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.7521,
+      13.499,
+      52.8321,
+      13.599
+    ]
+  },
+  {
+    "id": "wandlitz-schoenwalde",
+    "name": "Wandlitz-Schönwalde",
+    "shortName": "WS",
+    "serviceId": "bdg",
+    "cityId": "151",
+    "center": [
+      13.4349,
+      52.6795
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6395,
+      13.3849,
+      52.7195,
+      13.4849
+    ]
+  },
+  {
+    "id": "wandlitz-zerpenschleuse",
+    "name": "Wandlitz-Zerpenschleuse",
+    "shortName": "WZ",
+    "serviceId": "bdg",
+    "cityId": "154",
+    "center": [
+      13.528,
+      52.8521
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.8121,
+      13.478,
+      52.8921,
+      13.578
+    ]
+  },
+  {
+    "id": "werneuchen-hirschfelde",
+    "name": "Werneuchen-Hirschfelde",
+    "shortName": "WH",
+    "serviceId": "bdg",
+    "cityId": "155",
+    "center": [
+      14.8851,
+      50.9444
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.9044,
+      14.8351,
+      50.9844,
+      14.9351
+    ]
+  },
+  {
+    "id": "werneuchen-krummensee",
+    "name": "Werneuchen-Krummensee",
+    "shortName": "WK",
+    "serviceId": "bdg",
+    "cityId": "156",
+    "center": [
+      13.6926,
+      52.5962
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5562,
+      13.6426,
+      52.6362,
+      13.7426
+    ]
+  },
+  {
+    "id": "werneuchen-loehme",
+    "name": "Werneuchen-Löhme",
+    "shortName": "WL",
+    "serviceId": "bdg",
+    "cityId": "157",
+    "center": [
+      13.6107,
+      54.5831
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.5431,
+      13.5607,
+      54.6231,
+      13.6607
+    ]
+  },
+  {
+    "id": "werneuchen-schoenfeld",
+    "name": "Werneuchen-Schönfeld",
+    "shortName": "WS",
+    "serviceId": "bdg",
+    "cityId": "158",
+    "center": [
+      13.7,
+      51.3
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.26,
+      13.65,
+      51.34,
+      13.75
+    ]
+  },
+  {
+    "id": "werneuchen-seefeld",
+    "name": "Werneuchen-Seefeld",
+    "shortName": "WS",
+    "serviceId": "bdg",
+    "cityId": "159",
+    "center": [
+      11.1879,
+      47.3302
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      47.2902,
+      11.1379,
+      47.3702,
+      11.2379
+    ]
+  },
+  {
+    "id": "werneuchen-tiefensee",
+    "name": "Werneuchen-Tiefensee",
+    "shortName": "WT",
+    "serviceId": "bdg",
+    "cityId": "160",
+    "center": [
+      20.2739,
+      54.3791
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.3391,
+      20.2239,
+      54.4191,
+      20.3239
+    ]
+  },
+  {
+    "id": "bad-schwartau",
+    "name": "Bad Schwartau",
+    "shortName": "BS",
+    "serviceId": "zvo",
+    "cityId": "16",
+    "center": [
+      10.6969,
+      53.9189
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8789,
+      10.6469,
+      53.9589,
+      10.7469
+    ]
+  },
+  {
+    "id": "eutin",
+    "name": "Eutin",
+    "shortName": "EUT",
+    "serviceId": "zvo",
+    "cityId": "84",
+    "center": [
+      10.6115,
+      54.135
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.095,
+      10.5615,
+      54.175,
+      10.6615
+    ]
+  },
+  {
+    "id": "grube",
+    "name": "Grube",
+    "shortName": "GRU",
+    "serviceId": "zvo",
+    "cityId": "135",
+    "center": [
+      11.0372,
+      54.2304
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.1904,
+      10.9872,
+      54.2704,
+      11.0872
+    ]
+  },
+  {
+    "id": "stockelsdorf",
+    "name": "Stockelsdorf",
+    "shortName": "STO",
+    "serviceId": "zvo",
+    "cityId": "414",
+    "center": [
+      10.6471,
+      53.8922
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8522,
+      10.5971,
+      53.9322,
+      10.6971
+    ]
+  },
+  {
+    "id": "timmendorfer-strand",
+    "name": "Timmendorfer Strand",
+    "shortName": "TS",
+    "serviceId": "zvo",
+    "cityId": "436",
+    "center": [
+      10.7768,
+      53.9953
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9553,
+      10.7268,
+      54.0353,
+      10.8268
+    ]
   }
 ]

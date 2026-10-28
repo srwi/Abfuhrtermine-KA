@@ -11,9 +11,9 @@ import { LeipzigFetcher } from './leipzig.ts';
 import { MuellmaxFetcher, type MuellmaxConfig } from './muellmax.ts';
 import { AbfallPlusFetcher, type AbfallPlusConfig } from './abfallplus.ts';
 import { JumoMindFetcher, type JumoMindConfig } from './jumomind.ts';
-import jumoCitiesRaw from './jumomind-cities.json';
-import abfallPlusCitiesRaw from './abfallplus-cities.json';
-import muellmaxCitiesRaw from './muellmax-cities.json';
+import jumoCitiesRaw from './jumomind-cities.json' with { type: 'json' };
+import abfallPlusCitiesRaw from './abfallplus-cities.json' with { type: 'json' };
+import muellmaxCitiesRaw from './muellmax-cities.json' with { type: 'json' };
 
 export * from './types.ts';
 export * from './karlsruhe.ts';

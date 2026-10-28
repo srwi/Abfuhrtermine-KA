@@ -1,4 +1,4 @@
-import existingCities from '../src/lib/cities.json';
+import existingCities from '../src/lib/cities.json' with { type: 'json' };
 
 interface Candidate {
   name: string;

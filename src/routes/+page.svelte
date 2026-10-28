@@ -6,6 +6,7 @@
   import MapView from '$lib/components/MapView.svelte';
   import DatePicker from '$lib/components/DatePicker.svelte';
   import ThemeToggle from '$lib/components/ThemeToggle.svelte';
+  import CityPicker from '$lib/components/CityPicker.svelte';
   import {
     CITIES,
     CITY_MAP,
@@ -172,16 +173,7 @@
           <div>
             <h1 class="text-lg font-bold text-foreground md:text-xl">Abfuhrtermine</h1>
             <div class="mt-1 flex items-center gap-1.5 text-xs text-muted-foreground">
-              <select
-                aria-label="Stadt auswählen"
-                bind:value={selectedCityId}
-                on:change={() => handleCityChange(selectedCityId)}
-                class="cursor-pointer rounded-md border border-border bg-background/80 px-2 py-0.5 font-medium text-foreground outline-none transition hover:border-foreground/40 focus:ring-1 focus:ring-primary"
-              >
-                {#each CITIES as city}
-                  <option value={city.id}>{city.name}</option>
-                {/each}
-              </select>
+              <CityPicker cities={CITIES} {selectedCityId} onSelect={handleCityChange} />
               <span>· {currentCalendar.year}</span>
             </div>
           </div>
