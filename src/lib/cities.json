@@ -99,22 +99,6 @@
     ]
   },
   {
-    "id": "absberg",
-    "name": "Absberg",
-    "shortName": "ABS",
-    "center": [
-      10.881,
-      49.1444
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0944,
-      10.821,
-      49.1944,
-      10.941
-    ]
-  },
-  {
     "id": "abstatt",
     "name": "Abstatt",
     "shortName": "ABS",
@@ -774,22 +758,6 @@
       10.5667,
       48.89,
       10.6667
-    ]
-  },
-  {
-    "id": "alesheim",
-    "name": "Alesheim",
-    "shortName": "ALE",
-    "center": [
-      10.865,
-      49.0465
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9965,
-      10.805,
-      49.0965,
-      10.925
     ]
   },
   {
@@ -5329,22 +5297,6 @@
     ]
   },
   {
-    "id": "bergen-lk-weissenburg-gunzenhausen",
-    "name": "Bergen (LK Weißenburg-Gunzenhausen)",
-    "shortName": "BER",
-    "center": [
-      12.5898,
-      47.8084
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      47.7584,
-      12.5298,
-      47.8584,
-      12.6498
-    ]
-  },
-  {
     "id": "bergenhausen",
     "name": "Bergenhausen",
     "shortName": "BER",
@@ -5921,22 +5873,6 @@
       9.7309,
       53.7671,
       9.7986
-    ]
-  },
-  {
-    "id": "beverstedt",
-    "name": "Beverstedt",
-    "shortName": "BEV",
-    "center": [
-      8.8192,
-      53.4341
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.3841,
-      8.7592,
-      53.4841,
-      8.8792
     ]
   },
   {
@@ -7427,22 +7363,6 @@
       7.4591,
       50.2656,
       7.6657
-    ]
-  },
-  {
-    "id": "boerde-lamstedt",
-    "name": "Börde Lamstedt",
-    "shortName": "BOER",
-    "center": [
-      9.103,
-      53.5892
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.5892,
-      9.103,
-      53.5893,
-      9.1031
     ]
   },
   {
@@ -9471,22 +9391,6 @@
     ]
   },
   {
-    "id": "burgsalach",
-    "name": "Burgsalach",
-    "shortName": "BUR",
-    "center": [
-      11.0977,
-      49.0332
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9832,
-      11.0377,
-      49.0832,
-      11.1577
-    ]
-  },
-  {
     "id": "burgstetten",
     "name": "Burgstetten",
     "shortName": "BUR",
@@ -11428,22 +11332,6 @@
       10.1697,
       50.1121,
       10.2697
-    ]
-  },
-  {
-    "id": "dittenheim",
-    "name": "Dittenheim",
-    "shortName": "DIT",
-    "center": [
-      10.792,
-      49.0554
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0054,
-      10.732,
-      49.1054,
-      10.852
     ]
   },
   {
@@ -13833,22 +13721,6 @@
     ]
   },
   {
-    "id": "ellingen",
-    "name": "Ellingen",
-    "shortName": "ELL",
-    "center": [
-      10.9678,
-      49.0608
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0108,
-      10.9078,
-      49.1108,
-      11.0278
-    ]
-  },
-  {
     "id": "ellwangen",
     "name": "Ellwangen",
     "shortName": "ELL",
@@ -14933,22 +14805,6 @@
       11.4116,
       51.1917,
       11.5116
-    ]
-  },
-  {
-    "id": "ettenstatt",
-    "name": "Ettenstatt",
-    "shortName": "ETT",
-    "center": [
-      11.0554,
-      49.0775
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0275,
-      10.9954,
-      49.1275,
-      11.1154
     ]
   },
   {
@@ -17159,22 +17015,6 @@
     ]
   },
   {
-    "id": "geestland",
-    "name": "Geestland",
-    "shortName": "GEE",
-    "center": [
-      8.5944,
-      53.6097
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.5191,
-      8.5086,
-      53.7373,
-      8.9957
-    ]
-  },
-  {
     "id": "gefell",
     "name": "Gefell",
     "shortName": "GEF",
@@ -18330,22 +18170,6 @@
       8.9451,
       53.4363,
       9.0651
-    ]
-  },
-  {
-    "id": "gnotzheim",
-    "name": "Gnotzheim",
-    "shortName": "GNO",
-    "center": [
-      10.7127,
-      49.0598
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0098,
-      10.6527,
-      49.1098,
-      10.7727
     ]
   },
   {
@@ -20790,22 +20614,6 @@
     ]
   },
   {
-    "id": "gunzenhausen",
-    "name": "Gunzenhausen",
-    "shortName": "GUN",
-    "center": [
-      10.7597,
-      49.1166
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0666,
-      10.6997,
-      49.1666,
-      10.8197
-    ]
-  },
-  {
     "id": "gusow-platkow",
     "name": "Gusow-Platkow",
     "shortName": "GUS",
@@ -21062,22 +20870,6 @@
       7.8997,
       52.2234,
       8.0414
-    ]
-  },
-  {
-    "id": "hagen-i-br",
-    "name": "Hagen i. Br.",
-    "shortName": "HAG",
-    "center": [
-      8.6456,
-      53.3577
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.2811,
-      8.4964,
-      53.437,
-      8.7763
     ]
   },
   {
@@ -22319,22 +22111,6 @@
     ]
   },
   {
-    "id": "haundorf",
-    "name": "Haundorf",
-    "shortName": "HAU",
-    "center": [
-      10.7712,
-      49.176
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.126,
-      10.7112,
-      49.226,
-      10.8312
-    ]
-  },
-  {
     "id": "haunsheim",
     "name": "Haunsheim",
     "shortName": "HAU",
@@ -22783,22 +22559,6 @@
       10.158,
       50.0075,
       10.258
-    ]
-  },
-  {
-    "id": "heidenheim",
-    "name": "Heidenheim",
-    "shortName": "HEI",
-    "center": [
-      10.7435,
-      49.0172
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9672,
-      10.6835,
-      49.0672,
-      10.8035
     ]
   },
   {
@@ -23442,22 +23202,6 @@
       9.6701,
       52.3361,
       9.7835
-    ]
-  },
-  {
-    "id": "hemmoor",
-    "name": "Hemmoor",
-    "shortName": "HEM",
-    "center": [
-      9.1524,
-      53.6884
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.6384,
-      9.0924,
-      53.7384,
-      9.2124
     ]
   },
   {
@@ -25492,22 +25236,6 @@
       12.2792,
       47.9938,
       12.3792
-    ]
-  },
-  {
-    "id": "hoettingen",
-    "name": "Höttingen",
-    "shortName": "HOET",
-    "center": [
-      11.0053,
-      49.0626
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0126,
-      10.9453,
-      49.1126,
-      11.0653
     ]
   },
   {
@@ -30702,22 +30430,6 @@
     ]
   },
   {
-    "id": "land-hadeln",
-    "name": "Land Hadeln",
-    "shortName": "LAN",
-    "center": [
-      8.933,
-      53.7372
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.6339,
-      8.7103,
-      53.8403,
-      9.2234
-    ]
-  },
-  {
     "id": "landau-in-der-pfalz",
     "name": "Landau in der Pfalz",
     "shortName": "LAN",
@@ -30843,22 +30555,6 @@
       8.6022,
       50.0308,
       8.7255
-    ]
-  },
-  {
-    "id": "langenaltheim",
-    "name": "Langenaltheim",
-    "shortName": "LAN",
-    "center": [
-      10.9311,
-      48.8932
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.8432,
-      10.8711,
-      48.9432,
-      10.9911
     ]
   },
   {
@@ -33529,22 +33225,6 @@
     ]
   },
   {
-    "id": "loxstedt",
-    "name": "Loxstedt",
-    "shortName": "LOX",
-    "center": [
-      8.6458,
-      53.471
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.421,
-      8.5858,
-      53.521,
-      8.7058
-    ]
-  },
-  {
     "id": "luebbecke",
     "name": "Lübbecke",
     "shortName": "LUEB",
@@ -34770,22 +34450,6 @@
     ]
   },
   {
-    "id": "markt-berolzheim",
-    "name": "Markt Berolzheim",
-    "shortName": "MAR",
-    "center": [
-      10.8447,
-      49.0096
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9596,
-      10.7847,
-      49.0596,
-      10.9047
-    ]
-  },
-  {
     "id": "markt-indersdorf",
     "name": "Markt Indersdorf",
     "shortName": "MI",
@@ -35391,22 +35055,6 @@
       10.3025,
       52.5144,
       10.4025
-    ]
-  },
-  {
-    "id": "meinheim",
-    "name": "Meinheim",
-    "shortName": "MEI",
-    "center": [
-      10.8167,
-      49.0333
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9833,
-      10.7567,
-      49.0833,
-      10.8767
     ]
   },
   {
@@ -37476,22 +37124,6 @@
     ]
   },
   {
-    "id": "muhr-am-see",
-    "name": "Muhr am See",
-    "shortName": "MUH",
-    "center": [
-      10.7185,
-      49.1545
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.1045,
-      10.6585,
-      49.2045,
-      10.7785
-    ]
-  },
-  {
     "id": "muelheim",
     "name": "Mülheim an der Ruhr",
     "shortName": "MH",
@@ -38186,22 +37818,6 @@
       10.5614,
       52.1351,
       10.5984
-    ]
-  },
-  {
-    "id": "nennslingen",
-    "name": "Nennslingen",
-    "shortName": "NEN",
-    "center": [
-      11.1305,
-      49.0471
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9971,
-      11.0705,
-      49.0971,
-      11.1905
     ]
   },
   {
@@ -43317,22 +42933,6 @@
     ]
   },
   {
-    "id": "pappenheim",
-    "name": "Pappenheim",
-    "shortName": "PAP",
-    "center": [
-      10.9743,
-      48.9338
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.8838,
-      10.9143,
-      48.9838,
-      11.0343
-    ]
-  },
-  {
     "id": "parkstein",
     "name": "Parkstein",
     "shortName": "PAR",
@@ -43861,22 +43461,6 @@
     ]
   },
   {
-    "id": "pfofeld",
-    "name": "Pfofeld",
-    "shortName": "PFO",
-    "center": [
-      10.8366,
-      49.1059
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0559,
-      10.7766,
-      49.1559,
-      10.8966
-    ]
-  },
-  {
     "id": "pfoerring",
     "name": "Pförring",
     "shortName": "PFÖ",
@@ -44136,22 +43720,6 @@
       12.2897,
       50.9664,
       12.3897
-    ]
-  },
-  {
-    "id": "pleinfeld",
-    "name": "Pleinfeld",
-    "shortName": "PLE",
-    "center": [
-      10.9819,
-      49.1047
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0547,
-      10.9219,
-      49.1547,
-      11.0419
     ]
   },
   {
@@ -44494,22 +44062,6 @@
       11.1,
       47.3233,
       11.2
-    ]
-  },
-  {
-    "id": "polsingen",
-    "name": "Polsingen",
-    "shortName": "POL",
-    "center": [
-      10.7115,
-      48.9207
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.8707,
-      10.6515,
-      48.9707,
-      10.7715
     ]
   },
   {
@@ -45617,22 +45169,6 @@
       10.1126,
       48.9482,
       10.2039
-    ]
-  },
-  {
-    "id": "raitenbuch",
-    "name": "Raitenbuch",
-    "shortName": "RAI",
-    "center": [
-      11.1249,
-      49.0147
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9647,
-      11.0649,
-      49.0647,
-      11.1849
     ]
   },
   {
@@ -49727,22 +49263,6 @@
     ]
   },
   {
-    "id": "schiffdorf",
-    "name": "Schiffdorf",
-    "shortName": "SCH",
-    "center": [
-      8.6559,
-      53.5318
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.4818,
-      8.5959,
-      53.5818,
-      8.7159
-    ]
-  },
-  {
     "id": "schiffweiler",
     "name": "Schiffweiler",
     "shortName": "SCH",
@@ -53098,22 +52618,6 @@
     ]
   },
   {
-    "id": "solnhofen",
-    "name": "Solnhofen",
-    "shortName": "SOL",
-    "center": [
-      10.9956,
-      48.8958
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.8458,
-      10.9356,
-      48.9458,
-      11.0556
-    ]
-  },
-  {
     "id": "solsdorf",
     "name": "Solsdorf",
     "shortName": "SOL",
@@ -56083,22 +55587,6 @@
     ]
   },
   {
-    "id": "theilenhofen",
-    "name": "Theilenhofen",
-    "shortName": "THE",
-    "center": [
-      11.85,
-      49.0833
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      49.0333,
-      11.79,
-      49.1333,
-      11.91
-    ]
-  },
-  {
     "id": "theilheim",
     "name": "Theilheim",
     "shortName": "THE",
@@ -56883,22 +56371,6 @@
       13.8079,
       51.9773,
       13.9079
-    ]
-  },
-  {
-    "id": "treuchtlingen",
-    "name": "Treuchtlingen",
-    "shortName": "TRE",
-    "center": [
-      10.9083,
-      48.9547
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9047,
-      10.8483,
-      49.0047,
-      10.9683
     ]
   },
   {
@@ -60922,22 +60394,6 @@
     ]
   },
   {
-    "id": "weissenburg",
-    "name": "Weißenburg",
-    "shortName": "WEI",
-    "center": [
-      10.9719,
-      49.0306
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.9536,
-      10.8878,
-      49.0645,
-      11.0879
-    ]
-  },
-  {
     "id": "weissenhorn",
     "name": "Weißenhorn",
     "shortName": "WEI",
@@ -61946,22 +61402,6 @@
       10.1233,
       48.9333,
       10.2433
-    ]
-  },
-  {
-    "id": "westheim",
-    "name": "Westheim",
-    "shortName": "WES",
-    "center": [
-      10.6667,
-      49
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.95,
-      10.6067,
-      49.05,
-      10.7267
     ]
   },
   {
@@ -63945,22 +63385,6 @@
       6.0865,
       50.8556,
       6.21
-    ]
-  },
-  {
-    "id": "wurster-nordseekueste",
-    "name": "Wurster Nordseeküste",
-    "shortName": "WUR",
-    "center": [
-      8.5688,
-      53.7045
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      53.6181,
-      8.4828,
-      53.8226,
-      8.7135
     ]
   },
   {

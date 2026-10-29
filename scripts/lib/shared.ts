@@ -89,13 +89,15 @@ export const YEAR = Number(process.env.SPERRMUELL_YEAR ?? new Date().getFullYear
 // Optional cap on the number of streets processed, handy for local testing.
 export const STREET_LIMIT = Number(process.env.SPERRMUELL_LIMIT ?? 0);
 
-export const USER_AGENT = 'Abfuhrtermine-KA/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)';
+export const USER_AGENT = 'QGIS/3.28.0/OSM (https://qgis.org)';
 export const KARLSRUHE_SOURCE = `https://web4.karlsruhe.de/service/abfall/akal/akal_${YEAR}.php`;
 export const KARLSRUHE_CENTER: [number, number] = [8.4034195, 49.0068705];
 export const OVERPASS_ENDPOINTS = [
   process.env.OVERPASS_ENDPOINT,
   'https://overpass.openstreetmap.fr/api/interpreter',
+  'https://overpass.osm.ch/api/interpreter',
   'https://overpass-api.de/api/interpreter',
+  'https://lz4.overpass-api.de/api/interpreter',
   'https://overpass.kumi.systems/api/interpreter'
 ].filter((ep): ep is string => Boolean(ep));
 export const OVERPASS_ENDPOINT = OVERPASS_ENDPOINTS[0];
@@ -260,7 +262,7 @@ export async function fetchWithOverpassRetry(query: string, label: string): Prom
       lastResponse = response;
       console.log(`Overpass (${new URL(endpoint).host}) ${label} -> ${response.status} ${response.statusText}`);
 
-      const shouldRetry = response.status === 429 || response.status >= 500;
+      const shouldRetry = response.status === 429 || response.status === 403 || response.status >= 500;
       if (!shouldRetry || attempt >= OVERPASS_MAX_RETRIES) return response;
 
       // On 429 or 5xx, try switching to a different mirror
