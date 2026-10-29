@@ -1,0 +1,3278 @@
+[
+  {
+    "id": "ahrensburg",
+    "name": "Ahrensburg",
+    "shortName": "AHR",
+    "cityId": 501,
+    "center": [
+      10.2359,
+      53.6737
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6334,
+      10.1698,
+      53.7067,
+      10.3157
+    ],
+    "plz": "22926"
+  },
+  {
+    "id": "albsfelde",
+    "name": "Albsfelde",
+    "shortName": "ALB",
+    "cityId": 1,
+    "center": [
+      10.6952,
+      53.68
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.63,
+      10.6452,
+      53.73,
+      10.7452
+    ],
+    "plz": "23909"
+  },
+  {
+    "id": "alt-moelln",
+    "name": "Alt-Mölln",
+    "shortName": "ALT",
+    "cityId": 2,
+    "center": [
+      10.6666,
+      53.6238
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5738,
+      10.6166,
+      53.6738,
+      10.7166
+    ],
+    "plz": "23881"
+  },
+  {
+    "id": "ammersbek",
+    "name": "Ammersbek",
+    "shortName": "AMM",
+    "cityId": 590,
+    "center": [
+      10.1905,
+      53.6951
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6677,
+      10.14,
+      53.7142,
+      10.2456
+    ],
+    "plz": "22949"
+  },
+  {
+    "id": "aumuehle",
+    "name": "Aumühle",
+    "shortName": "AUM",
+    "cityId": 3,
+    "center": [
+      10.3659,
+      53.5354
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4973,
+      10.292,
+      53.5735,
+      10.4547
+    ],
+    "plz": "21521"
+  },
+  {
+    "id": "bad-oldesloe",
+    "name": "Bad Oldesloe",
+    "shortName": "BAD",
+    "cityId": 504,
+    "center": [
+      10.3734,
+      53.8097
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7692,
+      10.296,
+      53.8652,
+      10.4365
+    ],
+    "plz": "23843"
+  },
+  {
+    "id": "badendorf",
+    "name": "Badendorf",
+    "shortName": "BAD",
+    "cityId": 503,
+    "center": [
+      10.5734,
+      53.8679
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8179,
+      10.5234,
+      53.9179,
+      10.6234
+    ],
+    "plz": "23619"
+  },
+  {
+    "id": "baek",
+    "name": "Bäk",
+    "shortName": "BAEK",
+    "cityId": 4,
+    "center": [
+      10.8093,
+      53.7156
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7144,
+      10.8014,
+      53.7166,
+      10.8179
+    ],
+    "plz": "23909"
+  },
+  {
+    "id": "baelau",
+    "name": "Bälau",
+    "shortName": "BAEL",
+    "cityId": 5,
+    "center": [
+      10.6221,
+      53.6167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6097,
+      10.5812,
+      53.6303,
+      10.6449
+    ],
+    "plz": "23881"
+  },
+  {
+    "id": "bargfeld-stegen",
+    "name": "Bargfeld-Stegen",
+    "shortName": "BAR",
+    "cityId": 505,
+    "center": [
+      10.2,
+      53.7667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7399,
+      10.1325,
+      53.7816,
+      10.239
+    ],
+    "plz": "23863"
+  },
+  {
+    "id": "bargteheide",
+    "name": "Bargteheide",
+    "shortName": "BAR",
+    "cityId": 506,
+    "center": [
+      10.2618,
+      53.728
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7096,
+      10.2057,
+      53.7495,
+      10.3062
+    ],
+    "plz": "22941"
+  },
+  {
+    "id": "barnitz",
+    "name": "Barnitz",
+    "shortName": "BAR",
+    "cityId": 508,
+    "center": [
+      10.4817,
+      53.8125
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7625,
+      10.4317,
+      53.8625,
+      10.5317
+    ],
+    "plz": "23858"
+  },
+  {
+    "id": "barsbuettel",
+    "name": "Barsbüttel",
+    "shortName": "BAR",
+    "cityId": 509,
+    "center": [
+      10.1654,
+      53.5664
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.554,
+      10.1475,
+      53.5988,
+      10.2786
+    ],
+    "plz": "22885"
+  },
+  {
+    "id": "basedow",
+    "name": "Basedow",
+    "shortName": "BAS",
+    "cityId": 6,
+    "center": [
+      10.583,
+      53.4162
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3662,
+      10.533,
+      53.4662,
+      10.633
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "basthorst",
+    "name": "Basthorst",
+    "shortName": "BAS",
+    "cityId": 7,
+    "center": [
+      10.4707,
+      53.579
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.529,
+      10.4207,
+      53.629,
+      10.5207
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "behlendorf",
+    "name": "Behlendorf",
+    "shortName": "BEH",
+    "cityId": 8,
+    "center": [
+      10.6675,
+      53.6998
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6997,
+      10.6673,
+      53.6998,
+      10.6677
+    ],
+    "plz": "23919"
+  },
+  {
+    "id": "berkenthin",
+    "name": "Berkenthin",
+    "shortName": "BER",
+    "cityId": 9,
+    "center": [
+      10.6392,
+      53.7338
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7151,
+      10.6128,
+      53.754,
+      10.6824
+    ],
+    "plz": "23919"
+  },
+  {
+    "id": "besenthal",
+    "name": "Besenthal",
+    "shortName": "BES",
+    "cityId": 10,
+    "center": [
+      10.7422,
+      53.5302
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4802,
+      10.6922,
+      53.5802,
+      10.7922
+    ],
+    "plz": "23899"
+  },
+  {
+    "id": "bliestorf",
+    "name": "Bliestorf",
+    "shortName": "BLI",
+    "cityId": 11,
+    "center": [
+      10.6,
+      53.7667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7167,
+      10.55,
+      53.8167,
+      10.65
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "boernsen",
+    "name": "Börnsen",
+    "shortName": "BOER",
+    "cityId": 12,
+    "center": [
+      10.2869,
+      53.4905
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4405,
+      10.2369,
+      53.5405,
+      10.3369
+    ],
+    "plz": "21039"
+  },
+  {
+    "id": "borstorf",
+    "name": "Borstorf",
+    "shortName": "BOR",
+    "cityId": 13,
+    "center": [
+      10.5473,
+      53.6125
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5625,
+      10.4973,
+      53.6625,
+      10.5973
+    ],
+    "plz": "23881"
+  },
+  {
+    "id": "braak",
+    "name": "Braak",
+    "shortName": "BRA",
+    "cityId": 511,
+    "center": [
+      10.2383,
+      53.5995
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5993,
+      10.2368,
+      53.6009,
+      10.2391
+    ],
+    "plz": "22145"
+  },
+  {
+    "id": "breitenfelde",
+    "name": "Breitenfelde",
+    "shortName": "BRE",
+    "cityId": 14,
+    "center": [
+      10.5881,
+      53.5921
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5415,
+      10.5047,
+      53.6429,
+      10.7674
+    ],
+    "plz": "23881"
+  },
+  {
+    "id": "broethen",
+    "name": "Bröthen",
+    "shortName": "BROE",
+    "cityId": 15,
+    "center": [
+      10.6662,
+      53.4801
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4301,
+      10.6162,
+      53.5301,
+      10.7162
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "brunsbek",
+    "name": "Brunsbek",
+    "shortName": "BRU",
+    "cityId": 588,
+    "center": [
+      10.2741,
+      53.5987
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5487,
+      10.2241,
+      53.6487,
+      10.3241
+    ],
+    "plz": "22946"
+  },
+  {
+    "id": "brunsmark",
+    "name": "Brunsmark",
+    "shortName": "BRU",
+    "cityId": 16,
+    "center": [
+      10.7488,
+      53.6173
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5673,
+      10.6988,
+      53.6673,
+      10.7988
+    ],
+    "plz": "23883"
+  },
+  {
+    "id": "brunstorf",
+    "name": "Brunstorf",
+    "shortName": "BRU",
+    "cityId": 17,
+    "center": [
+      10.4246,
+      53.493
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4633,
+      10.3898,
+      53.5232,
+      10.4573
+    ],
+    "plz": "21524"
+  },
+  {
+    "id": "buechen",
+    "name": "Büchen",
+    "shortName": "BUEC",
+    "cityId": 20,
+    "center": [
+      10.6231,
+      53.4751
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4251,
+      10.5731,
+      53.5251,
+      10.6731
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "buchhorst",
+    "name": "Buchhorst",
+    "shortName": "BUC",
+    "cityId": 19,
+    "center": [
+      10.5633,
+      53.3815
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3812,
+      10.5584,
+      53.3845,
+      10.5698
+    ],
+    "plz": "21481"
+  },
+  {
+    "id": "dahmker",
+    "name": "Dahmker",
+    "shortName": "DAH",
+    "cityId": 21,
+    "center": [
+      10.4449,
+      53.5876
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5376,
+      10.3949,
+      53.6376,
+      10.4949
+    ],
+    "plz": "22946"
+  },
+  {
+    "id": "dalldorf",
+    "name": "Dalldorf",
+    "shortName": "DAL",
+    "cityId": 22,
+    "center": [
+      10.61,
+      53.4276
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3776,
+      10.56,
+      53.4776,
+      10.66
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "dassendorf",
+    "name": "Dassendorf",
+    "shortName": "DAS",
+    "cityId": 23,
+    "center": [
+      10.3748,
+      53.4902
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4402,
+      10.3248,
+      53.5402,
+      10.4248
+    ],
+    "plz": "21521"
+  },
+  {
+    "id": "delingsdorf",
+    "name": "Delingsdorf",
+    "shortName": "DEL",
+    "cityId": 514,
+    "center": [
+      10.2474,
+      53.7095
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6595,
+      10.1974,
+      53.7595,
+      10.2974
+    ],
+    "plz": "22941"
+  },
+  {
+    "id": "duechelsdorf",
+    "name": "Düchelsdorf",
+    "shortName": "DUEC",
+    "cityId": 24,
+    "center": [
+      10.5867,
+      53.7372
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6872,
+      10.5367,
+      53.7872,
+      10.6367
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "duvensee",
+    "name": "Duvensee",
+    "shortName": "DUV",
+    "cityId": 25,
+    "center": [
+      10.5833,
+      53.688
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6865,
+      10.5831,
+      53.6895,
+      10.5835
+    ],
+    "plz": "23898"
+  },
+  {
+    "id": "einhaus",
+    "name": "Einhaus",
+    "shortName": "EIN",
+    "cityId": 26,
+    "center": [
+      10.7343,
+      53.7119
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6619,
+      10.6843,
+      53.7619,
+      10.7843
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "elmenhorst",
+    "name": "Elmenhorst",
+    "shortName": "ELM",
+    "cityId": 516,
+    "center": [
+      10.2631,
+      53.7664
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7457,
+      10.2296,
+      53.7836,
+      10.316
+    ],
+    "plz": "23869"
+  },
+  {
+    "id": "elmenhorst-rz",
+    "name": "Elmenhorst (RZ)",
+    "shortName": "ELM",
+    "cityId": 27,
+    "center": [
+      10.5344,
+      53.5462
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5274,
+      10.4895,
+      53.5654,
+      10.5686
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "escheburg",
+    "name": "Escheburg",
+    "shortName": "ESC",
+    "cityId": 28,
+    "center": [
+      10.3141,
+      53.4621
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4121,
+      10.2641,
+      53.5121,
+      10.3641
+    ],
+    "plz": "21039"
+  },
+  {
+    "id": "feldhorst",
+    "name": "Feldhorst",
+    "shortName": "FEL",
+    "cityId": 593,
+    "center": [
+      10.4344,
+      53.8466
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8165,
+      10.3918,
+      53.8781,
+      10.4554
+    ],
+    "plz": "23858"
+  },
+  {
+    "id": "fitzen",
+    "name": "Fitzen",
+    "shortName": "FIT",
+    "cityId": 29,
+    "center": [
+      10.6486,
+      53.4958
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4923,
+      10.6241,
+      53.5197,
+      10.6804
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "fredeburg",
+    "name": "Fredeburg",
+    "shortName": "FRE",
+    "cityId": 30,
+    "center": [
+      10.7245,
+      53.6736
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6236,
+      10.6745,
+      53.7236,
+      10.7745
+    ],
+    "plz": "23909"
+  },
+  {
+    "id": "fuhlenhagen",
+    "name": "Fuhlenhagen",
+    "shortName": "FUH",
+    "cityId": 31,
+    "center": [
+      10.5446,
+      53.5855
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5355,
+      10.4946,
+      53.6355,
+      10.5946
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "geesthacht",
+    "name": "Geesthacht",
+    "shortName": "GEE",
+    "cityId": 32,
+    "center": [
+      10.3678,
+      53.4375
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3982,
+      10.3078,
+      53.4608,
+      10.4695
+    ],
+    "plz": "21502"
+  },
+  {
+    "id": "giesensdorf",
+    "name": "Giesensdorf",
+    "shortName": "GIE",
+    "cityId": 33,
+    "center": [
+      10.7122,
+      53.6882
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6382,
+      10.6622,
+      53.7382,
+      10.7622
+    ],
+    "plz": "23909"
+  },
+  {
+    "id": "glinde",
+    "name": "Glinde",
+    "shortName": "GLI",
+    "cityId": 518,
+    "center": [
+      10.2136,
+      53.5411
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5199,
+      10.1805,
+      53.5594,
+      10.2369
+    ],
+    "plz": "21509"
+  },
+  {
+    "id": "goeldenitz",
+    "name": "Göldenitz",
+    "shortName": "GOEL",
+    "cityId": 34,
+    "center": [
+      10.6404,
+      53.7245
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7243,
+      10.6397,
+      53.7249,
+      10.641
+    ],
+    "plz": "23919"
+  },
+  {
+    "id": "goettin",
+    "name": "Göttin",
+    "shortName": "GOET",
+    "cityId": 35,
+    "center": [
+      10.6862,
+      53.5406
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5405,
+      10.6857,
+      53.5407,
+      10.6866
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "grabau",
+    "name": "Grabau",
+    "shortName": "GRA",
+    "cityId": 519,
+    "center": [
+      10.2699,
+      53.8055
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8054,
+      10.2696,
+      53.8057,
+      10.2703
+    ],
+    "plz": "23845"
+  },
+  {
+    "id": "grabau-rz",
+    "name": "Grabau (RZ)",
+    "shortName": "GRA",
+    "cityId": 36,
+    "center": [
+      10.5061,
+      53.5085
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.508,
+      10.5052,
+      53.5089,
+      10.507
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "grambek",
+    "name": "Grambek",
+    "shortName": "GRA",
+    "cityId": 37,
+    "center": [
+      10.6981,
+      53.5832
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5822,
+      10.6914,
+      53.5843,
+      10.7057
+    ],
+    "plz": "23883"
+  },
+  {
+    "id": "grande",
+    "name": "Grande",
+    "shortName": "GRA",
+    "cityId": 520,
+    "center": [
+      10.3958,
+      53.5919
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5918,
+      10.3957,
+      53.5919,
+      10.3959
+    ],
+    "plz": "22946"
+  },
+  {
+    "id": "grinau",
+    "name": "Grinau",
+    "shortName": "GRI",
+    "cityId": 38,
+    "center": [
+      10.547,
+      53.7725
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7225,
+      10.497,
+      53.8225,
+      10.597
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "groenwohld",
+    "name": "Grönwohld",
+    "shortName": "GROE",
+    "cityId": 521,
+    "center": [
+      10.4086,
+      53.6418
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6301,
+      10.3853,
+      53.6683,
+      10.4456
+    ],
+    "plz": "22956"
+  },
+  {
+    "id": "gross-boden",
+    "name": "Groß Boden",
+    "shortName": "GRO",
+    "cityId": 39,
+    "center": [
+      10.4533,
+      53.7527
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7027,
+      10.4033,
+      53.8027,
+      10.5033
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "gross-disnack",
+    "name": "Groß Disnack",
+    "shortName": "GRO",
+    "cityId": 40,
+    "center": [
+      10.6913,
+      53.7428
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6928,
+      10.6413,
+      53.7928,
+      10.7413
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "gross-groenau",
+    "name": "Groß Grönau",
+    "shortName": "GRO",
+    "cityId": 41,
+    "center": [
+      10.7285,
+      53.7847
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7847,
+      10.7284,
+      53.7848,
+      10.7286
+    ],
+    "plz": "23627"
+  },
+  {
+    "id": "gross-pampau",
+    "name": "Groß Pampau",
+    "shortName": "GRO",
+    "cityId": 42,
+    "center": [
+      10.5603,
+      53.5219
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4719,
+      10.5103,
+      53.5719,
+      10.6103
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "gross-sarau",
+    "name": "Groß Sarau",
+    "shortName": "GRO",
+    "cityId": 43,
+    "center": [
+      10.7363,
+      53.7715
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7445,
+      10.6807,
+      53.8009,
+      10.7734
+    ],
+    "plz": "23627"
+  },
+  {
+    "id": "gross-schenkenberg",
+    "name": "Groß Schenkenberg",
+    "shortName": "GRO",
+    "cityId": 44,
+    "center": [
+      10.565,
+      53.7939
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7439,
+      10.515,
+      53.8439,
+      10.615
+    ],
+    "plz": "23860"
+  },
+  {
+    "id": "grossensee",
+    "name": "Großensee",
+    "shortName": "GRO",
+    "cityId": 522,
+    "center": [
+      10.3495,
+      53.6319
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6318,
+      10.3474,
+      53.6321,
+      10.3515
+    ],
+    "plz": "22946"
+  },
+  {
+    "id": "grosshansdorf",
+    "name": "Großhansdorf",
+    "shortName": "GRO",
+    "cityId": 523,
+    "center": [
+      10.2836,
+      53.6636
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6426,
+      10.252,
+      53.6897,
+      10.3152
+    ],
+    "plz": "22927"
+  },
+  {
+    "id": "grove",
+    "name": "Grove",
+    "shortName": "GRO",
+    "cityId": 45,
+    "center": [
+      10.4928,
+      53.5292
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5292,
+      10.4927,
+      53.5292,
+      10.4929
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "gudow",
+    "name": "Gudow",
+    "shortName": "GUD",
+    "cityId": 46,
+    "center": [
+      10.7666,
+      53.5552
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5079,
+      10.7346,
+      53.6048,
+      10.8321
+    ],
+    "plz": "23899"
+  },
+  {
+    "id": "guelzow",
+    "name": "Gülzow",
+    "shortName": "GUEL",
+    "cityId": 47,
+    "center": [
+      10.4652,
+      53.4315
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3815,
+      10.4152,
+      53.4815,
+      10.5152
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "guester",
+    "name": "Güster",
+    "shortName": "GUES",
+    "cityId": 48,
+    "center": [
+      10.6539,
+      53.5365
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4865,
+      10.6039,
+      53.5865,
+      10.7039
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "hamberge",
+    "name": "Hamberge",
+    "shortName": "HAM",
+    "cityId": 525,
+    "center": [
+      10.5791,
+      53.8386
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8385,
+      10.5789,
+      53.8386,
+      10.5792
+    ],
+    "plz": "23619"
+  },
+  {
+    "id": "hamfelde",
+    "name": "Hamfelde",
+    "shortName": "HAM",
+    "cityId": 526,
+    "center": [
+      10.4524,
+      53.601
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6001,
+      10.4511,
+      53.6021,
+      10.4537
+    ],
+    "plz": "22929"
+  },
+  {
+    "id": "hamfelde-lbg",
+    "name": "Hamfelde/Lbg.",
+    "shortName": "HAM",
+    "cityId": 49,
+    "center": [
+      10.4463,
+      53.5979
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5479,
+      10.3963,
+      53.6479,
+      10.4963
+    ],
+    "plz": "22929"
+  },
+  {
+    "id": "hammoor",
+    "name": "Hammoor",
+    "shortName": "HAM",
+    "cityId": 527,
+    "center": [
+      10.3208,
+      53.713
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.663,
+      10.2708,
+      53.763,
+      10.3708
+    ],
+    "plz": "22941"
+  },
+  {
+    "id": "hamwarde",
+    "name": "Hamwarde",
+    "shortName": "HAM",
+    "cityId": 50,
+    "center": [
+      10.4213,
+      53.4523
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4023,
+      10.3713,
+      53.5023,
+      10.4713
+    ],
+    "plz": "21502"
+  },
+  {
+    "id": "harmsdorf",
+    "name": "Harmsdorf",
+    "shortName": "HAR",
+    "cityId": 51,
+    "center": [
+      10.725,
+      53.7019
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6519,
+      10.675,
+      53.7519,
+      10.775
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "havekost",
+    "name": "Havekost",
+    "shortName": "HAV",
+    "cityId": 52,
+    "center": [
+      10.4644,
+      53.5334
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4834,
+      10.4144,
+      53.5834,
+      10.5144
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "heidekamp",
+    "name": "Heidekamp",
+    "shortName": "HEI",
+    "cityId": 531,
+    "center": [
+      10.4906,
+      53.8518
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8018,
+      10.4406,
+      53.9018,
+      10.5406
+    ],
+    "plz": "23858"
+  },
+  {
+    "id": "heilshoop",
+    "name": "Heilshoop",
+    "shortName": "HEI",
+    "cityId": 532,
+    "center": [
+      10.5249,
+      53.8811
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8311,
+      10.4749,
+      53.9311,
+      10.5749
+    ],
+    "plz": "23619"
+  },
+  {
+    "id": "hohenfelde",
+    "name": "Hohenfelde",
+    "shortName": "HOH",
+    "cityId": 533,
+    "center": [
+      10.4752,
+      53.6306
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.627,
+      10.4685,
+      53.6308,
+      10.4832
+    ],
+    "plz": "22946"
+  },
+  {
+    "id": "hohenhorn",
+    "name": "Hohenhorn",
+    "shortName": "HOH",
+    "cityId": 53,
+    "center": [
+      10.3688,
+      53.4762
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4576,
+      10.3517,
+      53.4866,
+      10.3955
+    ],
+    "plz": "21526"
+  },
+  {
+    "id": "hoisdorf",
+    "name": "Hoisdorf",
+    "shortName": "HOI",
+    "cityId": 535,
+    "center": [
+      10.3234,
+      53.6533
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6317,
+      10.2943,
+      53.6767,
+      10.3506
+    ],
+    "plz": "22955"
+  },
+  {
+    "id": "hollenbek",
+    "name": "Hollenbek",
+    "shortName": "HOL",
+    "cityId": 54,
+    "center": [
+      10.7547,
+      53.5964
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5962,
+      10.7532,
+      53.5965,
+      10.7562
+    ],
+    "plz": "23883"
+  },
+  {
+    "id": "hornbek",
+    "name": "Hornbek",
+    "shortName": "HOR",
+    "cityId": 56,
+    "center": [
+      10.6465,
+      53.5596
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5096,
+      10.5965,
+      53.6096,
+      10.6965
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "horst",
+    "name": "Horst",
+    "shortName": "HOR",
+    "cityId": 57,
+    "center": [
+      10.7567,
+      53.6151
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5651,
+      10.7067,
+      53.6651,
+      10.8067
+    ],
+    "plz": "23883"
+  },
+  {
+    "id": "jersbek",
+    "name": "Jersbek",
+    "shortName": "JER",
+    "cityId": 536,
+    "center": [
+      10.2244,
+      53.7417
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7415,
+      10.2242,
+      53.7418,
+      10.2248
+    ],
+    "plz": "22941"
+  },
+  {
+    "id": "juliusburg",
+    "name": "Juliusburg",
+    "shortName": "JUL",
+    "cityId": 58,
+    "center": [
+      10.506,
+      53.4166
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3666,
+      10.456,
+      53.4666,
+      10.556
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "kankelau",
+    "name": "Kankelau",
+    "shortName": "KAN",
+    "cityId": 59,
+    "center": [
+      10.5667,
+      53.55
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5,
+      10.5167,
+      53.6,
+      10.6167
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "kasseburg",
+    "name": "Kasseburg",
+    "shortName": "KAS",
+    "cityId": 60,
+    "center": [
+      10.4148,
+      53.5674
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5174,
+      10.3648,
+      53.6174,
+      10.4648
+    ],
+    "plz": "22929"
+  },
+  {
+    "id": "kastorf",
+    "name": "Kastorf",
+    "shortName": "KAS",
+    "cityId": 61,
+    "center": [
+      10.5461,
+      53.7502
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7002,
+      10.4961,
+      53.8002,
+      10.5961
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "kittlitz",
+    "name": "Kittlitz",
+    "shortName": "KIT",
+    "cityId": 62,
+    "center": [
+      10.9406,
+      53.6625
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6125,
+      10.8906,
+      53.7125,
+      10.9906
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "klein-pampau",
+    "name": "Klein Pampau",
+    "shortName": "KLE",
+    "cityId": 64,
+    "center": [
+      10.5728,
+      53.5092
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4592,
+      10.5228,
+      53.5592,
+      10.6228
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "klein-wesenberg",
+    "name": "Klein Wesenberg",
+    "shortName": "KLE",
+    "cityId": 539,
+    "center": [
+      10.5456,
+      53.8137
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7924,
+      10.5118,
+      53.8221,
+      10.5827
+    ],
+    "plz": "23860"
+  },
+  {
+    "id": "klein-zecher",
+    "name": "Klein Zecher",
+    "shortName": "KLE",
+    "cityId": 66,
+    "center": [
+      10.8728,
+      53.5779
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5279,
+      10.8228,
+      53.6279,
+      10.9228
+    ],
+    "plz": "23883"
+  },
+  {
+    "id": "klempau",
+    "name": "Klempau",
+    "shortName": "KLE",
+    "cityId": 67,
+    "center": [
+      10.6596,
+      53.7632
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7455,
+      10.6391,
+      53.7863,
+      10.703
+    ],
+    "plz": "23628"
+  },
+  {
+    "id": "klinkrade",
+    "name": "Klinkrade",
+    "shortName": "KLI",
+    "cityId": 68,
+    "center": [
+      10.55,
+      53.7167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6667,
+      10.5,
+      53.7667,
+      10.6
+    ],
+    "plz": "23898"
+  },
+  {
+    "id": "koberg",
+    "name": "Koberg",
+    "shortName": "KOB",
+    "cityId": 69,
+    "center": [
+      10.5236,
+      53.6373
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5873,
+      10.4736,
+      53.6873,
+      10.5736
+    ],
+    "plz": "23881"
+  },
+  {
+    "id": "kollow",
+    "name": "Kollow",
+    "shortName": "KOL",
+    "cityId": 71,
+    "center": [
+      10.4591,
+      53.4636
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4468,
+      10.4401,
+      53.4863,
+      10.4868
+    ],
+    "plz": "21527"
+  },
+  {
+    "id": "koethel",
+    "name": "Köthel",
+    "shortName": "KOET",
+    "cityId": 540,
+    "center": [
+      10.5111,
+      53.6106
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5606,
+      10.4611,
+      53.6606,
+      10.5611
+    ],
+    "plz": "22929"
+  },
+  {
+    "id": "koethel-lbg",
+    "name": "Köthel/Lbg.",
+    "shortName": "KOET",
+    "cityId": 70,
+    "center": [
+      10.5111,
+      53.6106
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5606,
+      10.4611,
+      53.6606,
+      10.5611
+    ],
+    "plz": "22929"
+  },
+  {
+    "id": "kroeppelshagen-fahrendorf",
+    "name": "Kröppelshagen-Fahrendorf",
+    "shortName": "KROE",
+    "cityId": 72,
+    "center": [
+      10.3309,
+      53.4808
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4584,
+      10.2927,
+      53.5037,
+      10.3582
+    ],
+    "plz": "21529"
+  },
+  {
+    "id": "krukow",
+    "name": "Krukow",
+    "shortName": "KRU",
+    "cityId": 74,
+    "center": [
+      10.492,
+      53.4204
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3704,
+      10.442,
+      53.4704,
+      10.542
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "kruezen",
+    "name": "Krüzen",
+    "shortName": "KRUE",
+    "cityId": 73,
+    "center": [
+      10.5344,
+      53.4168
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4154,
+      10.532,
+      53.4186,
+      10.5364
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "kuddewoerde",
+    "name": "Kuddewörde",
+    "shortName": "KUD",
+    "cityId": 76,
+    "center": [
+      10.4028,
+      53.5865
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5594,
+      10.3692,
+      53.5973,
+      10.44
+    ],
+    "plz": "22958"
+  },
+  {
+    "id": "kuehsen",
+    "name": "Kühsen",
+    "shortName": "KUEH",
+    "cityId": 77,
+    "center": [
+      10.6167,
+      53.6833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6333,
+      10.5667,
+      53.7333,
+      10.6667
+    ],
+    "plz": "23898"
+  },
+  {
+    "id": "kulpin",
+    "name": "Kulpin",
+    "shortName": "KUL",
+    "cityId": 78,
+    "center": [
+      10.6955,
+      53.7101
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6601,
+      10.6455,
+      53.7601,
+      10.7455
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "labenz",
+    "name": "Labenz",
+    "shortName": "LAB",
+    "cityId": 79,
+    "center": [
+      10.537,
+      53.7016
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7006,
+      10.5298,
+      53.7019,
+      10.5444
+    ],
+    "plz": "23898"
+  },
+  {
+    "id": "langenlehsten",
+    "name": "Langenlehsten",
+    "shortName": "LAN",
+    "cityId": 80,
+    "center": [
+      10.7729,
+      53.5052
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4552,
+      10.7229,
+      53.5552,
+      10.8229
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "lankau",
+    "name": "Lankau",
+    "shortName": "LAN",
+    "cityId": 81,
+    "center": [
+      10.6667,
+      53.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6167,
+      10.6167,
+      53.7167,
+      10.7167
+    ],
+    "plz": "23881"
+  },
+  {
+    "id": "lanze",
+    "name": "Lanze",
+    "shortName": "LAN",
+    "cityId": 82,
+    "center": [
+      10.5846,
+      53.3848
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3848,
+      10.5845,
+      53.3848,
+      10.5847
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "lasbek",
+    "name": "Lasbek",
+    "shortName": "LAS",
+    "cityId": 589,
+    "center": [
+      10.3449,
+      53.7455
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6955,
+      10.2949,
+      53.7955,
+      10.3949
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "lauenburg",
+    "name": "Lauenburg",
+    "shortName": "LAU",
+    "cityId": 83,
+    "center": [
+      10.5515,
+      53.3834
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3833,
+      10.5508,
+      53.3835,
+      10.5525
+    ],
+    "plz": "21481"
+  },
+  {
+    "id": "lehmrade",
+    "name": "Lehmrade",
+    "shortName": "LEH",
+    "cityId": 84,
+    "center": [
+      10.7429,
+      53.5955
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5455,
+      10.6929,
+      53.6455,
+      10.7929
+    ],
+    "plz": "23883"
+  },
+  {
+    "id": "linau",
+    "name": "Linau",
+    "shortName": "LIN",
+    "cityId": 85,
+    "center": [
+      10.4711,
+      53.6467
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6308,
+      10.4356,
+      53.6614,
+      10.505
+    ],
+    "plz": "22959"
+  },
+  {
+    "id": "luechow",
+    "name": "Lüchow",
+    "shortName": "LUEC",
+    "cityId": 86,
+    "center": [
+      10.5322,
+      53.6894
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6763,
+      10.5041,
+      53.7051,
+      10.5451
+    ],
+    "plz": "23898"
+  },
+  {
+    "id": "luetau",
+    "name": "Lütau",
+    "shortName": "LUET",
+    "cityId": 87,
+    "center": [
+      10.5483,
+      53.4347
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4061,
+      10.5091,
+      53.4495,
+      10.5871
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "luetjensee",
+    "name": "Lütjensee",
+    "shortName": "LUET",
+    "cityId": 545,
+    "center": [
+      10.3653,
+      53.6493
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6288,
+      10.3359,
+      53.6784,
+      10.408
+    ],
+    "plz": "22952"
+  },
+  {
+    "id": "mechow",
+    "name": "Mechow",
+    "shortName": "MEC",
+    "cityId": 88,
+    "center": [
+      10.796,
+      53.7178
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6678,
+      10.746,
+      53.7678,
+      10.846
+    ],
+    "plz": "23909"
+  },
+  {
+    "id": "meddewade",
+    "name": "Meddewade",
+    "shortName": "MED",
+    "cityId": 546,
+    "center": [
+      10.4391,
+      53.8088
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7588,
+      10.3891,
+      53.8588,
+      10.4891
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "moehnsen",
+    "name": "Möhnsen",
+    "shortName": "MOEH",
+    "cityId": 89,
+    "center": [
+      10.467,
+      53.5496
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4996,
+      10.417,
+      53.5996,
+      10.517
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "moelln",
+    "name": "Mölln",
+    "shortName": "MOEL",
+    "cityId": 90,
+    "center": [
+      10.688,
+      53.6289
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5755,
+      10.6475,
+      53.6543,
+      10.7548
+    ],
+    "plz": "23879"
+  },
+  {
+    "id": "moenkhagen",
+    "name": "Mönkhagen",
+    "shortName": "MOEN",
+    "cityId": 548,
+    "center": [
+      10.5686,
+      53.8992
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8492,
+      10.5186,
+      53.9492,
+      10.6186
+    ],
+    "plz": "23619"
+  },
+  {
+    "id": "muehlenrade",
+    "name": "Mühlenrade",
+    "shortName": "MUEH",
+    "cityId": 91,
+    "center": [
+      10.488,
+      53.5965
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5828,
+      10.4675,
+      53.6057,
+      10.5155
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "muessen",
+    "name": "Müssen",
+    "shortName": "MUES",
+    "cityId": 92,
+    "center": [
+      10.5596,
+      53.4999
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4499,
+      10.5096,
+      53.5499,
+      10.6096
+    ],
+    "plz": "21516"
+  },
+  {
+    "id": "mustin",
+    "name": "Mustin",
+    "shortName": "MUS",
+    "cityId": 93,
+    "center": [
+      10.8864,
+      53.684
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.634,
+      10.8364,
+      53.734,
+      10.9364
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "neritz",
+    "name": "Neritz",
+    "shortName": "NER",
+    "cityId": 550,
+    "center": [
+      10.2851,
+      53.787
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7857,
+      10.2829,
+      53.7882,
+      10.2863
+    ],
+    "plz": "23843"
+  },
+  {
+    "id": "niendorf-b-b",
+    "name": "Niendorf b.B.",
+    "shortName": "NIE",
+    "cityId": 94,
+    "center": [
+      10.626,
+      53.7023
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6523,
+      10.576,
+      53.7523,
+      10.676
+    ],
+    "plz": "23919"
+  },
+  {
+    "id": "niendorf-stecknitz",
+    "name": "Niendorf/Stecknitz",
+    "shortName": "NIE",
+    "cityId": 95,
+    "center": [
+      10.5971,
+      53.5934
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5434,
+      10.5471,
+      53.6434,
+      10.6471
+    ],
+    "plz": "23881"
+  },
+  {
+    "id": "nienwohld",
+    "name": "Nienwohld",
+    "shortName": "NIE",
+    "cityId": 551,
+    "center": [
+      10.2303,
+      53.7774
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7274,
+      10.1803,
+      53.8274,
+      10.2803
+    ],
+    "plz": "23863"
+  },
+  {
+    "id": "nusse",
+    "name": "Nusse",
+    "shortName": "NUS",
+    "cityId": 96,
+    "center": [
+      10.5804,
+      53.6574
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6444,
+      10.5542,
+      53.6855,
+      10.6077
+    ],
+    "plz": "23896"
+  },
+  {
+    "id": "oststeinbek",
+    "name": "Oststeinbek",
+    "shortName": "OST",
+    "cityId": 553,
+    "center": [
+      10.179,
+      53.5405
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5393,
+      10.177,
+      53.5415,
+      10.1805
+    ],
+    "plz": "22113"
+  },
+  {
+    "id": "panten",
+    "name": "Panten",
+    "shortName": "PAN",
+    "cityId": 97,
+    "center": [
+      10.6235,
+      53.6656
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6654,
+      10.6233,
+      53.6658,
+      10.6236
+    ],
+    "plz": "23896"
+  },
+  {
+    "id": "pogeez",
+    "name": "Pogeez",
+    "shortName": "POG",
+    "cityId": 98,
+    "center": [
+      10.7315,
+      53.7511
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7011,
+      10.6815,
+      53.8011,
+      10.7815
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "poggensee",
+    "name": "Poggensee",
+    "shortName": "POG",
+    "cityId": 99,
+    "center": [
+      10.5785,
+      53.6447
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5947,
+      10.5285,
+      53.6947,
+      10.6285
+    ],
+    "plz": "23896"
+  },
+  {
+    "id": "poelitz",
+    "name": "Pölitz",
+    "shortName": "POEL",
+    "cityId": 556,
+    "center": [
+      10.4301,
+      53.7583
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7582,
+      10.4297,
+      53.7583,
+      10.4304
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "ratzeburg",
+    "name": "Ratzeburg",
+    "shortName": "RAT",
+    "cityId": 100,
+    "center": [
+      10.7743,
+      53.7011
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6703,
+      10.7267,
+      53.7814,
+      10.8269
+    ],
+    "plz": "23909"
+  },
+  {
+    "id": "rausdorf",
+    "name": "Rausdorf",
+    "shortName": "RAU",
+    "cityId": 558,
+    "center": [
+      10.3292,
+      53.5895
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5894,
+      10.329,
+      53.5896,
+      10.3295
+    ],
+    "plz": "22929"
+  },
+  {
+    "id": "rehhorst",
+    "name": "Rehhorst",
+    "shortName": "REH",
+    "cityId": 559,
+    "center": [
+      10.469,
+      53.8779
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8279,
+      10.419,
+      53.9279,
+      10.519
+    ],
+    "plz": "23619"
+  },
+  {
+    "id": "reinbek",
+    "name": "Reinbek",
+    "shortName": "REI",
+    "cityId": 560,
+    "center": [
+      10.2511,
+      53.5099
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4957,
+      10.2104,
+      53.58,
+      10.3159
+    ],
+    "plz": "21465"
+  },
+  {
+    "id": "reinfeld",
+    "name": "Reinfeld",
+    "shortName": "REI",
+    "cityId": 561,
+    "center": [
+      10.487,
+      53.8301
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8146,
+      10.4449,
+      53.8589,
+      10.5309
+    ],
+    "plz": "23858"
+  },
+  {
+    "id": "rethwisch",
+    "name": "Rethwisch",
+    "shortName": "RET",
+    "cityId": 562,
+    "center": [
+      10.4423,
+      53.7819
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7319,
+      10.3923,
+      53.8319,
+      10.4923
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "ritzerau",
+    "name": "Ritzerau",
+    "shortName": "RIT",
+    "cityId": 101,
+    "center": [
+      10.5607,
+      53.6635
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6632,
+      10.5545,
+      53.6637,
+      10.5667
+    ],
+    "plz": "23896"
+  },
+  {
+    "id": "roemnitz",
+    "name": "Römnitz",
+    "shortName": "ROEM",
+    "cityId": 102,
+    "center": [
+      10.7687,
+      53.7104
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6604,
+      10.7187,
+      53.7604,
+      10.8187
+    ],
+    "plz": "23909"
+  },
+  {
+    "id": "rondeshagen",
+    "name": "Rondeshagen",
+    "shortName": "RON",
+    "cityId": 103,
+    "center": [
+      10.6326,
+      53.769
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7689,
+      10.6325,
+      53.769,
+      10.6327
+    ],
+    "plz": "23919"
+  },
+  {
+    "id": "roseburg",
+    "name": "Roseburg",
+    "shortName": "ROS",
+    "cityId": 104,
+    "center": [
+      10.6293,
+      53.5507
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5504,
+      10.6284,
+      53.5513,
+      10.6309
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "ruempel",
+    "name": "Rümpel",
+    "shortName": "RUEM",
+    "cityId": 565,
+    "center": [
+      10.35,
+      53.7833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7333,
+      10.3,
+      53.8333,
+      10.4
+    ],
+    "plz": "23843"
+  },
+  {
+    "id": "sahms",
+    "name": "Sahms",
+    "shortName": "SAH",
+    "cityId": 106,
+    "center": [
+      10.5341,
+      53.5246
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5245,
+      10.5338,
+      53.5247,
+      10.5343
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "salem",
+    "name": "Salem",
+    "shortName": "SAL",
+    "cityId": 107,
+    "center": [
+      10.8281,
+      53.6554
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6054,
+      10.7781,
+      53.7054,
+      10.8781
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "sandesneben",
+    "name": "Sandesneben",
+    "shortName": "SAN",
+    "cityId": 108,
+    "center": [
+      10.4961,
+      53.688
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.638,
+      10.4461,
+      53.738,
+      10.5461
+    ],
+    "plz": "23898"
+  },
+  {
+    "id": "schiphorst",
+    "name": "Schiphorst",
+    "shortName": "SCH",
+    "cityId": 109,
+    "center": [
+      10.4557,
+      53.7025
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6525,
+      10.4057,
+      53.7525,
+      10.5057
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "schmilau",
+    "name": "Schmilau",
+    "shortName": "SCH",
+    "cityId": 110,
+    "center": [
+      10.7553,
+      53.6594
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6094,
+      10.7053,
+      53.7094,
+      10.8053
+    ],
+    "plz": "23911"
+  },
+  {
+    "id": "schnakenbek",
+    "name": "Schnakenbek",
+    "shortName": "SCH",
+    "cityId": 111,
+    "center": [
+      10.5023,
+      53.386
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3709,
+      10.4295,
+      53.4124,
+      10.5263
+    ],
+    "plz": "21481"
+  },
+  {
+    "id": "schretstaken",
+    "name": "Schretstaken",
+    "shortName": "SCH",
+    "cityId": 113,
+    "center": [
+      10.5427,
+      53.5852
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5851,
+      10.5426,
+      53.5852,
+      10.5428
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "schulendorf",
+    "name": "Schulendorf",
+    "shortName": "SCH",
+    "cityId": 115,
+    "center": [
+      10.5616,
+      53.4735
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4235,
+      10.5116,
+      53.5235,
+      10.6116
+    ],
+    "plz": "21516"
+  },
+  {
+    "id": "schuerensoehlen",
+    "name": "Schürensöhlen",
+    "shortName": "SCH",
+    "cityId": 114,
+    "center": [
+      10.4709,
+      53.7634
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7498,
+      10.457,
+      53.767,
+      10.4923
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "schwarzenbek",
+    "name": "Schwarzenbek",
+    "shortName": "SCH",
+    "cityId": 116,
+    "center": [
+      10.4997,
+      53.5092
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4592,
+      10.4497,
+      53.5592,
+      10.5497
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "siebenbaeumen",
+    "name": "Siebenbäumen",
+    "shortName": "SIE",
+    "cityId": 118,
+    "center": [
+      10.5438,
+      53.7494
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6994,
+      10.4938,
+      53.7994,
+      10.5938
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "siebeneichen",
+    "name": "Siebeneichen",
+    "shortName": "SIE",
+    "cityId": 119,
+    "center": [
+      10.6183,
+      53.5114
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5113,
+      10.6179,
+      53.5114,
+      10.6186
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "siek",
+    "name": "Siek",
+    "shortName": "SIE",
+    "cityId": 569,
+    "center": [
+      10.2978,
+      53.635
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.614,
+      10.2411,
+      53.6537,
+      10.3141
+    ],
+    "plz": "22962"
+  },
+  {
+    "id": "sierksrade",
+    "name": "Sierksrade",
+    "shortName": "SIE",
+    "cityId": 120,
+    "center": [
+      10.5993,
+      53.7369
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6869,
+      10.5493,
+      53.7869,
+      10.6493
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "sirksfelde",
+    "name": "Sirksfelde",
+    "shortName": "SIR",
+    "cityId": 121,
+    "center": [
+      10.511,
+      53.6528
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6028,
+      10.461,
+      53.7028,
+      10.561
+    ],
+    "plz": "23898"
+  },
+  {
+    "id": "stapelfeld",
+    "name": "Stapelfeld",
+    "shortName": "STA",
+    "cityId": 571,
+    "center": [
+      10.2189,
+      53.6069
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.584,
+      10.1889,
+      53.6337,
+      10.2376
+    ],
+    "plz": "22145"
+  },
+  {
+    "id": "steinburg",
+    "name": "Steinburg",
+    "shortName": "STE",
+    "cityId": 591,
+    "center": [
+      9.5158,
+      53.9409
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8909,
+      9.4658,
+      53.9909,
+      9.5658
+    ],
+    "plz": "22964"
+  },
+  {
+    "id": "steinhorst",
+    "name": "Steinhorst",
+    "shortName": "STE",
+    "cityId": 122,
+    "center": [
+      10.487,
+      53.7207
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7206,
+      10.4867,
+      53.7209,
+      10.4873
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "sterley",
+    "name": "Sterley",
+    "shortName": "STE",
+    "cityId": 123,
+    "center": [
+      10.8188,
+      53.6195
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5981,
+      10.7739,
+      53.6615,
+      10.8684
+    ],
+    "plz": "23883"
+  },
+  {
+    "id": "stubben",
+    "name": "Stubben",
+    "shortName": "STU",
+    "cityId": 124,
+    "center": [
+      10.4389,
+      53.7337
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6837,
+      10.3889,
+      53.7837,
+      10.4889
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "talkau",
+    "name": "Talkau",
+    "shortName": "TAL",
+    "cityId": 125,
+    "center": [
+      10.5722,
+      53.5752
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5752,
+      10.5721,
+      53.5753,
+      10.5724
+    ],
+    "plz": "21493"
+  },
+  {
+    "id": "todendorf",
+    "name": "Todendorf",
+    "shortName": "TOD",
+    "cityId": 578,
+    "center": [
+      10.3483,
+      53.6954
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6772,
+      10.3123,
+      53.7221,
+      10.3762
+    ],
+    "plz": "22965"
+  },
+  {
+    "id": "tramm",
+    "name": "Tramm",
+    "shortName": "TRA",
+    "cityId": 126,
+    "center": [
+      10.6169,
+      53.5536
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.553,
+      10.6158,
+      53.5542,
+      10.6184
+    ],
+    "plz": "21516"
+  },
+  {
+    "id": "travenbrueck",
+    "name": "Travenbrück",
+    "shortName": "TRA",
+    "cityId": 592,
+    "center": [
+      10.2959,
+      53.8357
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8356,
+      10.2957,
+      53.8359,
+      10.2962
+    ],
+    "plz": "23843"
+  },
+  {
+    "id": "tremsbuettel",
+    "name": "Tremsbüttel",
+    "shortName": "TRE",
+    "cityId": 581,
+    "center": [
+      10.3117,
+      53.7409
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7209,
+      10.2823,
+      53.7659,
+      10.3469
+    ],
+    "plz": "22967"
+  },
+  {
+    "id": "trittau",
+    "name": "Trittau",
+    "shortName": "TRI",
+    "cityId": 582,
+    "center": [
+      10.4023,
+      53.6271
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6269,
+      10.4023,
+      53.6273,
+      10.4023
+    ],
+    "plz": "22946"
+  },
+  {
+    "id": "walksfelde",
+    "name": "Walksfelde",
+    "shortName": "WAL",
+    "cityId": 127,
+    "center": [
+      10.5756,
+      53.6314
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5814,
+      10.5256,
+      53.6814,
+      10.6256
+    ],
+    "plz": "23896"
+  },
+  {
+    "id": "wangelau",
+    "name": "Wangelau",
+    "shortName": "WAN",
+    "cityId": 128,
+    "center": [
+      10.5483,
+      53.4546
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4046,
+      10.4983,
+      53.5046,
+      10.5983
+    ],
+    "plz": "21483"
+  },
+  {
+    "id": "wentorf",
+    "name": "Wentorf",
+    "shortName": "WEN",
+    "cityId": 129,
+    "center": [
+      10.2536,
+      53.4981
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4481,
+      10.2036,
+      53.5481,
+      10.3036
+    ],
+    "plz": "21465"
+  },
+  {
+    "id": "wentorf-a-s",
+    "name": "Wentorf A.S.",
+    "shortName": "WEN",
+    "cityId": 130,
+    "center": [
+      10.466,
+      53.6827
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6327,
+      10.416,
+      53.7327,
+      10.516
+    ],
+    "plz": "23898"
+  },
+  {
+    "id": "wesenberg",
+    "name": "Wesenberg",
+    "shortName": "WES",
+    "cityId": 594,
+    "center": [
+      10.5386,
+      53.8188
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7688,
+      10.4886,
+      53.8688,
+      10.5886
+    ],
+    "plz": "23858"
+  },
+  {
+    "id": "westerau",
+    "name": "Westerau",
+    "shortName": "WES",
+    "cityId": 583,
+    "center": [
+      10.4911,
+      53.7824
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.782,
+      10.4907,
+      53.7829,
+      10.4916
+    ],
+    "plz": "23847"
+  },
+  {
+    "id": "wiershop",
+    "name": "Wiershop",
+    "shortName": "WIE",
+    "cityId": 131,
+    "center": [
+      10.4428,
+      53.4351
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4346,
+      10.4423,
+      53.4355,
+      10.4433
+    ],
+    "plz": "21502"
+  },
+  {
+    "id": "witzeeze",
+    "name": "Witzeeze",
+    "shortName": "WIT",
+    "cityId": 132,
+    "center": [
+      10.6114,
+      53.4514
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4014,
+      10.5614,
+      53.5014,
+      10.6614
+    ],
+    "plz": "21514"
+  },
+  {
+    "id": "witzhave",
+    "name": "Witzhave",
+    "shortName": "WIT",
+    "cityId": 586,
+    "center": [
+      10.3335,
+      53.5668
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5544,
+      10.3064,
+      53.5912,
+      10.3634
+    ],
+    "plz": "22969"
+  },
+  {
+    "id": "wohltorf",
+    "name": "Wohltorf",
+    "shortName": "WOH",
+    "cityId": 133,
+    "center": [
+      10.2781,
+      53.5207
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4707,
+      10.2281,
+      53.5707,
+      10.3281
+    ],
+    "plz": "21521"
+  },
+  {
+    "id": "woltersdorf",
+    "name": "Woltersdorf",
+    "shortName": "WOL",
+    "cityId": 134,
+    "center": [
+      10.6395,
+      53.5778
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5278,
+      10.5895,
+      53.6278,
+      10.6895
+    ],
+    "plz": "21516"
+  },
+  {
+    "id": "worth",
+    "name": "Worth",
+    "shortName": "WOR",
+    "cityId": 135,
+    "center": [
+      10.3899,
+      53.4427
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3927,
+      10.3399,
+      53.4927,
+      10.4399
+    ],
+    "plz": "21502"
+  },
+  {
+    "id": "zarpen",
+    "name": "Zarpen",
+    "shortName": "ZAR",
+    "cityId": 587,
+    "center": [
+      10.5163,
+      53.8708
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8523,
+      10.4811,
+      53.8911,
+      10.5628
+    ],
+    "plz": "23619"
+  },
+  {
+    "id": "ziethen",
+    "name": "Ziethen",
+    "shortName": "ZIE",
+    "cityId": 136,
+    "center": [
+      10.8105,
+      53.6944
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6711,
+      10.8017,
+      53.7105,
+      10.8714
+    ],
+    "plz": "23911"
+  }
+]
