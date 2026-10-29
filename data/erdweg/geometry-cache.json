@@ -1,0 +1,311 @@
+{
+  "generatedAt": "2026-10-29T04:49:38.617Z",
+  "streets": [
+    {
+      "street": "Altstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Bogenried",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Brand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Eisenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Erdweg Ort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Gimpel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Grossberghofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Guggenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Happach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Kleinberghofen",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.2752399,
+              48.354275
+            ],
+            [
+              11.2752213,
+              48.3542696
+            ],
+            [
+              11.2752534,
+              48.3542204
+            ],
+            [
+              11.27528,
+              48.3542281
+            ],
+            [
+              11.2757122,
+              48.3535054
+            ],
+            [
+              11.275736,
+              48.3534663
+            ],
+            [
+              11.2757679,
+              48.3534747
+            ],
+            [
+              11.275745,
+              48.3535132
+            ],
+            [
+              11.2754457,
+              48.3540161
+            ],
+            [
+              11.2752855,
+              48.3542843
+            ],
+            [
+              11.2752724,
+              48.3543077
+            ],
+            [
+              11.2752651,
+              48.3543207
+            ],
+            [
+              11.2751519,
+              48.3545194
+            ],
+            [
+              11.2751381,
+              48.3545462
+            ],
+            [
+              11.2750824,
+              48.3546543
+            ],
+            [
+              11.2750525,
+              48.3546485
+            ],
+            [
+              11.2751075,
+              48.3545391
+            ],
+            [
+              11.2751988,
+              48.3543793
+            ],
+            [
+              11.2752347,
+              48.3543152
+            ],
+            [
+              11.2752167,
+              48.3543106
+            ],
+            [
+              11.2752254,
+              48.3542973
+            ],
+            [
+              11.2752399,
+              48.354275
+            ]
+          ],
+          [
+            [
+              11.2745849,
+              48.3551031
+            ],
+            [
+              11.2745811,
+              48.3551136
+            ],
+            [
+              11.2745283,
+              48.3551054
+            ],
+            [
+              11.2745205,
+              48.3551275
+            ],
+            [
+              11.2744677,
+              48.3551193
+            ],
+            [
+              11.2744761,
+              48.3550955
+            ],
+            [
+              11.2744484,
+              48.3550911
+            ],
+            [
+              11.2744516,
+              48.3550823
+            ],
+            [
+              11.2745849,
+              48.3551031
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Langengern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Oberhandenzhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Petersberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Schluttenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Unterweikertshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Walkertshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    },
+    {
+      "street": "Welshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3034,
+          48.3318
+        ]
+      }
+    }
+  ]
+}

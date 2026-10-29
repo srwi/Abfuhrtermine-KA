@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:48:37.932Z",
+  "streets": [
+    {
+      "street": "Engertsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5724,
+          50.9238
+        ]
+      }
+    }
+  ]
+}
