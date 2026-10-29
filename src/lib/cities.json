@@ -1138,6 +1138,22 @@
     ]
   },
   {
+    "id": "augustdorf",
+    "name": "Augustdorf",
+    "shortName": "AUG",
+    "center": [
+      8.7317,
+      51.9094
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.8694,
+      8.6817,
+      51.9494,
+      8.7817
+    ]
+  },
+  {
     "id": "aurich",
     "name": "Aurich",
     "shortName": "AUR",
@@ -1374,6 +1390,22 @@
     ]
   },
   {
+    "id": "bad-salzuflen",
+    "name": "Bad Salzuflen",
+    "shortName": "BS",
+    "center": [
+      8.7443,
+      52.0862
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0462,
+      8.6943,
+      52.1262,
+      8.7943
+    ]
+  },
+  {
     "id": "bad-schwartau",
     "name": "Bad Schwartau",
     "shortName": "BS",
@@ -1531,6 +1563,22 @@
       10.7826,
       52.1125,
       10.8433
+    ]
+  },
+  {
+    "id": "barntrup",
+    "name": "Barntrup",
+    "shortName": "BAR",
+    "center": [
+      9.1164,
+      51.9904
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.9504,
+      9.0664,
+      52.0304,
+      9.1664
     ]
   },
   {
@@ -2279,6 +2327,22 @@
       7.1782,
       49.2991,
       7.369
+    ]
+  },
+  {
+    "id": "blomberg",
+    "name": "Blomberg",
+    "shortName": "BLO",
+    "center": [
+      7.5582,
+      53.5768
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.5368,
+      7.5082,
+      53.6168,
+      7.6082
     ]
   },
   {
@@ -3595,6 +3659,22 @@
     ]
   },
   {
+    "id": "cuxhaven",
+    "name": "Cuxhaven",
+    "shortName": "CUX",
+    "center": [
+      8.699,
+      53.8683
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8283,
+      8.649,
+      53.9083,
+      8.749
+    ]
+  },
+  {
     "id": "damscheid",
     "name": "Damscheid",
     "shortName": "DAM",
@@ -3927,6 +4007,22 @@
       9.7603,
       48.7345,
       9.8681
+    ]
+  },
+  {
+    "id": "doerentrup",
+    "name": "Dörentrup",
+    "shortName": "DOER",
+    "center": [
+      9.0028,
+      52.0411
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0011,
+      8.9528,
+      52.0811,
+      9.0528
     ]
   },
   {
@@ -4821,6 +4917,22 @@
       10.6704,
       52.2247,
       10.7845
+    ]
+  },
+  {
+    "id": "extertal",
+    "name": "Extertal",
+    "shortName": "EXT",
+    "center": [
+      9.1162,
+      52.067
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.027,
+      9.0662,
+      52.107,
+      9.1662
     ]
   },
   {
@@ -6460,6 +6572,22 @@
     ]
   },
   {
+    "id": "halver",
+    "name": "Halver",
+    "shortName": "HAL",
+    "center": [
+      7.4982,
+      51.1861
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1461,
+      7.4482,
+      51.2261,
+      7.5482
+    ]
+  },
+  {
     "id": "hambuehren",
     "name": "Hambühren",
     "shortName": "HAM",
@@ -7495,6 +7623,22 @@
     ]
   },
   {
+    "id": "horn-bad-meinberg",
+    "name": "Horn-Bad Meinberg",
+    "shortName": "HB",
+    "center": [
+      8.9624,
+      51.8855
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.8455,
+      8.9124,
+      51.9255,
+      9.0124
+    ]
+  },
+  {
     "id": "hornburg",
     "name": "Hornburg",
     "shortName": "HOR",
@@ -7958,6 +8102,22 @@
       7.6271,
       49.4951,
       7.8707
+    ]
+  },
+  {
+    "id": "kalletal",
+    "name": "Kalletal",
+    "shortName": "KAL",
+    "center": [
+      8.9588,
+      52.1098
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0602,
+      8.8641,
+      52.1946,
+      9.0378
     ]
   },
   {
@@ -8574,6 +8734,22 @@
     ]
   },
   {
+    "id": "kranenburg",
+    "name": "Kranenburg",
+    "shortName": "KRA",
+    "center": [
+      6.0167,
+      51.7833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7433,
+      5.9667,
+      51.8233,
+      6.0667
+    ]
+  },
+  {
     "id": "kratzenburg",
     "name": "Kratzenburg",
     "shortName": "KRA",
@@ -8603,6 +8779,22 @@
       6.4187,
       50.7824,
       6.5489
+    ]
+  },
+  {
+    "id": "kronberg",
+    "name": "Kronberg",
+    "shortName": "KRO",
+    "center": [
+      8.513,
+      50.181
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.141,
+      8.463,
+      50.221,
+      8.563
     ]
   },
   {
@@ -8715,6 +8907,22 @@
       10.1773,
       52.6666,
       10.3404
+    ]
+  },
+  {
+    "id": "lage",
+    "name": "Lage",
+    "shortName": "LAG",
+    "center": [
+      8.793,
+      51.9922
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.9522,
+      8.743,
+      52.0322,
+      8.843
     ]
   },
   {
@@ -9149,6 +9357,22 @@
     ]
   },
   {
+    "id": "lemgo",
+    "name": "Lemgo",
+    "shortName": "LEM",
+    "center": [
+      8.899,
+      52.0279
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.9879,
+      8.849,
+      52.0679,
+      8.949
+    ]
+  },
+  {
     "id": "lenting",
     "name": "Lenting",
     "shortName": "LEN",
@@ -9181,6 +9405,22 @@
       8.9573,
       48.8336,
       9.0689
+    ]
+  },
+  {
+    "id": "leopoldshoehe",
+    "name": "Leopoldshöhe",
+    "shortName": "LEO",
+    "center": [
+      8.6983,
+      52.0125
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.9725,
+      8.6483,
+      52.0525,
+      8.7483
     ]
   },
   {
@@ -9497,6 +9737,22 @@
       7.259,
       51.8337,
       7.5385
+    ]
+  },
+  {
+    "id": "luegde",
+    "name": "Lügde",
+    "shortName": "LUEG",
+    "center": [
+      9.2471,
+      51.9583
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.9183,
+      9.1971,
+      51.9983,
+      9.2971
     ]
   },
   {
@@ -12303,6 +12559,22 @@
     ]
   },
   {
+    "id": "oerlinghausen",
+    "name": "Oerlinghausen",
+    "shortName": "OER",
+    "center": [
+      8.6622,
+      51.9545
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.9145,
+      8.6122,
+      51.9945,
+      8.7122
+    ]
+  },
+  {
     "id": "offenau",
     "name": "Offenau",
     "shortName": "OFF",
@@ -12798,6 +13070,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "porta-westfalica",
+    "name": "Porta Westfalica",
+    "shortName": "PW",
+    "center": [
+      8.9161,
+      52.2296
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1896,
+      8.8661,
+      52.2696,
+      8.9661
     ]
   },
   {
@@ -14143,6 +14431,22 @@
     ]
   },
   {
+    "id": "schieder-schwalenberg",
+    "name": "Schieder-Schwalenberg",
+    "shortName": "SS",
+    "center": [
+      9.1954,
+      51.8771
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.8371,
+      9.1454,
+      51.9171,
+      9.2454
+    ]
+  },
+  {
     "id": "schiffweiler",
     "name": "Schiffweiler",
     "shortName": "SCH",
@@ -14172,6 +14476,22 @@
       10.4992,
       52.0417,
       10.5626
+    ]
+  },
+  {
+    "id": "schlangen",
+    "name": "Schlangen",
+    "shortName": "SCH",
+    "center": [
+      8.8461,
+      51.8098
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7698,
+      8.7961,
+      51.8498,
+      8.8961
     ]
   },
   {
@@ -16083,6 +16403,22 @@
     ]
   },
   {
+    "id": "telgte",
+    "name": "Telgte",
+    "shortName": "TEL",
+    "center": [
+      7.7829,
+      51.98
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.94,
+      7.7329,
+      52.02,
+      7.8329
+    ]
+  },
+  {
     "id": "temmen-ringenwalde-ringenwalde",
     "name": "Temmen-Ringenwalde - Ringenwalde",
     "shortName": "TR",
@@ -17119,6 +17455,22 @@
       10.6538,
       52.2431,
       10.7037
+    ]
+  },
+  {
+    "id": "versmold",
+    "name": "Versmold",
+    "shortName": "VER",
+    "center": [
+      8.1527,
+      52.0401
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0001,
+      8.1027,
+      52.0801,
+      8.2027
     ]
   },
   {
