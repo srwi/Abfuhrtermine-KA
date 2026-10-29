@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2026-10-29T05:00:53.176Z",
+  "streets": [
+    {
+      "street": "Bodenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Falkenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Gumpen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Hammermühle (Falkenberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Hanfmühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Holzmühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Pirk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Seidlersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Tannenlohe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Thann (Falkenberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Troglauer Mühle (Falkenberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:59:48.223Z",
+  "streets": [
+    {
+      "street": "Ettleben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1227,
+          49.9841
+        ]
+      }
+    }
+  ]
+}

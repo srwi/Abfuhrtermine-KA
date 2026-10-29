@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:59:38.879Z",
+  "streets": [
+    {
+      "street": "Essleben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4616,
+          51.1517
+        ]
+      }
+    }
+  ]
+}

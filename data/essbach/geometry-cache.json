@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:59:28.939Z",
+  "streets": [
+    {
+      "street": "SOK-Essbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6833,
+          50.5833
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:00:07.296Z",
+  "streets": [
+    {
+      "street": "Etzenricht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1,
+          49.6333
+        ]
+      }
+    }
+  ]
+}

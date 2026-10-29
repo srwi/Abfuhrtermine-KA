@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:59:57.643Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Etzelbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6016,
+          48.4391
+        ]
+      }
+    }
+  ]
+}

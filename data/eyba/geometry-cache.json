@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:00:43.325Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Eyba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3361,
+          50.6073
+        ]
+      }
+    }
+  ]
+}

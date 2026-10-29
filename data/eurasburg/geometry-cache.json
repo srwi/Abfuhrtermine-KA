@@ -1,0 +1,879 @@
+{
+  "generatedAt": "2026-10-29T05:00:31.647Z",
+  "streets": [
+    {
+      "street": "Am Anger",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.4037741,
+              47.8603866
+            ],
+            [
+              11.4041068,
+              47.8604668
+            ],
+            [
+              11.4041446,
+              47.860462
+            ],
+            [
+              11.4045584,
+              47.8604099
+            ],
+            [
+              11.4049857,
+              47.8604291
+            ]
+          ],
+          [
+            [
+              11.4049857,
+              47.8604291
+            ],
+            [
+              11.4050612,
+              47.8602681
+            ],
+            [
+              11.4051851,
+              47.8600452
+            ],
+            [
+              11.4052068,
+              47.8598745
+            ],
+            [
+              11.4051147,
+              47.8596605
+            ],
+            [
+              11.4049338,
+              47.8595016
+            ],
+            [
+              11.4047311,
+              47.8593754
+            ],
+            [
+              11.4044858,
+              47.8593541
+            ],
+            [
+              11.4039609,
+              47.8593401
+            ]
+          ],
+          [
+            [
+              11.3781932,
+              47.8812706
+            ],
+            [
+              11.3786192,
+              47.881298
+            ],
+            [
+              11.379186,
+              47.8813128
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Am Bauhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Am Bergfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Am Gemeinschaftshaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Am Hang",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4059516,
+            47.8854283
+          ],
+          [
+            11.4062135,
+            47.8855463
+          ],
+          [
+            11.4064936,
+            47.8856535
+          ],
+          [
+            11.4068476,
+            47.8858622
+          ],
+          [
+            11.407148,
+            47.8860348
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Am Hartfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Am Kirchberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Am Kreutfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Am Schmidberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Augsburger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Bergstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Bgm.-Hartmann-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Bgm.-Völk-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Birkenfeld-Nord",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Birkenfeld-Süd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Birkenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Brand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Brugger",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Buchenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Christoph-v.-Schmid-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Eichenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Eismannsberger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Feldstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Fesenmayrstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Fichtenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Friedberger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Ganswies",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Gartenstr.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.409403,
+            47.8840813
+          ],
+          [
+            11.4092929,
+            47.8843134
+          ],
+          [
+            11.4095164,
+            47.8856662
+          ],
+          [
+            11.4095625,
+            47.8862375
+          ],
+          [
+            11.4095249,
+            47.8863222
+          ],
+          [
+            11.4096189,
+            47.8865102
+          ],
+          [
+            11.4096701,
+            47.8866124
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Grosse Breiten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Habermühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.4035004,
+              47.8553392
+            ],
+            [
+              11.4033221,
+              47.8553192
+            ],
+            [
+              11.4030692,
+              47.8553189
+            ],
+            [
+              11.402986,
+              47.8552612
+            ]
+          ],
+          [
+            [
+              11.402986,
+              47.8552612
+            ],
+            [
+              11.4028686,
+              47.8551392
+            ],
+            [
+              11.402811,
+              47.8550632
+            ],
+            [
+              11.4026831,
+              47.8548944
+            ],
+            [
+              11.4026055,
+              47.8545588
+            ],
+            [
+              11.4025507,
+              47.8542678
+            ],
+            [
+              11.4025708,
+              47.8537632
+            ],
+            [
+              11.402516,
+              47.8536615
+            ],
+            [
+              11.4024003,
+              47.8533587
+            ],
+            [
+              11.4023905,
+              47.8531095
+            ],
+            [
+              11.402549,
+              47.8528524
+            ],
+            [
+              11.4025773,
+              47.8527264
+            ],
+            [
+              11.4025952,
+              47.8526468
+            ],
+            [
+              11.4025738,
+              47.852444
+            ],
+            [
+              11.4023719,
+              47.8522108
+            ],
+            [
+              11.4021527,
+              47.8519962
+            ],
+            [
+              11.4020383,
+              47.8517233
+            ],
+            [
+              11.4019862,
+              47.8514993
+            ],
+            [
+              11.4019737,
+              47.8513282
+            ],
+            [
+              11.4019605,
+              47.8511468
+            ],
+            [
+              11.4017769,
+              47.8507107
+            ],
+            [
+              11.4016541,
+              47.8503943
+            ],
+            [
+              11.4015115,
+              47.8500282
+            ],
+            [
+              11.4014509,
+              47.8498446
+            ],
+            [
+              11.4014111,
+              47.8496999
+            ],
+            [
+              11.4012164,
+              47.8496142
+            ],
+            [
+              11.4011767,
+              47.8494918
+            ],
+            [
+              11.4011939,
+              47.8493892
+            ],
+            [
+              11.401415,
+              47.8492859
+            ],
+            [
+              11.401577,
+              47.8492608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hergertswiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Ignaz-Heckl-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Im Tal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Jodlhofstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Kalteneck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Kiefernstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Kreuthstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Küppersstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Postweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Rosenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Sandberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.37936,
+              47.8807475
+            ],
+            [
+              11.3792454,
+              47.8807101
+            ],
+            [
+              11.3791266,
+              47.8806406
+            ],
+            [
+              11.379005,
+              47.8805477
+            ],
+            [
+              11.3789415,
+              47.8804992
+            ],
+            [
+              11.3788112,
+              47.8803438
+            ],
+            [
+              11.3787162,
+              47.8800023
+            ],
+            [
+              11.3786567,
+              47.8796386
+            ],
+            [
+              11.3786257,
+              47.8793933
+            ],
+            [
+              11.3785993,
+              47.8791482
+            ],
+            [
+              11.3785752,
+              47.8787754
+            ],
+            [
+              11.3785567,
+              47.8786305
+            ],
+            [
+              11.3784887,
+              47.878369
+            ],
+            [
+              11.3784104,
+              47.8781804
+            ]
+          ],
+          [
+            [
+              11.4110311,
+              47.8280329
+            ],
+            [
+              11.4109065,
+              47.8277931
+            ],
+            [
+              11.4107882,
+              47.8275568
+            ],
+            [
+              11.4108391,
+              47.8274995
+            ],
+            [
+              11.4109285,
+              47.8274927
+            ],
+            [
+              11.4110179,
+              47.8275418
+            ],
+            [
+              11.4111989,
+              47.8277198
+            ],
+            [
+              11.4109065,
+              47.8277931
+            ]
+          ],
+          [
+            [
+              11.3785993,
+              47.8791482
+            ],
+            [
+              11.3781505,
+              47.8791395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Schweglerstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Siedlerstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "St.-Antonius-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "St.-Benno-Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Starcholtstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Tannenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Ulrichsfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    },
+    {
+      "street": "Waldstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059,
+          47.8539
+        ]
+      }
+    }
+  ]
+}

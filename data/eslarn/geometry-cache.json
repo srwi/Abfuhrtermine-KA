@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:59:20.167Z",
+  "streets": [
+    {
+      "street": "Eslarn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5216,
+          49.5835
+        ]
+      }
+    }
+  ]
+}

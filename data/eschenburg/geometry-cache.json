@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T04:59:10.446Z",
+  "streets": [
+    {
+      "street": "Eibelshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1572,
+          29.145
+        ]
+      }
+    },
+    {
+      "street": "Eiershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1572,
+          29.145
+        ]
+      }
+    },
+    {
+      "street": "Hirzenhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1572,
+          29.145
+        ]
+      }
+    },
+    {
+      "street": "Hirzenhain Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1572,
+          29.145
+        ]
+      }
+    },
+    {
+      "street": "Roth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1572,
+          29.145
+        ]
+      }
+    },
+    {
+      "street": "Simmersbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1572,
+          29.145
+        ]
+      }
+    },
+    {
+      "street": "Wissenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1572,
+          29.145
+        ]
+      }
+    }
+  ]
+}

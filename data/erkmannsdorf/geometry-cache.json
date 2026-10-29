@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:58:39.435Z",
+  "streets": [
+    {
+      "street": "SOK-Erkmannsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7073,
+          50.5925
+        ]
+      }
+    }
+  ]
+}
