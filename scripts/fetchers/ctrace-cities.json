@@ -1,0 +1,3606 @@
+[
+  {
+    "id": "adelsried",
+    "name": "Adelsried",
+    "shortName": "ADE",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Adelsried",
+    "gemeinde": "Adelsried",
+    "center": [
+      10.7167,
+      48.4256
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.409,
+      10.6825,
+      48.4378,
+      10.7534
+    ]
+  },
+  {
+    "id": "allmannshofen",
+    "name": "Allmannshofen",
+    "shortName": "ALL",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Allmannshofen",
+    "gemeinde": "Allmannshofen",
+    "center": [
+      10.8089,
+      48.6125
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6018,
+      10.7765,
+      48.6351,
+      10.8448
+    ]
+  },
+  {
+    "id": "alveslohe",
+    "name": "Alveslohe",
+    "shortName": "ALV",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Alveslohe",
+    "gemeinde": "Alveslohe",
+    "center": [
+      9.916,
+      53.7891
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7645,
+      9.8669,
+      53.8168,
+      9.9702
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "armstedt",
+    "name": "Armstedt",
+    "shortName": "ARM",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Armstedt",
+    "gemeinde": "Armstedt",
+    "center": [
+      9.8517,
+      53.9703
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9516,
+      9.8231,
+      53.9835,
+      9.892
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "arnsberg",
+    "name": "Arnsberg",
+    "shortName": "ARN",
+    "service": "arnsberg-abfallkalender",
+    "serviceType": "direct",
+    "ort": "Arnsberg",
+    "gemeinde": "Arnsberg",
+    "center": [
+      8.0606,
+      51.4002
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3547,
+      8.0268,
+      51.4183,
+      8.1042
+    ]
+  },
+  {
+    "id": "assamstadt",
+    "name": "Assamstadt",
+    "shortName": "ASS",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Assamstadt",
+    "gemeinde": "Assamstadt",
+    "center": [
+      9.6872,
+      49.4272
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.407,
+      9.6379,
+      49.4528,
+      9.7145
+    ]
+  },
+  {
+    "id": "aystetten",
+    "name": "Aystetten",
+    "shortName": "AYS",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Aystetten",
+    "gemeinde": "Aystetten",
+    "center": [
+      10.7757,
+      48.4069
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3922,
+      10.7329,
+      48.4192,
+      10.8002
+    ]
+  },
+  {
+    "id": "bad-bramstedt",
+    "name": "Bad Bramstedt",
+    "shortName": "BAD",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bad Bramstedt",
+    "gemeinde": "Bad Bramstedt",
+    "center": [
+      9.8833,
+      53.9167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.887,
+      9.8518,
+      53.9441,
+      9.9532
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "bad-mergentheim",
+    "name": "Bad Mergentheim",
+    "shortName": "BAD",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bad Mergentheim",
+    "gemeinde": "Bad Mergentheim",
+    "center": [
+      9.7732,
+      49.4908
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3884,
+      9.6919,
+      49.5296,
+      9.8681
+    ]
+  },
+  {
+    "id": "bad-segeberg",
+    "name": "Bad Segeberg",
+    "shortName": "BAD",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bad Segeberg",
+    "gemeinde": "Bad Segeberg",
+    "center": [
+      10.3045,
+      53.9369
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9178,
+      10.2678,
+      53.9734,
+      10.3741
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "bahrenhof",
+    "name": "Bahrenhof",
+    "shortName": "BAH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bahrenhof",
+    "gemeinde": "Bahrenhof",
+    "center": [
+      10.3799,
+      53.878
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8669,
+      10.3564,
+      53.8891,
+      10.418
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "bark",
+    "name": "Bark",
+    "shortName": "BAR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bark",
+    "gemeinde": "Bark",
+    "center": [
+      10.1824,
+      53.9107
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8901,
+      10.0777,
+      53.9685,
+      10.2255
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "bark-ot-bockhorn",
+    "name": "Bark OT Bockhorn",
+    "shortName": "BAR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bark OT Bockhorn",
+    "gemeinde": "Bark OT Bockhorn",
+    "center": [
+      10.1824,
+      53.9107
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8901,
+      10.0777,
+      53.9685,
+      10.2255
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "bark-ot-schafhaus",
+    "name": "Bark OT Schafhaus",
+    "shortName": "BAR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bark OT Schafhaus",
+    "gemeinde": "Bark OT Schafhaus",
+    "center": [
+      10.1824,
+      53.9107
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8901,
+      10.0777,
+      53.9685,
+      10.2255
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "bayreuth",
+    "name": "Bayreuth",
+    "shortName": "BAY",
+    "service": "bayreuthstadt-abfallkalender",
+    "serviceType": "direct",
+    "ort": "Bayreuth",
+    "gemeinde": "Bayreuth",
+    "center": [
+      11.5744,
+      49.9446
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8882,
+      11.4751,
+      49.9773,
+      11.6728
+    ]
+  },
+  {
+    "id": "bebensee",
+    "name": "Bebensee",
+    "shortName": "BEB",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bebensee",
+    "gemeinde": "Bebensee",
+    "center": [
+      10.3024,
+      53.877
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8662,
+      10.2751,
+      53.8915,
+      10.3329
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "biberbach",
+    "name": "Biberbach",
+    "shortName": "BIB",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Biberbach",
+    "gemeinde": "Biberbach",
+    "center": [
+      10.8112,
+      48.517
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4684,
+      10.7087,
+      48.5478,
+      10.8524
+    ]
+  },
+  {
+    "id": "biebesheim-am-rhein",
+    "name": "Biebesheim am Rhein",
+    "shortName": "BIE",
+    "service": "grossgeraulandkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Biebesheim am Rhein",
+    "gemeinde": "Biebesheim am Rhein",
+    "center": [
+      8.4863,
+      49.7818
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7818,
+      8.4861,
+      49.7819,
+      8.4865
+    ]
+  },
+  {
+    "id": "bimoehlen",
+    "name": "Bimöhlen",
+    "shortName": "BIM",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bimöhlen",
+    "gemeinde": "Bimöhlen",
+    "center": [
+      9.9534,
+      53.9366
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9094,
+      9.9156,
+      53.9513,
+      10.0398
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "blunk",
+    "name": "Blunk",
+    "shortName": "BLU",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Blunk",
+    "gemeinde": "Blunk",
+    "center": [
+      10.3122,
+      54.0102
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9856,
+      10.2818,
+      54.0306,
+      10.3394
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "bobingen",
+    "name": "Bobingen",
+    "shortName": "BOB",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Bobingen",
+    "gemeinde": "Bobingen",
+    "center": [
+      10.8338,
+      48.2688
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2416,
+      10.6718,
+      48.3076,
+      10.8759
+    ]
+  },
+  {
+    "id": "bonstetten",
+    "name": "Bonstetten",
+    "shortName": "BON",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Bonstetten",
+    "gemeinde": "Bonstetten",
+    "center": [
+      10.7065,
+      48.4393
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.433,
+      10.6781,
+      48.4534,
+      10.7524
+    ]
+  },
+  {
+    "id": "boostedt",
+    "name": "Boostedt",
+    "shortName": "BOO",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Boostedt",
+    "gemeinde": "Boostedt",
+    "center": [
+      10.0287,
+      54.0077
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9647,
+      9.9667,
+      54.0378,
+      10.0675
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "bornhoeved",
+    "name": "Bornhöved",
+    "shortName": "BOR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bornhöved",
+    "gemeinde": "Bornhöved",
+    "center": [
+      10.2271,
+      54.0699
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.028,
+      10.1975,
+      54.0912,
+      10.2694
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "borstel",
+    "name": "Borstel",
+    "shortName": "BOR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Borstel",
+    "gemeinde": "Borstel",
+    "center": [
+      9.7993,
+      53.9706
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9573,
+      9.7767,
+      53.9839,
+      9.8218
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "boxberg",
+    "name": "Boxberg",
+    "shortName": "BOX",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Boxberg",
+    "gemeinde": "Boxberg",
+    "center": [
+      9.6412,
+      49.4811
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4472,
+      9.6105,
+      49.493,
+      9.6588
+    ]
+  },
+  {
+    "id": "bremen",
+    "name": "Bremen",
+    "shortName": "BRE",
+    "service": "bremenabfallkalender",
+    "serviceType": "direct",
+    "ort": "Bremen",
+    "gemeinde": "Bremen",
+    "center": [
+      8.8072,
+      53.0758
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0112,
+      8.4816,
+      53.5984,
+      8.9908
+    ]
+  },
+  {
+    "id": "buehnsdorf",
+    "name": "Bühnsdorf",
+    "shortName": "BUEH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Bühnsdorf",
+    "gemeinde": "Bühnsdorf",
+    "center": [
+      10.3772,
+      53.8875
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8746,
+      10.3565,
+      53.8948,
+      10.4349
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "buettelborn",
+    "name": "Büttelborn",
+    "shortName": "BUET",
+    "service": "grossgeraulandkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Büttelborn",
+    "gemeinde": "Büttelborn",
+    "center": [
+      8.5141,
+      49.902
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.852,
+      8.4641,
+      49.952,
+      8.5641
+    ]
+  },
+  {
+    "id": "creglingen",
+    "name": "Creglingen",
+    "shortName": "CRE",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Creglingen",
+    "gemeinde": "Creglingen",
+    "center": [
+      10.0298,
+      49.4689
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3835,
+      9.971,
+      49.5455,
+      10.1618
+    ]
+  },
+  {
+    "id": "daldorf",
+    "name": "Daldorf",
+    "shortName": "DAL",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Daldorf",
+    "gemeinde": "Daldorf",
+    "center": [
+      10.2485,
+      54.0181
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9919,
+      10.2108,
+      54.041,
+      10.2942
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "damsdorf",
+    "name": "Damsdorf",
+    "shortName": "DAM",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Damsdorf",
+    "gemeinde": "Damsdorf",
+    "center": [
+      10.32,
+      54.0668
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0536,
+      10.2852,
+      54.08,
+      10.3567
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "diedorf",
+    "name": "Diedorf",
+    "shortName": "DIE",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Diedorf",
+    "gemeinde": "Diedorf",
+    "center": [
+      10.7776,
+      48.3547
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3042,
+      10.7117,
+      48.3967,
+      10.8061
+    ]
+  },
+  {
+    "id": "dinkelscherben",
+    "name": "Dinkelscherben",
+    "shortName": "DIN",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Dinkelscherben",
+    "gemeinde": "Dinkelscherben",
+    "center": [
+      10.591,
+      48.3485
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2823,
+      10.499,
+      48.3844,
+      10.6684
+    ]
+  },
+  {
+    "id": "dreggers",
+    "name": "Dreggers",
+    "shortName": "DRE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Dreggers",
+    "gemeinde": "Dreggers",
+    "center": [
+      10.3465,
+      53.8847
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.873,
+      10.3261,
+      53.8879,
+      10.3581
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "ellerau",
+    "name": "Ellerau",
+    "shortName": "ELL",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Ellerau",
+    "gemeinde": "Ellerau",
+    "center": [
+      9.9167,
+      53.75
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7473,
+      9.8923,
+      53.7727,
+      9.9663
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "ellgau",
+    "name": "Ellgau",
+    "shortName": "ELL",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Ellgau",
+    "gemeinde": "Ellgau",
+    "center": [
+      10.8667,
+      48.6
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5861,
+      10.8416,
+      48.6387,
+      10.8875
+    ]
+  },
+  {
+    "id": "emersacker",
+    "name": "Emersacker",
+    "shortName": "EME",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Emersacker",
+    "gemeinde": "Emersacker",
+    "center": [
+      10.6733,
+      48.489
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4519,
+      10.641,
+      48.4988,
+      10.7016
+    ]
+  },
+  {
+    "id": "fahrenkrug",
+    "name": "Fahrenkrug",
+    "shortName": "FAH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Fahrenkrug",
+    "gemeinde": "Fahrenkrug",
+    "center": [
+      10.2534,
+      53.9444
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9267,
+      10.2379,
+      53.9626,
+      10.2716
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "fischach",
+    "name": "Fischach",
+    "shortName": "FIS",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Fischach",
+    "gemeinde": "Fischach",
+    "center": [
+      10.6555,
+      48.2902
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2453,
+      10.5917,
+      48.3233,
+      10.6924
+    ]
+  },
+  {
+    "id": "foehrden-barl",
+    "name": "Föhrden-Barl",
+    "shortName": "FOEH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Föhrden-Barl",
+    "gemeinde": "Föhrden-Barl",
+    "center": [
+      9.7874,
+      53.9281
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9098,
+      9.7567,
+      53.9381,
+      9.8345
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "fredesdorf",
+    "name": "Fredesdorf",
+    "shortName": "FRE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Fredesdorf",
+    "gemeinde": "Fredesdorf",
+    "center": [
+      10.1987,
+      53.877
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8574,
+      10.156,
+      53.8871,
+      10.216
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "freudenberg",
+    "name": "Freudenberg",
+    "shortName": "FRE",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Freudenberg",
+    "gemeinde": "Freudenberg",
+    "center": [
+      9.3261,
+      49.7486
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7035,
+      9.2957,
+      49.7792,
+      9.421
+    ]
+  },
+  {
+    "id": "fuhlendorf",
+    "name": "Fuhlendorf",
+    "shortName": "FUH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Fuhlendorf",
+    "gemeinde": "Fuhlendorf",
+    "center": [
+      9.8846,
+      53.9436
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9307,
+      9.8516,
+      53.9567,
+      9.9167
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "gablingen",
+    "name": "Gablingen",
+    "shortName": "GAB",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Gablingen",
+    "gemeinde": "Gablingen",
+    "center": [
+      10.8208,
+      48.4565
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4321,
+      10.7512,
+      48.4794,
+      10.8715
+    ]
+  },
+  {
+    "id": "gernsheim-am-rhein",
+    "name": "Gernsheim am Rhein",
+    "shortName": "GER",
+    "service": "grossgeraulandkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Gernsheim am Rhein",
+    "gemeinde": "Gernsheim am Rhein",
+    "center": [
+      8.544,
+      49.719
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.669,
+      8.494,
+      49.769,
+      8.594
+    ]
+  },
+  {
+    "id": "gersthofen",
+    "name": "Gersthofen",
+    "shortName": "GER",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Gersthofen",
+    "gemeinde": "Gersthofen",
+    "center": [
+      10.8779,
+      48.4248
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4024,
+      10.7373,
+      48.4609,
+      10.8901
+    ]
+  },
+  {
+    "id": "geschendorf",
+    "name": "Geschendorf",
+    "shortName": "GES",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Geschendorf",
+    "gemeinde": "Geschendorf",
+    "center": [
+      10.443,
+      53.9214
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9052,
+      10.4188,
+      53.9327,
+      10.471
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "gessertshausen",
+    "name": "Gessertshausen",
+    "shortName": "GES",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Gessertshausen",
+    "gemeinde": "Gessertshausen",
+    "center": [
+      10.7325,
+      48.3311
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2579,
+      10.6681,
+      48.3601,
+      10.7615
+    ]
+  },
+  {
+    "id": "glasau",
+    "name": "Glasau",
+    "shortName": "GLA",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Glasau",
+    "gemeinde": "Glasau",
+    "center": [
+      10.527,
+      54.0447
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0175,
+      10.4847,
+      54.0727,
+      10.5642
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "goennebek",
+    "name": "Gönnebek",
+    "shortName": "GOEN",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Gönnebek",
+    "gemeinde": "Gönnebek",
+    "center": [
+      10.177,
+      54.0492
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0307,
+      10.1234,
+      54.0703,
+      10.2176
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "graben",
+    "name": "Graben",
+    "shortName": "GRA",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Graben",
+    "gemeinde": "Graben",
+    "center": [
+      10.822,
+      48.1891
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1778,
+      10.7968,
+      48.2069,
+      10.8773
+    ]
+  },
+  {
+    "id": "gross-kummerfeld",
+    "name": "Groß Kummerfeld",
+    "shortName": "GRO",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Groß Kummerfeld",
+    "gemeinde": "Groß Kummerfeld",
+    "center": [
+      10.0802,
+      54.0475
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0045,
+      10.0136,
+      54.0589,
+      10.148
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "gross-niendorf",
+    "name": "Groß Niendorf",
+    "shortName": "GRO",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Groß Niendorf",
+    "gemeinde": "Groß Niendorf",
+    "center": [
+      10.245,
+      53.8474
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8246,
+      10.2068,
+      53.8619,
+      10.2725
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "gross-roennau",
+    "name": "Groß Rönnau",
+    "shortName": "GRO",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Groß Rönnau",
+    "gemeinde": "Groß Rönnau",
+    "center": [
+      10.3124,
+      53.9729
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9666,
+      10.2868,
+      53.9957,
+      10.352
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "grossaitingen",
+    "name": "Großaitingen",
+    "shortName": "GRO",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Großaitingen",
+    "gemeinde": "Großaitingen",
+    "center": [
+      10.7815,
+      48.2282
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2037,
+      10.6408,
+      48.2544,
+      10.829
+    ]
+  },
+  {
+    "id": "grossenaspe",
+    "name": "Großenaspe",
+    "shortName": "GRO",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Großenaspe",
+    "gemeinde": "Großenaspe",
+    "center": [
+      9.9688,
+      53.9738
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9375,
+      9.8996,
+      54.0229,
+      10.0617
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "grossenaspe-ot-brokenlande",
+    "name": "Großenaspe OT Brokenlande",
+    "shortName": "GRO",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Großenaspe OT Brokenlande",
+    "gemeinde": "Großenaspe OT Brokenlande",
+    "center": [
+      9.9688,
+      53.9738
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9375,
+      9.8996,
+      54.0229,
+      10.0617
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "grossrinderfeld",
+    "name": "Großrinderfeld",
+    "shortName": "GRO",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Großrinderfeld",
+    "gemeinde": "Großrinderfeld",
+    "center": [
+      9.7333,
+      49.6658
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.6373,
+      9.691,
+      49.7314,
+      9.8412
+    ]
+  },
+  {
+    "id": "gruensfeld",
+    "name": "Grünsfeld",
+    "shortName": "GRUE",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Grünsfeld",
+    "gemeinde": "Grünsfeld",
+    "center": [
+      9.7448,
+      49.6083
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5718,
+      9.7101,
+      49.6621,
+      9.8149
+    ]
+  },
+  {
+    "id": "hagen",
+    "name": "Hagen",
+    "shortName": "HAG",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Hagen",
+    "gemeinde": "Hagen",
+    "center": [
+      9.8274,
+      53.9467
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9244,
+      9.8015,
+      53.9613,
+      9.8668
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "hardebek",
+    "name": "Hardebek",
+    "shortName": "HAR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Hardebek",
+    "gemeinde": "Hardebek",
+    "center": [
+      9.8685,
+      53.9881
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9829,
+      9.8538,
+      54.0103,
+      9.9191
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "hartenholm",
+    "name": "Hartenholm",
+    "shortName": "HAR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Hartenholm",
+    "gemeinde": "Hartenholm",
+    "center": [
+      10.0601,
+      53.9002
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8722,
+      10.0366,
+      53.9193,
+      10.1075
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "hasenkrug",
+    "name": "Hasenkrug",
+    "shortName": "HAS",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Hasenkrug",
+    "gemeinde": "Hasenkrug",
+    "center": [
+      9.8502,
+      53.9847
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9784,
+      9.8251,
+      54.0117,
+      9.8767
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "hasenmoor",
+    "name": "Hasenmoor",
+    "shortName": "HAS",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Hasenmoor",
+    "gemeinde": "Hasenmoor",
+    "center": [
+      9.9809,
+      53.8998
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8854,
+      9.9508,
+      53.9351,
+      10.048
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "heidmoor",
+    "name": "Heidmoor",
+    "shortName": "HEI",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Heidmoor",
+    "gemeinde": "Heidmoor",
+    "center": [
+      9.8168,
+      53.8669
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8171,
+      9.794,
+      53.8847,
+      9.8755
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "heidmuehlen",
+    "name": "Heidmühlen",
+    "shortName": "HEI",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Heidmühlen",
+    "gemeinde": "Heidmühlen",
+    "center": [
+      10.0847,
+      53.9721
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9056,
+      10.0287,
+      53.9876,
+      10.1554
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "henstedt-ulzburg",
+    "name": "Henstedt-Ulzburg",
+    "shortName": "HEN",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Henstedt-Ulzburg",
+    "gemeinde": "Henstedt-Ulzburg",
+    "center": [
+      9.9808,
+      53.7927
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7452,
+      9.9269,
+      53.8156,
+      10.0945
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "heretsried",
+    "name": "Heretsried",
+    "shortName": "HER",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Heretsried",
+    "gemeinde": "Heretsried",
+    "center": [
+      10.7358,
+      48.4598
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4454,
+      10.6919,
+      48.4851,
+      10.7675
+    ]
+  },
+  {
+    "id": "hiltenfingen",
+    "name": "Hiltenfingen",
+    "shortName": "HIL",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Hiltenfingen",
+    "gemeinde": "Hiltenfingen",
+    "center": [
+      10.7194,
+      48.1621
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1295,
+      10.684,
+      48.1776,
+      10.7474
+    ]
+  },
+  {
+    "id": "hitzhusen",
+    "name": "Hitzhusen",
+    "shortName": "HIT",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Hitzhusen",
+    "gemeinde": "Hitzhusen",
+    "center": [
+      9.8546,
+      53.9229
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9061,
+      9.8135,
+      53.9398,
+      9.8779
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "hoegersdorf",
+    "name": "Högersdorf",
+    "shortName": "HOEG",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Högersdorf",
+    "gemeinde": "Högersdorf",
+    "center": [
+      10.2817,
+      53.921
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9076,
+      10.2401,
+      53.933,
+      10.3036
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "hoegersdorf-ot-rotenhahn",
+    "name": "Högersdorf OT Rotenhahn",
+    "shortName": "HOEG",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Högersdorf OT Rotenhahn",
+    "gemeinde": "Högersdorf OT Rotenhahn",
+    "center": [
+      10.2817,
+      53.921
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9076,
+      10.2401,
+      53.933,
+      10.3036
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "horgau",
+    "name": "Horgau",
+    "shortName": "HOR",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Horgau",
+    "gemeinde": "Horgau",
+    "center": [
+      10.6853,
+      48.3956
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3758,
+      10.6226,
+      48.4196,
+      10.8024
+    ]
+  },
+  {
+    "id": "huettblek",
+    "name": "Hüttblek",
+    "shortName": "HUET",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Hüttblek",
+    "gemeinde": "Hüttblek",
+    "center": [
+      10.0728,
+      53.8386
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8286,
+      10.0517,
+      53.845,
+      10.0887
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "igersheim",
+    "name": "Igersheim",
+    "shortName": "IGE",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Igersheim",
+    "gemeinde": "Igersheim",
+    "center": [
+      9.8179,
+      49.4936
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4814,
+      9.7949,
+      49.5871,
+      9.9251
+    ]
+  },
+  {
+    "id": "itzstedt",
+    "name": "Itzstedt",
+    "shortName": "ITZ",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Itzstedt",
+    "gemeinde": "Itzstedt",
+    "center": [
+      10.1566,
+      53.807
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7878,
+      10.1365,
+      53.8188,
+      10.1947
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "kaltenkirchen",
+    "name": "Kaltenkirchen",
+    "shortName": "KAL",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Kaltenkirchen",
+    "gemeinde": "Kaltenkirchen",
+    "center": [
+      9.9615,
+      53.8372
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.802,
+      9.8651,
+      53.8588,
+      9.9874
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "kattendorf",
+    "name": "Kattendorf",
+    "shortName": "KAT",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Kattendorf",
+    "gemeinde": "Kattendorf",
+    "center": [
+      10.0231,
+      53.8435
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8304,
+      9.9991,
+      53.8687,
+      10.0816
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "kayhude",
+    "name": "Kayhude",
+    "shortName": "KAY",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Kayhude",
+    "gemeinde": "Kayhude",
+    "center": [
+      10.1348,
+      53.758
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.745,
+      10.106,
+      53.7747,
+      10.1468
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "kisdorf",
+    "name": "Kisdorf",
+    "shortName": "KIS",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Kisdorf",
+    "gemeinde": "Kisdorf",
+    "center": [
+      10.0101,
+      53.8104
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7938,
+      9.9768,
+      53.833,
+      10.1139
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "klein-gladebruegge",
+    "name": "Klein Gladebrügge",
+    "shortName": "KLE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Klein Gladebrügge",
+    "gemeinde": "Klein Gladebrügge",
+    "center": [
+      10.3204,
+      53.9163
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.905,
+      10.2988,
+      53.9233,
+      10.3514
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "klein-roennau",
+    "name": "Klein Rönnau",
+    "shortName": "KLE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Klein Rönnau",
+    "gemeinde": "Klein Rönnau",
+    "center": [
+      10.3219,
+      53.9627
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9489,
+      10.3084,
+      53.9737,
+      10.3541
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "kleinaitingen",
+    "name": "Kleinaitingen",
+    "shortName": "KLE",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Kleinaitingen",
+    "gemeinde": "Kleinaitingen",
+    "center": [
+      10.8411,
+      48.2197
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1782,
+      10.8201,
+      48.2307,
+      10.8982
+    ]
+  },
+  {
+    "id": "klosterlechfeld",
+    "name": "Klosterlechfeld",
+    "shortName": "KLO",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Klosterlechfeld",
+    "gemeinde": "Klosterlechfeld",
+    "center": [
+      10.831,
+      48.1588
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1467,
+      10.8242,
+      48.163,
+      10.8516
+    ]
+  },
+  {
+    "id": "koenigheim",
+    "name": "Königheim",
+    "shortName": "KOEN",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Königheim",
+    "gemeinde": "Königheim",
+    "center": [
+      9.5952,
+      49.6183
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.6003,
+      9.5368,
+      49.6492,
+      9.6293
+    ]
+  },
+  {
+    "id": "koenigsbrunn",
+    "name": "Königsbrunn",
+    "shortName": "KOEN",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Königsbrunn",
+    "gemeinde": "Königsbrunn",
+    "center": [
+      10.8884,
+      48.268
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2281,
+      10.8551,
+      48.2939,
+      10.9113
+    ]
+  },
+  {
+    "id": "krems-ii",
+    "name": "Krems II",
+    "shortName": "KRE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Krems II",
+    "gemeinde": "Krems II",
+    "center": [
+      10.3554,
+      53.9871
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9749,
+      10.3204,
+      54.0122,
+      10.3952
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "kuehlenthal",
+    "name": "Kühlenthal",
+    "shortName": "KUEH",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Kühlenthal",
+    "gemeinde": "Kühlenthal",
+    "center": [
+      10.8219,
+      48.5657
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5518,
+      10.7692,
+      48.5854,
+      10.829
+    ]
+  },
+  {
+    "id": "kuekels",
+    "name": "Kükels",
+    "shortName": "KUEK",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Kükels",
+    "gemeinde": "Kükels",
+    "center": [
+      10.2354,
+      53.8968
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.881,
+      10.2029,
+      53.9139,
+      10.2535
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "kuelsheim",
+    "name": "Külsheim",
+    "shortName": "KUEL",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Külsheim",
+    "gemeinde": "Külsheim",
+    "center": [
+      9.5207,
+      49.6697
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.6349,
+      9.3969,
+      49.7095,
+      9.6086
+    ]
+  },
+  {
+    "id": "kutzenhausen",
+    "name": "Kutzenhausen",
+    "shortName": "KUT",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Kutzenhausen",
+    "gemeinde": "Kutzenhausen",
+    "center": [
+      10.6945,
+      48.3421
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3191,
+      10.6508,
+      48.3883,
+      10.7441
+    ]
+  },
+  {
+    "id": "langenneufnach",
+    "name": "Langenneufnach",
+    "shortName": "LAN",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Langenneufnach",
+    "gemeinde": "Langenneufnach",
+    "center": [
+      10.6064,
+      48.2647
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.242,
+      10.567,
+      48.2794,
+      10.6384
+    ]
+  },
+  {
+    "id": "langerringen",
+    "name": "Langerringen",
+    "shortName": "LAN",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Langerringen",
+    "gemeinde": "Langerringen",
+    "center": [
+      10.7595,
+      48.1421
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.089,
+      10.6839,
+      48.1694,
+      10.8015
+    ]
+  },
+  {
+    "id": "langweid-a-lech",
+    "name": "Langweid a.Lech",
+    "shortName": "LAN",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Langweid a.Lech",
+    "gemeinde": "Langweid a.Lech",
+    "center": [
+      10.8576,
+      48.4904
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4557,
+      10.7707,
+      48.5062,
+      10.8829
+    ]
+  },
+  {
+    "id": "latendorf",
+    "name": "Latendorf",
+    "shortName": "LAT",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Latendorf",
+    "gemeinde": "Latendorf",
+    "center": [
+      10.063,
+      53.9958
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9741,
+      10.0398,
+      54.021,
+      10.127
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "latendorf-ot-braak",
+    "name": "Latendorf OT Braak",
+    "shortName": "LAT",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Latendorf OT Braak",
+    "gemeinde": "Latendorf OT Braak",
+    "center": [
+      10.063,
+      53.9958
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9741,
+      10.0398,
+      54.021,
+      10.127
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "lauda-koenigshofen",
+    "name": "Lauda-Königshofen",
+    "shortName": "LAU",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Lauda-Königshofen",
+    "gemeinde": "Lauda-Königshofen",
+    "center": [
+      9.7191,
+      49.5578
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5067,
+      9.5713,
+      49.5984,
+      9.8242
+    ]
+  },
+  {
+    "id": "leezen",
+    "name": "Leezen",
+    "shortName": "LEE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Leezen",
+    "gemeinde": "Leezen",
+    "center": [
+      10.2549,
+      53.8656
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8475,
+      10.1933,
+      53.8913,
+      10.2827
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "leezen-ot-heiderfeld",
+    "name": "Leezen OT Heiderfeld",
+    "shortName": "LEE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Leezen OT Heiderfeld",
+    "gemeinde": "Leezen OT Heiderfeld",
+    "center": [
+      10.2549,
+      53.8656
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8475,
+      10.1933,
+      53.8913,
+      10.2827
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "leezen-ot-krems-i",
+    "name": "Leezen OT Krems I",
+    "shortName": "LEE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Leezen OT Krems I",
+    "gemeinde": "Leezen OT Krems I",
+    "center": [
+      10.2629,
+      53.8796
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8296,
+      10.2129,
+      53.9296,
+      10.3129
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "lentfoehrden",
+    "name": "Lentföhrden",
+    "shortName": "LEN",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Lentföhrden",
+    "gemeinde": "Lentföhrden",
+    "center": [
+      9.8856,
+      53.8731
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8471,
+      9.8268,
+      53.9009,
+      9.9483
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "meitingen",
+    "name": "Meitingen",
+    "shortName": "MEI",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Meitingen",
+    "gemeinde": "Meitingen",
+    "center": [
+      10.8523,
+      48.5455
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5044,
+      10.7616,
+      48.5879,
+      10.8746
+    ]
+  },
+  {
+    "id": "mickhausen",
+    "name": "Mickhausen",
+    "shortName": "MIC",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Mickhausen",
+    "gemeinde": "Mickhausen",
+    "center": [
+      10.6399,
+      48.2409
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.195,
+      10.5982,
+      48.2503,
+      10.6661
+    ]
+  },
+  {
+    "id": "mittelneufnach",
+    "name": "Mittelneufnach",
+    "shortName": "MIT",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Mittelneufnach",
+    "gemeinde": "Mittelneufnach",
+    "center": [
+      10.5955,
+      48.1778
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1578,
+      10.542,
+      48.2088,
+      10.6283
+    ]
+  },
+  {
+    "id": "moenkloh",
+    "name": "Mönkloh",
+    "shortName": "MOEN",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Mönkloh",
+    "gemeinde": "Mönkloh",
+    "center": [
+      9.7893,
+      53.888
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8601,
+      9.7518,
+      53.9131,
+      9.8135
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "moezen",
+    "name": "Mözen",
+    "shortName": "MOEZ",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Mözen",
+    "gemeinde": "Mözen",
+    "center": [
+      10.2596,
+      53.9105
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8885,
+      10.2343,
+      53.9234,
+      10.284
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "nahe",
+    "name": "Nahe",
+    "shortName": "NAH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Nahe",
+    "gemeinde": "Nahe",
+    "center": [
+      10.1379,
+      53.7942
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7714,
+      10.1119,
+      53.8223,
+      10.1573
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "nauheim",
+    "name": "Nauheim",
+    "shortName": "NAU",
+    "service": "grossgeraulandkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Nauheim",
+    "gemeinde": "Nauheim",
+    "center": [
+      8.4583,
+      49.9504
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9004,
+      8.4083,
+      50.0004,
+      8.5083
+    ]
+  },
+  {
+    "id": "negernboetel",
+    "name": "Negernbötel",
+    "shortName": "NEG",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Negernbötel",
+    "gemeinde": "Negernbötel",
+    "center": [
+      10.2495,
+      53.9831
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9615,
+      10.2032,
+      54.0076,
+      10.3017
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "nehms",
+    "name": "Nehms",
+    "shortName": "NEH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Nehms",
+    "gemeinde": "Nehms",
+    "center": [
+      10.3583,
+      54.0187
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9982,
+      10.3108,
+      54.0465,
+      10.3938
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "neuengoers",
+    "name": "Neuengörs",
+    "shortName": "NEU",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Neuengörs",
+    "gemeinde": "Neuengörs",
+    "center": [
+      10.3833,
+      53.9
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8797,
+      10.3356,
+      53.9174,
+      10.4445
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "neusaess",
+    "name": "Neusäß",
+    "shortName": "NEU",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Neusäß",
+    "gemeinde": "Neusäß",
+    "center": [
+      10.8355,
+      48.3929
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3648,
+      10.7575,
+      48.4195,
+      10.8585
+    ]
+  },
+  {
+    "id": "neversdorf",
+    "name": "Neversdorf",
+    "shortName": "NEV",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Neversdorf",
+    "gemeinde": "Neversdorf",
+    "center": [
+      10.2858,
+      53.8629
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.845,
+      10.2581,
+      53.8726,
+      10.3192
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "niederstetten",
+    "name": "Niederstetten",
+    "shortName": "NIE",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Niederstetten",
+    "gemeinde": "Niederstetten",
+    "center": [
+      9.919,
+      49.4003
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3516,
+      9.8331,
+      49.4559,
+      10.052
+    ]
+  },
+  {
+    "id": "nordendorf",
+    "name": "Nordendorf",
+    "shortName": "NOR",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Nordendorf",
+    "gemeinde": "Nordendorf",
+    "center": [
+      10.8318,
+      48.5955
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5743,
+      10.8074,
+      48.6067,
+      10.854
+    ]
+  },
+  {
+    "id": "nuetzen",
+    "name": "Nützen",
+    "shortName": "NUET",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Nützen",
+    "gemeinde": "Nützen",
+    "center": [
+      9.9208,
+      53.8654
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.825,
+      9.8544,
+      53.8802,
+      9.9741
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "oberottmarshausen",
+    "name": "Oberottmarshausen",
+    "shortName": "OBE",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Oberottmarshausen",
+    "gemeinde": "Oberottmarshausen",
+    "center": [
+      10.857,
+      48.2382
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2084,
+      10.8336,
+      48.2486,
+      10.9037
+    ]
+  },
+  {
+    "id": "oering",
+    "name": "Oering",
+    "shortName": "OER",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Oering",
+    "gemeinde": "Oering",
+    "center": [
+      10.1493,
+      53.8243
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8106,
+      10.1074,
+      53.8415,
+      10.1723
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "oersdorf",
+    "name": "Oersdorf",
+    "shortName": "OER",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Oersdorf",
+    "gemeinde": "Oersdorf",
+    "center": [
+      9.9945,
+      53.8389
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.826,
+      9.9755,
+      53.8622,
+      10.0159
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "pronstorf",
+    "name": "Pronstorf",
+    "shortName": "PRO",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Pronstorf",
+    "gemeinde": "Pronstorf",
+    "center": [
+      10.4701,
+      53.9579
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9125,
+      10.4457,
+      53.9897,
+      10.5538
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "rickling",
+    "name": "Rickling",
+    "shortName": "RIC",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Rickling",
+    "gemeinde": "Rickling",
+    "center": [
+      10.1676,
+      54.0057
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9677,
+      10.1155,
+      54.0396,
+      10.2267
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "rickling-ot-fehrenboetel",
+    "name": "Rickling OT Fehrenbötel",
+    "shortName": "RIC",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Rickling OT Fehrenbötel",
+    "gemeinde": "Rickling OT Fehrenbötel",
+    "center": [
+      10.1203,
+      53.9337
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6481,
+      9.7518,
+      54.1076,
+      10.5642
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "riedstadt",
+    "name": "Riedstadt",
+    "shortName": "RIE",
+    "service": "grossgeraulandkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Riedstadt",
+    "gemeinde": "Riedstadt",
+    "center": [
+      8.4983,
+      49.8355
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8353,
+      8.4981,
+      49.8357,
+      8.4986
+    ]
+  },
+  {
+    "id": "rohlstorf",
+    "name": "Rohlstorf",
+    "shortName": "ROH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Rohlstorf",
+    "gemeinde": "Rohlstorf",
+    "center": [
+      10.4081,
+      53.9719
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9435,
+      10.3472,
+      53.9849,
+      10.4553
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "schackendorf",
+    "name": "Schackendorf",
+    "shortName": "SCH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Schackendorf",
+    "gemeinde": "Schackendorf",
+    "center": [
+      10.2713,
+      53.9573
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9343,
+      10.2379,
+      53.9799,
+      10.2917
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "scherstetten",
+    "name": "Scherstetten",
+    "shortName": "SCH",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Scherstetten",
+    "gemeinde": "Scherstetten",
+    "center": [
+      10.6411,
+      48.1804
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1654,
+      10.6151,
+      48.2237,
+      10.6712
+    ]
+  },
+  {
+    "id": "schieren",
+    "name": "Schieren",
+    "shortName": "SCH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Schieren",
+    "gemeinde": "Schieren",
+    "center": [
+      10.3914,
+      53.9444
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9311,
+      10.3632,
+      53.953,
+      10.4348
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "schmalensee",
+    "name": "Schmalensee",
+    "shortName": "SCH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Schmalensee",
+    "gemeinde": "Schmalensee",
+    "center": [
+      10.2701,
+      54.0811
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0593,
+      10.2556,
+      54.1001,
+      10.3066
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "schmalfeld",
+    "name": "Schmalfeld",
+    "shortName": "SCH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Schmalfeld",
+    "gemeinde": "Schmalfeld",
+    "center": [
+      9.9829,
+      53.8752
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8565,
+      9.9404,
+      53.9036,
+      10.0277
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "schwabmuenchen",
+    "name": "Schwabmünchen",
+    "shortName": "SCH",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Schwabmünchen",
+    "gemeinde": "Schwabmünchen",
+    "center": [
+      10.7578,
+      48.1806
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1597,
+      10.6616,
+      48.2301,
+      10.8028
+    ]
+  },
+  {
+    "id": "schwissel",
+    "name": "Schwissel",
+    "shortName": "SCH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Schwissel",
+    "gemeinde": "Schwissel",
+    "center": [
+      10.2939,
+      53.8964
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.889,
+      10.272,
+      53.9136,
+      10.314
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "seedorf",
+    "name": "Seedorf",
+    "shortName": "SEE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Seedorf",
+    "gemeinde": "Seedorf",
+    "center": [
+      10.4099,
+      54.0503
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0174,
+      10.3277,
+      54.0825,
+      10.512
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "seth",
+    "name": "Seth",
+    "shortName": "SET",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Seth",
+    "gemeinde": "Seth",
+    "center": [
+      10.175,
+      53.8495
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8356,
+      10.1281,
+      53.8707,
+      10.1979
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "sievershuetten",
+    "name": "Sievershütten",
+    "shortName": "SIE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Sievershütten",
+    "gemeinde": "Sievershütten",
+    "center": [
+      10.1129,
+      53.8456
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8208,
+      10.0794,
+      53.8592,
+      10.134
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "stadtbergen",
+    "name": "Stadtbergen",
+    "shortName": "STA",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Stadtbergen",
+    "gemeinde": "Stadtbergen",
+    "center": [
+      10.8443,
+      48.3666
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3415,
+      10.7949,
+      48.3798,
+      10.8578
+    ]
+  },
+  {
+    "id": "stipsdorf",
+    "name": "Stipsdorf",
+    "shortName": "STI",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Stipsdorf",
+    "gemeinde": "Stipsdorf",
+    "center": [
+      10.3354,
+      53.9418
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9353,
+      10.321,
+      53.9539,
+      10.3701
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "stocksee",
+    "name": "Stocksee",
+    "shortName": "STO",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Stocksee",
+    "gemeinde": "Stocksee",
+    "center": [
+      10.3471,
+      54.0895
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0712,
+      10.3003,
+      54.1076,
+      10.3599
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "stockstadt-am-rhein",
+    "name": "Stockstadt am Rhein",
+    "shortName": "STO",
+    "service": "grossgeraulandkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Stockstadt am Rhein",
+    "gemeinde": "Stockstadt am Rhein",
+    "center": [
+      8.4603,
+      49.8063
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7839,
+      8.3846,
+      49.829,
+      8.5057
+    ]
+  },
+  {
+    "id": "strukdorf",
+    "name": "Strukdorf",
+    "shortName": "STR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Strukdorf",
+    "gemeinde": "Strukdorf",
+    "center": [
+      10.486,
+      53.9202
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8992,
+      10.4592,
+      53.9305,
+      10.5111
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "struvenhuetten",
+    "name": "Struvenhütten",
+    "shortName": "STR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Struvenhütten",
+    "gemeinde": "Struvenhütten",
+    "center": [
+      10.054,
+      53.8641
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8469,
+      10.022,
+      53.8876,
+      10.103
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "stuvenborn",
+    "name": "Stuvenborn",
+    "shortName": "STU",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Stuvenborn",
+    "gemeinde": "Stuvenborn",
+    "center": [
+      10.1252,
+      53.8515
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8407,
+      10.0972,
+      53.8752,
+      10.1457
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "suelfeld",
+    "name": "Sülfeld",
+    "shortName": "SUEL",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Sülfeld",
+    "gemeinde": "Sülfeld",
+    "center": [
+      10.2312,
+      53.8003
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7819,
+      10.1617,
+      53.8553,
+      10.2706
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "suelfeld-ot-borstel",
+    "name": "Sülfeld OT Borstel",
+    "shortName": "SUEL",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Sülfeld OT Borstel",
+    "gemeinde": "Sülfeld OT Borstel",
+    "center": [
+      10.2312,
+      53.8003
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7819,
+      10.1617,
+      53.8553,
+      10.2706
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "tarbek",
+    "name": "Tarbek",
+    "shortName": "TAR",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Tarbek",
+    "gemeinde": "Tarbek",
+    "center": [
+      10.2667,
+      54.0561
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0233,
+      10.2386,
+      54.0642,
+      10.2937
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "tauberbischofsheim",
+    "name": "Tauberbischofsheim",
+    "shortName": "TAU",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Tauberbischofsheim",
+    "gemeinde": "Tauberbischofsheim",
+    "center": [
+      9.6627,
+      49.623
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5983,
+      9.6149,
+      49.6488,
+      9.7259
+    ]
+  },
+  {
+    "id": "tensfeld",
+    "name": "Tensfeld",
+    "shortName": "TEN",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Tensfeld",
+    "gemeinde": "Tensfeld",
+    "center": [
+      10.3183,
+      54.0428
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0248,
+      10.2818,
+      54.0599,
+      10.3397
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "thierhaupten",
+    "name": "Thierhaupten",
+    "shortName": "THI",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Thierhaupten",
+    "gemeinde": "Thierhaupten",
+    "center": [
+      10.9103,
+      48.5637
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5312,
+      10.8695,
+      48.5999,
+      10.987
+    ]
+  },
+  {
+    "id": "todesfelde",
+    "name": "Todesfelde",
+    "shortName": "TOD",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Todesfelde",
+    "gemeinde": "Todesfelde",
+    "center": [
+      10.181,
+      53.8949
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8689,
+      10.0847,
+      53.9028,
+      10.2058
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "todesfelde-ot-vosshoehlen",
+    "name": "Todesfelde OT Voßhöhlen",
+    "shortName": "TOD",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Todesfelde OT Voßhöhlen",
+    "gemeinde": "Todesfelde OT Voßhöhlen",
+    "center": [
+      10.1203,
+      53.9337
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.6481,
+      9.7518,
+      54.1076,
+      10.5642
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "trappenkamp",
+    "name": "Trappenkamp",
+    "shortName": "TRA",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Trappenkamp",
+    "gemeinde": "Trappenkamp",
+    "center": [
+      10.217,
+      54.039
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      54.0298,
+      10.199,
+      54.0534,
+      10.236
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "travenhorst",
+    "name": "Travenhorst",
+    "shortName": "TRA",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Travenhorst",
+    "gemeinde": "Travenhorst",
+    "center": [
+      10.4564,
+      54.019
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.997,
+      10.3993,
+      54.0341,
+      10.4893
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "traventhal",
+    "name": "Traventhal",
+    "shortName": "TRA",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Traventhal",
+    "gemeinde": "Traventhal",
+    "center": [
+      10.3167,
+      53.9
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8831,
+      10.302,
+      53.9098,
+      10.3482
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "trebur",
+    "name": "Trebur",
+    "shortName": "TRE",
+    "service": "grossgeraulandkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Trebur",
+    "gemeinde": "Trebur",
+    "center": [
+      8.4076,
+      49.9242
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8742,
+      8.3576,
+      49.9742,
+      8.4576
+    ]
+  },
+  {
+    "id": "untermeitingen",
+    "name": "Untermeitingen",
+    "shortName": "UNT",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Untermeitingen",
+    "gemeinde": "Untermeitingen",
+    "center": [
+      10.807,
+      48.1615
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1501,
+      10.7797,
+      48.1819,
+      10.8754
+    ]
+  },
+  {
+    "id": "ustersbach",
+    "name": "Ustersbach",
+    "shortName": "UST",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Ustersbach",
+    "gemeinde": "Ustersbach",
+    "center": [
+      10.6406,
+      48.3155
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.298,
+      10.6153,
+      48.3432,
+      10.6659
+    ]
+  },
+  {
+    "id": "wahlstedt",
+    "name": "Wahlstedt",
+    "shortName": "WAH",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Wahlstedt",
+    "gemeinde": "Wahlstedt",
+    "center": [
+      10.2121,
+      53.9529
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9334,
+      10.1513,
+      53.9739,
+      10.2383
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "wakendorf-i",
+    "name": "Wakendorf I",
+    "shortName": "WAK",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Wakendorf I",
+    "gemeinde": "Wakendorf I",
+    "center": [
+      10.3568,
+      53.8646
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8534,
+      10.3296,
+      53.8758,
+      10.4003
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "wakendorf-ii",
+    "name": "Wakendorf II",
+    "shortName": "WAK",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Wakendorf II",
+    "gemeinde": "Wakendorf II",
+    "center": [
+      10.0821,
+      53.782
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.7615,
+      10.0453,
+      53.8054,
+      10.1184
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "walkertshofen",
+    "name": "Walkertshofen",
+    "shortName": "WAL",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Walkertshofen",
+    "gemeinde": "Walkertshofen",
+    "center": [
+      10.5896,
+      48.2258
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2064,
+      10.5578,
+      48.2468,
+      10.6153
+    ]
+  },
+  {
+    "id": "weddelbrook",
+    "name": "Weddelbrook",
+    "shortName": "WED",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Weddelbrook",
+    "gemeinde": "Weddelbrook",
+    "center": [
+      9.8294,
+      53.9034
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8798,
+      9.7639,
+      53.919,
+      9.8586
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "weede",
+    "name": "Weede",
+    "shortName": "WEE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Weede",
+    "gemeinde": "Weede",
+    "center": [
+      10.3707,
+      53.923
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8985,
+      10.325,
+      53.9406,
+      10.4643
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "wehringen",
+    "name": "Wehringen",
+    "shortName": "WEH",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Wehringen",
+    "gemeinde": "Wehringen",
+    "center": [
+      10.8003,
+      48.2463
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2296,
+      10.7597,
+      48.2698,
+      10.8438
+    ]
+  },
+  {
+    "id": "weikersheim",
+    "name": "Weikersheim",
+    "shortName": "WEI",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Weikersheim",
+    "gemeinde": "Weikersheim",
+    "center": [
+      9.8977,
+      49.4806
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.4308,
+      9.8512,
+      49.5559,
+      10.0025
+    ]
+  },
+  {
+    "id": "welden",
+    "name": "Welden",
+    "shortName": "WEL",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Welden",
+    "gemeinde": "Welden",
+    "center": [
+      10.6592,
+      48.4573
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4309,
+      10.6078,
+      48.4808,
+      10.6896
+    ]
+  },
+  {
+    "id": "wensin",
+    "name": "Wensin",
+    "shortName": "WEN",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Wensin",
+    "gemeinde": "Wensin",
+    "center": [
+      10.4195,
+      53.9938
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9645,
+      10.3729,
+      54.0241,
+      10.4605
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "werbach",
+    "name": "Werbach",
+    "shortName": "WER",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Werbach",
+    "gemeinde": "Werbach",
+    "center": [
+      9.639,
+      49.6709
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.6556,
+      9.6235,
+      49.6933,
+      9.7008
+    ]
+  },
+  {
+    "id": "wertheim",
+    "name": "Wertheim",
+    "shortName": "WER",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Wertheim",
+    "gemeinde": "Wertheim",
+    "center": [
+      9.5167,
+      49.76
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7391,
+      9.4695,
+      49.7888,
+      9.5551
+    ]
+  },
+  {
+    "id": "westendorf",
+    "name": "Westendorf",
+    "shortName": "WES",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Westendorf",
+    "gemeinde": "Westendorf",
+    "center": [
+      10.837,
+      48.5733
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5545,
+      10.8243,
+      48.5863,
+      10.8562
+    ]
+  },
+  {
+    "id": "westerrade",
+    "name": "Westerrade",
+    "shortName": "WES",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Westerrade",
+    "gemeinde": "Westerrade",
+    "center": [
+      10.4604,
+      53.9348
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9241,
+      10.4301,
+      53.9501,
+      10.4753
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "wiemersdorf",
+    "name": "Wiemersdorf",
+    "shortName": "WIE",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Wiemersdorf",
+    "gemeinde": "Wiemersdorf",
+    "center": [
+      9.9049,
+      53.9579
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9397,
+      9.87,
+      53.988,
+      9.9571
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "winsen",
+    "name": "Winsen",
+    "shortName": "WIN",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Winsen",
+    "gemeinde": "Winsen",
+    "center": [
+      10.0157,
+      53.832
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.8222,
+      9.9899,
+      53.8408,
+      10.0395
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "wittenborn",
+    "name": "Wittenborn",
+    "shortName": "WIT",
+    "service": "segebergwzv-abfallkalender",
+    "serviceType": "json",
+    "ort": "Wittenborn",
+    "gemeinde": "Wittenborn",
+    "center": [
+      10.2234,
+      53.9249
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.9099,
+      10.202,
+      53.944,
+      10.2419
+    ],
+    "calPath": "cal/2026"
+  },
+  {
+    "id": "wittighausen",
+    "name": "Wittighausen",
+    "shortName": "WIT",
+    "service": "maintauberkreis-abfallkalender",
+    "serviceType": "json",
+    "ort": "Wittighausen",
+    "gemeinde": "Wittighausen",
+    "center": [
+      9.8346,
+      49.6181
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5611,
+      9.7924,
+      49.6613,
+      9.8728
+    ]
+  },
+  {
+    "id": "zusmarshausen",
+    "name": "Zusmarshausen",
+    "shortName": "ZUS",
+    "service": "augsburglandkreis",
+    "serviceType": "odata",
+    "ort": "Zusmarshausen",
+    "gemeinde": "Zusmarshausen",
+    "center": [
+      10.5964,
+      48.3997
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3581,
+      10.5054,
+      48.4536,
+      10.6984
+    ]
+  }
+]

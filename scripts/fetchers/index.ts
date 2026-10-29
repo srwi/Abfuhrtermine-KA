@@ -12,11 +12,13 @@ import { MuellmaxFetcher, type MuellmaxConfig } from './muellmax.ts';
 import { AbfallPlusFetcher, type AbfallPlusConfig } from './abfallplus.ts';
 import { JumoMindFetcher, type JumoMindConfig } from './jumomind.ts';
 import { AwidoFetcher, type AwidoConfig } from './awido.ts';
+import { CTraceFetcher, type CTraceConfig } from './ctrace.ts';
 import jumoCitiesRaw from './jumomind-cities.json' with { type: 'json' };
 import abfallPlusCitiesRaw from './abfallplus-cities.json' with { type: 'json' };
 import muellmaxCitiesRaw from './muellmax-cities.json' with { type: 'json' };
 import regioItCitiesRaw from './regioit-cities.json' with { type: 'json' };
 import awidoCitiesRaw from './awido-cities.json' with { type: 'json' };
+import ctraceCitiesRaw from './ctrace-cities.json' with { type: 'json' };
 
 export * from './types.ts';
 export * from './karlsruhe.ts';
@@ -32,12 +34,14 @@ export * from './nuernberg.ts';
 export * from './jumomind.ts';
 export * from './darmstadt.ts';
 export * from './awido.ts';
+export * from './ctrace.ts';
 
 const jumoCities = jumoCitiesRaw as JumoMindConfig[];
 const abfallPlusCities = abfallPlusCitiesRaw as AbfallPlusConfig[];
 const muellmaxCities = muellmaxCitiesRaw as MuellmaxConfig[];
 const regioItCities = regioItCitiesRaw as RegioItConfig[];
 const awidoCities = awidoCitiesRaw as AwidoConfig[];
+const ctraceCities = ctraceCitiesRaw as CTraceConfig[];
 
 export const REGIOIT_FETCHERS: CityFetcher[] = regioItCities.map(
   (cfg) => new RegioItFetcher(cfg)
@@ -60,6 +64,10 @@ export const AWIDO_FETCHERS: CityFetcher[] = awidoCities.map(
   (cfg) => new AwidoFetcher(cfg)
 );
 
+export const CTRACE_FETCHERS: CityFetcher[] = ctraceCities.map(
+  (cfg) => new CTraceFetcher(cfg)
+);
+
 export const FETCHERS: CityFetcher[] = [
   new KarlsruheFetcher(),
   new FreiburgFetcher(),
@@ -72,7 +80,8 @@ export const FETCHERS: CityFetcher[] = [
   ...MUELLMAX_FETCHERS,
   ...ABFALLPLUS_FETCHERS,
   ...JUMOMIND_FETCHERS,
-  ...AWIDO_FETCHERS
+  ...AWIDO_FETCHERS,
+  ...CTRACE_FETCHERS
 ];
 
 export const FETCHER_MAP = new Map<string, CityFetcher>(
