@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:21:00.546Z",
+  "streets": [
+    {
+      "street": "Georgenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4208,
+          49.703
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:20:16.500Z",
+  "streets": [
+    {
+      "street": "SOK-Geheege",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8879,
+          50.7653
+        ]
+      }
+    }
+  ]
+}

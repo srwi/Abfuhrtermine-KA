@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:20:07.223Z",
+  "streets": [
+    {
+      "street": "SOK-Gefell",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9167,
+          50.2333
+        ]
+      }
+    }
+  ]
+}

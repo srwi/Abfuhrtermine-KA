@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:19:13.834Z",
+  "streets": [
+    {
+      "street": "Gardschütz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4234,
+          50.9444
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:19:34.222Z",
+  "streets": [
+    {
+      "street": "Garstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1732,
+          49.9739
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:19:24.208Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Garsitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0778,
+          50.6515
+        ]
+      }
+    }
+  ]
+}

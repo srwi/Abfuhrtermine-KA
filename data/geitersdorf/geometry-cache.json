@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:20:33.652Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Geitersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3038,
+          50.744
+        ]
+      }
+    }
+  ]
+}
