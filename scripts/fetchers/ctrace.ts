@@ -130,14 +130,21 @@ export class CTraceFetcher implements CityFetcher {
       }
     } else if (this.serviceType === 'odata') {
       const odataUrl = `${baseUrl}/OData.svc/Strassen?$filter=Ort/Name%20eq%20%27${encodeURIComponent(this.ort || '')}%27&$format=json`;
-      const res = await fetch(odataUrl, { headers: { Accept: 'application/json' } });
-      if (res.ok) {
-        const json = await res.json();
-        const results = json.d?.results || json.d || [];
-        streets = results
-          .map((r: { Name?: string }) => r.Name)
-          .filter((s?: string): s is string => Boolean(s && s.trim().length > 0));
+      let res = await fetch(odataUrl, { headers: { Accept: 'application/json' } });
+      let json = res.ok ? await res.json() : null;
+      let results = json?.d?.results || json?.d || [];
+      if (results.length === 0) {
+        // Fallback: query without Ort filter (for single-city systems like Landau)
+        const allUrl = `${baseUrl}/OData.svc/Strassen?$format=json`;
+        res = await fetch(allUrl, { headers: { Accept: 'application/json' } });
+        if (res.ok) {
+          json = await res.json();
+          results = json?.d?.results || json?.d || [];
+        }
       }
+      streets = results
+        .map((r: { Name?: string }) => r.Name)
+        .filter((s?: string): s is string => Boolean(s && s.trim().length > 0));
     } else {
       // json
       const params = new URLSearchParams({ ort: this.ort || '' });
