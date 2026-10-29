@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T21:49:23.145Z",
+  "streets": [
+    {
+      "street": "Aussenbereich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2127,
+          52.1443
+        ]
+      }
+    },
+    {
+      "street": "Innenbereich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2127,
+          52.1443
+        ]
+      }
+    }
+  ]
+}

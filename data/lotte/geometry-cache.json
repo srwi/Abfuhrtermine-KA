@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T21:47:34.488Z",
+  "streets": [
+    {
+      "street": "Büren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9174,
+          52.2768
+        ]
+      }
+    },
+    {
+      "street": "Halen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9174,
+          52.2768
+        ]
+      }
+    },
+    {
+      "street": "Lotte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9174,
+          52.2768
+        ]
+      }
+    },
+    {
+      "street": "Wersen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9174,
+          52.2768
+        ]
+      }
+    }
+  ]
+}

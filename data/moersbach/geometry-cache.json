@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T21:51:21.943Z",
+  "streets": [
+    {
+      "street": "Burbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7833,
+          50.7267
+        ]
+      }
+    },
+    {
+      "street": "Mörsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7833,
+          50.7267
+        ]
+      }
+    },
+    {
+      "street": "Niedermörsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7833,
+          50.7267
+        ]
+      }
+    }
+  ]
+}

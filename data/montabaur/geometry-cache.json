@@ -1,0 +1,123 @@
+{
+  "generatedAt": "2026-10-29T21:50:59.805Z",
+  "streets": [
+    {
+      "street": "Bladernheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8232,
+          50.4359
+        ]
+      }
+    },
+    {
+      "street": "Elgendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8232,
+          50.4359
+        ]
+      }
+    },
+    {
+      "street": "Eschelbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8232,
+          50.4359
+        ]
+      }
+    },
+    {
+      "street": "Ettersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8232,
+          50.4359
+        ]
+      }
+    },
+    {
+      "street": "Horressen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8232,
+          50.4359
+        ]
+      }
+    },
+    {
+      "street": "Montabaur",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8224566,
+            50.4448848
+          ],
+          [
+            7.8224558,
+            50.4448265
+          ],
+          [
+            7.825014,
+            50.4448131
+          ],
+          [
+            7.8252518,
+            50.4448129
+          ],
+          [
+            7.825624,
+            50.4448112
+          ],
+          [
+            7.8280988,
+            50.4447978
+          ],
+          [
+            7.8280995,
+            50.4448562
+          ],
+          [
+            7.8256251,
+            50.4448673
+          ],
+          [
+            7.8250164,
+            50.4448714
+          ],
+          [
+            7.8224566,
+            50.4448848
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Reckenthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8232,
+          50.4359
+        ]
+      }
+    },
+    {
+      "street": "Wirzenborn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8232,
+          50.4359
+        ]
+      }
+    }
+  ]
+}
