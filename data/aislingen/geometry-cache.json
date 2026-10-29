@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T03:28:36.854Z",
+  "streets": [
+    {
+      "street": "Aislingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4578,
+          48.5065
+        ]
+      }
+    },
+    {
+      "street": "Baumgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4578,
+          48.5065
+        ]
+      }
+    },
+    {
+      "street": "Rieder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4578,
+          48.5065
+        ]
+      }
+    }
+  ]
+}

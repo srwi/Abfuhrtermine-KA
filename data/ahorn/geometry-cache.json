@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T03:26:04.533Z",
+  "streets": [
+    {
+      "street": "Ahorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Eicha",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Finkenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Hohenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Krebsmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Schafhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Schorkendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Siebenwind",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Triebsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Witzmannsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Wohlbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    },
+    {
+      "street": "Ziegelhütte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1741,
+          48.5238
+        ]
+      }
+    }
+  ]
+}

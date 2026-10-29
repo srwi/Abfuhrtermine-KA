@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T03:26:57.571Z",
+  "streets": [
+    {
+      "street": "Aichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5395,
+          48.229
+        ]
+      }
+    },
+    {
+      "street": "Bernbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5395,
+          48.229
+        ]
+      }
+    },
+    {
+      "street": "Memmenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5395,
+          48.229
+        ]
+      }
+    },
+    {
+      "street": "Nachstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5395,
+          48.229
+        ]
+      }
+    },
+    {
+      "street": "Obergessertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5395,
+          48.229
+        ]
+      }
+    },
+    {
+      "street": "Ruhfelden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5395,
+          48.229
+        ]
+      }
+    }
+  ]
+}
