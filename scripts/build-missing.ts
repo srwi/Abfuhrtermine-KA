@@ -110,7 +110,8 @@ async function main() {
           console.log(`\n📦 Auto-committing batch of ${recentBuilt.length} cities...`);
           await runGit(['add', 'data/', 'static/data/']);
           await runGit(['commit', '-m', `feat: complete data build for ${names}`]);
-          console.log(`✓ Committed batch successfully.`);
+          await runGit(['push', 'origin', 'add-cities']);
+          console.log(`✓ Committed and pushed batch successfully.`);
           recentBuilt.length = 0;
         } catch (commitErr: any) {
           console.warn(`⚠️ Commit failed: ${commitErr.message}`);
@@ -127,7 +128,8 @@ async function main() {
         console.log(`\n📦 Auto-committing final batch of ${recentBuilt.length} cities...`);
         await runGit(['add', 'data/', 'static/data/']);
         await runGit(['commit', '-m', `feat: complete data build for ${names}`]);
-        console.log(`✓ Committed final batch successfully.`);
+        await runGit(['push', 'origin', 'add-cities']);
+        console.log(`✓ Committed and pushed final batch successfully.`);
         recentBuilt.length = 0;
       } catch (commitErr: any) {
         console.warn(`⚠️ Commit failed: ${commitErr.message}`);
