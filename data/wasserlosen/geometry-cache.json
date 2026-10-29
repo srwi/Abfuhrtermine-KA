@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:55:38.839Z",
+  "streets": [
+    {
+      "street": "Wasserlosen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0302,
+          50.0948
+        ]
+      }
+    }
+  ]
+}

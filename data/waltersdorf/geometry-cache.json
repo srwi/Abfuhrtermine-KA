@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:54:58.444Z",
+  "streets": [
+    {
+      "street": "Waltersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75,
+          50.8333
+        ]
+      }
+    }
+  ]
+}

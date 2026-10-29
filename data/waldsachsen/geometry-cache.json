@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:52:39.033Z",
+  "streets": [
+    {
+      "street": "Waldsachsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4288,
+          50.8361
+        ]
+      }
+    }
+  ]
+}

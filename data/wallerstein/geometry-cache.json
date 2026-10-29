@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2026-10-29T09:54:15.942Z",
+  "streets": [
+    {
+      "street": "Birkhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4759,
+          48.8874
+        ]
+      }
+    },
+    {
+      "street": "Ehringen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4759,
+          48.8874
+        ]
+      }
+    },
+    {
+      "street": "Fasanerie",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4759,
+          48.8874
+        ]
+      }
+    },
+    {
+      "street": "Fischmühle",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.4683574,
+            48.8968766
+          ],
+          [
+            10.4683072,
+            48.8969666
+          ],
+          [
+            10.4682565,
+            48.8969895
+          ],
+          [
+            10.4681729,
+            48.8970272
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Munzingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4759,
+          48.8874
+        ]
+      }
+    },
+    {
+      "street": "Wallerstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4759,
+          48.8874
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:53:09.965Z",
+  "streets": [
+    {
+      "street": "Waldthurn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3292,
+          49.6722
+        ]
+      }
+    }
+  ]
+}

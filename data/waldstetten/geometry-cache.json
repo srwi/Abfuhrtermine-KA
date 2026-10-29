@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T09:52:59.552Z",
+  "streets": [
+    {
+      "street": "Brandfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8214,
+          48.7662
+        ]
+      }
+    },
+    {
+      "street": "Heubelsburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8214,
+          48.7662
+        ]
+      }
+    },
+    {
+      "street": "Waldstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8214,
+          48.7662
+        ]
+      }
+    },
+    {
+      "street": "Wiblishauserhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8214,
+          48.7662
+        ]
+      }
+    }
+  ]
+}
