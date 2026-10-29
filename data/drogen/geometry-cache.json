@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:37:09.354Z",
+  "streets": [
+    {
+      "street": "Drogen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3167,
+          50.9167
+        ]
+      }
+    }
+  ]
+}

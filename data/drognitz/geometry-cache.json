@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:37:18.982Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Drognitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5723,
+          50.5879
+        ]
+      }
+    }
+  ]
+}

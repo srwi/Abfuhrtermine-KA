@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:36:59.057Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Dröbischau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.073,
+          50.6298
+        ]
+      }
+    }
+  ]
+}

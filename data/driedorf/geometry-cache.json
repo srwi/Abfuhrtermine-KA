@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-10-29T04:36:49.447Z",
+  "streets": [
+    {
+      "street": "Driedorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Heiligenborn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Heisterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Hohenroth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Mademühlen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Münchhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Roth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Seilhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Waldaubach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1833,
+          50.6333
+        ]
+      }
+    }
+  ]
+}
