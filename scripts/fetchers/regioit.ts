@@ -114,7 +114,11 @@ export class RegioItFetcher implements CityFetcher {
         });
 
         if (res.ok) {
-          return (await res.json()) as T;
+          const text = await res.text();
+          if (!text || text.trim() === '') {
+            return [] as unknown as T;
+          }
+          return JSON.parse(text) as T;
         }
       } catch (err) {
         lastError = err;
