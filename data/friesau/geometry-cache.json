@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:12:07.770Z",
+  "streets": [
+    {
+      "street": "SOK-Friesau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.641,
+          50.4965
+        ]
+      }
+    }
+  ]
+}

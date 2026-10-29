@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:11:30.496Z",
+  "streets": [
+    {
+      "street": "Friedewald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8667,
+          50.8833
+        ]
+      }
+    }
+  ]
+}
