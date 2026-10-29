@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:46:50.556Z",
+  "streets": [
+    {
+      "street": "Bächingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3128,
+          48.5463
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:46:31.981Z",
+  "streets": [
+    {
+      "street": "Babensham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2667,
+          48.0833
+        ]
+      }
+    }
+  ]
+}

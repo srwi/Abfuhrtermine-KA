@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:45:16.079Z",
+  "streets": [
+    {
+      "street": "Aufhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2821,
+          48.8721
+        ]
+      }
+    }
+  ]
+}
