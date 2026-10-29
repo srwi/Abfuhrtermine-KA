@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:10:07.979Z",
+  "streets": [
+    {
+      "street": "Wildenbörten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2833,
+          50.9167
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:15:33.600Z",
+  "streets": [
+    {
+      "street": "Wipfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1667,
+          49.9167
+        ]
+      }
+    }
+  ]
+}

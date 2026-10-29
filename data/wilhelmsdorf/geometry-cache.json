@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:10:19.424Z",
+  "streets": [
+    {
+      "street": "SOK-Wilhelmsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4262,
+          47.8661
+        ]
+      }
+    }
+  ]
+}

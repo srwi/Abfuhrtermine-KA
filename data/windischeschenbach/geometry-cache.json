@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:11:21.728Z",
+  "streets": [
+    {
+      "street": "Windischeschenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1571,
+          49.8011
+        ]
+      }
+    }
+  ]
+}

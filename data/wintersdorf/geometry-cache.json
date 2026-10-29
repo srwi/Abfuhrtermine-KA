@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:15:23.326Z",
+  "streets": [
+    {
+      "street": "Wintersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3545,
+          51.0532
+        ]
+      }
+    }
+  ]
+}

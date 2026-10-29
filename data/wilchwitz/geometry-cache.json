@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:09:58.529Z",
+  "streets": [
+    {
+      "street": "Wilchwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4858,
+          50.9897
+        ]
+      }
+    }
+  ]
+}
