@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:59:38.950Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Bechstedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1667,
+          50.6667
+        ]
+      }
+    }
+  ]
+}

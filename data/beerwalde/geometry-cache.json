@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:59:49.025Z",
+  "streets": [
+    {
+      "street": "Beerwalde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9743,
+          51.0419
+        ]
+      }
+    }
+  ]
+}

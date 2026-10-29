@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:57:58.083Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Barigau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1029,
+          50.6291
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "generatedAt": "2026-10-29T03:58:10.726Z",
+  "streets": [
+    {
+      "street": "Ahornberg (Bärnau)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Altglashütte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Bärnau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Bartmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Beierfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Brechl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Bühlhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Ellenfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Fürstenhof (Bärnau)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Gegelhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Greim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Grün (Bärnau)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Gütlerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Hasenbühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Heimhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Hermannsreuth (Bärnau)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Hohenthan",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Holzmühle (Bärnau)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Iglersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Kaltenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Lippenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Lohmeyerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Mühllohe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Naab",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Oberkellermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Ödwaldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Polier",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Schmuckerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Schwarzenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Silberhütte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Stöberlhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Tännersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Thanhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Troglauer Mühle (Bärnau)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Unterkellermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Wendermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Wendern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Zeimatshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    },
+    {
+      "street": "Ziegelhütte (Bärnau)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7279,
+          53.362
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T03:57:45.808Z",
+  "streets": [
+    {
+      "street": "Altach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Auburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Auhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Barbing Hauptort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Barbing ohne Sarching",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Eltheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Friesheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Illkofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Mooshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Nassenhart",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Sarching",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    },
+    {
+      "street": "Unterheising",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          49
+        ]
+      }
+    }
+  ]
+}
