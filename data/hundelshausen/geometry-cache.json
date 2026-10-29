@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:57:35.481Z",
+  "streets": [
+    {
+      "street": "Hundelshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8481,
+          51.2933
+        ]
+      }
+    }
+  ]
+}

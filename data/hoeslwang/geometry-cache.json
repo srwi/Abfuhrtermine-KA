@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:57:15.035Z",
+  "streets": [
+    {
+      "street": "Höslwang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3292,
+          47.9538
+        ]
+      }
+    }
+  ]
+}
