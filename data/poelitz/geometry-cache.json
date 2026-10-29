@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-10-29T16:23:00.393Z",
+  "streets": [
+    {
+      "street": "Am Teich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Am Wischhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Blumenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Borweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Herrenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Hohenholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Im Park",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "In de Eck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Knickweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Krummbek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Mühlenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Mühlenredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Pölitzer Str.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.4296871,
+            53.7583015
+          ],
+          [
+            10.429987,
+            53.7582775
+          ],
+          [
+            10.4304177,
+            53.7582431
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Pölitzfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Poststr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Rümpeler Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Rundling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Schmachthagener Redder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Schmachthagener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Schulsteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Stubber Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Tannengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Twiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Zum Kretholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Zum Sportzentrum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    },
+    {
+      "street": "Zur Beek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301,
+          53.7583
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T16:23:23.143Z",
+  "streets": [
+    {
+      "street": "Alte Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3292,
+          53.5895
+        ]
+      }
+    },
+    {
+      "street": "Am Lindenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3292,
+          53.5895
+        ]
+      }
+    },
+    {
+      "street": "Grossenseer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3292,
+          53.5895
+        ]
+      }
+    },
+    {
+      "street": "Gut Heinrichshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3292,
+          53.5895
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3292,
+          53.5895
+        ]
+      }
+    },
+    {
+      "street": "Heideweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3292,
+          53.5895
+        ]
+      }
+    },
+    {
+      "street": "Papendorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3292,
+          53.5895
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "generatedAt": "2026-10-29T16:22:38.400Z",
+  "streets": [
+    {
+      "street": "Alt-Möllner-Landstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Alt-Möllner-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Am Wind",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "An der Korkmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Bachstieg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Bälauer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6233251,
+            53.6658007
+          ],
+          [
+            10.6226643,
+            53.6656299
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Heidkaten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Im Winkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Kanalweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Kibitzberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Mannhagener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Meisenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Obere Scharr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Pantener Str.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.623624,
+            53.6653539
+          ],
+          [
+            10.6233251,
+            53.6658007
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Pferdekoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Poggenseer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Poggenseer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Redder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Scharr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Schleusberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Schmiedestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Seeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Steinauer Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Twiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Untere Scharr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Vossbergweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Waldring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Wehweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Windeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Ziegeleiweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Ziesenisstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    },
+    {
+      "street": "Zur Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235,
+          53.6656
+        ]
+      }
+    }
+  ]
+}
