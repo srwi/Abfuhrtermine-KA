@@ -1,0 +1,265 @@
+{
+  "generatedAt": "2026-10-29T16:07:54.485Z",
+  "streets": [
+    {
+      "street": "Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Alte Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Alte Landstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Am Glindfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Am Morgen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Am Wischhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Backhorster Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Brookweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Bünningstedter Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Fliederweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Forstweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Hansdorfer Redder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Hartwigsahler Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Heideweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Hohenhorst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Isenbek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Klein Hansdorfer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Langereihe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Oberteicher Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Op'n Sand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Parkring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Soltenbek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Struskamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Timmerhornskamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    },
+    {
+      "street": "Zur Streuobstwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2244,
+          53.7417
+        ]
+      }
+    }
+  ]
+}

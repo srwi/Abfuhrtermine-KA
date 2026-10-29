@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-10-29T16:07:30.280Z",
+  "streets": [
+    {
+      "street": "Alte Schmiede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Am Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Am Brink",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Domänenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Keine Zuordnung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Lehmkuhle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Marienstedter Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Moorweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Schäperstieg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Schoolstieg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    },
+    {
+      "street": "Seedorfer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7547,
+          53.5964
+        ]
+      }
+    }
+  ]
+}
