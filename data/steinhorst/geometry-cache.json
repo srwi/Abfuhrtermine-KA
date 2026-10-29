@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-10-29T16:49:30.199Z",
+  "streets": [
+    {
+      "street": "Am Scheidebach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Am Schlüterkaten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Am Ziegelteich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "An der Meierei",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Im Busch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Mühlenbrook",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Rentenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Sandesnebener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Stutkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Twietenstelle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Von Wedderkopstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    },
+    {
+      "street": "Zum Hollemoor",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.487,
+          53.7207
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "generatedAt": "2026-10-29T16:50:25.708Z",
+  "streets": [
+    {
+      "street": "Achterndiek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Alte Landstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Alte Schmiede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Am Dreieck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Am Hasselbarg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "An der Trave",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Buerndiek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Dorfkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Eichendamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Gutsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Heidick",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Hökerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Huskoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Im Grund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Im Grünen Winkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Klingenbrook",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Lindenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Mühlenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Mühlendamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Neverstaven",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Nütschauer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Oldesloer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Pützbarg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Ringstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Schäferkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Schlossstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Schmiedekoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Schulweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Seefelder Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Segeberger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Sühlener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Twiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Vinzierer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Wakendorfer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Weidenredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Wurth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Zum Schlagen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Zur Kirche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Zur Kupfermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    },
+    {
+      "street": "Zur Trave",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2959,
+          53.8357
+        ]
+      }
+    }
+  ]
+}

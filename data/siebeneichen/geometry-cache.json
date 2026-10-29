@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T16:48:36.511Z",
+  "streets": [
+    {
+      "street": "Bahnhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6183,
+          53.5114
+        ]
+      }
+    },
+    {
+      "street": "Büchener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6183,
+          53.5114
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6183,
+          53.5114
+        ]
+      }
+    },
+    {
+      "street": "Kanalstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6183,
+          53.5114
+        ]
+      }
+    },
+    {
+      "street": "Pastorenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6183,
+          53.5114
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6183,
+          53.5114
+        ]
+      }
+    },
+    {
+      "street": "Waldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6183,
+          53.5114
+        ]
+      }
+    }
+  ]
+}

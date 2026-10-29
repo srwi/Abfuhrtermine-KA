@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-10-29T16:49:54.764Z",
+  "streets": [
+    {
+      "street": "Achtern Speelplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Am Blöcken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "B 207 - Parkplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Breitenende",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Bundesstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Eschensaal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Friedhofstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Hegesahl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Hermann-Aue-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Kapellenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Op'n Hegbarg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    },
+    {
+      "street": "Steinbrei",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5722,
+          53.5752
+        ]
+      }
+    }
+  ]
+}

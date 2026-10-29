@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-29T16:50:12.991Z",
+  "streets": [
+    {
+      "street": "Am Bornredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6169,
+          53.5536
+        ]
+      }
+    },
+    {
+      "street": "Am Steinhöver",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6169,
+          53.5536
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6169,
+          53.5536
+        ]
+      }
+    },
+    {
+      "street": "Dreidorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6169,
+          53.5536
+        ]
+      }
+    },
+    {
+      "street": "Hüttenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6169,
+          53.5536
+        ]
+      }
+    },
+    {
+      "street": "Kankelauer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6169,
+          53.5536
+        ]
+      }
+    },
+    {
+      "street": "Niendorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6169,
+          53.5536
+        ]
+      }
+    },
+    {
+      "street": "Rosenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6169,
+          53.5536
+        ]
+      }
+    }
+  ]
+}
