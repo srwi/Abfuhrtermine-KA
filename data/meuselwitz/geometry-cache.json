@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T06:55:48.075Z",
+  "streets": [
+    {
+      "street": "Meuselwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2994,
+          51.0432
+        ]
+      }
+    },
+    {
+      "street": "Zipsendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2994,
+          51.0432
+        ]
+      }
+    }
+  ]
+}

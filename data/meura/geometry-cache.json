@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:55:39.192Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Meura",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2,
+          50.5833
+        ]
+      }
+    }
+  ]
+}
