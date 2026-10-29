@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-10-29T01:57:34.807Z",
+  "streets": [
+    {
+      "street": "Alle anderen Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0961,
+          51.8708
+        ]
+      }
+    },
+    {
+      "street": "Am Galgenberg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.0796238,
+              51.8784671
+            ],
+            [
+              11.081838,
+              51.8803454
+            ],
+            [
+              11.0822697,
+              51.8801535
+            ]
+          ],
+          [
+            [
+              11.0778352,
+              51.8792545
+            ],
+            [
+              11.0796238,
+              51.8784671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Harsleber Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0961,
+          51.8708
+        ]
+      }
+    },
+    {
+      "street": "Im Kirchfeld",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.0796238,
+            51.8784671
+          ],
+          [
+            11.0807489,
+            51.8779682
+          ]
+        ]
+      }
+    }
+  ]
+}
