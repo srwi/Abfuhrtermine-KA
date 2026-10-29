@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T16:03:27.178Z",
+  "streets": [
+    {
+      "street": "An der Kanalbrücke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6862,
+          53.5406
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6862,
+          53.5406
+        ]
+      }
+    },
+    {
+      "street": "Postweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6862,
+          53.5406
+        ]
+      }
+    }
+  ]
+}

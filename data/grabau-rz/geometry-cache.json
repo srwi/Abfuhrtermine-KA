@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-10-29T16:03:42.918Z",
+  "streets": [
+    {
+      "street": "Alter Schulweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Am Schulhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "An der Rülau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Auf der Bullenkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Bundesstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Grover Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Hetraweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Hof Haselbusch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Hof Rülau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "In der Rülau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Riedenkampsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Rülauer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    },
+    {
+      "street": "Waldstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5061,
+          53.5085
+        ]
+      }
+    }
+  ]
+}

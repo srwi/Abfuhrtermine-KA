@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-10-29T16:03:34.970Z",
+  "streets": [
+    {
+      "street": "Am Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Am Soeren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "An der Buche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Gartenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Hoherdamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Langstücken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Lindenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Ringstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Rosenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Rotdornweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Steinkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    },
+    {
+      "street": "Stiller Winkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2699,
+          53.8055
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "generatedAt": "2026-10-29T16:03:59.030Z",
+  "streets": [
+    {
+      "street": "Alter Bäckereiweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Am Billehang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Am Eichenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Am Wischhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Birkeneck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Eichenknick",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Feldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Granderheidestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Grossenseer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Hamburger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Klingsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Lauenburger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Möllner Landstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Rausdorfer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Stichstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    },
+    {
+      "street": "Wittenborn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3958,
+          53.5919
+        ]
+      }
+    }
+  ]
+}

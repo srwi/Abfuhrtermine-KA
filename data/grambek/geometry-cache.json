@@ -1,0 +1,259 @@
+{
+  "generatedAt": "2026-10-29T16:03:50.850Z",
+  "streets": [
+    {
+      "street": "Am Brink",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Am Golfplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Auf der Jörde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Fliederweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Görlitzer Ring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Grambeker Heide",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.6942277,
+              53.5895544
+            ],
+            [
+              10.6945922,
+              53.5883004
+            ],
+            [
+              10.694705,
+              53.5874087
+            ],
+            [
+              10.6948066,
+              53.5861445
+            ],
+            [
+              10.6948289,
+              53.5853336
+            ],
+            [
+              10.6948348,
+              53.5851176
+            ],
+            [
+              10.6949203,
+              53.5840916
+            ],
+            [
+              10.6949338,
+              53.583943
+            ]
+          ],
+          [
+            [
+              10.694944,
+              53.5826998
+            ],
+            [
+              10.695062,
+              53.5804315
+            ],
+            [
+              10.6916742,
+              53.5798381
+            ],
+            [
+              10.6915153,
+              53.5797807
+            ],
+            [
+              10.6914018,
+              53.5796984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hasselberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Heideweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Kanalstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Kapellenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Keine Zuordnung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Ringstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Rosenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Rotdornweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Schlossstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Tulpenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Twiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    },
+    {
+      "street": "Vor dem Bockholt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6981,
+          53.5832
+        ]
+      }
+    }
+  ]
+}

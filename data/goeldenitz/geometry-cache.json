@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T16:03:19.121Z",
+  "streets": [
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6404,
+          53.7245
+        ]
+      }
+    },
+    {
+      "street": "Fliegenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6404,
+          53.7245
+        ]
+      }
+    },
+    {
+      "street": "Kanalstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6404,
+          53.7245
+        ]
+      }
+    },
+    {
+      "street": "Oldesloer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6404,
+          53.7245
+        ]
+      }
+    },
+    {
+      "street": "Redder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6404,
+          53.7245
+        ]
+      }
+    },
+    {
+      "street": "Twiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6404,
+          53.7245
+        ]
+      }
+    },
+    {
+      "street": "Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6404,
+          53.7245
+        ]
+      }
+    }
+  ]
+}

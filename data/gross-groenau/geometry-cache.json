@@ -1,0 +1,665 @@
+{
+  "generatedAt": "2026-10-29T16:04:41.735Z",
+  "streets": [
+    {
+      "street": "Alter Postweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Born",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Fürstenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Hornstorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Rehsprung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Sonnenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Torfmoor",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Vierth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Waldrand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Am Wilden Teich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Amselweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "An der Gärtnerei",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "An der Münze",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Bachstelzenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Berliner Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Birkenredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Blankenseer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Bussardweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Drosselweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Eichhörnchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Elsterweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Eulenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Falkenhusener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Falkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Fasanenring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Finkenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Friedrich-Griese-Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Fuchsbau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Grönauer Heide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Grönauer Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Grüner Grund Redder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Heuterdamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Hirschgrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Im Grünen Grund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Kranichweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Kuckucksweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Lärchenredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Lenschower Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Lindenredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Lüdersdorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Mecklenburger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Meisenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Möwenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Müggenbuscher Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Mühlenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Nachtigallenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Nädlershorster Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Ole Hoffwisch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Pommernredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Pumpwerk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Raiffeisenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Rehhagen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Reiherweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Rosenredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Schattiner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Schwalbenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Sperberweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "St. Hubertus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Steinkreuzredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Storchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Tannenredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Wurzelredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    },
+    {
+      "street": "Zeisigweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          53.7847
+        ]
+      }
+    }
+  ]
+}
