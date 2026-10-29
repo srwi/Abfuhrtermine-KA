@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T20:24:03.067Z",
+  "streets": [
+    {
+      "street": "Hermeskeil",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9441,
+          49.6553
+        ]
+      }
+    }
+  ]
+}

@@ -9342,6 +9342,22 @@
     ]
   },
   {
+    "id": "daun",
+    "name": "Daun",
+    "shortName": "DAU",
+    "center": [
+      6.8294,
+      50.1972
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1572,
+      6.7794,
+      50.2372,
+      6.8794
+    ]
+  },
+  {
     "id": "deckenpfronn",
     "name": "Deckenpfronn",
     "shortName": "DEC",
@@ -15450,6 +15466,22 @@
     ]
   },
   {
+    "id": "gerolstein",
+    "name": "Gerolstein",
+    "shortName": "GER",
+    "center": [
+      6.6598,
+      50.2222
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1822,
+      6.6098,
+      50.2622,
+      6.7098
+    ]
+  },
+  {
     "id": "gerolzhofen",
     "name": "Gerolzhofen",
     "shortName": "GER",
@@ -20539,6 +20571,22 @@
     ]
   },
   {
+    "id": "hermeskeil",
+    "name": "Hermeskeil",
+    "shortName": "HER",
+    "center": [
+      6.9441,
+      49.6553
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.6153,
+      6.8941,
+      49.6953,
+      6.9941
+    ]
+  },
+  {
     "id": "herrenberg",
     "name": "Herrenberg",
     "shortName": "HBG",
@@ -25192,6 +25240,22 @@
       12.1771,
       50.0509,
       12.2771
+    ]
+  },
+  {
+    "id": "konz",
+    "name": "Konz",
+    "shortName": "KON",
+    "center": [
+      6.5765,
+      49.7004
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.6604,
+      6.5265,
+      49.7404,
+      6.6265
     ]
   },
   {
@@ -31659,6 +31723,22 @@
       12.4474,
       48.7166,
       12.5474
+    ]
+  },
+  {
+    "id": "morbach",
+    "name": "Morbach",
+    "shortName": "MOR",
+    "center": [
+      7.1271,
+      49.8077
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7677,
+      7.0771,
+      49.8477,
+      7.1771
     ]
   },
   {
@@ -38529,6 +38609,22 @@
     ]
   },
   {
+    "id": "pruem",
+    "name": "Prüm",
+    "shortName": "PRU",
+    "center": [
+      6.4202,
+      50.2079
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1679,
+      6.3702,
+      50.2479,
+      6.4702
+    ]
+  },
+  {
     "id": "pruessberg",
     "name": "Prüßberg",
     "shortName": "PRUE",
@@ -41747,6 +41843,22 @@
     ]
   },
   {
+    "id": "saarburg",
+    "name": "Saarburg",
+    "shortName": "SAA",
+    "center": [
+      6.5437,
+      49.6064
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5664,
+      6.4937,
+      49.6464,
+      6.5937
+    ]
+  },
+  {
     "id": "saarwellingen",
     "name": "Saarwellingen",
     "shortName": "SAA",
@@ -44360,6 +44472,22 @@
       14.1849,
       53.0663,
       14.2849
+    ]
+  },
+  {
+    "id": "schweich",
+    "name": "Schweich",
+    "shortName": "SCH",
+    "center": [
+      6.7526,
+      49.8222
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7822,
+      6.7026,
+      49.8622,
+      6.8026
     ]
   },
   {

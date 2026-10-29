@@ -4,35 +4,203 @@
     "name": "Bitburg",
     "shortName": "BIT",
     "ort": "Bitburg-Stadt",
-    "center": [6.5249, 49.9733],
+    "center": [
+      6.5249,
+      49.9733
+    ],
     "defaultZoom": 12,
-    "bbox": [49.9352, 6.4516, 50.0187, 6.5893]
+    "bbox": [
+      49.9352,
+      6.4516,
+      50.0187,
+      6.5893
+    ]
+  },
+  {
+    "id": "daun",
+    "name": "Daun",
+    "shortName": "DAU",
+    "ort": "Daun",
+    "center": [
+      6.8294,
+      50.1972
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1572,
+      6.7794,
+      50.2372,
+      6.8794
+    ]
+  },
+  {
+    "id": "gerolstein",
+    "name": "Gerolstein",
+    "shortName": "GER",
+    "ort": "Gerolstein nördlich Bahnlinie",
+    "center": [
+      6.6598,
+      50.2222
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1822,
+      6.6098,
+      50.2622,
+      6.7098
+    ]
+  },
+  {
+    "id": "hermeskeil",
+    "name": "Hermeskeil",
+    "shortName": "HER",
+    "ort": "Hermeskeil",
+    "center": [
+      6.9441,
+      49.6553
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.6153,
+      6.8941,
+      49.6953,
+      6.9941
+    ]
+  },
+  {
+    "id": "konz",
+    "name": "Konz",
+    "shortName": "KON",
+    "ort": "Konz Stadt",
+    "center": [
+      6.5765,
+      49.7004
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.6604,
+      6.5265,
+      49.7404,
+      6.6265
+    ]
+  },
+  {
+    "id": "morbach",
+    "name": "Morbach",
+    "shortName": "MOR",
+    "ort": "Morbach",
+    "center": [
+      7.1271,
+      49.8077
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7677,
+      7.0771,
+      49.8477,
+      7.1771
+    ]
+  },
+  {
+    "id": "pruem",
+    "name": "Prüm",
+    "shortName": "PRU",
+    "ort": "Prüm",
+    "center": [
+      6.4202,
+      50.2079
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1679,
+      6.3702,
+      50.2479,
+      6.4702
+    ]
+  },
+  {
+    "id": "saarburg",
+    "name": "Saarburg",
+    "shortName": "SAA",
+    "ort": "Saarburg mit Stadtteilen",
+    "center": [
+      6.5437,
+      49.6064
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.5664,
+      6.4937,
+      49.6464,
+      6.5937
+    ]
+  },
+  {
+    "id": "schweich",
+    "name": "Schweich",
+    "shortName": "SCH",
+    "ort": "Schweich",
+    "center": [
+      6.7526,
+      49.8222
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.7822,
+      6.7026,
+      49.8622,
+      6.8026
+    ]
   },
   {
     "id": "speicher",
     "name": "Speicher",
     "shortName": "SPE",
     "ort": "Speicher",
-    "center": [6.639, 49.9355],
+    "center": [
+      6.639,
+      49.9355
+    ],
     "defaultZoom": 12,
-    "bbox": [49.9169, 6.6142, 49.9541, 6.6956]
+    "bbox": [
+      49.9169,
+      6.6142,
+      49.9541,
+      6.6956
+    ]
   },
   {
     "id": "trier",
     "name": "Trier",
     "shortName": "TRI",
     "ort": "Trier",
-    "center": [6.6394, 49.7557],
+    "center": [
+      6.6394,
+      49.7557
+    ],
     "defaultZoom": 12,
-    "bbox": [49.6986, 6.5518, 49.8571, 6.7472]
+    "bbox": [
+      49.6986,
+      6.5518,
+      49.8571,
+      6.7472
+    ]
   },
   {
     "id": "wittlich",
     "name": "Wittlich",
     "shortName": "WIT",
     "ort": "Wittlich",
-    "center": [6.8884, 49.985],
+    "center": [
+      6.8884,
+      49.985
+    ],
     "defaultZoom": 12,
-    "bbox": [49.9556, 6.8309, 50.0307, 6.9834]
+    "bbox": [
+      49.9556,
+      6.8309,
+      50.0307,
+      6.9834
+    ]
   }
 ]

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T20:23:46.617Z",
+  "streets": [
+    {
+      "street": "Daun",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8294,
+          50.1972
+        ]
+      }
+    }
+  ]
+}
