@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:36:54.908Z",
+  "streets": [
+    {
+      "street": "Üchtelhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2686,
+          50.0918
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:36:01.838Z",
+  "streets": [
+    {
+      "street": "Tuntenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0152,
+          47.9351
+        ]
+      }
+    }
+  ]
+}

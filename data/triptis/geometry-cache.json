@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:34:33.043Z",
+  "streets": [
+    {
+      "street": "SOK-Triptis",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8702,
+          50.7357
+        ]
+      }
+    }
+  ]
+}

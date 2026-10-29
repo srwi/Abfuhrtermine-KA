@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:37:04.728Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Uhlstädt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4688,
+          50.7424
+        ]
+      }
+    }
+  ]
+}

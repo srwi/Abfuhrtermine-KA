@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:33:35.166Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Treppendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8579,
+          51.9373
+        ]
+      }
+    }
+  ]
+}

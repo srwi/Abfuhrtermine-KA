@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:33:25.256Z",
+  "streets": [
+    {
+      "street": "Trebula",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.337,
+          50.9201
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:37:14.569Z",
+  "streets": [
+    {
+      "street": "SOK-Ullersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8153,
+          50.4261
+        ]
+      }
+    }
+  ]
+}
