@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:06:18.368Z",
+  "streets": [
+    {
+      "street": "Naundorf (Starkenberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1081,
+          51.2572
+        ]
+      }
+    }
+  ]
+}

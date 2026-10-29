@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:06:31.144Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Neidenberga",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5231,
+          50.6099
+        ]
+      }
+    }
+  ]
+}

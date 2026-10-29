@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:06:39.828Z",
+  "streets": [
+    {
+      "street": "Nentershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9333,
+          51.0167
+        ]
+      }
+    }
+  ]
+}
