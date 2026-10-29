@@ -205,6 +205,10 @@ export function streetAliases(street: string): string[] {
   const cleaned = street.replace(/\s*\(.*?\)$/, '').trim();
   if (cleaned !== street) baseNames.push(cleaned);
 
+  // Strip slash district/disambiguation (e.g. Region Hannover "Adlerstr. / Gehrden" -> "Adlerstr.")
+  const cleanedSlash = street.replace(/\s*\/.*$/, '').trim();
+  if (cleanedSlash !== street) baseNames.push(cleanedSlash);
+
   // Expand abbreviations common in Bavarian/municipal waste lists
   for (const base of [...baseNames]) {
     if (/str\.$/i.test(base)) {

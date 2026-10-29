@@ -15,11 +15,13 @@ export interface CTraceConfig {
   name: string;
   shortName: string;
   service: string; // e.g. 'bremenabfallkalender', 'augsburglandkreis', 'segebergwzv-abfallkalender'
+  subdomain?: string; // 'web' (default) or 'apps'
   serviceType: 'odata' | 'json' | 'direct';
   ort?: string;
   gemeinde?: string;
   ortsteil?: string;
-  calPath?: string; // 'cal' or 'cal/2026'
+  defaultHnr?: string;
+  calPath?: string; // 'cal', 'cal/2026', or 'downloadcal'
   center: [number, number];
   defaultZoom: number;
   bbox: [number, number, number, number];
@@ -55,10 +57,12 @@ export class CTraceFetcher implements CityFetcher {
   readonly name: string;
   readonly shortName: string;
   readonly service: string;
+  readonly subdomain: string;
   readonly serviceType: 'odata' | 'json' | 'direct';
   readonly ort?: string;
   readonly gemeinde?: string;
   readonly ortsteil?: string;
+  readonly defaultHnr?: string;
   readonly calPath: string;
   readonly center: [number, number];
   readonly defaultZoom: number;
@@ -75,10 +79,12 @@ export class CTraceFetcher implements CityFetcher {
     this.name = cfg.name;
     this.shortName = cfg.shortName;
     this.service = cfg.service;
+    this.subdomain = cfg.subdomain ?? 'web';
     this.serviceType = cfg.serviceType;
     this.ort = cfg.ort ?? cfg.name;
     this.gemeinde = cfg.gemeinde ?? this.ort;
     this.ortsteil = cfg.ortsteil;
+    this.defaultHnr = cfg.defaultHnr;
     this.calPath = cfg.calPath ?? 'cal';
     this.center = cfg.center;
     this.defaultZoom = cfg.defaultZoom;
@@ -92,7 +98,8 @@ export class CTraceFetcher implements CityFetcher {
       return { baseUrl: this.sessionBaseUrl, cookie: this.cookie };
     }
 
-    const initUrl = `https://web.c-trace.de/${this.service}/Abfallkalender`;
+    const host = `${this.subdomain}.c-trace.de`;
+    const initUrl = `https://${host}/${this.service}/Abfallkalender`;
     const res = await fetch(initUrl, { redirect: 'manual' });
     const loc = res.headers.get('location');
     if (!loc) {
@@ -100,7 +107,7 @@ export class CTraceFetcher implements CityFetcher {
     }
 
     this.cookie = res.headers.get('set-cookie')?.split(';')[0] || '';
-    this.sessionBaseUrl = `https://web.c-trace.de${loc.substring(0, loc.lastIndexOf('/'))}`;
+    this.sessionBaseUrl = `https://${host}${loc.substring(0, loc.lastIndexOf('/'))}`;
     return { baseUrl: this.sessionBaseUrl, cookie: this.cookie };
   }
 
@@ -152,6 +159,9 @@ export class CTraceFetcher implements CityFetcher {
   private async getSampleHouseNumber(street: string): Promise<string | null> {
     if (this.streetHnrMap.has(street)) {
       return this.streetHnrMap.get(street)!;
+    }
+    if (this.defaultHnr !== undefined) {
+      return this.defaultHnr;
     }
     if (this.serviceType === 'odata') {
       // Many OData services like Augsburg don't require house number

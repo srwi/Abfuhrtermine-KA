@@ -18,9 +18,11 @@ interface CityInfo {
 interface TargetService {
   name: string;
   service: string;
+  subdomain?: string;
   serviceType: 'odata' | 'json' | 'direct';
   region: string;
   calPath?: string;
+  defaultHnr?: string;
   ort?: string;
   gemeinde?: string;
   directName?: string;
@@ -47,6 +49,26 @@ const TARGET_SERVICES: TargetService[] = [
     serviceType: 'direct',
     directName: 'Arnsberg',
     region: 'Arnsberg, Nordrhein-Westfalen, Deutschland'
+  },
+  {
+    name: 'Landau in der Pfalz',
+    service: 'web.landau',
+    subdomain: 'apps',
+    serviceType: 'direct',
+    directName: 'Landau in der Pfalz',
+    calPath: 'downloadcal',
+    defaultHnr: '1',
+    region: 'Landau in der Pfalz, Rheinland-Pfalz, Deutschland'
+  },
+  {
+    name: 'Oberursel (Taunus)',
+    service: 'web.oberursel',
+    subdomain: 'apps',
+    serviceType: 'direct',
+    directName: 'Oberursel (Taunus)',
+    calPath: 'cal',
+    defaultHnr: '1',
+    region: 'Oberursel (Taunus), Hessen, Deutschland'
   },
   {
     name: 'Landkreis Augsburg',
@@ -170,14 +192,15 @@ async function getOrteForService(target: TargetService): Promise<string[]> {
     return [target.directName];
   }
 
-  const initUrl = `https://web.c-trace.de/${target.service}/Abfallkalender`;
+  const host = target.subdomain ? `${target.subdomain}.c-trace.de` : 'web.c-trace.de';
+  const initUrl = `https://${host}/${target.service}/Abfallkalender`;
   const res = await fetch(initUrl, { redirect: 'manual' });
   const loc = res.headers.get('location');
   if (!loc) {
     console.warn(`Could not get redirect for ${target.name}`);
     return [];
   }
-  const baseUrl = `https://web.c-trace.de${loc.substring(0, loc.lastIndexOf('/'))}`;
+  const baseUrl = `https://${host}${loc.substring(0, loc.lastIndexOf('/'))}`;
 
   if (target.serviceType === 'odata') {
     const odataUrl = `${baseUrl}/OData.svc/Orte?$format=json`;
@@ -263,7 +286,9 @@ async function main() {
         defaultZoom: 12,
         bbox: geo.bbox
       };
+      if (target.subdomain) ctEntry.subdomain = target.subdomain;
       if (target.calPath) ctEntry.calPath = target.calPath;
+      if (target.defaultHnr) ctEntry.defaultHnr = target.defaultHnr;
 
       const cityEntry: CityInfo = {
         id,

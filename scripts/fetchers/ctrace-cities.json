@@ -1892,6 +1892,52 @@
     ]
   },
   {
+    "id": "landau-in-der-pfalz",
+    "name": "Landau in der Pfalz",
+    "shortName": "LAN",
+    "service": "web.landau",
+    "serviceType": "direct",
+    "ort": "Landau in der Pfalz",
+    "gemeinde": "Landau in der Pfalz",
+    "center": [
+      8.1123,
+      49.1983
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1549,
+      7.8653,
+      49.3164,
+      8.1808
+    ],
+    "subdomain": "apps",
+    "calPath": "downloadcal",
+    "defaultHnr": "1"
+  },
+  {
+    "id": "landau-in-der-pfalz",
+    "name": "Landau in der Pfalz",
+    "shortName": "LAN",
+    "service": "web.landau",
+    "serviceType": "direct",
+    "ort": "Landau in der Pfalz",
+    "gemeinde": "Landau in der Pfalz",
+    "center": [
+      8.1123,
+      49.1983
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1549,
+      7.8653,
+      49.3164,
+      8.1808
+    ],
+    "subdomain": "apps",
+    "calPath": "downloadcal",
+    "defaultHnr": "1"
+  },
+  {
     "id": "langenneufnach",
     "name": "Langenneufnach",
     "shortName": "LAN",
@@ -2424,6 +2470,52 @@
       48.2486,
       10.9037
     ]
+  },
+  {
+    "id": "oberursel-taunus",
+    "name": "Oberursel (Taunus)",
+    "shortName": "OBE",
+    "service": "web.oberursel",
+    "serviceType": "direct",
+    "ort": "Oberursel (Taunus)",
+    "gemeinde": "Oberursel (Taunus)",
+    "center": [
+      8.5834,
+      50.2033
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1673,
+      8.4535,
+      50.2453,
+      8.6387
+    ],
+    "subdomain": "apps",
+    "calPath": "cal",
+    "defaultHnr": "1"
+  },
+  {
+    "id": "oberursel-taunus",
+    "name": "Oberursel (Taunus)",
+    "shortName": "OBE",
+    "service": "web.oberursel",
+    "serviceType": "direct",
+    "ort": "Oberursel (Taunus)",
+    "gemeinde": "Oberursel (Taunus)",
+    "center": [
+      8.5834,
+      50.2033
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1673,
+      8.4535,
+      50.2453,
+      8.6387
+    ],
+    "subdomain": "apps",
+    "calPath": "cal",
+    "defaultHnr": "1"
   },
   {
     "id": "oering",

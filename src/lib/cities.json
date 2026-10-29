@@ -3886,6 +3886,22 @@
     ]
   },
   {
+    "id": "barsinghausen",
+    "name": "Barsinghausen",
+    "shortName": "BAR",
+    "center": [
+      9.4624,
+      52.3022
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.274,
+      9.4218,
+      52.3282,
+      9.4896
+    ]
+  },
+  {
     "id": "barterode",
     "name": "Barterode",
     "shortName": "BAR",
@@ -7951,6 +7967,22 @@
     ]
   },
   {
+    "id": "burgdorf-region-hannover",
+    "name": "Burgdorf (Region Hannover)",
+    "shortName": "BUR",
+    "center": [
+      10.0078,
+      52.4438
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4079,
+      9.9197,
+      52.5407,
+      10.1031
+    ]
+  },
+  {
     "id": "burghaun",
     "name": "Burghaun",
     "shortName": "BUR",
@@ -8108,6 +8140,22 @@
       9.3224,
       48.9681,
       9.4224
+    ]
+  },
+  {
+    "id": "burgwedel",
+    "name": "Burgwedel",
+    "shortName": "BUR",
+    "center": [
+      9.8667,
+      52.5
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4617,
+      9.7803,
+      52.6079,
+      9.9949
     ]
   },
   {
@@ -14407,6 +14455,22 @@
     ]
   },
   {
+    "id": "garbsen",
+    "name": "Garbsen",
+    "shortName": "GAR",
+    "center": [
+      9.6005,
+      52.4277
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.398,
+      9.4844,
+      52.5012,
+      9.6454
+    ]
+  },
+  {
     "id": "garbus",
     "name": "Garbus",
     "shortName": "GAR",
@@ -14740,6 +14804,22 @@
       7.9759,
       52.5852,
       8.0358
+    ]
+  },
+  {
+    "id": "gehrden",
+    "name": "Gehrden",
+    "shortName": "GEH",
+    "center": [
+      9.6008,
+      52.3135
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2787,
+      9.5251,
+      52.3698,
+      9.6408
     ]
   },
   {
@@ -18684,6 +18764,22 @@
     ]
   },
   {
+    "id": "hannover",
+    "name": "Hannover",
+    "shortName": "HAN",
+    "center": [
+      9.7386,
+      52.3745
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3049,
+      9.6044,
+      52.4543,
+      9.9186
+    ]
+  },
+  {
     "id": "hanroth",
     "name": "Hanroth",
     "shortName": "HAN",
@@ -19970,6 +20066,22 @@
       10.6942,
       52.2353,
       10.7275
+    ]
+  },
+  {
+    "id": "hemmingen",
+    "name": "Hemmingen",
+    "shortName": "HEM",
+    "center": [
+      9.7455,
+      52.3212
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2613,
+      9.6701,
+      52.3361,
+      9.7835
     ]
   },
   {
@@ -22141,6 +22253,22 @@
       10.529,
       52.475,
       10.629
+    ]
+  },
+  {
+    "id": "isernhagen",
+    "name": "Isernhagen",
+    "shortName": "ISE",
+    "center": [
+      9.808,
+      52.4705
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4205,
+      9.758,
+      52.5205,
+      9.858
     ]
   },
   {
@@ -25790,6 +25918,22 @@
     ]
   },
   {
+    "id": "laatzen",
+    "name": "Laatzen",
+    "shortName": "LAA",
+    "center": [
+      9.8146,
+      52.3078
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2616,
+      9.7628,
+      52.326,
+      9.9146
+    ]
+  },
+  {
     "id": "labenz",
     "name": "Labenz",
     "shortName": "LAB",
@@ -25867,6 +26011,22 @@
       8.0226,
       49.4106,
       8.1226
+    ]
+  },
+  {
+    "id": "landau-in-der-pfalz",
+    "name": "Landau in der Pfalz",
+    "shortName": "LAN",
+    "center": [
+      8.1123,
+      49.1983
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.1549,
+      7.8653,
+      49.3164,
+      8.1808
     ]
   },
   {
@@ -26078,6 +26238,22 @@
       10.2731,
       51.5883,
       10.3731
+    ]
+  },
+  {
+    "id": "langenhagen-region-hannover",
+    "name": "Langenhagen (Region Hannover)",
+    "shortName": "LAN",
+    "center": [
+      9.739,
+      52.4431
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4228,
+      9.6288,
+      52.5064,
+      9.7766
     ]
   },
   {
@@ -26903,6 +27079,22 @@
       9.2999,
       49.138,
       9.3427
+    ]
+  },
+  {
+    "id": "lehrte",
+    "name": "Lehrte",
+    "shortName": "LEH",
+    "center": [
+      9.9749,
+      52.3749
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.322,
+      9.8848,
+      52.4314,
+      10.1564
     ]
   },
   {
@@ -32656,6 +32848,22 @@
     ]
   },
   {
+    "id": "neustadt-am-ruebenberge",
+    "name": "Neustadt am Rübenberge",
+    "shortName": "NEU",
+    "center": [
+      9.4617,
+      52.5046
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4388,
+      9.2378,
+      52.6771,
+      9.6613
+    ]
+  },
+  {
     "id": "neustadt-an-der-orla",
     "name": "Neustadt an der Orla",
     "shortName": "NA",
@@ -35263,6 +35471,22 @@
     ]
   },
   {
+    "id": "oberursel-taunus",
+    "name": "Oberursel (Taunus)",
+    "shortName": "OBE",
+    "center": [
+      8.5834,
+      50.2033
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.1673,
+      8.4535,
+      50.2453,
+      8.6387
+    ]
+  },
+  {
     "id": "oberweissbach",
     "name": "Oberweißbach",
     "shortName": "OBE",
@@ -36322,6 +36546,22 @@
       11.8937,
       48.2391,
       11.9937
+    ]
+  },
+  {
+    "id": "pattensen",
+    "name": "Pattensen",
+    "shortName": "PAT",
+    "center": [
+      9.7607,
+      52.2636
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1704,
+      9.689,
+      52.2982,
+      9.8279
     ]
   },
   {
@@ -40355,6 +40595,22 @@
     ]
   },
   {
+    "id": "ronnenberg",
+    "name": "Ronnenberg",
+    "shortName": "RON",
+    "center": [
+      9.6532,
+      52.3167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2609,
+      9.6143,
+      52.3562,
+      9.7024
+    ]
+  },
+  {
     "id": "roeppisch",
     "name": "Röppisch",
     "shortName": "ROEP",
@@ -43819,6 +44075,22 @@
     ]
   },
   {
+    "id": "seelze",
+    "name": "Seelze",
+    "shortName": "SEE",
+    "center": [
+      9.5943,
+      52.3965
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3449,
+      9.4888,
+      52.4226,
+      9.6655
+    ]
+  },
+  {
     "id": "seester",
     "name": "Seester",
     "shortName": "SEE",
@@ -43880,6 +44152,22 @@
       10.1931,
       52.0625,
       10.2881
+    ]
+  },
+  {
+    "id": "sehnde",
+    "name": "Sehnde",
+    "shortName": "SEH",
+    "center": [
+      9.9647,
+      52.3144
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2799,
+      9.8615,
+      52.428,
+      10.0821
     ]
   },
   {
@@ -44999,6 +45287,22 @@
       7.1061,
       49.3258,
       7.1886
+    ]
+  },
+  {
+    "id": "springe",
+    "name": "Springe",
+    "shortName": "SPR",
+    "center": [
+      9.5582,
+      52.2099
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1284,
+      9.464,
+      52.2654,
+      9.7536
     ]
   },
   {
@@ -48358,6 +48662,22 @@
     ]
   },
   {
+    "id": "uetze",
+    "name": "Uetze",
+    "shortName": "UET",
+    "center": [
+      10.2024,
+      52.4644
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4328,
+      10.1317,
+      52.5135,
+      10.257
+    ]
+  },
+  {
     "id": "uhingen",
     "name": "Uhingen",
     "shortName": "UHI",
@@ -50804,6 +51124,22 @@
     ]
   },
   {
+    "id": "wedemark",
+    "name": "Wedemark",
+    "shortName": "WED",
+    "center": [
+      9.708,
+      52.5577
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4887,
+      9.5796,
+      52.6382,
+      9.8362
+    ]
+  },
+  {
     "id": "weede",
     "name": "Weede",
     "shortName": "WEE",
@@ -51482,6 +51818,22 @@
       10.5631,
       52.1665,
       10.613
+    ]
+  },
+  {
+    "id": "wennigsen",
+    "name": "Wennigsen",
+    "shortName": "WEN",
+    "center": [
+      9.5672,
+      52.2763
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2281,
+      9.4725,
+      52.2955,
+      9.6653
     ]
   },
   {
@@ -53497,6 +53849,22 @@
       10.1395,
       51.6814,
       10.225
+    ]
+  },
+  {
+    "id": "wunstorf",
+    "name": "Wunstorf",
+    "shortName": "WUN",
+    "center": [
+      9.4294,
+      52.4258
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3626,
+      9.2728,
+      52.5002,
+      9.5063
     ]
   },
   {
