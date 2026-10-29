@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T22:04:39.081Z",
+  "streets": [
+    {
+      "street": "Ötzingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8333,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Sainerholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8333,
+          50.5
+        ]
+      }
+    }
+  ]
+}

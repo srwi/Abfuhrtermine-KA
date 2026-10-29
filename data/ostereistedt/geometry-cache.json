@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T22:04:29.405Z",
+  "streets": [
+    {
+      "street": "Ostereistedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1713,
+          53.3021
+        ]
+      }
+    },
+    {
+      "street": "Rockstedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1713,
+          53.3021
+        ]
+      }
+    }
+  ]
+}

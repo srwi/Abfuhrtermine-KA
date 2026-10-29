@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "generatedAt": "2026-10-29T22:04:41.429Z",
+  "categories": [
+    {
+      "key": "restmuell",
+      "label": "Restmüll",
+      "color": "#4b5563"
+    },
+    {
+      "key": "bioabfall",
+      "label": "Bioabfall",
+      "color": "#92400e"
+    },
+    {
+      "key": "wertstoff",
+      "label": "Wertstoff / Gelb",
+      "color": "#eab308"
+    },
+    {
+      "key": "papier",
+      "label": "Papier",
+      "color": "#1d4ed8"
+    }
+  ],
+  "days": []
+}

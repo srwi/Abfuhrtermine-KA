@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T21:58:35.534Z",
+  "streets": [
+    {
+      "street": "Bach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9879,
+          50.6582
+        ]
+      }
+    },
+    {
+      "street": "Pfuhl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9879,
+          50.6582
+        ]
+      }
+    }
+  ]
+}

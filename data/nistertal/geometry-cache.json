@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T21:58:45.059Z",
+  "streets": [
+    {
+      "street": "Büdingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8992,
+          50.6296
+        ]
+      }
+    },
+    {
+      "street": "Erbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8992,
+          50.6296
+        ]
+      }
+    }
+  ]
+}
