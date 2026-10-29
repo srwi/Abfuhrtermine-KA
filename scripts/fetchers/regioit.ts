@@ -80,9 +80,7 @@ export class RegioItFetcher implements CityFetcher {
   readonly defaultCategories: string[];
   readonly mapWasteType: (name: string) => CategoryKey | null;
 
-  private primaryBaseUrl: string;
-  private fallbackBaseUrl: string;
-  private activeBaseUrl: string;
+  private baseUrl: string;
   private streetIdMap = new Map<string, number>();
 
   constructor(config: RegioItConfig) {
@@ -97,11 +95,9 @@ export class RegioItFetcher implements CityFetcher {
     this.defaultCategories = config.defaultCategories ?? ['restmuell'];
     this.mapWasteType = config.mapWasteTypeToCategory ?? defaultMapWasteType;
 
-    this.primaryBaseUrl = `https://${this.serviceDomain}-abfallapp.regioit.de/abfall-app-${this.serviceDomain}/rest`;
-    this.fallbackBaseUrl = `https://abfallapp.regioit.de/abfall-app-${this.serviceDomain}/rest`;
-    this.activeBaseUrl = SHARED_DOMAIN_SERVICES.has(this.serviceDomain)
-      ? this.fallbackBaseUrl
-      : this.primaryBaseUrl;
+    this.baseUrl = SHARED_DOMAIN_SERVICES.has(this.serviceDomain)
+      ? `https://abfallapp.regioit.de/abfall-app-${this.serviceDomain}/rest`
+      : `https://${this.serviceDomain}-abfallapp.regioit.de/abfall-app-${this.serviceDomain}/rest`;
   }
 
   private async fetchJson<T>(path: string, maxRetries = 3): Promise<T> {
@@ -109,7 +105,7 @@ export class RegioItFetcher implements CityFetcher {
 
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
       try {
-        const url = `${this.activeBaseUrl}/${path}`;
+        const url = `${this.baseUrl}/${path}`;
         const res = await fetch(url, {
           headers: {
             'user-agent': 'Abfuhrtermine/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)'
@@ -120,19 +116,8 @@ export class RegioItFetcher implements CityFetcher {
         if (res.ok) {
           return (await res.json()) as T;
         }
-
-        if (res.status === 404) {
-          this.activeBaseUrl =
-            this.activeBaseUrl === this.primaryBaseUrl
-              ? this.fallbackBaseUrl
-              : this.primaryBaseUrl;
-        }
       } catch (err) {
         lastError = err;
-        this.activeBaseUrl =
-          this.activeBaseUrl === this.primaryBaseUrl
-            ? this.fallbackBaseUrl
-            : this.primaryBaseUrl;
         await Bun.sleep(500 * attempt);
       }
     }
