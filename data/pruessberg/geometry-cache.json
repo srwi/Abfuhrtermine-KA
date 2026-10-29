@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:44:31.822Z",
+  "streets": [
+    {
+      "street": "Prüssberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4438,
+          49.9133
+        ]
+      }
+    }
+  ]
+}

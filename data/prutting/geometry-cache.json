@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:44:41.436Z",
+  "streets": [
+    {
+      "street": "Prutting",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2024,
+          47.8932
+        ]
+      }
+    }
+  ]
+}

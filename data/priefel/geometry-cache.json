@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:43:50.025Z",
+  "streets": [
+    {
+      "street": "Priefel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4814,
+          50.9557
+        ]
+      }
+    }
+  ]
+}

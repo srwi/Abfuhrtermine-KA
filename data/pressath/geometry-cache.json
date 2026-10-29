@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:43:03.954Z",
+  "streets": [
+    {
+      "street": "Pressath",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9397,
+          49.7686
+        ]
+      }
+    }
+  ]
+}

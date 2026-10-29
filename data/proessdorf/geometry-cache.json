@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:44:22.361Z",
+  "streets": [
+    {
+      "street": "Prössdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.306,
+          51.0875
+        ]
+      }
+    }
+  ]
+}

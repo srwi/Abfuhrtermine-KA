@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:44:11.685Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Probstzella",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3833,
+          50.5333
+        ]
+      }
+    }
+  ]
+}
