@@ -128,16 +128,40 @@ function makeShortName(name: string): string {
 
 async function geocode(cityName: string, region: string): Promise<{ center: [number, number]; bbox: [number, number, number, number] } | null> {
   const cleanName = cityName.replace(/\s*\([^)]*\)/g, '').trim();
+
+  // Try Open-Meteo first (ultra-fast, highly reliable)
+  try {
+    const url = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(cleanName)}&count=1&language=de&country_code=DE`;
+    const res = await fetch(url, { signal: AbortSignal.timeout(3000) });
+    if (res.ok) {
+      const data = await res.json();
+      const r = data.results?.[0];
+      if (r && r.latitude && r.longitude) {
+        const center: [number, number] = [
+          Math.round(r.longitude * 10000) / 10000,
+          Math.round(r.latitude * 10000) / 10000
+        ];
+        const bbox: [number, number, number, number] = [
+          Math.round((center[1] - 0.04) * 10000) / 10000,
+          Math.round((center[0] - 0.05) * 10000) / 10000,
+          Math.round((center[1] + 0.04) * 10000) / 10000,
+          Math.round((center[0] + 0.05) * 10000) / 10000
+        ];
+        return { center, bbox };
+      }
+    }
+  } catch {}
+
   const queries = [
     `${cleanName}, ${region}, Deutschland`,
     `${cleanName}, Deutschland`
   ];
 
-  // Try Photon (fast OSM geocoder by Komoot)
+  // Try Photon
   for (const q of queries) {
     try {
       const url = `https://photon.komoot.io/api/?q=${encodeURIComponent(q)}&limit=1`;
-      const res = await fetch(url, { headers: { 'User-Agent': 'Abfuhrtermine-Bot/1.0' } });
+      const res = await fetch(url, { headers: { 'User-Agent': 'Abfuhrtermine-Bot/1.0' }, signal: AbortSignal.timeout(3000) });
       if (res.ok) {
         const data = await res.json();
         const f = data.features?.[0];
@@ -282,6 +306,16 @@ async function main() {
       for (const city of cities) {
         if (!city.name) continue;
         const normName = city.name.toLowerCase().trim();
+
+        // Already registered under this exact target service?
+        const alreadyInTarget = existingAbfallPlus.some(
+          (ap) =>
+            (ap.cityId === city.id || ap.name.toLowerCase() === normName) &&
+            (ap.serviceKey === target.serviceKey || ap.apiKey === apiKey || ap.name.toLowerCase() === normName)
+        );
+        if (alreadyInTarget) {
+          continue;
+        }
 
         let cityName = city.name;
         if (knownNames.has(normName)) {

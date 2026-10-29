@@ -151,6 +151,44 @@
     ]
   },
   {
+    "id": "altensteig",
+    "name": "Altensteig",
+    "shortName": "ALT",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1358",
+    "center": [
+      8.604,
+      48.5865
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5465,
+      8.554,
+      48.6265,
+      8.654
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
+    "id": "althengstett",
+    "name": "Althengstett",
+    "shortName": "ALT",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1359",
+    "center": [
+      8.7943,
+      48.7233
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6833,
+      8.7443,
+      48.7633,
+      8.8443
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "altlandsberg",
     "name": "Altlandsberg",
     "shortName": "ALT",
@@ -416,6 +454,25 @@
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
   },
   {
+    "id": "bad-herrenalb",
+    "name": "Bad Herrenalb",
+    "shortName": "BAD",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1360",
+    "center": [
+      8.4362,
+      48.7979
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7579,
+      8.3862,
+      48.8379,
+      8.4862
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "bad-hoenningen",
     "name": "Bad Hönningen",
     "shortName": "BAD",
@@ -474,6 +531,25 @@
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
   },
   {
+    "id": "bad-liebenzell",
+    "name": "Bad Liebenzell",
+    "shortName": "BAD",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1361",
+    "center": [
+      8.7297,
+      48.7743
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7343,
+      8.6797,
+      48.8143,
+      8.7797
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "bad-rappenau",
     "name": "Bad Rappenau",
     "shortName": "RAP",
@@ -509,6 +585,25 @@
       10.5844
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "bad-teinach",
+    "name": "Bad Teinach",
+    "shortName": "BAD",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1362",
+    "center": [
+      8.6903,
+      48.6891
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6491,
+      8.6403,
+      48.7291,
+      8.7403
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "bad-ueberkingen",
@@ -547,6 +642,25 @@
       9.4878
     ],
     "serviceKey": "15f69fab91c4cae50d9dbb5bcfd383f0"
+  },
+  {
+    "id": "bad-wildbad",
+    "name": "Bad Wildbad",
+    "shortName": "BAD",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1363",
+    "center": [
+      8.5504,
+      48.7507
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7107,
+      8.5004,
+      48.7907,
+      8.6004
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "bad-wimpfen",
@@ -1312,6 +1426,25 @@
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
   },
   {
+    "id": "breitscheid-lk-neuwied",
+    "name": "Breitscheid (LK Neuwied)",
+    "shortName": "BRE",
+    "apiKey": "38c4f031ab4a57c1a15e4699b6affd0ff4c7d3515da704fe",
+    "cityId": "4550",
+    "center": [
+      8.1912,
+      50.6851
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6451,
+      8.1412,
+      50.7251,
+      8.2412
+    ],
+    "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
+  },
+  {
     "id": "bremke",
     "name": "Bremke",
     "shortName": "BRE",
@@ -1462,6 +1595,25 @@
       9.6253
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "calw",
+    "name": "Calw",
+    "shortName": "CAL",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1364",
+    "center": [
+      8.7403,
+      48.7142
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6742,
+      8.6903,
+      48.7542,
+      8.7903
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "cavertitz",
@@ -1825,6 +1977,25 @@
     "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
   },
   {
+    "id": "dobel",
+    "name": "Dobel",
+    "shortName": "DOB",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1365",
+    "center": [
+      8.5,
+      48.8
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.76,
+      8.45,
+      48.84,
+      8.55
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "doberschuetz",
     "name": "Doberschütz",
     "shortName": "DOB",
@@ -2145,6 +2316,25 @@
     ]
   },
   {
+    "id": "ebhausen",
+    "name": "Ebhausen",
+    "shortName": "EBH",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1366",
+    "center": [
+      8.6833,
+      48.5833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5433,
+      8.6333,
+      48.6233,
+      8.7333
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "eddigehausen",
     "name": "Eddigehausen",
     "shortName": "EDD",
@@ -2162,6 +2352,25 @@
       10.0104
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "egenhausen-lk-calw",
+    "name": "Egenhausen (LK Calw)",
+    "shortName": "EGE",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1367",
+    "center": [
+      8.6167,
+      48.5667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5267,
+      8.5667,
+      48.6067,
+      8.6667
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "ehlscheid",
@@ -2411,6 +2620,25 @@
     "serviceKey": "15f69fab91c4cae50d9dbb5bcfd383f0"
   },
   {
+    "id": "enzkloesterle",
+    "name": "Enzklösterle",
+    "shortName": "ENZ",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1368",
+    "center": [
+      8.4708,
+      48.6664
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6264,
+      8.4208,
+      48.7064,
+      8.5208
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "eppingen",
     "name": "Eppingen",
     "shortName": "EPP",
@@ -2576,6 +2804,25 @@
       10.2162
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "falkenberg-lk-maerkisch-oderland",
+    "name": "Falkenberg (LK Märkisch-Oderland)",
+    "shortName": "FAL",
+    "apiKey": "c17ca2102194771b7458b19d33a92934f9d83ba53f308fd1",
+    "cityId": "6346",
+    "center": [
+      12.4912,
+      56.9055
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      56.8655,
+      12.4412,
+      56.9455,
+      12.5412
+    ],
+    "serviceKey": "efb75cbd1f08fae1d4e47ae72a85c655"
   },
   {
     "id": "falkenhagen",
@@ -2823,6 +3070,25 @@
       48.5777,
       8.8908
     ]
+  },
+  {
+    "id": "gechingen",
+    "name": "Gechingen",
+    "shortName": "GEC",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1369",
+    "center": [
+      8.8292,
+      48.6953
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6553,
+      8.7792,
+      48.7353,
+      8.8792
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "geislingen",
@@ -3377,6 +3643,25 @@
     "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
   },
   {
+    "id": "haiterbach",
+    "name": "Haiterbach",
+    "shortName": "HAI",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1370",
+    "center": [
+      8.6444,
+      48.5207
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4807,
+      8.5944,
+      48.5607,
+      8.6944
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "hambergen",
     "name": "Hambergen",
     "shortName": "HAM",
@@ -3566,6 +3851,25 @@
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
   },
   {
+    "id": "hausen-lk-neuwied",
+    "name": "Hausen (LK Neuwied)",
+    "shortName": "HAU",
+    "apiKey": "38c4f031ab4a57c1a15e4699b6affd0ff4c7d3515da704fe",
+    "cityId": "4554",
+    "center": [
+      10.3667,
+      51.3833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3433,
+      10.3167,
+      51.4233,
+      10.4167
+    ],
+    "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
+  },
+  {
     "id": "hayingen",
     "name": "Hayingen",
     "shortName": "HAY",
@@ -3621,6 +3925,25 @@
       9.8035
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "heiningen-lk-goeppingen",
+    "name": "Heiningen (LK Göppingen)",
+    "shortName": "HEI",
+    "apiKey": "7a4730955599a7e7c0ceb39c548b6abbae874dc7e6a0afc5",
+    "cityId": "916",
+    "center": [
+      9.6498,
+      48.6618
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6218,
+      9.5998,
+      48.7018,
+      9.6998
+    ],
+    "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
   },
   {
     "id": "hemeln",
@@ -3735,6 +4058,25 @@
       9.6908
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "hoefen",
+    "name": "Höfen an der Enz",
+    "shortName": "HOEF",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1371",
+    "center": [
+      8.5834,
+      48.8015
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7874,
+      8.55,
+      48.8187,
+      8.6086
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "hoehenland",
@@ -4474,6 +4816,25 @@
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
   },
   {
+    "id": "laubach-lk-goettingen",
+    "name": "Laubach (LK Göttingen)",
+    "shortName": "LAU",
+    "apiKey": "694a0d72bf4f49c18eaa4ff869c7e00052c9ddda3022840d",
+    "cityId": "3080",
+    "center": [
+      7.7203,
+      48.8816
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8416,
+      7.6703,
+      48.9216,
+      7.7703
+    ],
+    "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
     "id": "lauffen",
     "name": "Lauffen",
     "shortName": "LAU",
@@ -4677,6 +5038,25 @@
       14.4985
     ],
     "serviceKey": "efb75cbd1f08fae1d4e47ae72a85c655"
+  },
+  {
+    "id": "leubsdorf-lk-neuwied",
+    "name": "Leubsdorf (LK Neuwied)",
+    "shortName": "LEU",
+    "apiKey": "38c4f031ab4a57c1a15e4699b6affd0ff4c7d3515da704fe",
+    "cityId": "4601",
+    "center": [
+      13.1667,
+      50.8
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.76,
+      13.1167,
+      50.84,
+      13.2167
+    ],
+    "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
   },
   {
     "id": "leutesdorf",
@@ -5554,6 +5934,44 @@
     "serviceKey": "2085afd95285e645e15ee9623d0c5172"
   },
   {
+    "id": "nagold",
+    "name": "Nagold",
+    "shortName": "NAG",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1372",
+    "center": [
+      8.7237,
+      48.5498
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5098,
+      8.6737,
+      48.5898,
+      8.7737
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
+    "id": "naundorf-lk-nordsachsen",
+    "name": "Naundorf (LK Nordsachsen)",
+    "shortName": "NAU",
+    "apiKey": "d593660f259d3d1130721177754bdb945d95bb9d70ca5408",
+    "cityId": "4515",
+    "center": [
+      13.1081,
+      51.2572
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2172,
+      13.0581,
+      51.2972,
+      13.1581
+    ],
+    "serviceKey": "2085afd95285e645e15ee9623d0c5172"
+  },
+  {
     "id": "naunhof",
     "name": "Naunhof",
     "shortName": "NAU",
@@ -5627,6 +6045,25 @@
       10.2358
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "neubulach",
+    "name": "Neubulach",
+    "shortName": "NEU",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1373",
+    "center": [
+      8.6961,
+      48.6609
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6209,
+      8.6461,
+      48.7009,
+      8.7461
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "neudenau",
@@ -5780,6 +6217,25 @@
     "serviceKey": "efb75cbd1f08fae1d4e47ae72a85c655"
   },
   {
+    "id": "neuweiler",
+    "name": "Neuweiler",
+    "shortName": "NEU",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1374",
+    "center": [
+      8.6,
+      48.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6267,
+      8.55,
+      48.7067,
+      8.65
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "neuwied",
     "name": "Neuwied",
     "shortName": "NEU",
@@ -5930,6 +6386,25 @@
       7.6187
     ],
     "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
+  },
+  {
+    "id": "nienhagen-lk-goettingen",
+    "name": "Nienhagen (LK Göttingen)",
+    "shortName": "NIE",
+    "apiKey": "694a0d72bf4f49c18eaa4ff869c7e00052c9ddda3022840d",
+    "cityId": "3159",
+    "center": [
+      10.1021,
+      52.5571
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5171,
+      10.0521,
+      52.5971,
+      10.1521
+    ],
+    "serviceKey": "4b5702d771c82b611c386ebbc7629026"
   },
   {
     "id": "nordheim",
@@ -6102,6 +6577,25 @@
     "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
   },
   {
+    "id": "oberreichenbach",
+    "name": "Oberreichenbach",
+    "shortName": "OBE",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1375",
+    "center": [
+      8.6667,
+      48.7333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6933,
+      8.6167,
+      48.7733,
+      8.7167
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "obersulm",
     "name": "Obersulm",
     "shortName": "OBS",
@@ -6249,6 +6743,25 @@
       9.8124
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "ostelsheim",
+    "name": "Ostelsheim",
+    "shortName": "OST",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1376",
+    "center": [
+      8.8482,
+      48.7263
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6863,
+      8.7982,
+      48.7663,
+      8.8982
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "osterholz-scharmbeck",
@@ -6614,6 +7127,25 @@
     "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
   },
   {
+    "id": "reckershausen-lk-goettingen",
+    "name": "Reckershausen (LK Göttingen)",
+    "shortName": "REC",
+    "apiKey": "694a0d72bf4f49c18eaa4ff869c7e00052c9ddda3022840d",
+    "cityId": "3114",
+    "center": [
+      7.4,
+      49.9833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9433,
+      7.35,
+      50.0233,
+      7.45
+    ],
+    "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
     "id": "regis-breitingen",
     "name": "Regis-Breitingen",
     "shortName": "REG",
@@ -6957,6 +7489,25 @@
     "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
   },
   {
+    "id": "rohrdorf-lk-calw",
+    "name": "Rohrdorf (LK Calw)",
+    "shortName": "ROH",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1377",
+    "center": [
+      8.6932,
+      48.5686
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5579,
+      8.6693,
+      48.5778,
+      8.7031
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "roigheim",
     "name": "Roigheim",
     "shortName": "ROI",
@@ -7030,6 +7581,25 @@
       9.9315
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "rossbach-lk-neuwied",
+    "name": "Roßbach (LK Neuwied)",
+    "shortName": "ROSS",
+    "apiKey": "38c4f031ab4a57c1a15e4699b6affd0ff4c7d3515da704fe",
+    "cityId": "4563",
+    "center": [
+      7.4161,
+      50.575
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.535,
+      7.3661,
+      50.615,
+      7.4661
+    ],
+    "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
   },
   {
     "id": "roetha",
@@ -7240,6 +7810,25 @@
       9.5529
     ],
     "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "schoemberg",
+    "name": "Schömberg",
+    "shortName": "SCH",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1378",
+    "center": [
+      8.645,
+      48.7871
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7471,
+      8.595,
+      48.8271,
+      8.695
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "schonach",
@@ -7506,6 +8095,44 @@
     ]
   },
   {
+    "id": "simmersfeld",
+    "name": "Simmersfeld",
+    "shortName": "SIM",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1379",
+    "center": [
+      8.5167,
+      48.6167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5767,
+      8.4667,
+      48.6567,
+      8.5667
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
+    "id": "simmozheim",
+    "name": "Simmozheim",
+    "shortName": "SIM",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1380",
+    "center": [
+      8.8114,
+      48.7513
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7113,
+      8.7614,
+      48.7913,
+      8.8614
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
     "id": "sindelfingen",
     "name": "Sindelfingen",
     "shortName": "SIN",
@@ -7730,6 +8357,25 @@
       9.9639,
       51.5409,
       10.0639
+    ],
+    "serviceKey": "4b5702d771c82b611c386ebbc7629026"
+  },
+  {
+    "id": "stockhausen-lk-goettingen",
+    "name": "Stockhausen (LK Göttingen)",
+    "shortName": "STO",
+    "apiKey": "694a0d72bf4f49c18eaa4ff869c7e00052c9ddda3022840d",
+    "cityId": "3116",
+    "center": [
+      8.587,
+      52.3219
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2819,
+      8.537,
+      52.3619,
+      8.637
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
   },
@@ -8130,6 +8776,44 @@
       8.4097
     ],
     "serviceKey": "30628292bdd8b43db86a48f7e0d85f85"
+  },
+  {
+    "id": "unterreichenbach",
+    "name": "Unterreichenbach",
+    "shortName": "UNT",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1381",
+    "center": [
+      8.7089,
+      48.825
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.785,
+      8.6589,
+      48.865,
+      8.7589
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
+  },
+  {
+    "id": "urbach-lk-neuwied",
+    "name": "Urbach (LK Neuwied)",
+    "shortName": "URB",
+    "apiKey": "38c4f031ab4a57c1a15e4699b6affd0ff4c7d3515da704fe",
+    "cityId": "4582",
+    "center": [
+      9.5769,
+      48.8168
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7768,
+      9.5269,
+      48.8568,
+      9.6269
+    ],
+    "serviceKey": "de4957b006c53e47f8b9c21bc2c768f0"
   },
   {
     "id": "uschlag",
@@ -8772,6 +9456,25 @@
       9.6528
     ],
     "serviceKey": "f35bd08b1d18d9c81fcdee75dbcce5d3"
+  },
+  {
+    "id": "wildberg",
+    "name": "Wildberg",
+    "shortName": "WIL",
+    "apiKey": "5f83e30339eaf89fdee365605af49dec939d218a2404167f",
+    "cityId": "1382",
+    "center": [
+      8.7471,
+      48.6233
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5941,
+      8.639,
+      48.68,
+      8.8194
+    ],
+    "serviceKey": "0813ea99f520c462373386564a99a51e"
   },
   {
     "id": "windhagen",

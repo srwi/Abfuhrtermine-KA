@@ -1071,6 +1071,22 @@
     ]
   },
   {
+    "id": "altensteig",
+    "name": "Altensteig",
+    "shortName": "ALT",
+    "center": [
+      8.604,
+      48.5865
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5465,
+      8.554,
+      48.6265,
+      8.654
+    ]
+  },
+  {
     "id": "altenthann",
     "name": "Altenthann",
     "shortName": "ALT",
@@ -1132,6 +1148,22 @@
       11.0167,
       48.2733,
       11.1167
+    ]
+  },
+  {
+    "id": "althengstett",
+    "name": "Althengstett",
+    "shortName": "ALT",
+    "center": [
+      8.7943,
+      48.7233
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6833,
+      8.7443,
+      48.7633,
+      8.8443
     ]
   },
   {
@@ -2965,6 +2997,22 @@
     ]
   },
   {
+    "id": "bad-herrenalb",
+    "name": "Bad Herrenalb",
+    "shortName": "BAD",
+    "center": [
+      8.4362,
+      48.7979
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7579,
+      8.3862,
+      48.8379,
+      8.4862
+    ]
+  },
+  {
     "id": "bad-hersfeld",
     "name": "Bad Hersfeld",
     "shortName": "BH",
@@ -3096,6 +3144,22 @@
       10.3681,
       51.6784,
       10.5684
+    ]
+  },
+  {
+    "id": "bad-liebenzell",
+    "name": "Bad Liebenzell",
+    "shortName": "BAD",
+    "center": [
+      8.7297,
+      48.7743
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7343,
+      8.6797,
+      48.8143,
+      8.7797
     ]
   },
   {
@@ -3358,6 +3422,22 @@
     ]
   },
   {
+    "id": "bad-teinach",
+    "name": "Bad Teinach",
+    "shortName": "BAD",
+    "center": [
+      8.6903,
+      48.6891
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6491,
+      8.6403,
+      48.7291,
+      8.7403
+    ]
+  },
+  {
     "id": "bad-toelz",
     "name": "Bad Tölz",
     "shortName": "BT",
@@ -3403,6 +3483,22 @@
       9.3451,
       48.5337,
       9.4878
+    ]
+  },
+  {
+    "id": "bad-wildbad",
+    "name": "Bad Wildbad",
+    "shortName": "BAD",
+    "center": [
+      8.5504,
+      48.7507
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7107,
+      8.5004,
+      48.7907,
+      8.6004
     ]
   },
   {
@@ -7180,6 +7276,22 @@
     ]
   },
   {
+    "id": "breitscheid-lk-neuwied",
+    "name": "Breitscheid (LK Neuwied)",
+    "shortName": "BRE",
+    "center": [
+      8.1912,
+      50.6851
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6451,
+      8.1412,
+      50.7251,
+      8.2412
+    ]
+  },
+  {
     "id": "bremen",
     "name": "Bremen",
     "shortName": "BRE",
@@ -8338,6 +8450,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "calw",
+    "name": "Calw",
+    "shortName": "CAL",
+    "center": [
+      8.7403,
+      48.7142
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6742,
+      8.6903,
+      48.7542,
+      8.7903
     ]
   },
   {
@@ -9911,6 +10039,22 @@
     ]
   },
   {
+    "id": "dobel",
+    "name": "Dobel",
+    "shortName": "DOB",
+    "center": [
+      8.5,
+      48.8
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.76,
+      8.45,
+      48.84,
+      8.55
+    ]
+  },
+  {
     "id": "doberschuetz",
     "name": "Doberschütz",
     "shortName": "DOB",
@@ -11133,6 +11277,22 @@
     ]
   },
   {
+    "id": "ebhausen",
+    "name": "Ebhausen",
+    "shortName": "EBH",
+    "center": [
+      8.6833,
+      48.5833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5433,
+      8.6333,
+      48.6233,
+      8.7333
+    ]
+  },
+  {
     "id": "ebnath",
     "name": "Ebnath",
     "shortName": "EBN",
@@ -11231,6 +11391,22 @@
   {
     "id": "egenhausen",
     "name": "Egenhausen",
+    "shortName": "EGE",
+    "center": [
+      8.6167,
+      48.5667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5267,
+      8.5667,
+      48.6067,
+      8.6667
+    ]
+  },
+  {
+    "id": "egenhausen-lk-calw",
+    "name": "Egenhausen (LK Calw)",
     "shortName": "EGE",
     "center": [
       8.6167,
@@ -12303,6 +12479,22 @@
     ]
   },
   {
+    "id": "enzkloesterle",
+    "name": "Enzklösterle",
+    "shortName": "ENZ",
+    "center": [
+      8.4708,
+      48.6664
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6264,
+      8.4208,
+      48.7064,
+      8.5208
+    ]
+  },
+  {
     "id": "eppertshausen",
     "name": "Eppertshausen",
     "shortName": "EPP",
@@ -12986,6 +13178,22 @@
   {
     "id": "falkenberg",
     "name": "Falkenberg",
+    "shortName": "FAL",
+    "center": [
+      12.4912,
+      56.9055
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      56.8655,
+      12.4412,
+      56.9455,
+      12.5412
+    ]
+  },
+  {
+    "id": "falkenberg-lk-maerkisch-oderland",
+    "name": "Falkenberg (LK Märkisch-Oderland)",
     "shortName": "FAL",
     "center": [
       12.4912,
@@ -14708,6 +14916,22 @@
       10.15,
       49.39,
       10.25
+    ]
+  },
+  {
+    "id": "gechingen",
+    "name": "Gechingen",
+    "shortName": "GEC",
+    "center": [
+      8.8292,
+      48.6953
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6553,
+      8.7792,
+      48.7353,
+      8.8792
     ]
   },
   {
@@ -18364,6 +18588,22 @@
     ]
   },
   {
+    "id": "haiterbach",
+    "name": "Haiterbach",
+    "shortName": "HAI",
+    "center": [
+      8.6444,
+      48.5207
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4807,
+      8.5944,
+      48.5607,
+      8.6944
+    ]
+  },
+  {
     "id": "halberstadt",
     "name": "Halberstadt",
     "shortName": "HBS",
@@ -19311,6 +19551,22 @@
     ]
   },
   {
+    "id": "hausen-lk-neuwied",
+    "name": "Hausen (LK Neuwied)",
+    "shortName": "HAU",
+    "center": [
+      10.3667,
+      51.3833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3433,
+      10.3167,
+      51.4233,
+      10.4167
+    ]
+  },
+  {
     "id": "havekost",
     "name": "Havekost",
     "shortName": "HAV",
@@ -19874,6 +20130,22 @@
       10.5147,
       52.089,
       10.5674
+    ]
+  },
+  {
+    "id": "heiningen-lk-goeppingen",
+    "name": "Heiningen (LK Göppingen)",
+    "shortName": "HEI",
+    "center": [
+      9.6498,
+      48.6618
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6218,
+      9.5998,
+      48.7018,
+      9.6998
     ]
   },
   {
@@ -20820,6 +21092,22 @@
       9.7853,
       50.6263,
       9.8853
+    ]
+  },
+  {
+    "id": "hoefen",
+    "name": "Höfen an der Enz",
+    "shortName": "HOEF",
+    "center": [
+      8.5834,
+      48.8015
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7874,
+      8.55,
+      48.8187,
+      8.6086
     ]
   },
   {
@@ -26647,6 +26935,22 @@
     ]
   },
   {
+    "id": "laubach-lk-goettingen",
+    "name": "Laubach (LK Göttingen)",
+    "shortName": "LAU",
+    "center": [
+      7.7203,
+      48.8816
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8416,
+      7.6703,
+      48.9216,
+      7.7703
+    ]
+  },
+  {
     "id": "lauda-koenigshofen",
     "name": "Lauda-Königshofen",
     "shortName": "LAU",
@@ -27378,6 +27682,22 @@
   {
     "id": "leubsdorf",
     "name": "Leubsdorf",
+    "shortName": "LEU",
+    "center": [
+      13.1667,
+      50.8
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.76,
+      13.1167,
+      50.84,
+      13.2167
+    ]
+  },
+  {
+    "id": "leubsdorf-lk-neuwied",
+    "name": "Leubsdorf (LK Neuwied)",
     "shortName": "LEU",
     "center": [
       13.1667,
@@ -31946,6 +32266,22 @@
     ]
   },
   {
+    "id": "nagold",
+    "name": "Nagold",
+    "shortName": "NAG",
+    "center": [
+      8.7237,
+      48.5498
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5098,
+      8.6737,
+      48.5898,
+      8.7737
+    ]
+  },
+  {
     "id": "nahe",
     "name": "Nahe",
     "shortName": "NAH",
@@ -32047,6 +32383,22 @@
   {
     "id": "naundorf",
     "name": "Naundorf",
+    "shortName": "NAU",
+    "center": [
+      13.1081,
+      51.2572
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2172,
+      13.0581,
+      51.2972,
+      13.1581
+    ]
+  },
+  {
+    "id": "naundorf-lk-nordsachsen",
+    "name": "Naundorf (LK Nordsachsen)",
     "shortName": "NAU",
     "center": [
       13.1081,
@@ -32298,6 +32650,22 @@
       11.6081,
       48.1171,
       11.7081
+    ]
+  },
+  {
+    "id": "neubulach",
+    "name": "Neubulach",
+    "shortName": "NEU",
+    "center": [
+      8.6961,
+      48.6609
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6209,
+      8.6461,
+      48.7009,
+      8.7461
     ]
   },
   {
@@ -32979,6 +33347,22 @@
     ]
   },
   {
+    "id": "neuweiler",
+    "name": "Neuweiler",
+    "shortName": "NEU",
+    "center": [
+      8.6,
+      48.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6267,
+      8.55,
+      48.7067,
+      8.65
+    ]
+  },
+  {
     "id": "neuwied",
     "name": "Neuwied",
     "shortName": "NEU",
@@ -33552,6 +33936,22 @@
       10.054,
       52.57,
       10.1387
+    ]
+  },
+  {
+    "id": "nienhagen-lk-goettingen",
+    "name": "Nienhagen (LK Göttingen)",
+    "shortName": "NIE",
+    "center": [
+      10.1021,
+      52.5571
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5171,
+      10.0521,
+      52.5971,
+      10.1521
     ]
   },
   {
@@ -35215,6 +35615,22 @@
     ]
   },
   {
+    "id": "oberreichenbach",
+    "name": "Oberreichenbach",
+    "shortName": "OBE",
+    "center": [
+      8.6667,
+      48.7333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6933,
+      8.6167,
+      48.7733,
+      8.7167
+    ]
+  },
+  {
     "id": "oberschoebling",
     "name": "Oberschöbling",
     "shortName": "OBE",
@@ -36076,6 +36492,22 @@
       7.7246,
       52.104,
       7.921
+    ]
+  },
+  {
+    "id": "ostelsheim",
+    "name": "Ostelsheim",
+    "shortName": "OST",
+    "center": [
+      8.8482,
+      48.7263
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.6863,
+      8.7982,
+      48.7663,
+      8.8982
     ]
   },
   {
@@ -38839,6 +39271,22 @@
     ]
   },
   {
+    "id": "reckershausen-lk-goettingen",
+    "name": "Reckershausen (LK Göttingen)",
+    "shortName": "REC",
+    "center": [
+      7.4,
+      49.9833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.9433,
+      7.35,
+      50.0233,
+      7.45
+    ]
+  },
+  {
     "id": "recklinghausen",
     "name": "Recklinghausen",
     "shortName": "RE",
@@ -40419,6 +40867,22 @@
     ]
   },
   {
+    "id": "rohrdorf-lk-calw",
+    "name": "Rohrdorf (LK Calw)",
+    "shortName": "ROH",
+    "center": [
+      8.6932,
+      48.5686
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5579,
+      8.6693,
+      48.5778,
+      8.7031
+    ]
+  },
+  {
     "id": "rohrenfels",
     "name": "Rohrenfels",
     "shortName": "ROH",
@@ -40741,6 +41205,22 @@
   {
     "id": "rossbach",
     "name": "Roßbach",
+    "shortName": "ROSS",
+    "center": [
+      7.4161,
+      50.575
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.535,
+      7.3661,
+      50.615,
+      7.4661
+    ]
+  },
+  {
+    "id": "rossbach-lk-neuwied",
+    "name": "Roßbach (LK Neuwied)",
     "shortName": "ROSS",
     "center": [
       7.4161,
@@ -42655,6 +43135,22 @@
       12.5427,
       51.0241,
       12.6427
+    ]
+  },
+  {
+    "id": "schoemberg",
+    "name": "Schömberg",
+    "shortName": "SCH",
+    "center": [
+      8.645,
+      48.7871
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7471,
+      8.595,
+      48.8271,
+      8.695
     ]
   },
   {
@@ -44775,6 +45271,38 @@
     ]
   },
   {
+    "id": "simmersfeld",
+    "name": "Simmersfeld",
+    "shortName": "SIM",
+    "center": [
+      8.5167,
+      48.6167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5767,
+      8.4667,
+      48.6567,
+      8.5667
+    ]
+  },
+  {
+    "id": "simmozheim",
+    "name": "Simmozheim",
+    "shortName": "SIM",
+    "center": [
+      8.8114,
+      48.7513
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7113,
+      8.7614,
+      48.7913,
+      8.8614
+    ]
+  },
+  {
     "id": "sindelfingen",
     "name": "Sindelfingen",
     "shortName": "SIN",
@@ -45949,6 +46477,22 @@
       8.1976,
       51.3734,
       8.2376
+    ]
+  },
+  {
+    "id": "stockhausen-lk-goettingen",
+    "name": "Stockhausen (LK Göttingen)",
+    "shortName": "STO",
+    "center": [
+      8.587,
+      52.3219
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2819,
+      8.537,
+      52.3619,
+      8.637
     ]
   },
   {
@@ -49033,6 +49577,22 @@
     ]
   },
   {
+    "id": "unterreichenbach",
+    "name": "Unterreichenbach",
+    "shortName": "UNT",
+    "center": [
+      8.7089,
+      48.825
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.785,
+      8.6589,
+      48.865,
+      8.7589
+    ]
+  },
+  {
     "id": "unterreit",
     "name": "Unterreit",
     "shortName": "UNT",
@@ -49262,6 +49822,22 @@
   {
     "id": "urbach",
     "name": "Urbach",
+    "shortName": "URB",
+    "center": [
+      9.5769,
+      48.8168
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7768,
+      9.5269,
+      48.8568,
+      9.6269
+    ]
+  },
+  {
+    "id": "urbach-lk-neuwied",
+    "name": "Urbach (LK Neuwied)",
     "shortName": "URB",
     "center": [
       9.5769,
@@ -52883,6 +53459,22 @@
       12.4358,
       51.0297,
       12.5358
+    ]
+  },
+  {
+    "id": "wildberg",
+    "name": "Wildberg",
+    "shortName": "WIL",
+    "center": [
+      8.7471,
+      48.6233
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5941,
+      8.639,
+      48.68,
+      8.8194
     ]
   },
   {
