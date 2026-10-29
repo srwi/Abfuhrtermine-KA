@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:38:21.412Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Ammelstädt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32,
+          50.7403
+        ]
+      }
+    }
+  ]
+}
