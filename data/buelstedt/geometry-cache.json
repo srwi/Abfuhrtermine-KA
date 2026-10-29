@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T20:52:22.006Z",
+  "streets": [
+    {
+      "street": "Bülstedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1497,
+          53.2127
+        ]
+      }
+    },
+    {
+      "street": "Steinfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1497,
+          53.2127
+        ]
+      }
+    }
+  ]
+}

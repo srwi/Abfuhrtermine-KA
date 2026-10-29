@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T20:51:24.807Z",
+  "streets": [
+    {
+      "street": "Breddorfermoor",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0075,
+          53.2845
+        ]
+      }
+    }
+  ]
+}

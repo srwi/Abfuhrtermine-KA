@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T20:51:15.450Z",
+  "streets": [
+    {
+      "street": "Breddorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0809,
+          53.2926
+        ]
+      }
+    },
+    {
+      "street": "Hanstedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0809,
+          53.2926
+        ]
+      }
+    }
+  ]
+}
