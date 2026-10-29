@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:40:15.352Z",
+  "streets": [
+    {
+      "street": "SOK-Posen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9299,
+          52.4069
+        ]
+      }
+    }
+  ]
+}

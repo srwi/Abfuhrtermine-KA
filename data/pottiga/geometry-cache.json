@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:41:51.032Z",
+  "streets": [
+    {
+      "street": "SOK-Pottiga",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7405,
+          50.4146
+        ]
+      }
+    }
+  ]
+}

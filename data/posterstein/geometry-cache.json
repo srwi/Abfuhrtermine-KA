@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:41:02.124Z",
+  "streets": [
+    {
+      "street": "Posterstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2667,
+          50.8667
+        ]
+      }
+    }
+  ]
+}
