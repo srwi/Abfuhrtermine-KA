@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:23:12.323Z",
+  "streets": [
+    {
+      "street": "Dächheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1743,
+          49.9483
+        ]
+      }
+    }
+  ]
+}

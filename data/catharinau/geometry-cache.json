@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:21:18.466Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Catharinau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3944,
+          50.7158
+        ]
+      }
+    }
+  ]
+}

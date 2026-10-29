@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-10-29T04:20:52.444Z",
+  "streets": [
+    {
+      "street": "Burtenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4528,
+          48.3405
+        ]
+      }
+    },
+    {
+      "street": "Humprechtsmühle",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.4396319,
+            48.3544094
+          ],
+          [
+            10.4393573,
+            48.35436
+          ],
+          [
+            10.4393208,
+            48.3544495
+          ],
+          [
+            10.4394149,
+            48.3544665
+          ],
+          [
+            10.43936,
+            48.3546009
+          ],
+          [
+            10.4395406,
+            48.3546334
+          ],
+          [
+            10.4396319,
+            48.3544094
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Kemnat",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4528,
+          48.3405
+        ]
+      }
+    },
+    {
+      "street": "Oberwaldbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4528,
+          48.3405
+        ]
+      }
+    }
+  ]
+}

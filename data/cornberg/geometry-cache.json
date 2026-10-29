@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:21:55.678Z",
+  "streets": [
+    {
+      "street": "Cornberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8605,
+          51.0416
+        ]
+      }
+    }
+  ]
+}
