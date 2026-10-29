@@ -258,9 +258,12 @@ export class AbfallPlusFetcher implements CityFetcher {
 
         for (const s of data.district?.streets ?? []) {
           if (!s.name) continue;
-          if (s.idHouseNumber && !streetMap.has(s.name)) {
-            streetMap.set(s.name, s.idHouseNumber);
-          } else if (!s.idHouseNumber && !streetMap.has(s.name)) {
+          const streetDisplayName = (s.name.toLowerCase().includes('alle stra') && district.name)
+            ? district.name
+            : s.name;
+          if (s.idHouseNumber && !streetMap.has(streetDisplayName)) {
+            streetMap.set(streetDisplayName, s.idHouseNumber);
+          } else if (!s.idHouseNumber && !streetMap.has(streetDisplayName)) {
             // Need house number lookup
             try {
               const hnrData = await this.gqlRequest<{ street: { houseNumbers: GqlHouseNumber[] } }>(
@@ -278,7 +281,7 @@ export class AbfallPlusFetcher implements CityFetcher {
               );
               const first = hnrData.street?.houseNumbers?.[0];
               if (first?.id) {
-                streetMap.set(s.name, first.id);
+                streetMap.set(streetDisplayName, first.id);
               }
             } catch {}
           }
