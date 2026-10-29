@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:12:03.275Z",
+  "streets": [
+    {
+      "street": "Rügshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3583,
+          49.9095
+        ]
+      }
+    }
+  ]
+}

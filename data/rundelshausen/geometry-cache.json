@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:12:14.425Z",
+  "streets": [
+    {
+      "street": "Rundelshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0952,
+          50.0063
+        ]
+      }
+    }
+  ]
+}

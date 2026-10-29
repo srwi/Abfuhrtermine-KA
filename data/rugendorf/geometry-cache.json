@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T08:11:37.988Z",
+  "streets": [
+    {
+      "street": "Eisenwind",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4667,
+          50.2
+        ]
+      }
+    },
+    {
+      "street": "Feldbuch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4667,
+          50.2
+        ]
+      }
+    },
+    {
+      "street": "Kübelhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4667,
+          50.2
+        ]
+      }
+    },
+    {
+      "street": "Losau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4667,
+          50.2
+        ]
+      }
+    },
+    {
+      "street": "Poppenholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4667,
+          50.2
+        ]
+      }
+    },
+    {
+      "street": "Rugendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4667,
+          50.2
+        ]
+      }
+    },
+    {
+      "street": "Zettlitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4667,
+          50.2
+        ]
+      }
+    }
+  ]
+}
