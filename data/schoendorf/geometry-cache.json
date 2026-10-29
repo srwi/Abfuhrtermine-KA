@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:35:55.426Z",
+  "streets": [
+    {
+      "street": "SOK-Schöndorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6948,
+          50.6175
+        ]
+      }
+    }
+  ]
+}

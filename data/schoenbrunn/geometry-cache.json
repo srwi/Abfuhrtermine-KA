@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:32:30.056Z",
+  "streets": [
+    {
+      "street": "SOK-Schönbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9711,
+          49.9351
+        ]
+      }
+    }
+  ]
+}

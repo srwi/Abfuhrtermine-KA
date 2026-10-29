@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:57:39.439Z",
+  "streets": [
+    {
+      "street": "Schwanfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1387,
+          49.9217
+        ]
+      }
+    }
+  ]
+}

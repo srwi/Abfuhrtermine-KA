@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:44:22.434Z",
+  "streets": [
+    {
+      "street": "Schonstett",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.25,
+          47.9833
+        ]
+      }
+    }
+  ]
+}

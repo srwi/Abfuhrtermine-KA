@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-10-29T08:56:17.230Z",
+  "streets": [
+    {
+      "street": "Armetshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Arnbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Edenholzhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Grub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Kappelhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Lindach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Machtenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Oberroth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Puchschlagen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Rienshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Rothhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Rumeltshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Schwabhausen Ort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Sickertshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Stetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    },
+    {
+      "street": "Unterhandenzhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311,
+          50.8885
+        ]
+      }
+    }
+  ]
+}

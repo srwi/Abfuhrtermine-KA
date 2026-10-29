@@ -1,0 +1,695 @@
+{
+  "generatedAt": "2026-10-29T08:31:24.060Z",
+  "streets": [
+    {
+      "street": "Asenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Aspertsham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Augental",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Berging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Birkenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Bondlring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Braunrott",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Dolling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Eglso",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Eiselsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Ellwichtern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Elsenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Eschlbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Etzmaring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Fichtenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Finsenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Frosching",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Fuchshub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Gauling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Gehertsham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Gewerbestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Grabing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Groislmühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hanging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hargassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hausberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hinzing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hofering",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hofmark",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hofmark-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Höhfurth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Holzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Hub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Inzlham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Kinnig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Kumpfmühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Lärchenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Lerch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Michaelhölzl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Misthilgen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Moosen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Niedereck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Obereck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Oberpurtzloh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Oberweinbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Oed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Osenhub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Peitzing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Peitzinger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Reichenrott",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Sankt-Michael-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Scheuneck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Sitzing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Stangelszell",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Staudach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Steng",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Strass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Tannenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Unterpurtzloh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Unterscheuern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Unterweinbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Wargling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Wiesling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Winkelmühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Wollerding",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    },
+    {
+      "street": "Zürn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.1833
+        ]
+      }
+    }
+  ]
+}
