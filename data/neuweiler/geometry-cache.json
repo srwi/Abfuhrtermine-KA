@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T18:03:24.768Z",
+  "streets": [
+    {
+      "street": "Agenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          48.6667
+        ]
+      }
+    },
+    {
+      "street": "Breitenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          48.6667
+        ]
+      }
+    },
+    {
+      "street": "Gaugenwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          48.6667
+        ]
+      }
+    },
+    {
+      "street": "Hofstett",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          48.6667
+        ]
+      }
+    },
+    {
+      "street": "Neuweiler",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          48.6667
+        ]
+      }
+    },
+    {
+      "street": "Oberkollwangen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          48.6667
+        ]
+      }
+    },
+    {
+      "street": "Zwerenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          48.6667
+        ]
+      }
+    }
+  ]
+}

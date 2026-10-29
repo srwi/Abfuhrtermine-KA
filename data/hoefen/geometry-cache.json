@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:01:53.455Z",
+  "streets": [
+    {
+      "street": "Höfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5834,
+          48.8015
+        ]
+      }
+    }
+  ]
+}

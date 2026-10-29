@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T18:02:12.692Z",
+  "streets": [
+    {
+      "street": "Hesseln",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1667,
+          50.8
+        ]
+      }
+    },
+    {
+      "street": "Krumscheid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1667,
+          50.8
+        ]
+      }
+    },
+    {
+      "street": "Leubsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1667,
+          50.8
+        ]
+      }
+    },
+    {
+      "street": "Rothekreuz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1667,
+          50.8
+        ]
+      }
+    }
+  ]
+}

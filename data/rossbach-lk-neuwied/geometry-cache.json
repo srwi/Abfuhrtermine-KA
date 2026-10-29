@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:04:22.719Z",
+  "streets": [
+    {
+      "street": "Rossbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4161,
+          50.575
+        ]
+      }
+    }
+  ]
+}

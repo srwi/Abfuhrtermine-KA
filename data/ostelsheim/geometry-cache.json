@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:03:55.669Z",
+  "streets": [
+    {
+      "street": "Ostelsheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8482,
+          48.7263
+        ]
+      }
+    }
+  ]
+}

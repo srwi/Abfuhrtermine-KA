@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:03:34.619Z",
+  "streets": [
+    {
+      "street": "Nienhagen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1021,
+          52.5571
+        ]
+      }
+    }
+  ]
+}

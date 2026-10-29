@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:04:13.852Z",
+  "streets": [
+    {
+      "street": "Rohrdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6932,
+          48.5686
+        ]
+      }
+    }
+  ]
+}

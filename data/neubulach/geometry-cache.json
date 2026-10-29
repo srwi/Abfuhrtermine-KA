@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T18:03:13.978Z",
+  "streets": [
+    {
+      "street": "Altbulach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6961,
+          48.6609
+        ]
+      }
+    },
+    {
+      "street": "Liebelsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6961,
+          48.6609
+        ]
+      }
+    },
+    {
+      "street": "Martinsmoos",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6961,
+          48.6609
+        ]
+      }
+    },
+    {
+      "street": "Neubulach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6961,
+          48.6609
+        ]
+      }
+    },
+    {
+      "street": "Oberhaugstett",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6961,
+          48.6609
+        ]
+      }
+    }
+  ]
+}

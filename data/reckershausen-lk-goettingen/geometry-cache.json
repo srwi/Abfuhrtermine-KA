@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:04:04.468Z",
+  "streets": [
+    {
+      "street": "Reckershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4,
+          49.9833
+        ]
+      }
+    }
+  ]
+}

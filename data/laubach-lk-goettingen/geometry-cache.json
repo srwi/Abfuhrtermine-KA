@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:02:03.123Z",
+  "streets": [
+    {
+      "street": "Laubach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7203,
+          48.8816
+        ]
+      }
+    }
+  ]
+}
