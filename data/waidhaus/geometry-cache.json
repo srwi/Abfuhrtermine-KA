@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:50:28.120Z",
+  "streets": [
+    {
+      "street": "Waidhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4952,
+          49.6422
+        ]
+      }
+    }
+  ]
+}

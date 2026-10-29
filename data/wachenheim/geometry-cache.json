@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2026-10-29T09:46:28.210Z",
+  "streets": [
+    {
+      "street": "Ellerstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1804,
+          49.4405
+        ]
+      }
+    },
+    {
+      "street": "Friedelsheim",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.2247638,
+              49.4581145
+            ],
+            [
+              8.2255278,
+              49.4578317
+            ]
+          ],
+          [
+            [
+              8.2246586,
+              49.4580698
+            ],
+            [
+              8.2243928,
+              49.4581676
+            ],
+            [
+              8.2238743,
+              49.45836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Gönnheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1804,
+          49.4405
+        ]
+      }
+    },
+    {
+      "street": "Wachenheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1804,
+          49.4405
+        ]
+      }
+    }
+  ]
+}

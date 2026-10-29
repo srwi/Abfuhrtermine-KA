@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:45:30.872Z",
+  "streets": [
+    {
+      "street": "Vogtareuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1813,
+          47.9469
+        ]
+      }
+    }
+  ]
+}

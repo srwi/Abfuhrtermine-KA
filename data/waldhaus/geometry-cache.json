@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:51:37.651Z",
+  "streets": [
+    {
+      "street": "SOK-Waldhaus (zu Kloster)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2898,
+          46.8288
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T09:45:41.394Z",
+  "streets": [
+    {
+      "street": "Altenstadt bei Vohenstrauss",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3381,
+          49.6238
+        ]
+      }
+    },
+    {
+      "street": "Vohenstrauss Land",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3381,
+          49.6238
+        ]
+      }
+    },
+    {
+      "street": "Vohenstrauss Stadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3381,
+          49.6238
+        ]
+      }
+    }
+  ]
+}

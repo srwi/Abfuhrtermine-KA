@@ -1,0 +1,369 @@
+{
+  "generatedAt": "2026-10-29T09:51:26.466Z",
+  "streets": [
+    {
+      "street": "Bärnest",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Buchlohhäuser",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Gefällmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Hard",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Harlachhammer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Harlachhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Harlachmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Helmbrechts",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Hohenhard",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Kaltenlohe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Kössain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Lengenfeld bei Groschlattengrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Masch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Maschermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Neumühle (Waldershof)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Paulusmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Poppenreuth b. Waldershof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Rodenzenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Rosenhammer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Schafbruck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Schurbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Silbermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Spitzerberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Stemetsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Stieglmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Walbenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    },
+    {
+      "street": "Waldershof",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.0720639,
+              49.9858993
+            ],
+            [
+              12.0725009,
+              49.9865008
+            ],
+            [
+              12.0717453,
+              49.9866582
+            ],
+            [
+              12.0713437,
+              49.9861065
+            ],
+            [
+              12.0719484,
+              49.9859347
+            ],
+            [
+              12.0720639,
+              49.9858993
+            ]
+          ],
+          [
+            [
+              12.0574329,
+              49.9829506
+            ],
+            [
+              12.0574034,
+              49.9829652
+            ],
+            [
+              12.058171,
+              49.9836075
+            ],
+            [
+              12.0582653,
+              49.9836863
+            ],
+            [
+              12.0582948,
+              49.9836717
+            ],
+            [
+              12.058194,
+              49.9835873
+            ],
+            [
+              12.0574329,
+              49.9829506
+            ]
+          ],
+          [
+            [
+              12.0583971,
+              49.9836199
+            ],
+            [
+              12.0584254,
+              49.9836062
+            ],
+            [
+              12.0579021,
+              49.9831618
+            ],
+            [
+              12.0575749,
+              49.982884
+            ],
+            [
+              12.0575467,
+              49.9828977
+            ],
+            [
+              12.0578731,
+              49.983175
+            ],
+            [
+              12.0583971,
+              49.9836199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Wolfersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629,
+          49.9814
+        ]
+      }
+    }
+  ]
+}

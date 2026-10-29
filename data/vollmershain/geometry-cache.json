@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:46:07.580Z",
+  "streets": [
+    {
+      "street": "Vollmershain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3,
+          50.85
+        ]
+      }
+    }
+  ]
+}

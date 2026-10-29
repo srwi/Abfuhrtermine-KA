@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T09:46:17.696Z",
+  "streets": [
+    {
+      "street": "Oberbibrach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7363,
+          49.8214
+        ]
+      }
+    },
+    {
+      "street": "Vorbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7363,
+          49.8214
+        ]
+      }
+    }
+  ]
+}

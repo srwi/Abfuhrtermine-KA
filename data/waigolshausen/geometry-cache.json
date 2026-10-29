@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:51:04.191Z",
+  "streets": [
+    {
+      "street": "Waigolshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12,
+          49.9643
+        ]
+      }
+    }
+  ]
+}

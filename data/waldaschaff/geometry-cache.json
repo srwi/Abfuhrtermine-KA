@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:51:14.787Z",
+  "streets": [
+    {
+      "street": "Waldaschaff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3019,
+          49.9753
+        ]
+      }
+    }
+  ]
+}

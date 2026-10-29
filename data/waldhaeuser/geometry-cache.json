@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:51:49.105Z",
+  "streets": [
+    {
+      "street": "SOK-Waldhäuser (Langenbuch)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1475,
+          48.5578
+        ]
+      }
+    }
+  ]
+}
