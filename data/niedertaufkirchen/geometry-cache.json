@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T07:13:39.764Z",
+  "streets": [
+    {
+      "street": "Hohenbuchbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55,
+          48.3333
+        ]
+      }
+    },
+    {
+      "street": "Lossing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55,
+          48.3333
+        ]
+      }
+    },
+    {
+      "street": "Niedertaufkirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55,
+          48.3333
+        ]
+      }
+    },
+    {
+      "street": "Oberarbing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55,
+          48.3333
+        ]
+      }
+    },
+    {
+      "street": "Ranerding",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55,
+          48.3333
+        ]
+      }
+    },
+    {
+      "street": "Stetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55,
+          48.3333
+        ]
+      }
+    }
+  ]
+}

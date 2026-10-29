@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-10-29T07:13:32.731Z",
+  "streets": [
+    {
+      "street": "Feldheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9333,
+          48.7167
+        ]
+      }
+    },
+    {
+      "street": "Gut Neuhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9333,
+          48.7167
+        ]
+      }
+    },
+    {
+      "street": "Hunzenhof",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.9718844,
+            48.7214688
+          ],
+          [
+            10.9733488,
+            48.721651
+          ],
+          [
+            10.9726595,
+            48.722619
+          ],
+          [
+            10.97193,
+            48.7226225
+          ],
+          [
+            10.9714579,
+            48.7225588
+          ],
+          [
+            10.9718844,
+            48.7214688
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Lechbrücke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9333,
+          48.7167
+        ]
+      }
+    },
+    {
+      "street": "Niederschönenfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9333,
+          48.7167
+        ]
+      }
+    },
+    {
+      "street": "Wörthen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9333,
+          48.7167
+        ]
+      }
+    }
+  ]
+}

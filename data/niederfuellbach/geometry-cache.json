@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:13:07.006Z",
+  "streets": [
+    {
+      "street": "Niederfüllbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9909,
+          50.22
+        ]
+      }
+    }
+  ]
+}

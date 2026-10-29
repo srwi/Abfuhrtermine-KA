@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T07:12:25.239Z",
+  "streets": [
+    {
+      "street": "Nellingsheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5257,
+          49.4158
+        ]
+      }
+    },
+    {
+      "street": "Remmingsheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5257,
+          49.4158
+        ]
+      }
+    },
+    {
+      "street": "Wolfenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5257,
+          49.4158
+        ]
+      }
+    }
+  ]
+}

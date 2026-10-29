@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-10-29T07:12:58.663Z",
+  "streets": [
+    {
+      "street": "Asenreit",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Dolling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Hub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Langolding",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Miesing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Niederbergkirchen Rest",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Noppenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Oberrohrbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Ramersberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Rappensberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Rohrbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    },
+    {
+      "street": "Stützing 6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          48.3167
+        ]
+      }
+    }
+  ]
+}

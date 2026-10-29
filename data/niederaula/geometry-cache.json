@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:12:51.277Z",
+  "streets": [
+    {
+      "street": "Niederaula",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6,
+          50.8
+        ]
+      }
+    }
+  ]
+}

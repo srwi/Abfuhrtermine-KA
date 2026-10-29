@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T07:12:34.907Z",
+  "streets": [
+    {
+      "street": "Birkenfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.201,
+          48.9874
+        ]
+      }
+    },
+    {
+      "street": "Gärtnersiedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.201,
+          48.9874
+        ]
+      }
+    },
+    {
+      "street": "Lerchenfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.201,
+          48.9874
+        ]
+      }
+    },
+    {
+      "street": "Neutraubling ohne Gärtnersiedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.201,
+          48.9874
+        ]
+      }
+    },
+    {
+      "street": "Oberheising",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.201,
+          48.9874
+        ]
+      }
+    }
+  ]
+}

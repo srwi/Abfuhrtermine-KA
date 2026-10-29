@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:11:51.846Z",
+  "streets": [
+    {
+      "street": "Neustadt am Kulm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8391,
+          49.8264
+        ]
+      }
+    }
+  ]
+}

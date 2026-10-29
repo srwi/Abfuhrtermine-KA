@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:13:25.026Z",
+  "streets": [
+    {
+      "street": "Niederleupten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4974,
+          50.9708
+        ]
+      }
+    }
+  ]
+}
