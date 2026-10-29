@@ -48,9 +48,9 @@ interface AwidoData {
 export function defaultAwidoMapWasteType(name: string): CategoryKey | null {
   const lower = name.toLowerCase();
   if (lower.includes('sperr')) return 'sperrmuell';
-  if (lower.includes('rest') || lower.includes('hausmüll')) return 'restmuell';
-  if (lower.includes('bio') || lower.includes('grüngut') || lower.includes('garten')) return 'bioabfall';
-  if (lower.includes('papier') || lower.includes('altpapier') || lower.includes('karton')) return 'papier';
+  if (lower.includes('rest') || lower.includes('hausmüll') || lower.includes('hausmuell')) return 'restmuell';
+  if (lower.includes('bio') || lower.includes('grün') || lower.includes('gruen') || lower.includes('garten')) return 'bioabfall';
+  if (lower.includes('papier') || lower.includes('altpapier') || lower.includes('karton') || lower.includes('blau')) return 'papier';
   if (lower.includes('gelb') || lower.includes('wertstoff') || lower.includes('dsd') || lower.includes('verpackung')) return 'wertstoff';
   return null;
 }
