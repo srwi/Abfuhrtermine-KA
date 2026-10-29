@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:39:23.287Z",
+  "streets": [
+    {
+      "street": "Düttingsfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3908,
+          49.8707
+        ]
+      }
+    }
+  ]
+}

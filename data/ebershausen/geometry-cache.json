@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T04:40:42.569Z",
+  "streets": [
+    {
+      "street": "Ebershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3157,
+          48.2055
+        ]
+      }
+    },
+    {
+      "street": "Seifertshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3157,
+          48.2055
+        ]
+      }
+    },
+    {
+      "street": "Waltenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3157,
+          48.2055
+        ]
+      }
+    }
+  ]
+}

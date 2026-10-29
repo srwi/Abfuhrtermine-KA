@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:40:33.159Z",
+  "streets": [
+    {
+      "street": "SOK-Ebersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9622,
+          47.1985
+        ]
+      }
+    }
+  ]
+}

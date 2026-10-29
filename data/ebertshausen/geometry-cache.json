@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:40:51.971Z",
+  "streets": [
+    {
+      "street": "Ebertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9833,
+          50.2833
+        ]
+      }
+    }
+  ]
+}

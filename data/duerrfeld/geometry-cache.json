@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:38:45.612Z",
+  "streets": [
+    {
+      "street": "Dürrfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3644,
+          49.9801
+        ]
+      }
+    }
+  ]
+}

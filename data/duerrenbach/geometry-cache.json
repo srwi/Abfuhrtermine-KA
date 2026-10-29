@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:38:35.807Z",
+  "streets": [
+    {
+      "street": "SOK-Dürrenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7677,
+          48.8968
+        ]
+      }
+    }
+  ]
+}

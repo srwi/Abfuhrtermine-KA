@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:38:12.424Z",
+  "streets": [
+    {
+      "street": "SOK-Dröswein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9239,
+          50.5891
+        ]
+      }
+    }
+  ]
+}
