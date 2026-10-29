@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:32:48.528Z",
+  "streets": [
+    {
+      "street": "Lehma",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4246,
+          51.0368
+        ]
+      }
+    }
+  ]
+}

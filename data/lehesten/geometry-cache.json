@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:32:39.993Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Lehesten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5833,
+          50.9833
+        ]
+      }
+    }
+  ]
+}
