@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:57:26.276Z",
+  "streets": [
+    {
+      "street": "Ballingshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3328,
+          50.1621
+        ]
+      }
+    }
+  ]
+}

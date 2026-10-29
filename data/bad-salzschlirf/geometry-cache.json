@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:55:37.914Z",
+  "streets": [
+    {
+      "street": "Bad Salzschlirf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5082,
+          50.6239
+        ]
+      }
+    }
+  ]
+}

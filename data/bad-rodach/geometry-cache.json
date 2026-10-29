@@ -1,0 +1,195 @@
+{
+  "generatedAt": "2026-10-29T03:55:27.806Z",
+  "streets": [
+    {
+      "street": "Altmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Bad Rodach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Breitenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Carlshan",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Elsa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Gauerstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Grattstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Hainmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Heldritt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Lempertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Mährenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Neumühle (b. Gauerstadt)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Neumühle (b. Rossfeld)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Niederndorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Oettingshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Rossfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Rudelsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Schweighof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    },
+    {
+      "street": "Sülzfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7787,
+          50.3402
+        ]
+      }
+    }
+  ]
+}

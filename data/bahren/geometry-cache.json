@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:57:09.335Z",
+  "streets": [
+    {
+      "street": "SOK-Bahren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6419,
+          50.6539
+        ]
+      }
+    }
+  ]
+}
