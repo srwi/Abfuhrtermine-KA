@@ -1,0 +1,279 @@
+{
+  "generatedAt": "2026-10-29T06:52:16.392Z",
+  "streets": [
+    {
+      "street": "Ahnsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Böckelse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Bokelberge",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Brenneckenbrück",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Dalldorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Dieckhorst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Ettenbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Flettmar (nur Bahnhof)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Flettmar (ohne Bahnhof)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Gerstenbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Gilde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Hahnenhorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Hardesse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Hillerse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Höfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Hünenberg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3055144,
+            52.5129588
+          ],
+          [
+            10.3056776,
+            52.5129344
+          ],
+          [
+            10.3059,
+            52.5129155
+          ],
+          [
+            10.3120096,
+            52.5122516
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Langenklint",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Leiferde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Meinersen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Müden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Ohof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Päse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Seershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Siedersdamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Volkse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    },
+    {
+      "street": "Warmse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3525,
+          52.4744
+        ]
+      }
+    }
+  ]
+}

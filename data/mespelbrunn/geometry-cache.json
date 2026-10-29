@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T06:55:07.429Z",
+  "streets": [
+    {
+      "street": "Hessenthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2919,
+          49.9144
+        ]
+      }
+    },
+    {
+      "street": "Mespelbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2919,
+          49.9144
+        ]
+      }
+    }
+  ]
+}

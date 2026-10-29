@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T06:51:51.160Z",
+  "streets": [
+    {
+      "street": "Lerchenbühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65,
+          48.9333
+        ]
+      }
+    },
+    {
+      "street": "Megesheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65,
+          48.9333
+        ]
+      }
+    },
+    {
+      "street": "Unterappenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65,
+          48.9333
+        ]
+      }
+    }
+  ]
+}

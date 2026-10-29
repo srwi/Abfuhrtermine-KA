@@ -1,0 +1,315 @@
+{
+  "generatedAt": "2026-10-29T06:51:41.175Z",
+  "streets": [
+    {
+      "street": "Ahlstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Beuerfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Birkenmoor",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Drossenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Einzelberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Fuchsmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Grosswalbur",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Herbartsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Kirchbergsmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Kleinwalbur",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Kösfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Meeder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Mirsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Moggenbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Neida",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Ottowind",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.8744703,
+              50.3587423
+            ],
+            [
+              10.8745084,
+              50.3587197
+            ],
+            [
+              10.8746633,
+              50.3586275
+            ],
+            [
+              10.8748356,
+              50.3585456
+            ],
+            [
+              10.8750028,
+              50.3584767
+            ],
+            [
+              10.8755097,
+              50.3582909
+            ],
+            [
+              10.8756387,
+              50.3582304
+            ],
+            [
+              10.8757616,
+              50.3581611
+            ],
+            [
+              10.8758561,
+              50.358095
+            ],
+            [
+              10.8759655,
+              50.3579889
+            ],
+            [
+              10.8760312,
+              50.3578702
+            ],
+            [
+              10.8760683,
+              50.3577452
+            ],
+            [
+              10.8761773,
+              50.3568077
+            ],
+            [
+              10.8762267,
+              50.3566372
+            ],
+            [
+              10.8763111,
+              50.35645
+            ],
+            [
+              10.8764349,
+              50.35628
+            ],
+            [
+              10.8764971,
+              50.3562147
+            ],
+            [
+              10.87656,
+              50.3561529
+            ],
+            [
+              10.8767076,
+              50.3560402
+            ],
+            [
+              10.8768732,
+              50.3559549
+            ],
+            [
+              10.8770518,
+              50.3558764
+            ],
+            [
+              10.8774697,
+              50.3557176
+            ],
+            [
+              10.8776875,
+              50.3556157
+            ],
+            [
+              10.8779012,
+              50.355501
+            ],
+            [
+              10.8783092,
+              50.3552692
+            ],
+            [
+              10.8785365,
+              50.3551421
+            ],
+            [
+              10.8790624,
+              50.3548424
+            ]
+          ],
+          [
+            [
+              10.8790624,
+              50.3548424
+            ],
+            [
+              10.8792117,
+              50.354745
+            ],
+            [
+              10.8793511,
+              50.3546414
+            ],
+            [
+              10.8794837,
+              50.3545323
+            ],
+            [
+              10.8796174,
+              50.354439
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Sulzdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    },
+    {
+      "street": "Wiesenfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.907,
+          50.3212
+        ]
+      }
+    }
+  ]
+}

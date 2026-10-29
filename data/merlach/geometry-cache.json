@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:54:44.169Z",
+  "streets": [
+    {
+      "street": "Merlach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4243,
+          50.8695
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:52:25.690Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Mellenbach-Glasbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1,
+          50.6167
+        ]
+      }
+    }
+  ]
+}

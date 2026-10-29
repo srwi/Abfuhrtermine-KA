@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:52:07.553Z",
+  "streets": [
+    {
+      "street": "SOK-Meilitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.082,
+          50.8157
+        ]
+      }
+    }
+  ]
+}
