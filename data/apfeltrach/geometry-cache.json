@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T23:19:12.305Z",
+  "streets": [
+    {
+      "street": "Apfeltrach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          48.0167
+        ]
+      }
+    },
+    {
+      "street": "Katzbrui",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          48.0167
+        ]
+      }
+    }
+  ]
+}

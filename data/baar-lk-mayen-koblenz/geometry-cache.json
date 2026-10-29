@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T23:19:31.601Z",
+  "streets": [
+    {
+      "street": "Büchel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295,
+          47.1963
+        ]
+      }
+    },
+    {
+      "street": "Engeln",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295,
+          47.1963
+        ]
+      }
+    },
+    {
+      "street": "Freilingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295,
+          47.1963
+        ]
+      }
+    },
+    {
+      "street": "Mittelbaar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295,
+          47.1963
+        ]
+      }
+    },
+    {
+      "street": "Niederbaar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295,
+          47.1963
+        ]
+      }
+    },
+    {
+      "street": "Oberbaar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295,
+          47.1963
+        ]
+      }
+    },
+    {
+      "street": "Wanderath",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295,
+          47.1963
+        ]
+      }
+    }
+  ]
+}

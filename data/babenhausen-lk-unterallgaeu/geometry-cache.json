@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T23:19:42.431Z",
+  "streets": [
+    {
+      "street": "Babenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2533,
+          48.145
+        ]
+      }
+    },
+    {
+      "street": "Klosterbeuren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2533,
+          48.145
+        ]
+      }
+    },
+    {
+      "street": "weitere Ortsteile",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2533,
+          48.145
+        ]
+      }
+    }
+  ]
+}
