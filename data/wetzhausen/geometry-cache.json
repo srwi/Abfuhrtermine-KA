@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:07:45.895Z",
+  "streets": [
+    {
+      "street": "Wetzhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4279,
+          53.2324
+        ]
+      }
+    }
+  ]
+}

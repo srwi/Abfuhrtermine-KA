@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:08:21.352Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Wickersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5591,
+          50.8849
+        ]
+      }
+    }
+  ]
+}

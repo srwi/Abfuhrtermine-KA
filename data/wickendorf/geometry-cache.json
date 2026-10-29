@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:08:06.183Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Wickendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.342,
+          48.1037
+        ]
+      }
+    }
+  ]
+}

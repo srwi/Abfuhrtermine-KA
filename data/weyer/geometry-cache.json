@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:07:56.002Z",
+  "streets": [
+    {
+      "street": "Weyer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6641,
+          47.8572
+        ]
+      }
+    }
+  ]
+}

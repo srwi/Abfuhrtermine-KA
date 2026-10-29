@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2026-10-29T10:07:33.283Z",
+  "streets": [
+    {
+      "street": "An der Kirche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "An der Steige",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Bierkeller",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Brühlweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Burgweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Frankenhöhestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Gailnauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Gerbengässchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Grüb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Grüber Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Hardfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Hofäcker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Hollergasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Im Dreieck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.3674716,
+              52.2404284
+            ],
+            [
+              7.3677425,
+              52.2404193
+            ],
+            [
+              7.3680108,
+              52.2404576
+            ],
+            [
+              7.368533,
+              52.2405321
+            ],
+            [
+              7.3694033,
+              52.2406609
+            ],
+            [
+              7.3698021,
+              52.2407305
+            ]
+          ],
+          [
+            [
+              7.3689222,
+              52.2432859
+            ],
+            [
+              7.3691781,
+              52.2426542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Insinger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Kastenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Kirchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Kleinansbacher Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Kleiner Marktplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Marktplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Michelbacher Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Mühlweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Obergailnau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Reichenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Reubacher Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              7.3193277,
+              52.2087397
+            ],
+            [
+              7.3193977,
+              52.2086819
+            ],
+            [
+              7.3194509,
+              52.2086381
+            ],
+            [
+              7.3194857,
+              52.2085316
+            ],
+            [
+              7.3194937,
+              52.208507
+            ],
+            [
+              7.319402,
+              52.2084578
+            ],
+            [
+              7.3194248,
+              52.2083951
+            ],
+            [
+              7.3194837,
+              52.2082328
+            ],
+            [
+              7.3195546,
+              52.2081209
+            ]
+          ],
+          [
+            [
+              7.3189376,
+              52.2091591
+            ],
+            [
+              7.3191516,
+              52.2090512
+            ],
+            [
+              7.3193277,
+              52.2087397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Seemühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Steinweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Taubermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Untergailnau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    },
+    {
+      "street": "Zur Tauberquelle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319,
+          52.2094
+        ]
+      }
+    }
+  ]
+}

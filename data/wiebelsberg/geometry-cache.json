@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:08:33.348Z",
+  "streets": [
+    {
+      "street": "Wiebelsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3833,
+          49.7333
+        ]
+      }
+    }
+  ]
+}

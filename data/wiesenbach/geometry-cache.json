@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T10:09:04.558Z",
+  "streets": [
+    {
+      "street": "Oberegg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8036,
+          49.3614
+        ]
+      }
+    },
+    {
+      "street": "Oberwiesenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8036,
+          49.3614
+        ]
+      }
+    },
+    {
+      "street": "Sausenthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8036,
+          49.3614
+        ]
+      }
+    },
+    {
+      "street": "Unterwiesenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8036,
+          49.3614
+        ]
+      }
+    },
+    {
+      "street": "Wiesenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8036,
+          49.3614
+        ]
+      }
+    }
+  ]
+}
