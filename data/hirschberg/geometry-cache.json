@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:52:56.403Z",
+  "streets": [
+    {
+      "street": "SOK-Hirschberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9249,
+          50.3788
+        ]
+      }
+    }
+  ]
+}

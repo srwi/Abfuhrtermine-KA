@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:51:33.884Z",
+  "streets": [
+    {
+      "street": "Heukewalde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2667,
+          50.8333
+        ]
+      }
+    }
+  ]
+}

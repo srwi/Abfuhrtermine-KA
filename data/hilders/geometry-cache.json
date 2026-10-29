@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-10-29T05:51:52.309Z",
+  "streets": [
+    {
+      "street": "Batten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Brand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Dietges",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Dörmbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Eckweisbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Findlos",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Harbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Hilders",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Liebhards",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Milseburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Oberbernhards",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Rupsroth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Simmershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Steinbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Unterbernhards",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    },
+    {
+      "street": "Wickers",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003,
+          50.5719
+        ]
+      }
+    }
+  ]
+}

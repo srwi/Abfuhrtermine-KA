@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:52:46.486Z",
+  "streets": [
+    {
+      "street": "Hirrlingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8874,
+          48.4125
+        ]
+      }
+    }
+  ]
+}

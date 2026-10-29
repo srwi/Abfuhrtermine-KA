@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:51:25.032Z",
+  "streets": [
+    {
+      "street": "Heukendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3397,
+          51.0456
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T05:52:02.749Z",
+  "streets": [
+    {
+      "street": "Hilgertshausen-Tandern, restl. Gemeinde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3543,
+          48.4296
+        ]
+      }
+    },
+    {
+      "street": "Tandern Ort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3543,
+          48.4296
+        ]
+      }
+    }
+  ]
+}

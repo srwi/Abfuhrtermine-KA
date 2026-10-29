@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:53:06.042Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Hirzbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4772,
+          50.6825
+        ]
+      }
+    }
+  ]
+}

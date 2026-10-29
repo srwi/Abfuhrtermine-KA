@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:51:42.835Z",
+  "streets": [
+    {
+      "street": "Heyersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          50.85
+        ]
+      }
+    }
+  ]
+}

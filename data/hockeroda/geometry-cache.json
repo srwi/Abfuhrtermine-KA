@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:53:57.017Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Hockeroda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4339,
+          50.5932
+        ]
+      }
+    }
+  ]
+}
