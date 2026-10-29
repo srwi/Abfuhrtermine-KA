@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:11:07.483Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Braunsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8899,
+          51.286
+        ]
+      }
+    }
+  ]
+}

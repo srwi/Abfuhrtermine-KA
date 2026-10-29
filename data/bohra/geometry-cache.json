@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:10:04.646Z",
+  "streets": [
+    {
+      "street": "Bohra",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3536,
+          50.9144
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T04:10:34.147Z",
+  "streets": [
+    {
+      "street": "Bernlohe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7372,
+          47.1008
+        ]
+      }
+    },
+    {
+      "street": "Brand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7372,
+          47.1008
+        ]
+      }
+    },
+    {
+      "street": "Fuhrmannsreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7372,
+          47.1008
+        ]
+      }
+    },
+    {
+      "street": "Grünberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7372,
+          47.1008
+        ]
+      }
+    },
+    {
+      "street": "Grünlasmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7372,
+          47.1008
+        ]
+      }
+    },
+    {
+      "street": "Neubrand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7372,
+          47.1008
+        ]
+      }
+    },
+    {
+      "street": "Oberölbühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7372,
+          47.1008
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T04:10:57.939Z",
+  "streets": [
+    {
+      "street": "Altenkirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3892,
+          50.5155
+        ]
+      }
+    },
+    {
+      "street": "Bonbaden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3892,
+          50.5155
+        ]
+      }
+    },
+    {
+      "street": "Braunfels",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3892,
+          50.5155
+        ]
+      }
+    },
+    {
+      "street": "Neukirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3892,
+          50.5155
+        ]
+      }
+    },
+    {
+      "street": "Philippstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3892,
+          50.5155
+        ]
+      }
+    },
+    {
+      "street": "Tiefenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3892,
+          50.5155
+        ]
+      }
+    }
+  ]
+}

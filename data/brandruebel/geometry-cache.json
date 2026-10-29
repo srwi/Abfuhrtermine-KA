@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:10:43.138Z",
+  "streets": [
+    {
+      "street": "Brandrübel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3324,
+          50.8647
+        ]
+      }
+    }
+  ]
+}
