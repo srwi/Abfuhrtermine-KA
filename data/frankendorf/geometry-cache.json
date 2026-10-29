@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:07:47.484Z",
+  "streets": [
+    {
+      "street": "SOK-Frankendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.45,
+          50.9667
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T05:07:04.262Z",
+  "streets": [
+    {
+      "street": "Aufhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          48.7667
+        ]
+      }
+    },
+    {
+      "street": "Forheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          48.7667
+        ]
+      }
+    }
+  ]
+}

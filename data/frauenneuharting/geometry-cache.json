@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:08:16.365Z",
+  "streets": [
+    {
+      "street": "Frauenneuharting",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0478,
+          48.0387
+        ]
+      }
+    }
+  ]
+}

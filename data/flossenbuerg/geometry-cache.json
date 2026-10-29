@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:06:46.442Z",
+  "streets": [
+    {
+      "street": "Flossenbürg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          49.7333
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "generatedAt": "2026-10-29T05:10:49.849Z",
+  "streets": [
+    {
+      "street": "Bühlingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Eitersberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Enslingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Forsthaus Oppersberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Fremdingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Grünhof",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.4264115,
+            48.9745695
+          ],
+          [
+            10.426511,
+            48.9745887
+          ],
+          [
+            10.426969,
+            48.9745561
+          ],
+          [
+            10.4274295,
+            48.9745056
+          ],
+          [
+            10.42746,
+            48.9745047
+          ],
+          [
+            10.42768,
+            48.9745078
+          ],
+          [
+            10.4278126,
+            48.9744714
+          ],
+          [
+            10.4281228,
+            48.9730905
+          ],
+          [
+            10.4267091,
+            48.9729683
+          ],
+          [
+            10.4265394,
+            48.9735466
+          ],
+          [
+            10.4264451,
+            48.9735676
+          ],
+          [
+            10.4262962,
+            48.9737119
+          ],
+          [
+            10.4262479,
+            48.9740954
+          ],
+          [
+            10.4264115,
+            48.9745695
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Gut Uttenstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Hausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Herblingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Hochaltingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Hochstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Nonnenbergmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Raustetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Schopflohe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    },
+    {
+      "street": "Seglohe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4575,
+          48.9724
+        ]
+      }
+    }
+  ]
+}

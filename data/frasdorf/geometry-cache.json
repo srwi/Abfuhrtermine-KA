@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:08:07.755Z",
+  "streets": [
+    {
+      "street": "Frasdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2851,
+          47.8038
+        ]
+      }
+    }
+  ]
+}

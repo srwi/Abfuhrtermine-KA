@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:07:58.311Z",
+  "streets": [
+    {
+      "street": "Frankenwinheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3143,
+          49.8873
+        ]
+      }
+    }
+  ]
+}

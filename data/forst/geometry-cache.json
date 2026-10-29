@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:07:13.548Z",
+  "streets": [
+    {
+      "street": "Forst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6397,
+          51.7354
+        ]
+      }
+    }
+  ]
+}

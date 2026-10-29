@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:06:55.502Z",
+  "streets": [
+    {
+      "street": "Fockendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4667,
+          51.05
+        ]
+      }
+    }
+  ]
+}
