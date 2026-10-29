@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:20:35.097Z",
+  "streets": [
+    {
+      "street": "SOK-Köthnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8189,
+          50.6908
+        ]
+      }
+    }
+  ]
+}

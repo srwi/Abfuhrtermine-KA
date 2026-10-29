@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:20:26.090Z",
+  "streets": [
+    {
+      "street": "Kostitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3005,
+          50.9849
+        ]
+      }
+    }
+  ]
+}

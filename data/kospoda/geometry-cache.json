@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:20:16.648Z",
+  "streets": [
+    {
+      "street": "SOK-Kospoda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74,
+          50.719
+        ]
+      }
+    }
+  ]
+}

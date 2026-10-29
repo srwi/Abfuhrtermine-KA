@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:20:07.783Z",
+  "streets": [
+    {
+      "street": "Kosma",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.403,
+          50.9693
+        ]
+      }
+    }
+  ]
+}
