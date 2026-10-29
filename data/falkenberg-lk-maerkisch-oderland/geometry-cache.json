@@ -1,0 +1,535 @@
+{
+  "generatedAt": "2026-10-29T18:00:30.363Z",
+  "streets": [
+    {
+      "street": "Ackermannshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Ahornstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Am Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Am Friedhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Am Gamensee/ Bungalowsiedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Am See",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Am Teich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Apfelallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Bodens Eichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Burgstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Chausseestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Cöthen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Cöthener Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Cöthener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Eberswalder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Eichholzstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Ernst-Thälmann-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Fliederweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Fontaneweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Freienwalder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Freienwalder Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Gartenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Gewerbegebiet",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Karl-Marx-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "KGA Zur grünen Aue",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Krummenpfahl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Mühlenplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Neue Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Papierfabrik",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Pappelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Paul-Fischer-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Platzfelde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Tobbengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Torgelow",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Torz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Tramper Damm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Triftstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Uchtenhagen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Unter den Eichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Weidenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Wolfsloch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Zum Gamensee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Zum See",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Zum Sportplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    },
+    {
+      "street": "Zur Försterei",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912,
+          56.9055
+        ]
+      }
+    }
+  ]
+}

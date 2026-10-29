@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T17:59:42.168Z",
+  "streets": [
+    {
+      "street": "Dobel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5,
+          48.8
+        ]
+      }
+    }
+  ]
+}

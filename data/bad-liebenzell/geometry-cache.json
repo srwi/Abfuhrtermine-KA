@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-29T17:58:44.005Z",
+  "streets": [
+    {
+      "street": "Beinberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7297,
+          48.7743
+        ]
+      }
+    },
+    {
+      "street": "Kernstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7297,
+          48.7743
+        ]
+      }
+    },
+    {
+      "street": "Maisenbach mit Zainen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7297,
+          48.7743
+        ]
+      }
+    },
+    {
+      "street": "Monakam",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7297,
+          48.7743
+        ]
+      }
+    },
+    {
+      "street": "Monbachtal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7297,
+          48.7743
+        ]
+      }
+    },
+    {
+      "street": "Möttlingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7297,
+          48.7743
+        ]
+      }
+    },
+    {
+      "street": "Unterhaugstett",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7297,
+          48.7743
+        ]
+      }
+    },
+    {
+      "street": "Unterlengenhardt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7297,
+          48.7743
+        ]
+      }
+    }
+  ]
+}

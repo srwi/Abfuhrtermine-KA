@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:00:57.320Z",
+  "streets": [
+    {
+      "street": "Gechingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8292,
+          48.6953
+        ]
+      }
+    }
+  ]
+}

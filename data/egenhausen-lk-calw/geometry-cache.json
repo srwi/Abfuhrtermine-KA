@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T18:00:00.806Z",
+  "streets": [
+    {
+      "street": "Egenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6167,
+          48.5667
+        ]
+      }
+    }
+  ]
+}

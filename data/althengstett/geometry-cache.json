@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-10-29T17:58:22.918Z",
+  "streets": [
+    {
+      "street": "Althengstett",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7970311,
+            48.7269085
+          ],
+          [
+            8.7980187,
+            48.7268308
+          ],
+          [
+            8.7980067,
+            48.7267999
+          ],
+          [
+            8.7970223,
+            48.7268785
+          ],
+          [
+            8.7970311,
+            48.7269085
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Neuhengstett",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7943,
+          48.7233
+        ]
+      }
+    },
+    {
+      "street": "Ottenbronn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7943,
+          48.7233
+        ]
+      }
+    }
+  ]
+}

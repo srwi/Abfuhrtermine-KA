@@ -1,0 +1,283 @@
+{
+  "generatedAt": "2026-10-29T17:59:17.519Z",
+  "streets": [
+    {
+      "street": "Birkenhof",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.1420794,
+            50.6749084
+          ],
+          [
+            8.1429491,
+            50.6758423
+          ],
+          [
+            8.1429802,
+            50.6759833
+          ],
+          [
+            8.1431093,
+            50.6760821
+          ],
+          [
+            8.1438972,
+            50.6757464
+          ],
+          [
+            8.1437859,
+            50.6756505
+          ],
+          [
+            8.1441643,
+            50.6755179
+          ],
+          [
+            8.1445471,
+            50.6751596
+          ],
+          [
+            8.1444002,
+            50.6748465
+          ],
+          [
+            8.1439106,
+            50.6747929
+          ],
+          [
+            8.1438082,
+            50.6748042
+          ],
+          [
+            8.1437325,
+            50.6747196
+          ],
+          [
+            8.1432829,
+            50.6748888
+          ],
+          [
+            8.1420137,
+            50.6737346
+          ],
+          [
+            8.1415541,
+            50.6739382
+          ],
+          [
+            8.1415294,
+            50.6741063
+          ],
+          [
+            8.14129,
+            50.6742465
+          ],
+          [
+            8.1416717,
+            50.6746324
+          ],
+          [
+            8.1412484,
+            50.6748156
+          ],
+          [
+            8.1415633,
+            50.6751209
+          ],
+          [
+            8.1420794,
+            50.6749084
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Bleischeid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Breitscheid",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2002345,
+            50.6790563
+          ],
+          [
+            8.200486,
+            50.6789184
+          ],
+          [
+            8.2001218,
+            50.678688
+          ],
+          [
+            8.1996156,
+            50.6790092
+          ],
+          [
+            8.2001698,
+            50.6793599
+          ],
+          [
+            8.2004392,
+            50.679189
+          ],
+          [
+            8.2002345,
+            50.6790563
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Dasbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Elsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Fichtelshohn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Fockenbachsmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Gersthahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Gersthahnsmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Goldscheid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Hochscheid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Hollig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Josef-Reuschenbach-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Keine Gefässe von uns!!",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Nassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Siebenmorgen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    },
+    {
+      "street": "Verscheid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1912,
+          50.6851
+        ]
+      }
+    }
+  ]
+}
