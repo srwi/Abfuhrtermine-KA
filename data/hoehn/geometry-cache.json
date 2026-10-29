@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T21:23:20.487Z",
+  "streets": [
+    {
+      "street": "Höhn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9833,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Neuhochstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9833,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Oellingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9833,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Schönberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9833,
+          50.6167
+        ]
+      }
+    }
+  ]
+}
