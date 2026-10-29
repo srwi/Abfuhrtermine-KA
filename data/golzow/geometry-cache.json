@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-10-29T11:27:56.898Z",
+  "streets": [
+    {
+      "street": "Am Baggersee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Am Gutshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Am Spielplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Cognacweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Dammweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Dorfplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Feuerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Friedrich-Engels-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Gasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Genschmarer Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Genschmarer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Gorgaster Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Gorgaster Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Karl-Marx-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Kleinbahndamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Krumme Gasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Ladestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Lange Gasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Mittelgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Mittelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Schlossberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Seelower Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Siedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Winkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Zechiner Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    }
+  ]
+}
