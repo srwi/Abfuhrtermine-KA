@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T11:11:41.765Z",
+  "streets": [
+    {
+      "street": "alle Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4304,
+          50.5064
+        ]
+      }
+    }
+  ]
+}
