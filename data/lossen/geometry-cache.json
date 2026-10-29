@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:40:35.802Z",
+  "streets": [
+    {
+      "street": "Lossen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3806,
+          50.9816
+        ]
+      }
+    }
+  ]
+}

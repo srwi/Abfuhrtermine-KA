@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:40:18.951Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Lositz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3427,
+          50.589
+        ]
+      }
+    }
+  ]
+}

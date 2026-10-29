@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:40:27.640Z",
+  "streets": [
+    {
+      "street": "SOK-Lössau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8842,
+          50.5878
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:40:43.815Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Lothra",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5584,
+          50.5683
+        ]
+      }
+    }
+  ]
+}

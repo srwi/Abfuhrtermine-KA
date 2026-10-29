@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:41:08.728Z",
+  "streets": [
+    {
+      "street": "Ludwigsau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9992,
+          52.8456
+        ]
+      }
+    }
+  ]
+}
