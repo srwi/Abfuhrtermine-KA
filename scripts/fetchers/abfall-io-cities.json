@@ -1,0 +1,5690 @@
+[
+  {
+    "id": "aalen",
+    "name": "Aalen",
+    "shortName": "AAL",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1316",
+    "center": [
+      10.0933,
+      48.8378
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7878,
+      10.0333,
+      48.8878,
+      10.1533
+    ]
+  },
+  {
+    "id": "abtsgmuend",
+    "name": "Abtsgmünd",
+    "shortName": "ABT",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1317",
+    "center": [
+      10.0017,
+      48.895
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.845,
+      9.9417,
+      48.945,
+      10.0617
+    ]
+  },
+  {
+    "id": "adelmannsfelden",
+    "name": "Adelmannsfelden",
+    "shortName": "ADE",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1318",
+    "center": [
+      10.0047,
+      48.9548
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9048,
+      9.9447,
+      49.0048,
+      10.0647
+    ]
+  },
+  {
+    "id": "ahausen",
+    "name": "Ahausen",
+    "shortName": "AHA",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470068",
+    "center": [
+      9.3134,
+      53.0628
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0128,
+      9.2534,
+      53.1128,
+      9.3734
+    ]
+  },
+  {
+    "id": "ailertchen",
+    "name": "Ailertchen",
+    "shortName": "AIL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2430",
+    "center": [
+      7.9419,
+      50.5986
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5486,
+      7.8819,
+      50.6486,
+      8.0019
+    ]
+  },
+  {
+    "id": "alfstedt",
+    "name": "Alfstedt",
+    "shortName": "ALF",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470070",
+    "center": [
+      9.0704,
+      53.5471
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4971,
+      9.0104,
+      53.5971,
+      9.1304
+    ]
+  },
+  {
+    "id": "alpenrod",
+    "name": "Alpenrod",
+    "shortName": "ALP",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2292",
+    "center": [
+      7.8667,
+      50.6333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5833,
+      7.8067,
+      50.6833,
+      7.9267
+    ]
+  },
+  {
+    "id": "alsbach",
+    "name": "Alsbach",
+    "shortName": "ALS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2354",
+    "center": [
+      7.662,
+      50.4641
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4141,
+      7.602,
+      50.5141,
+      7.722
+    ]
+  },
+  {
+    "id": "altenberge",
+    "name": "Altenberge",
+    "shortName": "ALT",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2593",
+    "center": [
+      7.4667,
+      52.05
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52,
+      7.4067,
+      52.1,
+      7.5267
+    ]
+  },
+  {
+    "id": "anderlingen",
+    "name": "Anderlingen",
+    "shortName": "AND",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470072",
+    "center": [
+      9.3036,
+      53.3744
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3244,
+      9.2436,
+      53.4244,
+      9.3636
+    ]
+  },
+  {
+    "id": "arnshoefen",
+    "name": "Arnshöfen",
+    "shortName": "ARN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2409",
+    "center": [
+      7.87,
+      50.5406
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4906,
+      7.81,
+      50.5906,
+      7.93
+    ]
+  },
+  {
+    "id": "astert",
+    "name": "Astert",
+    "shortName": "AST",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2293",
+    "center": [
+      7.7783,
+      50.695
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.645,
+      7.7183,
+      50.745,
+      7.8383
+    ]
+  },
+  {
+    "id": "atzelgift",
+    "name": "Atzelgift",
+    "shortName": "ATZ",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2294",
+    "center": [
+      7.8333,
+      50.7
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.65,
+      7.7733,
+      50.75,
+      7.8933
+    ]
+  },
+  {
+    "id": "bad-marienberg",
+    "name": "Bad Marienberg",
+    "shortName": "BAD",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2274",
+    "center": [
+      7.9496,
+      50.6495
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5995,
+      7.8896,
+      50.6995,
+      8.0096
+    ]
+  },
+  {
+    "id": "bannberscheid",
+    "name": "Bannberscheid",
+    "shortName": "BAN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2454",
+    "center": [
+      7.8366,
+      50.4718
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4218,
+      7.7766,
+      50.5218,
+      7.8966
+    ]
+  },
+  {
+    "id": "bartholomae",
+    "name": "Bartholomä",
+    "shortName": "BAR",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1319",
+    "center": [
+      9.9875,
+      48.7535
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7035,
+      9.9275,
+      48.8035,
+      10.0475
+    ]
+  },
+  {
+    "id": "basdahl",
+    "name": "Basdahl",
+    "shortName": "BAS",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470085",
+    "center": [
+      9.0003,
+      53.445
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.395,
+      8.9403,
+      53.495,
+      9.0603
+    ]
+  },
+  {
+    "id": "bellingen",
+    "name": "Bellingen",
+    "shortName": "BEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2431",
+    "center": [
+      7.9,
+      50.6
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.55,
+      7.84,
+      50.65,
+      7.96
+    ]
+  },
+  {
+    "id": "berod-bei-wallmerod",
+    "name": "Berod bei Wallmerod",
+    "shortName": "BER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2410",
+    "center": [
+      7.9333,
+      50.4833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4333,
+      7.8733,
+      50.5333,
+      7.9933
+    ]
+  },
+  {
+    "id": "berzhahn",
+    "name": "Berzhahn",
+    "shortName": "BER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2432",
+    "center": [
+      8.0067,
+      50.54
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.49,
+      7.9467,
+      50.59,
+      8.0667
+    ]
+  },
+  {
+    "id": "bilkheim",
+    "name": "Bilkheim",
+    "shortName": "BIL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2411",
+    "center": [
+      7.9483,
+      50.4981
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4481,
+      7.8883,
+      50.5481,
+      8.0083
+    ]
+  },
+  {
+    "id": "boebingen",
+    "name": "Böbingen",
+    "shortName": "BOEB",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1320",
+    "center": [
+      9.9213,
+      48.8196
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7696,
+      9.8613,
+      48.8696,
+      9.9813
+    ]
+  },
+  {
+    "id": "boden",
+    "name": "Boden",
+    "shortName": "BOD",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2329",
+    "center": [
+      7.857,
+      50.4739
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4239,
+      7.797,
+      50.5239,
+      7.917
+    ]
+  },
+  {
+    "id": "boelsberg",
+    "name": "Bölsberg",
+    "shortName": "BOEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2275",
+    "center": [
+      7.9167,
+      50.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6167,
+      7.8567,
+      50.7167,
+      7.9767
+    ]
+  },
+  {
+    "id": "bopfingen",
+    "name": "Bopfingen",
+    "shortName": "BOP",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1321",
+    "center": [
+      10.3542,
+      48.8585
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8085,
+      10.2942,
+      48.9085,
+      10.4142
+    ]
+  },
+  {
+    "id": "borod",
+    "name": "Borod",
+    "shortName": "BOR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2295",
+    "center": [
+      7.7097,
+      50.6675
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6175,
+      7.6497,
+      50.7175,
+      7.7697
+    ]
+  },
+  {
+    "id": "boetersen",
+    "name": "Bötersen",
+    "shortName": "BOET",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470097",
+    "center": [
+      9.3156,
+      53.1368
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0868,
+      9.2556,
+      53.1868,
+      9.3756
+    ]
+  },
+  {
+    "id": "bothel",
+    "name": "Bothel",
+    "shortName": "BOT",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1713",
+    "center": [
+      9.502,
+      53.0715
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0215,
+      9.442,
+      53.1215,
+      9.562
+    ]
+  },
+  {
+    "id": "brandscheid",
+    "name": "Brandscheid",
+    "shortName": "BRA",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2433",
+    "center": [
+      7.9203,
+      50.5608
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5108,
+      7.8603,
+      50.6108,
+      7.9803
+    ]
+  },
+  {
+    "id": "breddorf",
+    "name": "Breddorf",
+    "shortName": "BRE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470099",
+    "center": [
+      9.0809,
+      53.2926
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2426,
+      9.0209,
+      53.3426,
+      9.1409
+    ]
+  },
+  {
+    "id": "breddorfermoor",
+    "name": "Breddorfermoor",
+    "shortName": "BRE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470100",
+    "center": [
+      9.0075,
+      53.2845
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2345,
+      8.9475,
+      53.3345,
+      9.0675
+    ]
+  },
+  {
+    "id": "breitenau",
+    "name": "Breitenau",
+    "shortName": "BRE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2355",
+    "center": [
+      7.6906,
+      50.4981
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4481,
+      7.6306,
+      50.5481,
+      7.7506
+    ]
+  },
+  {
+    "id": "bremervoerde",
+    "name": "Bremervörde",
+    "shortName": "BRE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1714",
+    "center": [
+      9.1464,
+      53.4851
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4351,
+      9.0864,
+      53.5351,
+      9.2064
+    ]
+  },
+  {
+    "id": "bretthausen",
+    "name": "Bretthausen",
+    "shortName": "BRE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2365",
+    "center": [
+      8.0667,
+      50.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6167,
+      8.0067,
+      50.7167,
+      8.1267
+    ]
+  },
+  {
+    "id": "brockel",
+    "name": "Brockel",
+    "shortName": "BRO",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470105",
+    "center": [
+      9.5215,
+      53.0957
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0457,
+      9.4615,
+      53.1457,
+      9.5815
+    ]
+  },
+  {
+    "id": "buelstedt",
+    "name": "Bülstedt",
+    "shortName": "BUEL",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470109",
+    "center": [
+      9.1497,
+      53.2127
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1627,
+      9.0897,
+      53.2627,
+      9.2097
+    ]
+  },
+  {
+    "id": "caan",
+    "name": "Caan",
+    "shortName": "CAA",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2356",
+    "center": [
+      7.6167,
+      50.4667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4167,
+      7.5567,
+      50.5167,
+      7.6767
+    ]
+  },
+  {
+    "id": "daubach",
+    "name": "Daubach",
+    "shortName": "DAU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2330",
+    "center": [
+      7.8452,
+      50.3914
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3414,
+      7.7852,
+      50.4414,
+      7.9052
+    ]
+  },
+  {
+    "id": "deesen",
+    "name": "Deesen",
+    "shortName": "DEE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2357",
+    "center": [
+      7.7,
+      50.5108
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4608,
+      7.64,
+      50.5608,
+      7.76
+    ]
+  },
+  {
+    "id": "deinstedt",
+    "name": "Deinstedt",
+    "shortName": "DEI",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470118",
+    "center": [
+      9.2233,
+      53.4079
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3579,
+      9.1633,
+      53.4579,
+      9.2833
+    ]
+  },
+  {
+    "id": "dernbach-westerwald",
+    "name": "Dernbach (Westerwald)",
+    "shortName": "DER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2455",
+    "center": [
+      7.6,
+      50.55
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5,
+      7.54,
+      50.6,
+      7.66
+    ]
+  },
+  {
+    "id": "dreifelden",
+    "name": "Dreifelden",
+    "shortName": "DRE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2296",
+    "center": [
+      7.8361,
+      50.5914
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5414,
+      7.7761,
+      50.6414,
+      7.8961
+    ]
+  },
+  {
+    "id": "dreikirchen",
+    "name": "Dreikirchen",
+    "shortName": "DRE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2412",
+    "center": [
+      7.95,
+      50.4333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3833,
+      7.89,
+      50.4833,
+      8.01
+    ]
+  },
+  {
+    "id": "dreisbach",
+    "name": "Dreisbach",
+    "shortName": "DRE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2276",
+    "center": [
+      7.9333,
+      50.6167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5667,
+      7.8733,
+      50.6667,
+      7.9933
+    ]
+  },
+  {
+    "id": "durlangen",
+    "name": "Durlangen",
+    "shortName": "DUR",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1322",
+    "center": [
+      9.7965,
+      48.8563
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8063,
+      9.7365,
+      48.9063,
+      9.8565
+    ]
+  },
+  {
+    "id": "ebernhahn",
+    "name": "Ebernhahn",
+    "shortName": "EBE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2456",
+    "center": [
+      7.77,
+      50.4728
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4228,
+      7.71,
+      50.5228,
+      7.83
+    ]
+  },
+  {
+    "id": "ebersdorf-lk-rotenburg-wuemme",
+    "name": "Ebersdorf (LK Rotenburg (Wümme))",
+    "shortName": "EBE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470125",
+    "center": [
+      9.049,
+      53.5251
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4751,
+      8.989,
+      53.5751,
+      9.109
+    ]
+  },
+  {
+    "id": "eitelborn",
+    "name": "Eitelborn",
+    "shortName": "EIT",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2331",
+    "center": [
+      7.7233,
+      50.3781
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3281,
+      7.6633,
+      50.4281,
+      7.7833
+    ]
+  },
+  {
+    "id": "elbingen",
+    "name": "Elbingen",
+    "shortName": "ELB",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2428",
+    "center": [
+      7.9105,
+      50.5288
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4788,
+      7.8505,
+      50.5788,
+      7.9705
+    ]
+  },
+  {
+    "id": "ellenberg",
+    "name": "Ellenberg",
+    "shortName": "ELL",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1323",
+    "center": [
+      10.2167,
+      49.0167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9667,
+      10.1567,
+      49.0667,
+      10.2767
+    ]
+  },
+  {
+    "id": "ellenhausen",
+    "name": "Ellenhausen",
+    "shortName": "ELL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2388",
+    "center": [
+      7.7253,
+      50.5164
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4664,
+      7.6653,
+      50.5664,
+      7.7853
+    ]
+  },
+  {
+    "id": "ellwangen",
+    "name": "Ellwangen",
+    "shortName": "ELL",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1324",
+    "center": [
+      10.1317,
+      48.9616
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9116,
+      10.0717,
+      49.0116,
+      10.1917
+    ]
+  },
+  {
+    "id": "elsdorf-lk-rotenburg-wuemme",
+    "name": "Elsdorf (LK Rotenburg (Wümme))",
+    "shortName": "ELS",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470135",
+    "center": [
+      9.3506,
+      53.2412
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1912,
+      9.2906,
+      53.2912,
+      9.4106
+    ]
+  },
+  {
+    "id": "elsoff-westerwald",
+    "name": "Elsoff (Westerwald)",
+    "shortName": "ELS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2366",
+    "center": [
+      8.1161,
+      50.5758
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5258,
+      8.0561,
+      50.6258,
+      8.1761
+    ]
+  },
+  {
+    "id": "emsdetten",
+    "name": "Emsdetten",
+    "shortName": "EMS",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2592",
+    "center": [
+      7.5278,
+      52.1734
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1234,
+      7.4678,
+      52.2234,
+      7.5878
+    ]
+  },
+  {
+    "id": "enspel",
+    "name": "Enspel",
+    "shortName": "ENS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2434",
+    "center": [
+      7.8833,
+      50.6167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5667,
+      7.8233,
+      50.6667,
+      7.9433
+    ]
+  },
+  {
+    "id": "eschach",
+    "name": "Eschach",
+    "shortName": "ESC",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1325",
+    "center": [
+      9.87,
+      48.8883
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8383,
+      9.81,
+      48.9383,
+      9.93
+    ]
+  },
+  {
+    "id": "essingen",
+    "name": "Essingen",
+    "shortName": "ESS",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1326",
+    "center": [
+      10.0277,
+      48.8086
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7586,
+      9.9677,
+      48.8586,
+      10.0877
+    ]
+  },
+  {
+    "id": "ettinghausen",
+    "name": "Ettinghausen",
+    "shortName": "ETT",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2413",
+    "center": [
+      7.8725,
+      50.5156
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4656,
+      7.8125,
+      50.5656,
+      7.9325
+    ]
+  },
+  {
+    "id": "ewighausen",
+    "name": "Ewighausen",
+    "shortName": "EWI",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2389",
+    "center": [
+      7.8278,
+      50.535
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.485,
+      7.7678,
+      50.585,
+      7.8878
+    ]
+  },
+  {
+    "id": "farven",
+    "name": "Farven",
+    "shortName": "FAR",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470141",
+    "center": [
+      9.323,
+      53.4351
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3851,
+      9.263,
+      53.4851,
+      9.383
+    ]
+  },
+  {
+    "id": "fehl-ritzhausen",
+    "name": "Fehl-Ritzhausen",
+    "shortName": "FEH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2277",
+    "center": [
+      8.0031,
+      50.645
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.595,
+      7.9431,
+      50.695,
+      8.0631
+    ]
+  },
+  {
+    "id": "fintel",
+    "name": "Fintel",
+    "shortName": "FIN",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1715",
+    "center": [
+      9.6697,
+      53.1719
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1219,
+      9.6097,
+      53.2219,
+      9.7297
+    ]
+  },
+  {
+    "id": "freilingen",
+    "name": "Freilingen",
+    "shortName": "FRE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2390",
+    "center": [
+      7.8346,
+      50.5593
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5093,
+      7.7746,
+      50.6093,
+      7.8946
+    ]
+  },
+  {
+    "id": "freirachdorf",
+    "name": "Freirachdorf",
+    "shortName": "FRE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2391",
+    "center": [
+      7.7167,
+      50.5833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5333,
+      7.6567,
+      50.6333,
+      7.7767
+    ]
+  },
+  {
+    "id": "gackenbach",
+    "name": "Gackenbach",
+    "shortName": "GAC",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2332",
+    "center": [
+      7.8667,
+      50.3667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3167,
+      7.8067,
+      50.4167,
+      7.9267
+    ]
+  },
+  {
+    "id": "gehlert",
+    "name": "Gehlert",
+    "shortName": "GEH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2297",
+    "center": [
+      7.8294,
+      50.6417
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5917,
+      7.7694,
+      50.6917,
+      7.8894
+    ]
+  },
+  {
+    "id": "gemuenden-westerwaldkreis",
+    "name": "Gemünden (Westerwaldkreis)",
+    "shortName": "GEM",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2435",
+    "center": [
+      7.4775,
+      49.8944
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8444,
+      7.4175,
+      49.9444,
+      7.5375
+    ]
+  },
+  {
+    "id": "giesenhausen",
+    "name": "Giesenhausen",
+    "shortName": "GIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2298",
+    "center": [
+      7.7167,
+      50.7
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.65,
+      7.6567,
+      50.75,
+      7.7767
+    ]
+  },
+  {
+    "id": "girkenroth",
+    "name": "Girkenroth",
+    "shortName": "GIR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2436",
+    "center": [
+      7.9719,
+      50.5208
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4708,
+      7.9119,
+      50.5708,
+      8.0319
+    ]
+  },
+  {
+    "id": "girod",
+    "name": "Girod",
+    "shortName": "GIR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2333",
+    "center": [
+      7.9167,
+      50.45
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4,
+      7.8567,
+      50.5,
+      7.9767
+    ]
+  },
+  {
+    "id": "gnarrenburg",
+    "name": "Gnarrenburg",
+    "shortName": "GNA",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1717",
+    "center": [
+      9.0051,
+      53.3863
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3363,
+      8.9451,
+      53.4363,
+      9.0651
+    ]
+  },
+  {
+    "id": "goddert",
+    "name": "Goddert",
+    "shortName": "GOD",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2392",
+    "center": [
+      7.7469,
+      50.5492
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4992,
+      7.6869,
+      50.5992,
+      7.8069
+    ]
+  },
+  {
+    "id": "goeggingen",
+    "name": "Göggingen",
+    "shortName": "GOEG",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1327",
+    "center": [
+      9.884,
+      48.8612
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8112,
+      9.824,
+      48.9112,
+      9.944
+    ]
+  },
+  {
+    "id": "goergeshausen",
+    "name": "Görgeshausen",
+    "shortName": "GOER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2334",
+    "center": [
+      7.95,
+      50.4167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3667,
+      7.89,
+      50.4667,
+      8.01
+    ]
+  },
+  {
+    "id": "greven",
+    "name": "Greven",
+    "shortName": "GRE",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2581",
+    "center": [
+      7.594,
+      52.0936
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0436,
+      7.534,
+      52.1436,
+      7.654
+    ]
+  },
+  {
+    "id": "gross-meckelsen",
+    "name": "Groß Meckelsen",
+    "shortName": "GRO",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470158",
+    "center": [
+      9.4478,
+      53.2867
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2367,
+      9.3878,
+      53.3367,
+      9.5078
+    ]
+  },
+  {
+    "id": "grossholbach",
+    "name": "Großholbach",
+    "shortName": "GRO",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2335",
+    "center": [
+      7.8833,
+      50.45
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4,
+      7.8233,
+      50.5,
+      7.9433
+    ]
+  },
+  {
+    "id": "grossseifen",
+    "name": "Großseifen",
+    "shortName": "GRO",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2278",
+    "center": [
+      7.9667,
+      50.6333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5833,
+      7.9067,
+      50.6833,
+      8.0267
+    ]
+  },
+  {
+    "id": "gschwend",
+    "name": "Gschwend",
+    "shortName": "GSC",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1328",
+    "center": [
+      9.7444,
+      48.9333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8833,
+      9.6844,
+      48.9833,
+      9.8044
+    ]
+  },
+  {
+    "id": "guckheim",
+    "name": "Guckheim",
+    "shortName": "GUC",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2437",
+    "center": [
+      7.95,
+      50.5333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4833,
+      7.89,
+      50.5833,
+      8.01
+    ]
+  },
+  {
+    "id": "gyhum",
+    "name": "Gyhum",
+    "shortName": "GYH",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470159",
+    "center": [
+      9.31,
+      53.2196
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1696,
+      9.25,
+      53.2696,
+      9.37
+    ]
+  },
+  {
+    "id": "hachenburg",
+    "name": "Hachenburg",
+    "shortName": "HAC",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2299",
+    "center": [
+      7.8228,
+      50.66
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.61,
+      7.7628,
+      50.71,
+      7.8828
+    ]
+  },
+  {
+    "id": "hahn-am-see",
+    "name": "Hahn am See",
+    "shortName": "HAH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2414",
+    "center": [
+      7.8901,
+      50.5242
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4742,
+      7.8301,
+      50.5742,
+      7.9501
+    ]
+  },
+  {
+    "id": "hahn-bei-marienberg",
+    "name": "Hahn bei Marienberg",
+    "shortName": "HAH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2279",
+    "center": [
+      7.9411,
+      50.6328
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5828,
+      7.8811,
+      50.6828,
+      8.0011
+    ]
+  },
+  {
+    "id": "halbs",
+    "name": "Halbs",
+    "shortName": "HAL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2439",
+    "center": [
+      7.9647,
+      50.5908
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5408,
+      7.9047,
+      50.6408,
+      8.0247
+    ]
+  },
+  {
+    "id": "hamersen",
+    "name": "Hamersen",
+    "shortName": "HAM",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470162",
+    "center": [
+      9.4803,
+      53.2559
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2059,
+      9.4203,
+      53.3059,
+      9.5403
+    ]
+  },
+  {
+    "id": "hardt",
+    "name": "Hardt",
+    "shortName": "HAR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2280",
+    "center": [
+      7.9167,
+      50.6333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5833,
+      7.8567,
+      50.6833,
+      7.9767
+    ]
+  },
+  {
+    "id": "hartenfels",
+    "name": "Hartenfels",
+    "shortName": "HAR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2393",
+    "center": [
+      7.7872,
+      50.5739
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5239,
+      7.7272,
+      50.6239,
+      7.8472
+    ]
+  },
+  {
+    "id": "haertlingen",
+    "name": "Härtlingen",
+    "shortName": "HAER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2438",
+    "center": [
+      7.9164,
+      50.5242
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4742,
+      7.8564,
+      50.5742,
+      7.9764
+    ]
+  },
+  {
+    "id": "hassendorf",
+    "name": "Hassendorf",
+    "shortName": "HAS",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470167",
+    "center": [
+      9.2648,
+      53.1086
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0586,
+      9.2048,
+      53.1586,
+      9.3248
+    ]
+  },
+  {
+    "id": "hattert",
+    "name": "Hattert",
+    "shortName": "HAT",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2300",
+    "center": [
+      7.7667,
+      50.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6167,
+      7.7067,
+      50.7167,
+      7.8267
+    ]
+  },
+  {
+    "id": "heeslingen",
+    "name": "Heeslingen",
+    "shortName": "HEE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470171",
+    "center": [
+      9.3333,
+      53.3167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2667,
+      9.2733,
+      53.3667,
+      9.3933
+    ]
+  },
+  {
+    "id": "heilberscheid",
+    "name": "Heilberscheid",
+    "shortName": "HEI",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2336",
+    "center": [
+      7.8833,
+      50.4167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3667,
+      7.8233,
+      50.4667,
+      7.9433
+    ]
+  },
+  {
+    "id": "heiligenroth",
+    "name": "Heiligenroth",
+    "shortName": "HEI",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2337",
+    "center": [
+      7.8667,
+      50.45
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4,
+      7.8067,
+      50.5,
+      7.9267
+    ]
+  },
+  {
+    "id": "heimborn",
+    "name": "Heimborn",
+    "shortName": "HEI",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2301",
+    "center": [
+      7.7568,
+      50.7099
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6599,
+      7.6968,
+      50.7599,
+      7.8168
+    ]
+  },
+  {
+    "id": "helferskirchen",
+    "name": "Helferskirchen",
+    "shortName": "HEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2457",
+    "center": [
+      7.8118,
+      50.5103
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4603,
+      7.7518,
+      50.5603,
+      7.8718
+    ]
+  },
+  {
+    "id": "hellenhahn-schellenberg",
+    "name": "Hellenhahn-Schellenberg",
+    "shortName": "HEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2367",
+    "center": [
+      8.0264,
+      50.6128
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5628,
+      7.9664,
+      50.6628,
+      8.0864
+    ]
+  },
+  {
+    "id": "hellwege",
+    "name": "Hellwege",
+    "shortName": "HEL",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470174",
+    "center": [
+      9.2357,
+      53.0735
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0235,
+      9.1757,
+      53.1235,
+      9.2957
+    ]
+  },
+  {
+    "id": "helvesiek",
+    "name": "Helvesiek",
+    "shortName": "HEL",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470175",
+    "center": [
+      9.4915,
+      53.2161
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1661,
+      9.4315,
+      53.2661,
+      9.5515
+    ]
+  },
+  {
+    "id": "hemsbuende",
+    "name": "Hemsbünde",
+    "shortName": "HEM",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470177",
+    "center": [
+      9.4726,
+      53.09
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.04,
+      9.4126,
+      53.14,
+      9.5326
+    ]
+  },
+  {
+    "id": "hemslingen",
+    "name": "Hemslingen",
+    "shortName": "HEM",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470178",
+    "center": [
+      9.601,
+      53.0859
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0359,
+      9.541,
+      53.1359,
+      9.661
+    ]
+  },
+  {
+    "id": "hepstedt",
+    "name": "Hepstedt",
+    "shortName": "HEP",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470179",
+    "center": [
+      9.0821,
+      53.2587
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2087,
+      9.0221,
+      53.3087,
+      9.1421
+    ]
+  },
+  {
+    "id": "hergenroth",
+    "name": "Hergenroth",
+    "shortName": "HER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2440",
+    "center": [
+      7.9747,
+      50.5828
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5328,
+      7.9147,
+      50.6328,
+      8.0347
+    ]
+  },
+  {
+    "id": "herschbach",
+    "name": "Herschbach",
+    "shortName": "HER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2394",
+    "center": [
+      7.7333,
+      50.5833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5333,
+      7.6733,
+      50.6333,
+      7.7933
+    ]
+  },
+  {
+    "id": "herschbach-oww",
+    "name": "Herschbach OWW",
+    "shortName": "HER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2415",
+    "center": [
+      7.7405,
+      50.5751
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5251,
+      7.6805,
+      50.6251,
+      7.8005
+    ]
+  },
+  {
+    "id": "heubach",
+    "name": "Heubach",
+    "shortName": "HEU",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1329",
+    "center": [
+      9.9337,
+      48.7927
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7427,
+      9.8737,
+      48.8427,
+      9.9937
+    ]
+  },
+  {
+    "id": "heuchlingen",
+    "name": "Heuchlingen",
+    "shortName": "HEU",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1330",
+    "center": [
+      9.9439,
+      48.8522
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8022,
+      9.8839,
+      48.9022,
+      10.0039
+    ]
+  },
+  {
+    "id": "heuzert",
+    "name": "Heuzert",
+    "shortName": "HEU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2302",
+    "center": [
+      7.7598,
+      50.6991
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6491,
+      7.6998,
+      50.7491,
+      7.8198
+    ]
+  },
+  {
+    "id": "hilgert",
+    "name": "Hilgert",
+    "shortName": "HIL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2325",
+    "center": [
+      7.6874,
+      50.4563
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4063,
+      7.6274,
+      50.5063,
+      7.7474
+    ]
+  },
+  {
+    "id": "hillscheid",
+    "name": "Hillscheid",
+    "shortName": "HIL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2326",
+    "center": [
+      7.6986,
+      50.4064
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3564,
+      7.6386,
+      50.4564,
+      7.7586
+    ]
+  },
+  {
+    "id": "hipstedt",
+    "name": "Hipstedt",
+    "shortName": "HIP",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470184",
+    "center": [
+      8.9701,
+      53.4811
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4311,
+      8.9101,
+      53.5311,
+      9.0301
+    ]
+  },
+  {
+    "id": "hoechstenbach",
+    "name": "Höchstenbach",
+    "shortName": "HOEC",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2303",
+    "center": [
+      7.7447,
+      50.6336
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5836,
+      7.6847,
+      50.6836,
+      7.8047
+    ]
+  },
+  {
+    "id": "hof",
+    "name": "Hof",
+    "shortName": "HOF",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2281",
+    "center": [
+      8.0167,
+      50.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6167,
+      7.9567,
+      50.7167,
+      8.0767
+    ]
+  },
+  {
+    "id": "hoehn",
+    "name": "Höhn",
+    "shortName": "HOEH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2441",
+    "center": [
+      7.9833,
+      50.6167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5667,
+      7.9233,
+      50.6667,
+      8.0433
+    ]
+  },
+  {
+    "id": "hoehr-grenzhausen",
+    "name": "Höhr-Grenzhausen",
+    "shortName": "HOEH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2327",
+    "center": [
+      7.669,
+      50.4347
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3847,
+      7.609,
+      50.4847,
+      7.729
+    ]
+  },
+  {
+    "id": "holler",
+    "name": "Holler",
+    "shortName": "HOL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2338",
+    "center": [
+      7.8333,
+      50.4167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3667,
+      7.7733,
+      50.4667,
+      7.8933
+    ]
+  },
+  {
+    "id": "homberg",
+    "name": "Homberg",
+    "shortName": "HOM",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2368",
+    "center": [
+      7.7833,
+      50.3333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.2833,
+      7.7233,
+      50.3833,
+      7.8433
+    ]
+  },
+  {
+    "id": "hopsten",
+    "name": "Hopsten",
+    "shortName": "HOP",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2595",
+    "center": [
+      7.6016,
+      52.3817
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3317,
+      7.5416,
+      52.4317,
+      7.6616
+    ]
+  },
+  {
+    "id": "horbach",
+    "name": "Horbach",
+    "shortName": "HOR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2339",
+    "center": [
+      7.8528,
+      50.3731
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3231,
+      7.7928,
+      50.4231,
+      7.9128
+    ]
+  },
+  {
+    "id": "horstedt",
+    "name": "Horstedt",
+    "shortName": "HOR",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470188",
+    "center": [
+      9.2317,
+      53.178
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.128,
+      9.1717,
+      53.228,
+      9.2917
+    ]
+  },
+  {
+    "id": "hoerstel",
+    "name": "Hörstel",
+    "shortName": "HOER",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2601",
+    "center": [
+      7.5854,
+      52.298
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.248,
+      7.5254,
+      52.348,
+      7.6454
+    ]
+  },
+  {
+    "id": "horstmar",
+    "name": "Horstmar",
+    "shortName": "HOR",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2589",
+    "center": [
+      7.3054,
+      52.081
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.031,
+      7.2454,
+      52.131,
+      7.3654
+    ]
+  },
+  {
+    "id": "huebingen",
+    "name": "Hübingen",
+    "shortName": "HUEB",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2340",
+    "center": [
+      7.8461,
+      50.3586
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3086,
+      7.7861,
+      50.4086,
+      7.9061
+    ]
+  },
+  {
+    "id": "hueblingen",
+    "name": "Hüblingen",
+    "shortName": "HUEB",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2369",
+    "center": [
+      8.0833,
+      50.5667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5167,
+      8.0233,
+      50.6167,
+      8.1433
+    ]
+  },
+  {
+    "id": "hundsangen",
+    "name": "Hundsangen",
+    "shortName": "HUN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2416",
+    "center": [
+      7.9833,
+      50.45
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4,
+      7.9233,
+      50.5,
+      8.0433
+    ]
+  },
+  {
+    "id": "hundsdorf",
+    "name": "Hundsdorf",
+    "shortName": "HUN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2358",
+    "center": [
+      7.7022,
+      50.4701
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4201,
+      7.6422,
+      50.5201,
+      7.7622
+    ]
+  },
+  {
+    "id": "huettlingen",
+    "name": "Hüttlingen",
+    "shortName": "HUET",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1331",
+    "center": [
+      10.1006,
+      48.8927
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8427,
+      10.0406,
+      48.9427,
+      10.1606
+    ]
+  },
+  {
+    "id": "ibbenbueren",
+    "name": "Ibbenbüren",
+    "shortName": "IBB",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2584",
+    "center": [
+      7.7146,
+      52.2796
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2296,
+      7.6546,
+      52.3296,
+      7.7746
+    ]
+  },
+  {
+    "id": "iggingen",
+    "name": "Iggingen",
+    "shortName": "IGG",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1332",
+    "center": [
+      9.8789,
+      48.8317
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7817,
+      9.8189,
+      48.8817,
+      9.9389
+    ]
+  },
+  {
+    "id": "irmtraut",
+    "name": "Irmtraut",
+    "shortName": "IRM",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2370",
+    "center": [
+      8.0667,
+      50.55
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5,
+      8.0067,
+      50.6,
+      8.1267
+    ]
+  },
+  {
+    "id": "jagstzell",
+    "name": "Jagstzell",
+    "shortName": "JAG",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1333",
+    "center": [
+      10.0975,
+      49.0306
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9806,
+      10.0375,
+      49.0806,
+      10.1575
+    ]
+  },
+  {
+    "id": "kaden",
+    "name": "Kaden",
+    "shortName": "KAD",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2442",
+    "center": [
+      7.915,
+      50.5481
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4981,
+      7.855,
+      50.5981,
+      7.975
+    ]
+  },
+  {
+    "id": "kadenbach",
+    "name": "Kadenbach",
+    "shortName": "KAD",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2341",
+    "center": [
+      7.7333,
+      50.3833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3333,
+      7.6733,
+      50.4333,
+      7.7933
+    ]
+  },
+  {
+    "id": "kalbe",
+    "name": "Kalbe",
+    "shortName": "KAL",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470198",
+    "center": [
+      9.5506,
+      53.2934
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2434,
+      9.4906,
+      53.3434,
+      9.6106
+    ]
+  },
+  {
+    "id": "kammerforst-westerwaldkreis",
+    "name": "Kammerforst (Westerwaldkreis)",
+    "shortName": "KAM",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2328",
+    "center": [
+      7.676,
+      50.463
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.413,
+      7.616,
+      50.513,
+      7.736
+    ]
+  },
+  {
+    "id": "kirburg",
+    "name": "Kirburg",
+    "shortName": "KIR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2282",
+    "center": [
+      7.9333,
+      50.6833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6333,
+      7.8733,
+      50.7333,
+      7.9933
+    ]
+  },
+  {
+    "id": "kirchheim-ostalbkreis",
+    "name": "Kirchheim (Ostalbkreis)",
+    "shortName": "KIR",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1334",
+    "center": [
+      9.1422,
+      49.045
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.995,
+      9.0822,
+      49.095,
+      9.2022
+    ]
+  },
+  {
+    "id": "kirchtimke",
+    "name": "Kirchtimke",
+    "shortName": "KIR",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470204",
+    "center": [
+      9.1521,
+      53.252
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.202,
+      9.0921,
+      53.302,
+      9.2121
+    ]
+  },
+  {
+    "id": "kirchwalsede",
+    "name": "Kirchwalsede",
+    "shortName": "KIR",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470205",
+    "center": [
+      9.3958,
+      53.0207
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9707,
+      9.3358,
+      53.0707,
+      9.4558
+    ]
+  },
+  {
+    "id": "klein-meckelsen",
+    "name": "Klein Meckelsen",
+    "shortName": "KLE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470206",
+    "center": [
+      9.451,
+      53.3051
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2551,
+      9.391,
+      53.3551,
+      9.511
+    ]
+  },
+  {
+    "id": "koelbingen",
+    "name": "Kölbingen",
+    "shortName": "KOEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2443",
+    "center": [
+      7.9333,
+      50.55
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5,
+      7.8733,
+      50.6,
+      7.9933
+    ]
+  },
+  {
+    "id": "kroppach",
+    "name": "Kroppach",
+    "shortName": "KRO",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2304",
+    "center": [
+      7.7403,
+      50.6956
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6456,
+      7.6803,
+      50.7456,
+      7.8003
+    ]
+  },
+  {
+    "id": "kruemmel",
+    "name": "Krümmel",
+    "shortName": "KRUE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2395",
+    "center": [
+      7.7247,
+      50.5372
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4872,
+      7.6647,
+      50.5872,
+      7.7847
+    ]
+  },
+  {
+    "id": "kuhnhoefen",
+    "name": "Kuhnhöfen",
+    "shortName": "KUH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2417",
+    "center": [
+      7.8631,
+      50.5333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4833,
+      7.8031,
+      50.5833,
+      7.9231
+    ]
+  },
+  {
+    "id": "kundert",
+    "name": "Kundert",
+    "shortName": "KUN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2305",
+    "center": [
+      7.7919,
+      50.7186
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6686,
+      7.7319,
+      50.7686,
+      7.8519
+    ]
+  },
+  {
+    "id": "ladbergen",
+    "name": "Ladbergen",
+    "shortName": "LAD",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2586",
+    "center": [
+      7.75,
+      52.1333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0833,
+      7.69,
+      52.1833,
+      7.81
+    ]
+  },
+  {
+    "id": "laer",
+    "name": "Laer",
+    "shortName": "LAE",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2594",
+    "center": [
+      7.3578,
+      52.0555
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0055,
+      7.2978,
+      52.1055,
+      7.4178
+    ]
+  },
+  {
+    "id": "langenbach-bei-kirburg",
+    "name": "Langenbach bei Kirburg",
+    "shortName": "LAN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2283",
+    "center": [
+      7.9333,
+      50.7
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.65,
+      7.8733,
+      50.75,
+      7.9933
+    ]
+  },
+  {
+    "id": "langenhahn",
+    "name": "Langenhahn",
+    "shortName": "LAN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2444",
+    "center": [
+      7.9167,
+      50.5833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5333,
+      7.8567,
+      50.6333,
+      7.9767
+    ]
+  },
+  {
+    "id": "lauchheim",
+    "name": "Lauchheim",
+    "shortName": "LAU",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1335",
+    "center": [
+      10.2422,
+      48.8714
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8214,
+      10.1822,
+      48.9214,
+      10.3022
+    ]
+  },
+  {
+    "id": "lauenbrueck",
+    "name": "Lauenbrück",
+    "shortName": "LAU",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470216",
+    "center": [
+      9.5636,
+      53.2002
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1502,
+      9.5036,
+      53.2502,
+      9.6236
+    ]
+  },
+  {
+    "id": "lautzenbruecken",
+    "name": "Lautzenbrücken",
+    "shortName": "LAU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2284",
+    "center": [
+      7.9644,
+      50.6736
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6236,
+      7.9044,
+      50.7236,
+      8.0244
+    ]
+  },
+  {
+    "id": "leinzell",
+    "name": "Leinzell",
+    "shortName": "LEI",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1336",
+    "center": [
+      9.8775,
+      48.8494
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7994,
+      9.8175,
+      48.8994,
+      9.9375
+    ]
+  },
+  {
+    "id": "lengenbostel",
+    "name": "Lengenbostel",
+    "shortName": "LEN",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470219",
+    "center": [
+      9.5167,
+      53.3
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.25,
+      9.4567,
+      53.35,
+      9.5767
+    ]
+  },
+  {
+    "id": "lengerich",
+    "name": "Lengerich",
+    "shortName": "LEN",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2591",
+    "center": [
+      7.8594,
+      52.186
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.136,
+      7.7994,
+      52.236,
+      7.9194
+    ]
+  },
+  {
+    "id": "leuterod",
+    "name": "Leuterod",
+    "shortName": "LEU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2458",
+    "center": [
+      7.8189,
+      50.4958
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4458,
+      7.7589,
+      50.5458,
+      7.8789
+    ]
+  },
+  {
+    "id": "liebenscheid",
+    "name": "Liebenscheid",
+    "shortName": "LIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2371",
+    "center": [
+      8.0983,
+      50.6972
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6472,
+      8.0383,
+      50.7472,
+      8.1583
+    ]
+  },
+  {
+    "id": "lienen",
+    "name": "Lienen",
+    "shortName": "LIE",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2580",
+    "center": [
+      7.9833,
+      52.15
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1,
+      7.9233,
+      52.2,
+      8.0433
+    ]
+  },
+  {
+    "id": "limbach-westerwaldkreis",
+    "name": "Limbach (Westerwaldkreis)",
+    "shortName": "LIM",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2306",
+    "center": [
+      7.8,
+      50.7
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.65,
+      7.74,
+      50.75,
+      7.86
+    ]
+  },
+  {
+    "id": "linden-westerwaldkreis",
+    "name": "Linden (Westerwaldkreis)",
+    "shortName": "LIN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2307",
+    "center": [
+      7.8505,
+      50.602
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5895,
+      7.8288,
+      50.6082,
+      7.8657
+    ]
+  },
+  {
+    "id": "lochum",
+    "name": "Lochum",
+    "shortName": "LOC",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2308",
+    "center": [
+      7.866,
+      50.6056
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5556,
+      7.806,
+      50.6556,
+      7.926
+    ]
+  },
+  {
+    "id": "lorch",
+    "name": "Lorch",
+    "shortName": "LOR",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1337",
+    "center": [
+      9.6914,
+      48.7983
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7483,
+      9.6314,
+      48.8483,
+      9.7514
+    ]
+  },
+  {
+    "id": "lotte",
+    "name": "Lotte",
+    "shortName": "LOT",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2596",
+    "center": [
+      7.9174,
+      52.2768
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2268,
+      7.8574,
+      52.3268,
+      7.9774
+    ]
+  },
+  {
+    "id": "luckenbach",
+    "name": "Luckenbach",
+    "shortName": "LUC",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2309",
+    "center": [
+      7.8333,
+      50.7
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.65,
+      7.7733,
+      50.75,
+      7.8933
+    ]
+  },
+  {
+    "id": "maehren",
+    "name": "Mähren",
+    "shortName": "MAEH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2429",
+    "center": [
+      7.9209,
+      50.5235
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4735,
+      7.8609,
+      50.5735,
+      7.9809
+    ]
+  },
+  {
+    "id": "marienrachdorf",
+    "name": "Marienrachdorf",
+    "shortName": "MAR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2396",
+    "center": [
+      7.7167,
+      50.55
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5,
+      7.6567,
+      50.6,
+      7.7767
+    ]
+  },
+  {
+    "id": "maroth",
+    "name": "Maroth",
+    "shortName": "MAR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2397",
+    "center": [
+      7.6897,
+      50.5772
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5272,
+      7.6297,
+      50.6272,
+      7.7497
+    ]
+  },
+  {
+    "id": "marzhausen",
+    "name": "Marzhausen",
+    "shortName": "MAR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2310",
+    "center": [
+      7.7558,
+      50.6911
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6411,
+      7.6958,
+      50.7411,
+      7.8158
+    ]
+  },
+  {
+    "id": "maxsain",
+    "name": "Maxsain",
+    "shortName": "MAX",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2398",
+    "center": [
+      7.7851,
+      50.5432
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4932,
+      7.7251,
+      50.5932,
+      7.8451
+    ]
+  },
+  {
+    "id": "merkelbach",
+    "name": "Merkelbach",
+    "shortName": "MER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2311",
+    "center": [
+      7.7697,
+      50.6456
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5956,
+      7.7097,
+      50.6956,
+      7.8297
+    ]
+  },
+  {
+    "id": "metelen",
+    "name": "Metelen",
+    "shortName": "MET",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2600",
+    "center": [
+      7.2127,
+      52.1443
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0943,
+      7.1527,
+      52.1943,
+      7.2727
+    ]
+  },
+  {
+    "id": "mettingen",
+    "name": "Mettingen",
+    "shortName": "MET",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2598",
+    "center": [
+      7.7823,
+      52.317
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.267,
+      7.7223,
+      52.367,
+      7.8423
+    ]
+  },
+  {
+    "id": "meudt",
+    "name": "Meudt",
+    "shortName": "MEU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2418",
+    "center": [
+      7.895,
+      50.4989
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4489,
+      7.835,
+      50.5489,
+      7.955
+    ]
+  },
+  {
+    "id": "mogendorf",
+    "name": "Mogendorf",
+    "shortName": "MOG",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2459",
+    "center": [
+      7.7597,
+      50.4944
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4444,
+      7.6997,
+      50.5444,
+      7.8197
+    ]
+  },
+  {
+    "id": "moegglingen",
+    "name": "Mögglingen",
+    "shortName": "MOEG",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1338",
+    "center": [
+      9.9625,
+      48.8232
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7732,
+      9.9025,
+      48.8732,
+      10.0225
+    ]
+  },
+  {
+    "id": "molsberg",
+    "name": "Molsberg",
+    "shortName": "MOL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2419",
+    "center": [
+      7.9833,
+      50.4833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4333,
+      7.9233,
+      50.5333,
+      8.0433
+    ]
+  },
+  {
+    "id": "montabaur",
+    "name": "Montabaur",
+    "shortName": "MON",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2342",
+    "center": [
+      7.8232,
+      50.4359
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3859,
+      7.7632,
+      50.4859,
+      7.8832
+    ]
+  },
+  {
+    "id": "moerlen",
+    "name": "Mörlen",
+    "shortName": "MOER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2285",
+    "center": [
+      7.8844,
+      50.6981
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6481,
+      7.8244,
+      50.7481,
+      7.9444
+    ]
+  },
+  {
+    "id": "moersbach",
+    "name": "Mörsbach",
+    "shortName": "MOER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2312",
+    "center": [
+      7.7833,
+      50.7267
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6767,
+      7.7233,
+      50.7767,
+      7.8433
+    ]
+  },
+  {
+    "id": "moschheim",
+    "name": "Moschheim",
+    "shortName": "MOS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2460",
+    "center": [
+      7.8417,
+      50.4825
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4325,
+      7.7817,
+      50.5325,
+      7.9017
+    ]
+  },
+  {
+    "id": "mudenbach",
+    "name": "Mudenbach",
+    "shortName": "MUD",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2313",
+    "center": [
+      7.7333,
+      50.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6167,
+      7.6733,
+      50.7167,
+      7.7933
+    ]
+  },
+  {
+    "id": "muendersbach",
+    "name": "Mündersbach",
+    "shortName": "MUEN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2314",
+    "center": [
+      7.7342,
+      50.6064
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5564,
+      7.6742,
+      50.6564,
+      7.7942
+    ]
+  },
+  {
+    "id": "mueschenbach",
+    "name": "Müschenbach",
+    "shortName": "MUES",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2315",
+    "center": [
+      7.7833,
+      50.6833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6333,
+      7.7233,
+      50.7333,
+      7.8433
+    ]
+  },
+  {
+    "id": "mutlangen",
+    "name": "Mutlangen",
+    "shortName": "MUT",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1339",
+    "center": [
+      9.7971,
+      48.8259
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7759,
+      9.7371,
+      48.8759,
+      9.8571
+    ]
+  },
+  {
+    "id": "nauort",
+    "name": "Nauort",
+    "shortName": "NAU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2359",
+    "center": [
+      7.6333,
+      50.4667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4167,
+      7.5733,
+      50.5167,
+      7.6933
+    ]
+  },
+  {
+    "id": "nentershausen-westerwaldkreis",
+    "name": "Nentershausen (Westerwaldkreis)",
+    "shortName": "NEN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2343",
+    "center": [
+      7.9333,
+      50.4167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3667,
+      7.8733,
+      50.4667,
+      7.9933
+    ]
+  },
+  {
+    "id": "neresheim",
+    "name": "Neresheim",
+    "shortName": "NER",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1340",
+    "center": [
+      10.3304,
+      48.7551
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7051,
+      10.2704,
+      48.8051,
+      10.3904
+    ]
+  },
+  {
+    "id": "neuenkirchen-kreis-steinfurt",
+    "name": "Neuenkirchen (Kreis Steinfurt)",
+    "shortName": "NEU",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2585",
+    "center": [
+      7.3718,
+      52.2447
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1947,
+      7.3118,
+      52.2947,
+      7.4318
+    ]
+  },
+  {
+    "id": "neuhaeusel",
+    "name": "Neuhäusel",
+    "shortName": "NEU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2344",
+    "center": [
+      7.7096,
+      50.3836
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3336,
+      7.6496,
+      50.4336,
+      7.7696
+    ]
+  },
+  {
+    "id": "neuler",
+    "name": "Neuler",
+    "shortName": "NEU",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1341",
+    "center": [
+      10.0689,
+      48.928
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.878,
+      10.0089,
+      48.978,
+      10.1289
+    ]
+  },
+  {
+    "id": "neunkhausen",
+    "name": "Neunkhausen",
+    "shortName": "NEU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2286",
+    "center": [
+      7.9028,
+      50.7072
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6572,
+      7.8428,
+      50.7572,
+      7.9628
+    ]
+  },
+  {
+    "id": "neunkirchen",
+    "name": "Neunkirchen",
+    "shortName": "NEU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2372",
+    "center": [
+      8.1039,
+      50.5469
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4969,
+      8.0439,
+      50.5969,
+      8.1639
+    ]
+  },
+  {
+    "id": "neustadt-westerwaldkreis",
+    "name": "Neustadt (Westerwaldkreis)",
+    "shortName": "NEU",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2373",
+    "center": [
+      8.0396,
+      50.6301
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6159,
+      8.0173,
+      50.633,
+      8.0535
+    ]
+  },
+  {
+    "id": "niederahr",
+    "name": "Niederahr",
+    "shortName": "NIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2420",
+    "center": [
+      7.8611,
+      50.4919
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4419,
+      7.8011,
+      50.5419,
+      7.9211
+    ]
+  },
+  {
+    "id": "niederelbert",
+    "name": "Niederelbert",
+    "shortName": "NIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2345",
+    "center": [
+      7.8099,
+      50.4078
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3578,
+      7.7499,
+      50.4578,
+      7.8699
+    ]
+  },
+  {
+    "id": "niedererbach",
+    "name": "Niedererbach",
+    "shortName": "NIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2346",
+    "center": [
+      7.9743,
+      50.4261
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3761,
+      7.9143,
+      50.4761,
+      8.0343
+    ]
+  },
+  {
+    "id": "niederrossbach",
+    "name": "Niederroßbach",
+    "shortName": "NIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2374",
+    "center": [
+      8.0344,
+      50.6417
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5917,
+      7.9744,
+      50.6917,
+      8.0944
+    ]
+  },
+  {
+    "id": "niedersayn",
+    "name": "Niedersayn",
+    "shortName": "NIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2461",
+    "center": [
+      7.8317,
+      50.5286
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4786,
+      7.7717,
+      50.5786,
+      7.8917
+    ]
+  },
+  {
+    "id": "nister",
+    "name": "Nister",
+    "shortName": "NIS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2316",
+    "center": [
+      7.8383,
+      50.6758
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6258,
+      7.7783,
+      50.7258,
+      7.8983
+    ]
+  },
+  {
+    "id": "nister-moehrendorf",
+    "name": "Nister-Möhrendorf",
+    "shortName": "NIS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2375",
+    "center": [
+      8.0776,
+      50.6556
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6056,
+      8.0176,
+      50.7056,
+      8.1376
+    ]
+  },
+  {
+    "id": "nisterau",
+    "name": "Nisterau",
+    "shortName": "NIS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2287",
+    "center": [
+      7.9879,
+      50.6582
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6082,
+      7.9279,
+      50.7082,
+      8.0479
+    ]
+  },
+  {
+    "id": "nistertal",
+    "name": "Nistertal",
+    "shortName": "NIS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2288",
+    "center": [
+      7.8992,
+      50.6296
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5796,
+      7.8392,
+      50.6796,
+      7.9592
+    ]
+  },
+  {
+    "id": "nomborn",
+    "name": "Nomborn",
+    "shortName": "NOM",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2347",
+    "center": [
+      7.9167,
+      50.4333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3833,
+      7.8567,
+      50.4833,
+      7.9767
+    ]
+  },
+  {
+    "id": "nordhofen",
+    "name": "Nordhofen",
+    "shortName": "NOR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2399",
+    "center": [
+      7.75,
+      50.5167
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4667,
+      7.69,
+      50.5667,
+      7.81
+    ]
+  },
+  {
+    "id": "nordwalde",
+    "name": "Nordwalde",
+    "shortName": "NOR",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2579",
+    "center": [
+      7.4833,
+      52.0833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.0333,
+      7.4233,
+      52.1333,
+      7.5433
+    ]
+  },
+  {
+    "id": "norken",
+    "name": "Norken",
+    "shortName": "NOR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2289",
+    "center": [
+      7.8978,
+      50.6728
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6228,
+      7.8378,
+      50.7228,
+      7.9578
+    ]
+  },
+  {
+    "id": "oberahr",
+    "name": "Oberahr",
+    "shortName": "OBE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2421",
+    "center": [
+      7.8667,
+      50.5
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.45,
+      7.8067,
+      50.55,
+      7.9267
+    ]
+  },
+  {
+    "id": "oberelbert",
+    "name": "Oberelbert",
+    "shortName": "OBE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2348",
+    "center": [
+      7.8172,
+      50.3917
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3417,
+      7.7572,
+      50.4417,
+      7.8772
+    ]
+  },
+  {
+    "id": "obererbach",
+    "name": "Obererbach",
+    "shortName": "OBE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2422",
+    "center": [
+      7.9667,
+      50.45
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4,
+      7.9067,
+      50.5,
+      8.0267
+    ]
+  },
+  {
+    "id": "obergroeningen",
+    "name": "Obergröningen",
+    "shortName": "OBE",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1342",
+    "center": [
+      9.9094,
+      48.8945
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8445,
+      9.8494,
+      48.9445,
+      9.9694
+    ]
+  },
+  {
+    "id": "oberhaid",
+    "name": "Oberhaid",
+    "shortName": "OBE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2360",
+    "center": [
+      10.8147,
+      49.9325
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.8825,
+      10.7547,
+      49.9825,
+      10.8747
+    ]
+  },
+  {
+    "id": "oberkochen",
+    "name": "Oberkochen",
+    "shortName": "OBE",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1343",
+    "center": [
+      10.1052,
+      48.7838
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7338,
+      10.0452,
+      48.8338,
+      10.1652
+    ]
+  },
+  {
+    "id": "oberrod",
+    "name": "Oberrod",
+    "shortName": "OBE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2376",
+    "center": [
+      8.1272,
+      50.585
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.535,
+      8.0672,
+      50.635,
+      8.1872
+    ]
+  },
+  {
+    "id": "oberrossbach",
+    "name": "Oberroßbach",
+    "shortName": "OBE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2377",
+    "center": [
+      8.0397,
+      50.6544
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6044,
+      7.9797,
+      50.7044,
+      8.0997
+    ]
+  },
+  {
+    "id": "ochtrup",
+    "name": "Ochtrup",
+    "shortName": "OCH",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2602",
+    "center": [
+      7.1903,
+      52.2105
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1605,
+      7.1303,
+      52.2605,
+      7.2503
+    ]
+  },
+  {
+    "id": "oerel",
+    "name": "Oerel",
+    "shortName": "OER",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470240",
+    "center": [
+      9.0614,
+      53.4826
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.4326,
+      9.0014,
+      53.5326,
+      9.1214
+    ]
+  },
+  {
+    "id": "ostereistedt",
+    "name": "Ostereistedt",
+    "shortName": "OST",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470248",
+    "center": [
+      9.1713,
+      53.3021
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2521,
+      9.1113,
+      53.3521,
+      9.2313
+    ]
+  },
+  {
+    "id": "oetzingen",
+    "name": "Ötzingen",
+    "shortName": "OETZ",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2462",
+    "center": [
+      7.8333,
+      50.5
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.45,
+      7.7733,
+      50.55,
+      7.8933
+    ]
+  },
+  {
+    "id": "pottum",
+    "name": "Pottum",
+    "shortName": "POT",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2445",
+    "center": [
+      8,
+      50.6
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.55,
+      7.94,
+      50.65,
+      8.06
+    ]
+  },
+  {
+    "id": "quirnbach",
+    "name": "Quirnbach",
+    "shortName": "QUI",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2400",
+    "center": [
+      7.7969,
+      50.5208
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4708,
+      7.7369,
+      50.5708,
+      7.8569
+    ]
+  },
+  {
+    "id": "rainau",
+    "name": "Rainau",
+    "shortName": "RAI",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1344",
+    "center": [
+      10.151,
+      48.9212
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8887,
+      10.1126,
+      48.9482,
+      10.2039
+    ]
+  },
+  {
+    "id": "ransbach-baumbach",
+    "name": "Ransbach-Baumbach",
+    "shortName": "RAN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2361",
+    "center": [
+      7.7283,
+      50.465
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.415,
+      7.6683,
+      50.515,
+      7.7883
+    ]
+  },
+  {
+    "id": "recke",
+    "name": "Recke",
+    "shortName": "REC",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2597",
+    "center": [
+      7.7212,
+      52.3689
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3189,
+      7.6612,
+      52.4189,
+      7.7812
+    ]
+  },
+  {
+    "id": "reessum",
+    "name": "Reeßum",
+    "shortName": "REE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470262",
+    "center": [
+      9.2062,
+      53.1317
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0817,
+      9.1462,
+      53.1817,
+      9.2662
+    ]
+  },
+  {
+    "id": "rehe",
+    "name": "Rehe",
+    "shortName": "REH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2378",
+    "center": [
+      8.1167,
+      50.6333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5833,
+      8.0567,
+      50.6833,
+      8.1767
+    ]
+  },
+  {
+    "id": "rennerod",
+    "name": "Rennerod",
+    "shortName": "REN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2379",
+    "center": [
+      8.067,
+      50.6082
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5582,
+      8.007,
+      50.6582,
+      8.127
+    ]
+  },
+  {
+    "id": "rhade",
+    "name": "Rhade",
+    "shortName": "RHA",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470293",
+    "center": [
+      9.1135,
+      53.3287
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2787,
+      9.0535,
+      53.3787,
+      9.1735
+    ]
+  },
+  {
+    "id": "rheine",
+    "name": "Rheine",
+    "shortName": "RHE",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2582",
+    "center": [
+      7.4413,
+      52.2822
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2322,
+      7.3813,
+      52.3322,
+      7.5013
+    ]
+  },
+  {
+    "id": "riesbuerg",
+    "name": "Riesbürg",
+    "shortName": "RIE",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1345",
+    "center": [
+      10.4355,
+      48.8568
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8068,
+      10.3755,
+      48.9068,
+      10.4955
+    ]
+  },
+  {
+    "id": "rosenberg",
+    "name": "Rosenberg",
+    "shortName": "ROS",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1346",
+    "center": [
+      10.0296,
+      49.0189
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9689,
+      9.9696,
+      49.0689,
+      10.0896
+    ]
+  },
+  {
+    "id": "rossbach-westerwaldkreis",
+    "name": "Roßbach (Westerwaldkreis)",
+    "shortName": "ROSS",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2317",
+    "center": [
+      7.4161,
+      50.575
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.525,
+      7.3561,
+      50.625,
+      7.4761
+    ]
+  },
+  {
+    "id": "rotenburg",
+    "name": "Rotenburg",
+    "shortName": "ROT",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1718",
+    "center": [
+      9.4036,
+      53.1103
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0603,
+      9.3436,
+      53.1603,
+      9.4636
+    ]
+  },
+  {
+    "id": "rotenhain",
+    "name": "Rotenhain",
+    "shortName": "ROT",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2446",
+    "center": [
+      7.8833,
+      50.6
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.55,
+      7.8233,
+      50.65,
+      7.9433
+    ]
+  },
+  {
+    "id": "rothenbach",
+    "name": "Rothenbach",
+    "shortName": "ROT",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2447",
+    "center": [
+      7.9033,
+      50.5642
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5142,
+      7.8433,
+      50.6142,
+      7.9633
+    ]
+  },
+  {
+    "id": "rueckeroth",
+    "name": "Rückeroth",
+    "shortName": "RUEC",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2401",
+    "center": [
+      7.7453,
+      50.5617
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5117,
+      7.6853,
+      50.6117,
+      7.8053
+    ]
+  },
+  {
+    "id": "ruppach-goldhausen",
+    "name": "Ruppach-Goldhausen",
+    "shortName": "RUP",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2349",
+    "center": [
+      7.8833,
+      50.4667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4167,
+      7.8233,
+      50.5167,
+      7.9433
+    ]
+  },
+  {
+    "id": "ruppertshofen",
+    "name": "Ruppertshofen",
+    "shortName": "RUP",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1347",
+    "center": [
+      9.8151,
+      48.8828
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8328,
+      9.7551,
+      48.9328,
+      9.8751
+    ]
+  },
+  {
+    "id": "saerbeck",
+    "name": "Saerbeck",
+    "shortName": "SAE",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2583",
+    "center": [
+      7.634,
+      52.1737
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1237,
+      7.574,
+      52.2237,
+      7.694
+    ]
+  },
+  {
+    "id": "salz",
+    "name": "Salz",
+    "shortName": "SAL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2423",
+    "center": [
+      7.9636,
+      50.51
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.46,
+      7.9036,
+      50.56,
+      8.0236
+    ]
+  },
+  {
+    "id": "salzburg",
+    "name": "Salzburg",
+    "shortName": "SAL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2380",
+    "center": [
+      8.05,
+      50.6667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6167,
+      7.99,
+      50.7167,
+      8.11
+    ]
+  },
+  {
+    "id": "sandbostel",
+    "name": "Sandbostel",
+    "shortName": "SAN",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470273",
+    "center": [
+      9.1293,
+      53.4093
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3593,
+      9.0693,
+      53.4593,
+      9.1893
+    ]
+  },
+  {
+    "id": "schechingen",
+    "name": "Schechingen",
+    "shortName": "SCH",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1348",
+    "center": [
+      9.9174,
+      48.8734
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8234,
+      9.8574,
+      48.9234,
+      9.9774
+    ]
+  },
+  {
+    "id": "scheessel",
+    "name": "Scheeßel",
+    "shortName": "SCH",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1719",
+    "center": [
+      9.4826,
+      53.1687
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1187,
+      9.4226,
+      53.2187,
+      9.5426
+    ]
+  },
+  {
+    "id": "schenkelberg",
+    "name": "Schenkelberg",
+    "shortName": "SCH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2402",
+    "center": [
+      7.7828,
+      50.5836
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5336,
+      7.7228,
+      50.6336,
+      7.8428
+    ]
+  },
+  {
+    "id": "schwaebisch-gmuend",
+    "name": "Schwäbisch Gmünd",
+    "shortName": "SCH",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1349",
+    "center": [
+      9.7981,
+      48.7995
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7495,
+      9.7381,
+      48.8495,
+      9.8581
+    ]
+  },
+  {
+    "id": "seck",
+    "name": "Seck",
+    "shortName": "SEC",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2381",
+    "center": [
+      8.0497,
+      50.5772
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5272,
+      7.9897,
+      50.6272,
+      8.1097
+    ]
+  },
+  {
+    "id": "seedorf-lk-rotenburg-wuemme",
+    "name": "Seedorf (LK Rotenburg (Wümme))",
+    "shortName": "SEE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470278",
+    "center": [
+      9.2269,
+      53.3505
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3005,
+      9.1669,
+      53.4005,
+      9.2869
+    ]
+  },
+  {
+    "id": "selsingen",
+    "name": "Selsingen",
+    "shortName": "SEL",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1720",
+    "center": [
+      9.2129,
+      53.3733
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3233,
+      9.1529,
+      53.4233,
+      9.2729
+    ]
+  },
+  {
+    "id": "selters",
+    "name": "Selters",
+    "shortName": "SEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2403",
+    "center": [
+      7.7558,
+      50.5325
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4825,
+      7.6958,
+      50.5825,
+      7.8158
+    ]
+  },
+  {
+    "id": "sessenbach",
+    "name": "Sessenbach",
+    "shortName": "SES",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2362",
+    "center": [
+      7.6444,
+      50.4769
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4269,
+      7.5844,
+      50.5269,
+      7.7044
+    ]
+  },
+  {
+    "id": "sessenhausen",
+    "name": "Sessenhausen",
+    "shortName": "SES",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2404",
+    "center": [
+      7.7137,
+      50.5272
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4772,
+      7.6537,
+      50.5772,
+      7.7737
+    ]
+  },
+  {
+    "id": "siershahn",
+    "name": "Siershahn",
+    "shortName": "SIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2463",
+    "center": [
+      7.7797,
+      50.4864
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4364,
+      7.7197,
+      50.5364,
+      7.8397
+    ]
+  },
+  {
+    "id": "simmern-westerwaldkreis",
+    "name": "Simmern (Westerwaldkreis)",
+    "shortName": "SIM",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2350",
+    "center": [
+      7.5235,
+      49.982
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.932,
+      7.4635,
+      50.032,
+      7.5835
+    ]
+  },
+  {
+    "id": "sittensen",
+    "name": "Sittensen",
+    "shortName": "SIT",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1721",
+    "center": [
+      9.5043,
+      53.2762
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2262,
+      9.4443,
+      53.3262,
+      9.5643
+    ]
+  },
+  {
+    "id": "sottrum",
+    "name": "Sottrum",
+    "shortName": "SOT",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1722",
+    "center": [
+      9.2323,
+      53.1136
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.0636,
+      9.1723,
+      53.1636,
+      9.2923
+    ]
+  },
+  {
+    "id": "spraitbach",
+    "name": "Spraitbach",
+    "shortName": "SPR",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1350",
+    "center": [
+      9.7622,
+      48.8807
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8307,
+      9.7022,
+      48.9307,
+      9.8222
+    ]
+  },
+  {
+    "id": "stahlhofen",
+    "name": "Stahlhofen",
+    "shortName": "STA",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2351",
+    "center": [
+      7.8594,
+      50.3939
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3439,
+      7.7994,
+      50.4439,
+      7.9194
+    ]
+  },
+  {
+    "id": "stahlhofen-am-wiesensee",
+    "name": "Stahlhofen am Wiesensee",
+    "shortName": "STA",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2448",
+    "center": [
+      7.9891,
+      50.5873
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5373,
+      7.9291,
+      50.6373,
+      8.0491
+    ]
+  },
+  {
+    "id": "staudt",
+    "name": "Staudt",
+    "shortName": "STA",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2464",
+    "center": [
+      7.8333,
+      50.4667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4167,
+      7.7733,
+      50.5167,
+      7.8933
+    ]
+  },
+  {
+    "id": "stein-neukirch",
+    "name": "Stein-Neukirch",
+    "shortName": "STE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2382",
+    "center": [
+      8.0547,
+      50.6761
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6261,
+      7.9947,
+      50.7261,
+      8.1147
+    ]
+  },
+  {
+    "id": "stein-wingert",
+    "name": "Stein-Wingert",
+    "shortName": "STE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2319",
+    "center": [
+      7.7408,
+      50.7225
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6725,
+      7.6808,
+      50.7725,
+      7.8008
+    ]
+  },
+  {
+    "id": "steinebach-an-der-wied",
+    "name": "Steinebach an der Wied",
+    "shortName": "STE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2318",
+    "center": [
+      7.8033,
+      50.6107
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5607,
+      7.7433,
+      50.6607,
+      7.8633
+    ]
+  },
+  {
+    "id": "steinefrenz",
+    "name": "Steinefrenz",
+    "shortName": "STE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2424",
+    "center": [
+      7.9331,
+      50.4593
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4093,
+      7.8731,
+      50.5093,
+      7.9931
+    ]
+  },
+  {
+    "id": "steinen",
+    "name": "Steinen",
+    "shortName": "STE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2405",
+    "center": [
+      7.8,
+      50.5833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5333,
+      7.74,
+      50.6333,
+      7.86
+    ]
+  },
+  {
+    "id": "steinfurt",
+    "name": "Steinfurt",
+    "shortName": "STE",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2588",
+    "center": [
+      7.3366,
+      52.1505
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1005,
+      7.2766,
+      52.2005,
+      7.3966
+    ]
+  },
+  {
+    "id": "stemmen",
+    "name": "Stemmen",
+    "shortName": "STE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470127",
+    "center": [
+      9.5531,
+      53.2242
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1742,
+      9.4931,
+      53.2742,
+      9.6131
+    ]
+  },
+  {
+    "id": "stockhausen-illfurth",
+    "name": "Stockhausen-Illfurth",
+    "shortName": "STO",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2290",
+    "center": [
+      7.9875,
+      50.6467
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5967,
+      7.9275,
+      50.6967,
+      8.0475
+    ]
+  },
+  {
+    "id": "stockum-pueschen",
+    "name": "Stockum-Püschen",
+    "shortName": "STO",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2449",
+    "center": [
+      7.9036,
+      50.6047
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5547,
+      7.8436,
+      50.6547,
+      7.9636
+    ]
+  },
+  {
+    "id": "stoedtlen",
+    "name": "Stödtlen",
+    "shortName": "STOE",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1351",
+    "center": [
+      10.3,
+      49
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.95,
+      10.24,
+      49.05,
+      10.36
+    ]
+  },
+  {
+    "id": "streithausen",
+    "name": "Streithausen",
+    "shortName": "STR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2320",
+    "center": [
+      7.8153,
+      50.6936
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6436,
+      7.7553,
+      50.7436,
+      7.8753
+    ]
+  },
+  {
+    "id": "taeferrot",
+    "name": "Täferrot",
+    "shortName": "TAEF",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1352",
+    "center": [
+      9.8382,
+      48.8497
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7997,
+      9.7782,
+      48.8997,
+      9.8982
+    ]
+  },
+  {
+    "id": "tannhausen",
+    "name": "Tannhausen",
+    "shortName": "TAN",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1353",
+    "center": [
+      10.3613,
+      48.9787
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9287,
+      10.3013,
+      49.0287,
+      10.4213
+    ]
+  },
+  {
+    "id": "tarmstedt",
+    "name": "Tarmstedt",
+    "shortName": "TAR",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1723",
+    "center": [
+      9.0776,
+      53.2251
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1751,
+      9.0176,
+      53.2751,
+      9.1376
+    ]
+  },
+  {
+    "id": "tecklenburg",
+    "name": "Tecklenburg",
+    "shortName": "TEC",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2590",
+    "center": [
+      7.8146,
+      52.2191
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1691,
+      7.7546,
+      52.2691,
+      7.8746
+    ]
+  },
+  {
+    "id": "tiste",
+    "name": "Tiste",
+    "shortName": "TIS",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470291",
+    "center": [
+      9.5331,
+      53.2868
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2368,
+      9.4731,
+      53.3368,
+      9.5931
+    ]
+  },
+  {
+    "id": "unnau",
+    "name": "Unnau",
+    "shortName": "UNN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2291",
+    "center": [
+      7.9083,
+      50.6488
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5988,
+      7.8483,
+      50.6988,
+      7.9683
+    ]
+  },
+  {
+    "id": "unterschneidheim",
+    "name": "Unterschneidheim",
+    "shortName": "UNT",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1354",
+    "center": [
+      10.3667,
+      48.9333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8833,
+      10.3067,
+      48.9833,
+      10.4267
+    ]
+  },
+  {
+    "id": "untershausen",
+    "name": "Untershausen",
+    "shortName": "UNT",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2352",
+    "center": [
+      7.8442,
+      50.4009
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3509,
+      7.7842,
+      50.4509,
+      7.9042
+    ]
+  },
+  {
+    "id": "vahlde",
+    "name": "Vahlde",
+    "shortName": "VAH",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470294",
+    "center": [
+      9.6321,
+      53.1851
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1351,
+      9.5721,
+      53.2351,
+      9.6921
+    ]
+  },
+  {
+    "id": "vielbach",
+    "name": "Vielbach",
+    "shortName": "VIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2406",
+    "center": [
+      7.7719,
+      50.5106
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4606,
+      7.7119,
+      50.5606,
+      7.8319
+    ]
+  },
+  {
+    "id": "vierden",
+    "name": "Vierden",
+    "shortName": "VIE",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470298",
+    "center": [
+      9.5066,
+      53.3295
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2795,
+      9.4466,
+      53.3795,
+      9.5666
+    ]
+  },
+  {
+    "id": "visselhoevede",
+    "name": "Visselhövede",
+    "shortName": "VIS",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1724",
+    "center": [
+      9.581,
+      52.9861
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9361,
+      9.521,
+      53.0361,
+      9.641
+    ]
+  },
+  {
+    "id": "vorwerk",
+    "name": "Vorwerk",
+    "shortName": "VOR",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470301",
+    "center": [
+      9.1528,
+      53.1904
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1404,
+      9.0928,
+      53.2404,
+      9.2128
+    ]
+  },
+  {
+    "id": "wahlrod",
+    "name": "Wahlrod",
+    "shortName": "WAH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2321",
+    "center": [
+      7.7167,
+      50.65
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6,
+      7.6567,
+      50.7,
+      7.7767
+    ]
+  },
+  {
+    "id": "waigandshain",
+    "name": "Waigandshain",
+    "shortName": "WAI",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2383",
+    "center": [
+      8.0853,
+      50.6447
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5947,
+      8.0253,
+      50.6947,
+      8.1453
+    ]
+  },
+  {
+    "id": "waldmuehlen",
+    "name": "Waldmühlen",
+    "shortName": "WAL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2384",
+    "center": [
+      8.0667,
+      50.5833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5333,
+      8.0067,
+      50.6333,
+      8.1267
+    ]
+  },
+  {
+    "id": "waldstetten-ostalbkreis",
+    "name": "Waldstetten (Ostalbkreis)",
+    "shortName": "WAL",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1355",
+    "center": [
+      9.8214,
+      48.7662
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.7162,
+      9.7614,
+      48.8162,
+      9.8814
+    ]
+  },
+  {
+    "id": "wallmerod",
+    "name": "Wallmerod",
+    "shortName": "WAL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2425",
+    "center": [
+      7.95,
+      50.4833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4333,
+      7.89,
+      50.5333,
+      8.01
+    ]
+  },
+  {
+    "id": "weidenhahn",
+    "name": "Weidenhahn",
+    "shortName": "WEI",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2407",
+    "center": [
+      7.8339,
+      50.5472
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4972,
+      7.7739,
+      50.5972,
+      7.8939
+    ]
+  },
+  {
+    "id": "welkenbach",
+    "name": "Welkenbach",
+    "shortName": "WEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2322",
+    "center": [
+      7.7264,
+      50.6333
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5833,
+      7.6664,
+      50.6833,
+      7.7864
+    ]
+  },
+  {
+    "id": "welschneudorf",
+    "name": "Welschneudorf",
+    "shortName": "WEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2353",
+    "center": [
+      7.7981,
+      50.3733
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.3233,
+      7.7381,
+      50.4233,
+      7.8581
+    ]
+  },
+  {
+    "id": "weltersburg",
+    "name": "Weltersburg",
+    "shortName": "WEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2450",
+    "center": [
+      7.9606,
+      50.5323
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4823,
+      7.9006,
+      50.5823,
+      8.0206
+    ]
+  },
+  {
+    "id": "weroth",
+    "name": "Weroth",
+    "shortName": "WER",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2426",
+    "center": [
+      7.9484,
+      50.4604
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4104,
+      7.8884,
+      50.5104,
+      8.0084
+    ]
+  },
+  {
+    "id": "westerburg",
+    "name": "Westerburg",
+    "shortName": "WES",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2451",
+    "center": [
+      7.9748,
+      50.5594
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5094,
+      7.9148,
+      50.6094,
+      8.0348
+    ]
+  },
+  {
+    "id": "westerkappeln",
+    "name": "Westerkappeln",
+    "shortName": "WES",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2587",
+    "center": [
+      7.8769,
+      52.3156
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.2656,
+      7.8169,
+      52.3656,
+      7.9369
+    ]
+  },
+  {
+    "id": "westernohe",
+    "name": "Westernohe",
+    "shortName": "WES",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2385",
+    "center": [
+      8.1003,
+      50.5892
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5392,
+      8.0403,
+      50.6392,
+      8.1603
+    ]
+  },
+  {
+    "id": "westertimke",
+    "name": "Westertimke",
+    "shortName": "WES",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470313",
+    "center": [
+      9.1308,
+      53.237
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.187,
+      9.0708,
+      53.287,
+      9.1908
+    ]
+  },
+  {
+    "id": "westerwalsede",
+    "name": "Westerwalsede",
+    "shortName": "WES",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470315",
+    "center": [
+      9.363,
+      53.0323
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.9823,
+      9.303,
+      53.0823,
+      9.423
+    ]
+  },
+  {
+    "id": "westhausen",
+    "name": "Westhausen",
+    "shortName": "WES",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1356",
+    "center": [
+      10.1833,
+      48.8833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.8333,
+      10.1233,
+      48.9333,
+      10.2433
+    ]
+  },
+  {
+    "id": "wettringen-kreis-steinfurt",
+    "name": "Wettringen (Kreis Steinfurt)",
+    "shortName": "WET",
+    "serviceKey": "e21758b9c711463552fb9c70ac7d4273",
+    "kommuneId": "2599",
+    "center": [
+      7.319,
+      52.2094
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.1594,
+      7.259,
+      52.2594,
+      7.379
+    ]
+  },
+  {
+    "id": "wied",
+    "name": "Wied",
+    "shortName": "WIE",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2323",
+    "center": [
+      7.7572,
+      50.6392
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5892,
+      7.6972,
+      50.6892,
+      7.8172
+    ]
+  },
+  {
+    "id": "willingen",
+    "name": "Willingen",
+    "shortName": "WIL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2386",
+    "center": [
+      8.0877,
+      50.6676
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6176,
+      8.0277,
+      50.7176,
+      8.1477
+    ]
+  },
+  {
+    "id": "willmenrod",
+    "name": "Willmenrod",
+    "shortName": "WIL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2452",
+    "center": [
+      7.9814,
+      50.5414
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4914,
+      7.9214,
+      50.5914,
+      8.0414
+    ]
+  },
+  {
+    "id": "wilstedt",
+    "name": "Wilstedt",
+    "shortName": "WIL",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470317",
+    "center": [
+      9.096,
+      53.1949
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1449,
+      9.036,
+      53.2449,
+      9.156
+    ]
+  },
+  {
+    "id": "winkelbach",
+    "name": "Winkelbach",
+    "shortName": "WIN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2324",
+    "center": [
+      7.7331,
+      50.6497
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5997,
+      7.6731,
+      50.6997,
+      7.7931
+    ]
+  },
+  {
+    "id": "winnen",
+    "name": "Winnen",
+    "shortName": "WIN",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2453",
+    "center": [
+      8.0117,
+      50.5733
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5233,
+      7.9517,
+      50.6233,
+      8.0717
+    ]
+  },
+  {
+    "id": "wirges",
+    "name": "Wirges",
+    "shortName": "WIR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2465",
+    "center": [
+      7.7984,
+      50.472
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.422,
+      7.7384,
+      50.522,
+      7.8584
+    ]
+  },
+  {
+    "id": "wirscheid",
+    "name": "Wirscheid",
+    "shortName": "WIR",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2363",
+    "center": [
+      7.6667,
+      50.4667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4167,
+      7.6067,
+      50.5167,
+      7.7267
+    ]
+  },
+  {
+    "id": "wittgert",
+    "name": "Wittgert",
+    "shortName": "WIT",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2364",
+    "center": [
+      7.7,
+      50.5
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.45,
+      7.64,
+      50.55,
+      7.76
+    ]
+  },
+  {
+    "id": "wohnste",
+    "name": "Wohnste",
+    "shortName": "WOH",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "87263470324",
+    "center": [
+      9.5264,
+      53.3559
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3059,
+      9.4664,
+      53.4059,
+      9.5864
+    ]
+  },
+  {
+    "id": "woelferlingen",
+    "name": "Wölferlingen",
+    "shortName": "WOEL",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2408",
+    "center": [
+      7.8511,
+      50.5644
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5144,
+      7.7911,
+      50.6144,
+      7.9111
+    ]
+  },
+  {
+    "id": "woert",
+    "name": "Wört",
+    "shortName": "WOER",
+    "serviceKey": "3ca331fb42d25e25f95014693ebcf855",
+    "kommuneId": "1357",
+    "center": [
+      10.2724,
+      49.0305
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.9805,
+      10.2124,
+      49.0805,
+      10.3324
+    ]
+  },
+  {
+    "id": "zehnhausen-bei-rennerod",
+    "name": "Zehnhausen bei Rennerod",
+    "shortName": "ZEH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2387",
+    "center": [
+      8.0597,
+      50.6472
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5972,
+      7.9997,
+      50.6972,
+      8.1197
+    ]
+  },
+  {
+    "id": "zehnhausen-bei-wallmerod",
+    "name": "Zehnhausen bei Wallmerod",
+    "shortName": "ZEH",
+    "serviceKey": "248deacbb49b06e868d29cb53c8ef034",
+    "kommuneId": "2427",
+    "center": [
+      7.9236,
+      50.4761
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4261,
+      7.8636,
+      50.5261,
+      7.9836
+    ]
+  },
+  {
+    "id": "zeven",
+    "name": "Zeven",
+    "shortName": "ZEV",
+    "serviceKey": "645adb3c27370a61f7eabbb2039de4f1",
+    "kommuneId": "1725",
+    "center": [
+      9.2756,
+      53.2957
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2457,
+      9.2156,
+      53.3457,
+      9.3356
+    ]
+  }
+]
