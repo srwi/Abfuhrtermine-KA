@@ -162,22 +162,16 @@ export class CTraceFetcher implements CityFetcher {
 
     try {
       let hnrs: string[] = [];
-      if (this.serviceType === 'direct') {
-        const res = await fetch(
-          `${baseUrl}/Data/Hausnummern?ort=${encodeURIComponent(this.ort || '')}&strasse=${encodeURIComponent(street)}`
-        );
-        if (res.ok) {
-          const json = await res.json();
-          if (Array.isArray(json)) hnrs = json.filter((h: string) => Boolean(h && h.trim()));
-        }
-      } else {
-        const params = new URLSearchParams({ ort: this.ort || '', strasse: street });
-        if (this.ortsteil) params.set('ortsteil', this.ortsteil);
-        const res = await fetch(`${baseUrl}/Hausnummern?${params.toString()}`);
-        if (res.ok) {
-          const json = await res.json();
-          if (Array.isArray(json)) hnrs = json.filter((h: string) => Boolean(h && h.trim()));
-        }
+      const params = new URLSearchParams({ ort: this.ort || '', strasse: street });
+      if (this.ortsteil) params.set('ortsteil', this.ortsteil);
+
+      let res = await fetch(`${baseUrl}/Hausnummern?${params.toString()}`);
+      if (!res.ok) {
+        res = await fetch(`${baseUrl}/Data/Hausnummern?${params.toString()}`);
+      }
+      if (res.ok) {
+        const json = await res.json();
+        if (Array.isArray(json)) hnrs = json.filter((h: string) => Boolean(h && h.trim()));
       }
 
       const hnr = hnrs.length > 0 ? hnrs[0] : '1';
@@ -270,7 +264,7 @@ export class CTraceFetcher implements CityFetcher {
         results.set(normalized, {});
       } finally {
         completed++;
-        if (completed % 100 === 0 || completed === targetStreets.length) {
+        if (completed % 50 === 0 || completed === targetStreets.length) {
           console.log(`[${this.name}] Progress: ${completed}/${targetStreets.length} streets fetched.`);
         }
       }
