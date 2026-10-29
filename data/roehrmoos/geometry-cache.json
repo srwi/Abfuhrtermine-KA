@@ -1,0 +1,307 @@
+{
+  "generatedAt": "2026-10-29T08:04:43.054Z",
+  "streets": [
+    {
+      "street": "Arzbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Biberbach",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.470786,
+            48.3551894
+          ],
+          [
+            11.4721826,
+            48.3551244
+          ],
+          [
+            11.4745804,
+            48.3547548
+          ],
+          [
+            11.475058,
+            48.3546453
+          ],
+          [
+            11.4751761,
+            48.35457
+          ],
+          [
+            11.4789016,
+            48.3539543
+          ],
+          [
+            11.4791919,
+            48.3539484
+          ],
+          [
+            11.4800217,
+            48.3539675
+          ],
+          [
+            11.4826658,
+            48.3535763
+          ],
+          [
+            11.4867408,
+            48.3526314
+          ],
+          [
+            11.4883876,
+            48.3519529
+          ],
+          [
+            11.4887942,
+            48.3517964
+          ],
+          [
+            11.4899646,
+            48.3516641
+          ],
+          [
+            11.4902224,
+            48.3516162
+          ],
+          [
+            11.4907961,
+            48.3513788
+          ],
+          [
+            11.4940271,
+            48.349946
+          ],
+          [
+            11.4949668,
+            48.349568
+          ],
+          [
+            11.4961776,
+            48.349075
+          ],
+          [
+            11.4970546,
+            48.3486213
+          ],
+          [
+            11.4974473,
+            48.3485384
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Durchsamsried",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4961095,
+            48.3294656
+          ],
+          [
+            11.4962461,
+            48.3294911
+          ],
+          [
+            11.4964365,
+            48.3295267
+          ],
+          [
+            11.4966296,
+            48.3295749
+          ],
+          [
+            11.4968368,
+            48.3296511
+          ],
+          [
+            11.4971715,
+            48.3298057
+          ],
+          [
+            11.4976323,
+            48.3300235
+          ],
+          [
+            11.49794,
+            48.3301305
+          ],
+          [
+            11.4982359,
+            48.3301964
+          ],
+          [
+            11.4984564,
+            48.3302352
+          ],
+          [
+            11.4986887,
+            48.3302494
+          ],
+          [
+            11.4991115,
+            48.3302566
+          ],
+          [
+            11.4997183,
+            48.330232
+          ],
+          [
+            11.5006712,
+            48.3301759
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Grossinzemoos",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Kleininzemoos",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Lindenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Mariabrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Purtlhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Riedenzhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Röhrmoos Ort (östlich der Bahnlinie)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Röhrmoos Ort (westlich der Bahnlinie)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Rudelzhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Schillhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Schönbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Sigmertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Stidlhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    },
+    {
+      "street": "Zieglberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4467,
+          48.3297
+        ]
+      }
+    }
+  ]
+}

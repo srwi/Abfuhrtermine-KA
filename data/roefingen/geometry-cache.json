@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T08:02:50.223Z",
+  "streets": [
+    {
+      "street": "Röfingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4427,
+          48.4244
+        ]
+      }
+    },
+    {
+      "street": "Rosshaupten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4427,
+          48.4244
+        ]
+      }
+    }
+  ]
+}

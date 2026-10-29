@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:01:47.119Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Rödelwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4297,
+          50.7803
+        ]
+      }
+    }
+  ]
+}

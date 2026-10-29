@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:05:12.399Z",
+  "streets": [
+    {
+      "street": "SOK-Röppisch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6813,
+          50.5094
+        ]
+      }
+    }
+  ]
+}

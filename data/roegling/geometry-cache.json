@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:03:00.937Z",
+  "streets": [
+    {
+      "street": "Rögling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95,
+          48.85
+        ]
+      }
+    }
+  ]
+}

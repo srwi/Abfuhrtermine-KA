@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:05:23.306Z",
+  "streets": [
+    {
+      "street": "SOK-Rosendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7833,
+          50.7667
+        ]
+      }
+    }
+  ]
+}

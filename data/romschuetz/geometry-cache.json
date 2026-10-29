@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:05:01.859Z",
+  "streets": [
+    {
+      "street": "Romschütz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3561,
+          50.9644
+        ]
+      }
+    }
+  ]
+}

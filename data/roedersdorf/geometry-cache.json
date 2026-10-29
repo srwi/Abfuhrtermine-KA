@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:02:29.495Z",
+  "streets": [
+    {
+      "street": "SOK-Rödersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4577,
+          47.4808
+        ]
+      }
+    }
+  ]
+}

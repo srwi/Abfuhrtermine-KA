@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:02:40.371Z",
+  "streets": [
+    {
+      "street": "Rödigen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3862,
+          51.0004
+        ]
+      }
+    }
+  ]
+}
