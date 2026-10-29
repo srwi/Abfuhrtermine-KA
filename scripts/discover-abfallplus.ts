@@ -102,6 +102,11 @@ const TARGET_SERVICES: TargetService[] = [
     name: 'Landkreis Märkisch-Oderland',
     region: 'Landkreis Märkisch-Oderland, Brandenburg',
     serviceKey: 'efb75cbd1f08fae1d4e47ae72a85c655'
+  },
+  {
+    name: 'Landkreis Calw',
+    region: 'Landkreis Calw, Baden-Württemberg',
+    serviceKey: '0813ea99f520c462373386564a99a51e'
   }
 ];
 
@@ -278,18 +283,22 @@ async function main() {
         if (!city.name) continue;
         const normName = city.name.toLowerCase().trim();
 
+        let cityName = city.name;
         if (knownNames.has(normName)) {
-          // Already in catalog
-          continue;
+          // If already in catalog from another region, disambiguate name
+          cityName = `${city.name} (${target.name.replace('Landkreis ', 'LK ')})`;
+          if (knownNames.has(cityName.toLowerCase().trim())) {
+            continue;
+          }
         }
 
-        let id = slugify(city.name);
+        let id = slugify(cityName);
         if (knownIds.has(id)) {
           id = `${id}-${slugify(target.name)}`;
         }
         if (knownIds.has(id)) continue;
 
-        console.log(`Geocoding: ${city.name} (${target.region})...`);
+        console.log(`Geocoding: ${cityName} (${target.region})...`);
         const geo = await geocode(city.name, target.region);
         if (!geo) {
           console.warn(`  ⚠️ Could not geocode "${city.name}", skipping.`);
@@ -297,11 +306,11 @@ async function main() {
           continue;
         }
 
-        const shortName = makeShortName(city.name);
+        const shortName = makeShortName(cityName);
 
         const apEntry: AbfallPlusConfig = {
           id,
-          name: city.name,
+          name: cityName,
           shortName,
           apiKey,
           cityId: city.id,
@@ -314,7 +323,7 @@ async function main() {
 
         const cityEntry: CityInfo = {
           id,
-          name: city.name,
+          name: cityName,
           shortName,
           center: geo.center,
           defaultZoom: 12,
@@ -324,10 +333,11 @@ async function main() {
         existingAbfallPlus.push(apEntry);
         existingCities.push(cityEntry);
         knownIds.add(id);
+        knownNames.add(cityName.toLowerCase().trim());
         knownNames.add(normName);
         addedCount++;
 
-        console.log(`  ✅ Added: ${city.name} (${id}) [${geo.center.join(', ')}]`);
+        console.log(`  ✅ Added: ${cityName} (${id}) [${geo.center.join(', ')}]`);
 
         // Small polite delay
         await new Promise((r) => setTimeout(r, 200));
