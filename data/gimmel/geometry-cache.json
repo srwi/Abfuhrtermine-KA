@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:25:41.632Z",
+  "streets": [
+    {
+      "street": "Gimmel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.321,
+          50.9284
+        ]
+      }
+    }
+  ]
+}

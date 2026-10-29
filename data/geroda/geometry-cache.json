@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:23:14.297Z",
+  "streets": [
+    {
+      "street": "SOK-Geroda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          50.7667
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:23:57.620Z",
+  "streets": [
+    {
+      "street": "Gerstenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4375,
+          51.0308
+        ]
+      }
+    }
+  ]
+}

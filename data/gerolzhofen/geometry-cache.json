@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:23:35.774Z",
+  "streets": [
+    {
+      "street": "Gerolzhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3483,
+          49.9003
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:24:06.366Z",
+  "streets": [
+    {
+      "street": "SOK-Gertewitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65,
+          50.6833
+        ]
+      }
+    }
+  ]
+}

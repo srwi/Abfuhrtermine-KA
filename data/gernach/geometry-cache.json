@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:23:05.391Z",
+  "streets": [
+    {
+      "street": "Gernach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.235,
+          49.9446
+        ]
+      }
+    }
+  ]
+}
