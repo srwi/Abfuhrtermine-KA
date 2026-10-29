@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:08:30.820Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Neuenbeuthen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5895,
+          50.5765
+        ]
+      }
+    }
+  ]
+}

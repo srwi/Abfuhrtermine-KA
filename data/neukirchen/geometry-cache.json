@@ -1,0 +1,807 @@
+{
+  "generatedAt": "2026-10-29T07:09:29.503Z",
+  "streets": [
+    {
+      "street": "Adligstadt 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Atzlbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Au",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Bach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Badweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Barbarastr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Bergknappenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Bergstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Fuchssteig 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Gierstling 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Graben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Grub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Gschwend",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Hinterloh 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Hochhorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Hochhorner Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Hörbering",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Jahnstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Kendl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Kirchplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Krainwinkl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Loch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Mauerreuten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Mitterstatt 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Mitterweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Oberachthal 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Oberreut",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Oberreuter Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Oberwurzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Pfarrhofweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Point",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Pointner Au",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Rainer 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Rainerfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Schütz 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Schwarzenberg 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Schwarzenberger Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Siegsdorfer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Sonnenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Spittenreut",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "St.-Ulrich-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Stadl 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Strussberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Surbergbichl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Vorderloh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Wald",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.2294104,
+              47.2470285
+            ],
+            [
+              12.2290855,
+              47.2470271
+            ],
+            [
+              12.2287087,
+              47.2470595
+            ],
+            [
+              12.2284785,
+              47.2470692
+            ],
+            [
+              12.2282958,
+              47.247057
+            ],
+            [
+              12.228181,
+              47.2470417
+            ],
+            [
+              12.2281047,
+              47.2470263
+            ]
+          ],
+          [
+            [
+              12.2270762,
+              47.2469473
+            ],
+            [
+              12.2269975,
+              47.2469389
+            ],
+            [
+              12.2265691,
+              47.2468201
+            ],
+            [
+              12.2264335,
+              47.2467802
+            ],
+            [
+              12.2262137,
+              47.2467557
+            ],
+            [
+              12.2260692,
+              47.2467625
+            ]
+          ],
+          [
+            [
+              12.2259914,
+              47.2483786
+            ],
+            [
+              12.2262139,
+              47.248281
+            ],
+            [
+              12.2262901,
+              47.2482369
+            ],
+            [
+              12.2264002,
+              47.2481732
+            ],
+            [
+              12.2265354,
+              47.2481133
+            ],
+            [
+              12.2268463,
+              47.2480012
+            ],
+            [
+              12.227021,
+              47.247912
+            ],
+            [
+              12.2270867,
+              47.2478735
+            ],
+            [
+              12.227135,
+              47.2478289
+            ],
+            [
+              12.2273367,
+              47.2476409
+            ],
+            [
+              12.2274825,
+              47.2475238
+            ],
+            [
+              12.2275753,
+              47.2474811
+            ],
+            [
+              12.2277352,
+              47.2474474
+            ],
+            [
+              12.2278976,
+              47.2474452
+            ],
+            [
+              12.2281161,
+              47.2474615
+            ],
+            [
+              12.2282345,
+              47.2474773
+            ],
+            [
+              12.2282887,
+              47.2474777
+            ],
+            [
+              12.2283384,
+              47.247456
+            ],
+            [
+              12.2283598,
+              47.2474306
+            ],
+            [
+              12.2283626,
+              47.2474105
+            ],
+            [
+              12.2282955,
+              47.2473377
+            ],
+            [
+              12.228207,
+              47.2472121
+            ],
+            [
+              12.2281668,
+              47.2471392
+            ],
+            [
+              12.2281721,
+              47.2470673
+            ],
+            [
+              12.228181,
+              47.2470417
+            ]
+          ],
+          [
+            [
+              12.2288667,
+              47.2477865
+            ],
+            [
+              12.2287192,
+              47.2476226
+            ],
+            [
+              12.2286985,
+              47.2475744
+            ],
+            [
+              12.228667,
+              47.2475343
+            ],
+            [
+              12.2286148,
+              47.2475148
+            ],
+            [
+              12.2285566,
+              47.2475054
+            ],
+            [
+              12.2284644,
+              47.2474842
+            ],
+            [
+              12.2283598,
+              47.2474306
+            ]
+          ],
+          [
+            [
+              12.2232032,
+              47.2484089
+            ],
+            [
+              12.2234591,
+              47.2484069
+            ],
+            [
+              12.2238608,
+              47.2484231
+            ],
+            [
+              12.2242953,
+              47.2484312
+            ],
+            [
+              12.2244768,
+              47.2484493
+            ],
+            [
+              12.2246125,
+              47.2484741
+            ],
+            [
+              12.2248302,
+              47.248507
+            ],
+            [
+              12.2250254,
+              47.2485264
+            ],
+            [
+              12.2251196,
+              47.2485463
+            ],
+            [
+              12.2253504,
+              47.2485833
+            ],
+            [
+              12.2254111,
+              47.2485672
+            ],
+            [
+              12.2256314,
+              47.2484978
+            ],
+            [
+              12.2259914,
+              47.2483786
+            ]
+          ],
+          [
+            [
+              12.2281047,
+              47.2470263
+            ],
+            [
+              12.2278131,
+              47.2469625
+            ],
+            [
+              12.227631,
+              47.2469423
+            ]
+          ],
+          [
+            [
+              12.227631,
+              47.2469423
+            ],
+            [
+              12.2271336,
+              47.2469535
+            ],
+            [
+              12.2270762,
+              47.2469473
+            ]
+          ],
+          [
+            [
+              12.2260692,
+              47.2467625
+            ],
+            [
+              12.2255455,
+              47.2467871
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Waldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Weitwies",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Wetzelsberg 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    },
+    {
+      "street": "Wildberg 1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2759,
+          47.2505
+        ]
+      }
+    }
+  ]
+}

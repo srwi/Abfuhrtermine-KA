@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:10:50.019Z",
+  "streets": [
+    {
+      "street": "Neupoderschau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2949,
+          51.0219
+        ]
+      }
+    }
+  ]
+}

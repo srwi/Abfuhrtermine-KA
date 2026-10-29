@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:10:33.428Z",
+  "streets": [
+    {
+      "street": "SOK-Neumühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1713,
+          50.7027
+        ]
+      }
+    }
+  ]
+}

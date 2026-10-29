@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:10:41.436Z",
+  "streets": [
+    {
+      "street": "SOK-Neunhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7144,
+          50.7268
+        ]
+      }
+    }
+  ]
+}
