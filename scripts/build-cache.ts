@@ -131,7 +131,12 @@ function waysToGeoJson(ways: Array<{ geometry?: Array<{ lat: number; lon: number
   const lines: number[][][] = [];
   for (const way of ways) {
     if (!way.geometry || way.geometry.length < 2) continue;
-    lines.push(way.geometry.map((node) => [node.lon, node.lat]));
+    const coords = way.geometry
+      .filter((node): node is { lat: number; lon: number } => Boolean(node && typeof node.lat === 'number' && typeof node.lon === 'number'))
+      .map((node) => [node.lon, node.lat]);
+    if (coords.length >= 2) {
+      lines.push(coords);
+    }
   }
   if (lines.length === 0) return null;
   if (lines.length === 1) return { type: 'LineString', coordinates: lines[0] };
