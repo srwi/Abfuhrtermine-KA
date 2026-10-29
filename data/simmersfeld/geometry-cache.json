@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T18:04:43.771Z",
+  "streets": [
+    {
+      "street": "Aichhalden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5167,
+          48.6167
+        ]
+      }
+    },
+    {
+      "street": "Beuren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5167,
+          48.6167
+        ]
+      }
+    },
+    {
+      "street": "Ettmannsweiler",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5167,
+          48.6167
+        ]
+      }
+    },
+    {
+      "street": "Fünfbronn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5167,
+          48.6167
+        ]
+      }
+    },
+    {
+      "street": "Oberweiler",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5167,
+          48.6167
+        ]
+      }
+    },
+    {
+      "street": "Simmersfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5167,
+          48.6167
+        ]
+      }
+    }
+  ]
+}

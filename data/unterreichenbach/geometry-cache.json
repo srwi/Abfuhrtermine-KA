@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T18:05:11.794Z",
+  "streets": [
+    {
+      "street": "Dennjächt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7089,
+          48.825
+        ]
+      }
+    },
+    {
+      "street": "Kapfenhardt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7089,
+          48.825
+        ]
+      }
+    },
+    {
+      "street": "Unterreichenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7089,
+          48.825
+        ]
+      }
+    }
+  ]
+}
