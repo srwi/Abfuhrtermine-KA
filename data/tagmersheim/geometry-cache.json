@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T09:19:38.010Z",
+  "streets": [
+    {
+      "street": "Blossenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9667,
+          48.8167
+        ]
+      }
+    },
+    {
+      "street": "Tagmersheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9667,
+          48.8167
+        ]
+      }
+    }
+  ]
+}

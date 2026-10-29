@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:22:12.499Z",
+  "streets": [
+    {
+      "street": "Tautenhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9195,
+          50.9247
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:20:21.896Z",
+  "streets": [
+    {
+      "street": "Tanna",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8573,
+          50.4946
+        ]
+      }
+    }
+  ]
+}

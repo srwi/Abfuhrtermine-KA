@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-10-29T09:20:05.099Z",
+  "streets": [
+    {
+      "street": "Günthers",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Habel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Hundsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Lahrbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Neuschwambach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Neuswarts",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Schlitzenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Tann",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Theobaldshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    },
+    {
+      "street": "Wendershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8502,
+          47.269
+        ]
+      }
+    }
+  ]
+}

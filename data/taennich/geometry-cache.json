@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:20:45.527Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Tännich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2203,
+          50.7892
+        ]
+      }
+    }
+  ]
+}

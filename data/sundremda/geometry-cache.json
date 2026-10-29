@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:19:05.019Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Sundremda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2144,
+          50.7476
+        ]
+      }
+    }
+  ]
+}

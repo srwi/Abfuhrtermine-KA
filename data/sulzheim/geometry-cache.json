@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:18:30.406Z",
+  "streets": [
+    {
+      "street": "Sulzheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3333,
+          49.95
+        ]
+      }
+    }
+  ]
+}

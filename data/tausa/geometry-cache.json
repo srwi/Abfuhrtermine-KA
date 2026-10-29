@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:21:49.970Z",
+  "streets": [
+    {
+      "street": "SOK-Tausa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8913,
+          5.199
+        ]
+      }
+    }
+  ]
+}

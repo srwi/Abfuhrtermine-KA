@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:20:34.779Z",
+  "streets": [
+    {
+      "street": "Tännesberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3277,
+          49.5318
+        ]
+      }
+    }
+  ]
+}

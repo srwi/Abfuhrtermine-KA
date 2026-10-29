@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-29T09:19:25.627Z",
+  "streets": [
+    {
+      "street": "Altenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31,
+          48.6612
+        ]
+      }
+    },
+    {
+      "street": "Alter Turm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31,
+          48.6612
+        ]
+      }
+    },
+    {
+      "street": "Ballhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31,
+          48.6612
+        ]
+      }
+    },
+    {
+      "street": "Landshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31,
+          48.6612
+        ]
+      }
+    },
+    {
+      "street": "Martinshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31,
+          48.6612
+        ]
+      }
+    },
+    {
+      "street": "Staufen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31,
+          48.6612
+        ]
+      }
+    },
+    {
+      "street": "Syrgenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31,
+          48.6612
+        ]
+      }
+    },
+    {
+      "street": "Viehmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31,
+          48.6612
+        ]
+      }
+    }
+  ]
+}
