@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-10-29T16:36:08.989Z",
+  "streets": [
+    {
+      "street": "Ahornweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Am Brink",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Sandberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Gartenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Holländerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Klein-Weeden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Krummesser Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Lindenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Parkstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Ringreiterweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Schäferkaten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Schulkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Schwarzer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Taubenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Zum Gutshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Zum Ruum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Zum Schäferkaten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Zur Drögemühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    },
+    {
+      "street": "Zur Krüh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6326,
+          53.769
+        ]
+      }
+    }
+  ]
+}

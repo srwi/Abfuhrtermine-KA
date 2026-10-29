@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T16:45:40.274Z",
+  "streets": [
+    {
+      "street": "A.-Paul-Weber-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "B 207 - Parkplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Brunnenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Bullerberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Dwerlanden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Fuhlenhagener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Hörn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Lange Twiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Mühlentwiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Püngelshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Rawisch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    },
+    {
+      "street": "Rosengasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427,
+          53.5852
+        ]
+      }
+    }
+  ]
+}

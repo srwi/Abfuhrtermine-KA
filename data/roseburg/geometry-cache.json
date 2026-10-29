@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-10-29T16:37:01.752Z",
+  "streets": [
+    {
+      "street": "Am Brink",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Am Horn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Am Redder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Am Walde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Fasanerie",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Güsterer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Kastanienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Müllerland",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Trammer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Wotersen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    },
+    {
+      "street": "Wotersener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6293,
+          53.5507
+        ]
+      }
+    }
+  ]
+}

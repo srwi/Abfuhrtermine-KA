@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-10-29T16:41:18.566Z",
+  "streets": [
+    {
+      "street": "An der Kirche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "An der Steinau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Apfelgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Auf den Wischhöfen",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5363408,
+            53.5252603
+          ],
+          [
+            10.5361098,
+            53.5252358
+          ],
+          [
+            10.5351571,
+            53.524943
+          ],
+          [
+            10.5349092,
+            53.5248851
+          ],
+          [
+            10.5344621,
+            53.5247833
+          ],
+          [
+            10.5340562,
+            53.5247248
+          ],
+          [
+            10.533779,
+            53.5246974
+          ],
+          [
+            10.5335175,
+            53.5247259
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Auf der Katenkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Bergstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Hasselhoop",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Rosenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Schmiedestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Storchenwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    },
+    {
+      "street": "Zum Kätnerholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5341,
+          53.5246
+        ]
+      }
+    }
+  ]
+}

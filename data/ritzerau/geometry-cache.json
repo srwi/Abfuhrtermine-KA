@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T16:25:59.842Z",
+  "streets": [
+    {
+      "street": "Abendrade",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Am Teich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Forstgehöft",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Hermannstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Hof Ritzerau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Hohlweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Koppelbusch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Lenz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Pfingstkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    },
+    {
+      "street": "Ritzerau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5607,
+          53.6635
+        ]
+      }
+    }
+  ]
+}
