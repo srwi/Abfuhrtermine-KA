@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:05:11.034Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Beutelsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4839,
+          50.7603
+        ]
+      }
+    }
+  ]
+}

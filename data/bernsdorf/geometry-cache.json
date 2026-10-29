@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:04:57.146Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Bernsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6667,
+          50.7667
+        ]
+      }
+    }
+  ]
+}

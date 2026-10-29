@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:04:50.159Z",
+  "streets": [
+    {
+      "street": "Bernhardswald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2474,
+          49.0912
+        ]
+      }
+    }
+  ]
+}
