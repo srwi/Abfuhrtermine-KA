@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:14:20.006Z",
+  "streets": [
+    {
+      "street": "Stockstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0715,
+          49.9701
+        ]
+      }
+    }
+  ]
+}

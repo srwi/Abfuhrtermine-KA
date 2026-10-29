@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:17:59.321Z",
+  "streets": [
+    {
+      "street": "Sulzdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9039,
+          49.65
+        ]
+      }
+    }
+  ]
+}

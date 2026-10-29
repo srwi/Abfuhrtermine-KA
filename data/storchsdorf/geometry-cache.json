@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:14:45.712Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Storchsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1647,
+          50.6975
+        ]
+      }
+    }
+  ]
+}

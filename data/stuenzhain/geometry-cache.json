@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:16:28.775Z",
+  "streets": [
+    {
+      "street": "Stünzhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4619,
+          50.961
+        ]
+      }
+    }
+  ]
+}

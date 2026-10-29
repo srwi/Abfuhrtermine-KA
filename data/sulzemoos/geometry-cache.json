@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T09:18:11.971Z",
+  "streets": [
+    {
+      "street": "Einsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2636,
+          48.2911
+        ]
+      }
+    },
+    {
+      "street": "Orthofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2636,
+          48.2911
+        ]
+      }
+    },
+    {
+      "street": "restliche Gemeinde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2636,
+          48.2911
+        ]
+      }
+    },
+    {
+      "street": "Sulzemoos Gewerbegebiet",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2636,
+          48.2911
+        ]
+      }
+    },
+    {
+      "street": "Sulzemoos Ort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2636,
+          48.2911
+        ]
+      }
+    },
+    {
+      "street": "Wiedenzhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2636,
+          48.2911
+        ]
+      }
+    }
+  ]
+}

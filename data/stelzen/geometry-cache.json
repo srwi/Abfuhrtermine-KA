@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:12:42.210Z",
+  "streets": [
+    {
+      "street": "SOK-Stelzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.945,
+          50.4867
+        ]
+      }
+    }
+  ]
+}

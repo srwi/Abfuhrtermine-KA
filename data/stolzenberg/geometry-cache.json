@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:14:32.748Z",
+  "streets": [
+    {
+      "street": "Stolzenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7067,
+          53.8899
+        ]
+      }
+    }
+  ]
+}

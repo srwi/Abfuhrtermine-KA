@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:13:23.120Z",
+  "streets": [
+    {
+      "street": "Stettbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0666,
+          50.0011
+        ]
+      }
+    }
+  ]
+}
