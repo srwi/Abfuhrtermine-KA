@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:04:49.433Z",
+  "streets": [
+    {
+      "street": "SOK-Sparnberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7718,
+          50.413
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:03:59.150Z",
+  "streets": [
+    {
+      "street": "SOK-Sorna",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.176,
+          43.0349
+        ]
+      }
+    }
+  ]
+}
