@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:24:02.451Z",
+  "streets": [
+    {
+      "street": "Zell",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.925,
+          47.1367
+        ]
+      }
+    }
+  ]
+}

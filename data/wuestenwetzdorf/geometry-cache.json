@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:22:12.648Z",
+  "streets": [
+    {
+      "street": "SOK-Wüstenwetzdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8602,
+          50.7056
+        ]
+      }
+    }
+  ]
+}

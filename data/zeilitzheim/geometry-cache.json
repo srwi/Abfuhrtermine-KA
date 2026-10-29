@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:23:39.081Z",
+  "streets": [
+    {
+      "street": "Zeilitzheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2713,
+          49.8985
+        ]
+      }
+    }
+  ]
+}

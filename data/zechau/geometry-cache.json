@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:22:53.671Z",
+  "streets": [
+    {
+      "street": "Zechau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3327,
+          51.0117
+        ]
+      }
+    }
+  ]
+}

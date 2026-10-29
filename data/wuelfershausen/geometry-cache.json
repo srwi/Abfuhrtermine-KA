@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:21:08.941Z",
+  "streets": [
+    {
+      "street": "Wülfershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3408,
+          50.332
+        ]
+      }
+    }
+  ]
+}
