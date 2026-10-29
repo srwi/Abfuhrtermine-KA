@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T21:45:48.582Z",
+  "streets": [
+    {
+      "street": "Liebenscheid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0983,
+          50.6972
+        ]
+      }
+    },
+    {
+      "street": "Löhnfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0983,
+          50.6972
+        ]
+      }
+    },
+    {
+      "street": "Weissenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0983,
+          50.6972
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T21:42:50.409Z",
+  "streets": [
+    {
+      "street": "Freetz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5167,
+          53.3
+        ]
+      }
+    },
+    {
+      "street": "Lengenbostel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5167,
+          53.3
+        ]
+      }
+    }
+  ]
+}

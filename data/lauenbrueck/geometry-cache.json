@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T21:42:11.891Z",
+  "streets": [
+    {
+      "street": "Lauenbrück",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5636,
+          53.2002
+        ]
+      }
+    },
+    {
+      "street": "Stell",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5636,
+          53.2002
+        ]
+      }
+    }
+  ]
+}
