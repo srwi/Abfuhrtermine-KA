@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:30:37.200Z",
+  "streets": [
+    {
+      "street": "SOK-Göttengrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8312,
+          50.4595
+        ]
+      }
+    }
+  ]
+}

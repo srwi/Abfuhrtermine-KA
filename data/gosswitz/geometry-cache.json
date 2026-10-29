@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:29:48.565Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Gosswitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4774,
+          50.6354
+        ]
+      }
+    }
+  ]
+}

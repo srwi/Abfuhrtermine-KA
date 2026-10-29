@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:31:51.654Z",
+  "streets": [
+    {
+      "street": "Grafenwöhr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9065,
+          49.7173
+        ]
+      }
+    }
+  ]
+}

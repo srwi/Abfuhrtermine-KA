@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:31:00.442Z",
+  "streets": [
+    {
+      "street": "SOK-Gräfendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9906,
+          47.3403
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:31:42.018Z",
+  "streets": [
+    {
+      "street": "SOK-Gräfenwarth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7531,
+          50.5298
+        ]
+      }
+    }
+  ]
+}
