@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:05:14.616Z",
+  "streets": [
+    {
+      "street": "SOK-Finkenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0772,
+          50.6179
+        ]
+      }
+    }
+  ]
+}

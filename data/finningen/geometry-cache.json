@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T05:05:24.114Z",
+  "streets": [
+    {
+      "street": "Finningen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4986,
+          48.6545
+        ]
+      }
+    },
+    {
+      "street": "Mörslingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4986,
+          48.6545
+        ]
+      }
+    }
+  ]
+}

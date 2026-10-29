@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:05:48.876Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Fischersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4033,
+          50.6194
+        ]
+      }
+    }
+  ]
+}

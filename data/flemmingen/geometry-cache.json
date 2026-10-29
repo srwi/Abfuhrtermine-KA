@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:06:15.098Z",
+  "streets": [
+    {
+      "street": "Flemmingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.62,
+          50.9353
+        ]
+      }
+    }
+  ]
+}

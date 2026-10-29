@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:01:14.318Z",
+  "streets": [
+    {
+      "street": "Falkenhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8708,
+          51.3989
+        ]
+      }
+    }
+  ]
+}

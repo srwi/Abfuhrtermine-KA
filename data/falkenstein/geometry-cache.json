@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:01:23.650Z",
+  "streets": [
+    {
+      "street": "Falkenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5833,
+          48.7167
+        ]
+      }
+    }
+  ]
+}
