@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:12:53.807Z",
+  "streets": [
+    {
+      "street": "Frohnsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5787,
+          50.9425
+        ]
+      }
+    }
+  ]
+}

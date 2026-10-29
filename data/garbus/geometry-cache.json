@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:18:58.580Z",
+  "streets": [
+    {
+      "street": "Garbus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5142,
+          50.9518
+        ]
+      }
+    }
+  ]
+}

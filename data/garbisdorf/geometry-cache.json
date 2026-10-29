@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:18:47.008Z",
+  "streets": [
+    {
+      "street": "Garbisdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6035,
+          50.9233
+        ]
+      }
+    }
+  ]
+}

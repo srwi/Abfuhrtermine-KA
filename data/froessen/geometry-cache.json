@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:13:30.755Z",
+  "streets": [
+    {
+      "street": "SOK-Frössen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7677,
+          50.4405
+        ]
+      }
+    }
+  ]
+}
