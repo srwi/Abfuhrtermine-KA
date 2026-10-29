@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-10-29T10:18:30.239Z",
+  "streets": [
+    {
+      "street": "Brenneisenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    },
+    {
+      "street": "Erlachhöfe",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7595308,
+            48.8848073
+          ],
+          [
+            10.7594699,
+            48.885097
+          ],
+          [
+            10.7600208,
+            48.8852665
+          ],
+          [
+            10.7606608,
+            48.8853103
+          ],
+          [
+            10.7609567,
+            48.8852733
+          ],
+          [
+            10.7609865,
+            48.884794
+          ],
+          [
+            10.7598603,
+            48.884689
+          ],
+          [
+            10.7595308,
+            48.8848073
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hagau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    },
+    {
+      "street": "Jackermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    },
+    {
+      "street": "Rothenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    },
+    {
+      "street": "Spitzmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    },
+    {
+      "street": "Steinbühl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    },
+    {
+      "street": "Waldstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    },
+    {
+      "street": "Wolferstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    },
+    {
+      "street": "Zwerchstrass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7813,
+          48.9035
+        ]
+      }
+    }
+  ]
+}

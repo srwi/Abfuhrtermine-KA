@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:17:51.109Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Wittmannsgereuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3011,
+          50.6295
+        ]
+      }
+    }
+  ]
+}

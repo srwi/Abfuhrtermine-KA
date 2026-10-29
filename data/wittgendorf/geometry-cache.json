@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:16:48.937Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Wittgendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2333,
+          50.6
+        ]
+      }
+    }
+  ]
+}

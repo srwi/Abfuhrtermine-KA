@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T10:17:40.701Z",
+  "streets": [
+    {
+      "street": "Beutenstetterhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4172,
+          48.6192
+        ]
+      }
+    },
+    {
+      "street": "Schabringen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4172,
+          48.6192
+        ]
+      }
+    },
+    {
+      "street": "Wittislingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4172,
+          48.6192
+        ]
+      }
+    },
+    {
+      "street": "Zöschlingsweiler",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4172,
+          48.6192
+        ]
+      }
+    }
+  ]
+}

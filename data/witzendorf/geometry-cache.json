@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:18:04.374Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Witzendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2924,
+          50.6136
+        ]
+      }
+    }
+  ]
+}

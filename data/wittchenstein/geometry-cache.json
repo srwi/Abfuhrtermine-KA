@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:16:19.718Z",
+  "streets": [
+    {
+      "street": "SOK-Wittchenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8879,
+          50.7759
+        ]
+      }
+    }
+  ]
+}

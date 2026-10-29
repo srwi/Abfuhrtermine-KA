@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:18:18.511Z",
+  "streets": [
+    {
+      "street": "SOK-Wöhlsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8653,
+          51.7645
+        ]
+      }
+    }
+  ]
+}

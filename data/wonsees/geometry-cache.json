@@ -1,0 +1,123 @@
+{
+  "generatedAt": "2026-10-29T10:20:08.227Z",
+  "streets": [
+    {
+      "street": "Feulersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    },
+    {
+      "street": "Gelbsreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    },
+    {
+      "street": "Grossenhül",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3311459,
+            49.9877293
+          ],
+          [
+            11.3312601,
+            49.9876663
+          ],
+          [
+            11.3318782,
+            49.9873461
+          ],
+          [
+            11.331955,
+            49.9872981
+          ],
+          [
+            11.3320735,
+            49.9872015
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Kleinhül",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    },
+    {
+      "street": "Plötzmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    },
+    {
+      "street": "Sanspareil",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    },
+    {
+      "street": "Schirradorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    },
+    {
+      "street": "Schlötzmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    },
+    {
+      "street": "Wonsees",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    },
+    {
+      "street": "Zedersitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3005,
+          49.9761
+        ]
+      }
+    }
+  ]
+}

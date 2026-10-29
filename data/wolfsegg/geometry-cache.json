@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:19:43.362Z",
+  "streets": [
+    {
+      "street": "Wolfsegg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6727,
+          48.1067
+        ]
+      }
+    }
+  ]
+}
