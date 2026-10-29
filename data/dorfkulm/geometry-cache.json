@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:35:30.822Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Dorfkulm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3718,
+          50.6802
+        ]
+      }
+    }
+  ]
+}

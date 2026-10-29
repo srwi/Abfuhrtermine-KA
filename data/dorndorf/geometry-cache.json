@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:35:50.317Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Dorndorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0892,
+          50.8347
+        ]
+      }
+    }
+  ]
+}

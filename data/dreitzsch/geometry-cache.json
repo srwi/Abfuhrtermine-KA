@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:36:38.034Z",
+  "streets": [
+    {
+      "street": "SOK-Dreitzsch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7969,
+          50.7415
+        ]
+      }
+    }
+  ]
+}

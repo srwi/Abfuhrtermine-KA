@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:36:28.397Z",
+  "streets": [
+    {
+      "street": "SOK-Dreba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75,
+          50.6667
+        ]
+      }
+    }
+  ]
+}

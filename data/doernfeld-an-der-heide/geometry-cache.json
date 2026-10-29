@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:35:59.940Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Dörnfeld an der Heide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0731,
+          50.6643
+        ]
+      }
+    }
+  ]
+}

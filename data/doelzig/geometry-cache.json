@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:33:23.118Z",
+  "streets": [
+    {
+      "street": "Dölzig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3128,
+          50.9783
+        ]
+      }
+    }
+  ]
+}

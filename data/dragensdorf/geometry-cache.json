@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:36:18.774Z",
+  "streets": [
+    {
+      "street": "SOK-Dragensdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8335,
+          50.6459
+        ]
+      }
+    }
+  ]
+}

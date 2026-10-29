@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:35:19.996Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Dorfilm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5394,
+          50.5665
+        ]
+      }
+    }
+  ]
+}

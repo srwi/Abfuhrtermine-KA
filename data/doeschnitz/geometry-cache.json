@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:36:09.369Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Döschnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2333,
+          50.6167
+        ]
+      }
+    }
+  ]
+}
