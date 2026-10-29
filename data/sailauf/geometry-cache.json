@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T08:19:13.420Z",
+  "streets": [
+    {
+      "street": "Eichenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2593,
+          50.0246
+        ]
+      }
+    },
+    {
+      "street": "Sailauf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2593,
+          50.0246
+        ]
+      }
+    },
+    {
+      "street": "Weyberhöfe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2593,
+          50.0246
+        ]
+      }
+    }
+  ]
+}

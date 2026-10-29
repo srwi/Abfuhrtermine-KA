@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:15:34.992Z",
+  "streets": [
+    {
+      "street": "Rütschenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0566,
+          50.0607
+        ]
+      }
+    }
+  ]
+}

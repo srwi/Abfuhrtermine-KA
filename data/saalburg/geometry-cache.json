@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:16:09.686Z",
+  "streets": [
+    {
+      "street": "SOK-Saalburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7318,
+          50.5024
+        ]
+      }
+    }
+  ]
+}

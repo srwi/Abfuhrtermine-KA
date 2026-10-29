@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:18:49.398Z",
+  "streets": [
+    {
+      "street": "Saara",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9642,
+          58.1503
+        ]
+      }
+    }
+  ]
+}

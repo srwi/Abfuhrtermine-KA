@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:15:22.176Z",
+  "streets": [
+    {
+      "street": "Ruppersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4158,
+          50.6476
+        ]
+      }
+    }
+  ]
+}
