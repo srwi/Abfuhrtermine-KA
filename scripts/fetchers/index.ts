@@ -16,6 +16,7 @@ import { CTraceFetcher, type CTraceConfig } from './ctrace.ts';
 import { AwshFetcher, type AwshConfig } from './awsh.ts';
 import { AwigoFetcher, type AwigoConfig } from './awigo.ts';
 import { AhaFetcher, type AhaConfig } from './aha.ts';
+import { ArtTrierFetcher, type ArtTrierConfig } from './art-trier.ts';
 import jumoCitiesRaw from './jumomind-cities.json' with { type: 'json' };
 import abfallPlusCitiesRaw from './abfallplus-cities.json' with { type: 'json' };
 import muellmaxCitiesRaw from './muellmax-cities.json' with { type: 'json' };
@@ -25,6 +26,7 @@ import ctraceCitiesRaw from './ctrace-cities.json' with { type: 'json' };
 import awshCitiesRaw from './awsh-cities.json' with { type: 'json' };
 import awigoCitiesRaw from './awigo-cities.json' with { type: 'json' };
 import ahaCitiesRaw from './aha-cities.json' with { type: 'json' };
+import artTrierCitiesRaw from './art-trier-cities.json' with { type: 'json' };
 
 export * from './types.ts';
 export * from './karlsruhe.ts';
@@ -44,6 +46,7 @@ export * from './ctrace.ts';
 export * from './awsh.ts';
 export * from './awigo.ts';
 export * from './aha.ts';
+export * from './art-trier.ts';
 
 const jumoCities = jumoCitiesRaw as JumoMindConfig[];
 const abfallPlusCities = abfallPlusCitiesRaw as AbfallPlusConfig[];
@@ -54,6 +57,7 @@ const ctraceCities = ctraceCitiesRaw as CTraceConfig[];
 const awshCities = awshCitiesRaw as AwshConfig[];
 const awigoCities = awigoCitiesRaw as AwigoConfig[];
 const ahaCities = ahaCitiesRaw as AhaConfig[];
+const artTrierCities = artTrierCitiesRaw as ArtTrierConfig[];
 
 export const REGIOIT_FETCHERS: CityFetcher[] = regioItCities.map(
   (cfg) => new RegioItFetcher(cfg)
@@ -92,6 +96,10 @@ export const AHA_FETCHERS: CityFetcher[] = ahaCities.map(
   (cfg) => new AhaFetcher(cfg)
 );
 
+export const ART_TRIER_FETCHERS: CityFetcher[] = artTrierCities.map(
+  (cfg) => new ArtTrierFetcher(cfg)
+);
+
 export const FETCHERS: CityFetcher[] = [
   new KarlsruheFetcher(),
   new FreiburgFetcher(),
@@ -108,7 +116,8 @@ export const FETCHERS: CityFetcher[] = [
   ...CTRACE_FETCHERS,
   ...AWSH_FETCHERS,
   ...AWIGO_FETCHERS,
-  ...AHA_FETCHERS
+  ...AHA_FETCHERS,
+  ...ART_TRIER_FETCHERS
 ];
 
 export const FETCHER_MAP = new Map<string, CityFetcher>(

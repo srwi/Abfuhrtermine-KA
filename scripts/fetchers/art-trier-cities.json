@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bitburg",
+    "name": "Bitburg",
+    "shortName": "BIT",
+    "ort": "Bitburg-Stadt",
+    "center": [6.5249, 49.9733],
+    "defaultZoom": 12,
+    "bbox": [49.9352, 6.4516, 50.0187, 6.5893]
+  },
+  {
+    "id": "speicher",
+    "name": "Speicher",
+    "shortName": "SPE",
+    "ort": "Speicher",
+    "center": [6.639, 49.9355],
+    "defaultZoom": 12,
+    "bbox": [49.9169, 6.6142, 49.9541, 6.6956]
+  },
+  {
+    "id": "trier",
+    "name": "Trier",
+    "shortName": "TRI",
+    "ort": "Trier",
+    "center": [6.6394, 49.7557],
+    "defaultZoom": 12,
+    "bbox": [49.6986, 6.5518, 49.8571, 6.7472]
+  },
+  {
+    "id": "wittlich",
+    "name": "Wittlich",
+    "shortName": "WIT",
+    "ort": "Wittlich",
+    "center": [6.8884, 49.985],
+    "defaultZoom": 12,
+    "bbox": [49.9556, 6.8309, 50.0307, 6.9834]
+  }
+]

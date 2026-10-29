@@ -5688,25 +5688,6 @@
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
   },
   {
-    "id": "metzingen",
-    "name": "Metzingen",
-    "shortName": "MET",
-    "apiKey": "f0e7d013c4c041a34e39aefd14d71caed1bd6d47b9ac9dbd",
-    "cityId": "3646",
-    "center": [
-      9.2831,
-      48.5397
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.4925,
-      9.2383,
-      48.562,
-      9.3454
-    ],
-    "serviceKey": "15f69fab91c4cae50d9dbb5bcfd383f0"
-  },
-  {
     "id": "mielenhausen",
     "name": "Mielenhausen",
     "shortName": "MIE",
@@ -5913,25 +5894,6 @@
       9.6288
     ],
     "serviceKey": "15f69fab91c4cae50d9dbb5bcfd383f0"
-  },
-  {
-    "id": "mutzschen",
-    "name": "Mutzschen",
-    "shortName": "MUT",
-    "apiKey": "d593660f259d3d1130721177754bdb945d95bb9d70ca5408",
-    "cityId": "4509",
-    "center": [
-      12.8909,
-      51.2602
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      51.2452,
-      12.8625,
-      51.2783,
-      12.9205
-    ],
-    "serviceKey": "2085afd95285e645e15ee9623d0c5172"
   },
   {
     "id": "nagold",
@@ -6937,25 +6899,6 @@
     "serviceKey": "15f69fab91c4cae50d9dbb5bcfd383f0"
   },
   {
-    "id": "pfullingen",
-    "name": "Pfullingen",
-    "shortName": "PFU",
-    "apiKey": "f0e7d013c4c041a34e39aefd14d71caed1bd6d47b9ac9dbd",
-    "cityId": "3647",
-    "center": [
-      9.2255,
-      48.4657
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.4242,
-      9.168,
-      48.4845,
-      9.2998
-    ],
-    "serviceKey": "15f69fab91c4cae50d9dbb5bcfd383f0"
-  },
-  {
     "id": "pliezhausen",
     "name": "Pliezhausen",
     "shortName": "PLI",
@@ -7316,25 +7259,6 @@
       10.1151
     ],
     "serviceKey": "4b5702d771c82b611c386ebbc7629026"
-  },
-  {
-    "id": "reutlingen",
-    "name": "Reutlingen",
-    "shortName": "REU",
-    "apiKey": "f0e7d013c4c041a34e39aefd14d71caed1bd6d47b9ac9dbd",
-    "cityId": "3645",
-    "center": [
-      9.3572,
-      48.4088
-    ],
-    "defaultZoom": 12,
-    "bbox": [
-      48.1948,
-      9.1149,
-      48.606,
-      9.6375
-    ],
-    "serviceKey": "15f69fab91c4cae50d9dbb5bcfd383f0"
   },
   {
     "id": "reyershausen",
