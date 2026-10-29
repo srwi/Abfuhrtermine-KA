@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:24:38.354Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Schmiedebach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4786,
+          50.4931
+        ]
+      }
+    }
+  ]
+}

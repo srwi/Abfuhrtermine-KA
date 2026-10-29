@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:24:59.526Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Schmieden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9675,
+          47.9781
+        ]
+      }
+    }
+  ]
+}

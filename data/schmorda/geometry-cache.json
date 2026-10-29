@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:25:39.872Z",
+  "streets": [
+    {
+      "street": "SOK-Schmorda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5865,
+          50.6448
+        ]
+      }
+    }
+  ]
+}

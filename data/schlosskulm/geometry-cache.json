@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:24:14.595Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Schlosskulm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.373,
+          50.689
+        ]
+      }
+    }
+  ]
+}

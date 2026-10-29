@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:25:50.088Z",
+  "streets": [
+    {
+      "street": "Schnackenwerth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1292,
+          50.0139
+        ]
+      }
+    }
+  ]
+}

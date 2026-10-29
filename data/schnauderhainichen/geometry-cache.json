@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:26:00.348Z",
+  "streets": [
+    {
+      "street": "Schnauderhainichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3333,
+          51.05
+        ]
+      }
+    }
+  ]
+}

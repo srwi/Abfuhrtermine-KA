@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:24:48.824Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Schmiedefeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2167,
+          50.5333
+        ]
+      }
+    }
+  ]
+}

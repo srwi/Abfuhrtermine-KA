@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:24:04.172Z",
+  "streets": [
+    {
+      "street": "Schlossig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3255,
+          50.892
+        ]
+      }
+    }
+  ]
+}
