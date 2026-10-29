@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:48:26.878Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Engerda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4029,
+          50.7882
+        ]
+      }
+    }
+  ]
+}

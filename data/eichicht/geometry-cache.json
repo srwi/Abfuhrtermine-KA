@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:46:49.521Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Eichicht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3381,
+          54.2087
+        ]
+      }
+    }
+  ]
+}

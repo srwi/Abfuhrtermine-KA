@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:47:30.927Z",
+  "streets": [
+    {
+      "street": "SOK-Eliasbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6011,
+          50.4965
+        ]
+      }
+    }
+  ]
+}

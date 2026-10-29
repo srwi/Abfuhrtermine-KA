@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:46:59.203Z",
+  "streets": [
+    {
+      "street": "Eiselfing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2427,
+          48.0411
+        ]
+      }
+    }
+  ]
+}

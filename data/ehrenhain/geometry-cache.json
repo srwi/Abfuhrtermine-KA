@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:45:03.898Z",
+  "streets": [
+    {
+      "street": "Ehrenhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5097,
+          50.9395
+        ]
+      }
+    }
+  ]
+}
