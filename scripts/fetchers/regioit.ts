@@ -108,7 +108,8 @@ export class RegioItFetcher implements CityFetcher {
         const url = `${this.baseUrl}/${path}`;
         const res = await fetch(url, {
           headers: {
-            'user-agent': 'Abfuhrtermine/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)'
+            'accept': 'application/json, text/plain, */*',
+            'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36'
           },
           signal: AbortSignal.timeout(15000)
         });
@@ -116,7 +117,7 @@ export class RegioItFetcher implements CityFetcher {
         if (res.ok) {
           const text = await res.text();
           if (!text || text.trim() === '') {
-            return [] as unknown as T;
+            throw new Error(`Empty response from ${url}`);
           }
           return JSON.parse(text) as T;
         }
