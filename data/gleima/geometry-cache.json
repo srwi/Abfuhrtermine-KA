@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:25:58.037Z",
+  "streets": [
+    {
+      "street": "SOK-Gleima",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5296,
+          50.5277
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:26:43.101Z",
+  "streets": [
+    {
+      "street": "Gochsheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2833,
+          50.0167
+        ]
+      }
+    }
+  ]
+}

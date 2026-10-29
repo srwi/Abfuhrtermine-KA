@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:26:08.196Z",
+  "streets": [
+    {
+      "street": "Gleina",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7203,
+          51.258
+        ]
+      }
+    }
+  ]
+}
