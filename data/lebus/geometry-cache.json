@@ -1,0 +1,675 @@
+{
+  "generatedAt": "2026-10-29T11:43:29.050Z",
+  "streets": [
+    {
+      "street": "Am Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Am Elisenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Am Fliess",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Am Gutshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Am Ufo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Apfelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Bauernweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Birnenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Bischofsplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Breite Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Brombeerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Bruchweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Elisenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Elisenheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Fontaneeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Fontanestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Frankfurter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Gewerbepark-Kirschallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Goethestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Günter-Eich-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Hintergasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Hinterstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Holweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Johann-Sebastian-Bach-Str",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Kietzer Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Kietzer Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Kietzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Kirschallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Kleine Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Lebus-Busch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Lebuser Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Lindenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Mallnower Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Mandelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Neue Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Nussweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Oderstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Pflaumenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Podelziger Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Poetensteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Postberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Robert-Koch-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Schillerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Schlehenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Schlossberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Schönfliesser Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Schönfliesser Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Schönfliesser Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Seelower Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Strasse der Freiheit",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Strasse der Freundschaft",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Unterkrug",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Waldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Walnussweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Wasserturm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Wilhelmshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Wilhelmshofer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Wulkower Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Zum Oderhang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    },
+    {
+      "street": "Zur Schmiedegasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8799,
+          52.582
+        ]
+      }
+    }
+  ]
+}
