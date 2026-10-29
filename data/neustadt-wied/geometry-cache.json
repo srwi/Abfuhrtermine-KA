@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T11:58:22.640Z",
+  "streets": [
+    {
+      "street": "alle Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4261,
+          50.6216
+        ]
+      }
+    },
+    {
+      "street": "nordöstlich der A3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4261,
+          50.6216
+        ]
+      }
+    },
+    {
+      "street": "südwestlich der A3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4261,
+          50.6216
+        ]
+      }
+    }
+  ]
+}
