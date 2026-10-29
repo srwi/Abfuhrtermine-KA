@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:00:16.519Z",
+  "streets": [
+    {
+      "street": "Ingramsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2595,
+          50.9017
+        ]
+      }
+    }
+  ]
+}

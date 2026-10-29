@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:59:38.420Z",
+  "streets": [
+    {
+      "street": "Illsitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3711,
+          50.9349
+        ]
+      }
+    }
+  ]
+}

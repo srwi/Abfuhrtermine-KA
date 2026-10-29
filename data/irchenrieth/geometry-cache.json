@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:00:49.929Z",
+  "streets": [
+    {
+      "street": "Irchenrieth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.225,
+          49.6229
+        ]
+      }
+    }
+  ]
+}

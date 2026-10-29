@@ -1,0 +1,313 @@
+{
+  "generatedAt": "2026-10-29T06:01:50.132Z",
+  "streets": [
+    {
+      "street": "Allenbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Allerbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Ausbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Brunsbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Calberlah",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Druffelbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Edesbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Isenbüttel (nördl. Hehlenriede)",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5630675,
+            52.4412673
+          ],
+          [
+            10.5630692,
+            52.4412447
+          ],
+          [
+            10.5640426,
+            52.4412717
+          ],
+          [
+            10.5640437,
+            52.4412565
+          ],
+          [
+            10.5641748,
+            52.4412601
+          ],
+          [
+            10.5641736,
+            52.441276
+          ],
+          [
+            10.5647245,
+            52.4412912
+          ],
+          [
+            10.5647599,
+            52.4412922
+          ],
+          [
+            10.5651101,
+            52.4413018
+          ],
+          [
+            10.5651436,
+            52.4413028
+          ],
+          [
+            10.5651419,
+            52.4413249
+          ],
+          [
+            10.5630675,
+            52.4412673
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Isenbüttel (südl. Hehlenriede)",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5630675,
+            52.4412673
+          ],
+          [
+            10.5630692,
+            52.4412447
+          ],
+          [
+            10.5640426,
+            52.4412717
+          ],
+          [
+            10.5640437,
+            52.4412565
+          ],
+          [
+            10.5641748,
+            52.4412601
+          ],
+          [
+            10.5641736,
+            52.441276
+          ],
+          [
+            10.5647245,
+            52.4412912
+          ],
+          [
+            10.5647599,
+            52.4412922
+          ],
+          [
+            10.5651101,
+            52.4413018
+          ],
+          [
+            10.5651436,
+            52.4413028
+          ],
+          [
+            10.5651419,
+            52.4413249
+          ],
+          [
+            10.5630675,
+            52.4412673
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Isenbüttel (Tankumseegebiet)",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5630675,
+            52.4412673
+          ],
+          [
+            10.5630692,
+            52.4412447
+          ],
+          [
+            10.5640426,
+            52.4412717
+          ],
+          [
+            10.5640437,
+            52.4412565
+          ],
+          [
+            10.5641748,
+            52.4412601
+          ],
+          [
+            10.5641736,
+            52.441276
+          ],
+          [
+            10.5647245,
+            52.4412912
+          ],
+          [
+            10.5647599,
+            52.4412922
+          ],
+          [
+            10.5651101,
+            52.4413018
+          ],
+          [
+            10.5651436,
+            52.4413028
+          ],
+          [
+            10.5651419,
+            52.4413249
+          ],
+          [
+            10.5630675,
+            52.4412673
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Jelpke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Klein Vollbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Ribbesbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Vollbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Warmbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Wasbüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    },
+    {
+      "street": "Wettmershagen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579,
+          52.435
+        ]
+      }
+    }
+  ]
+}

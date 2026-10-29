@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2026-10-29T05:58:40.171Z",
+  "streets": [
+    {
+      "street": "Hüttenberg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              14.5489507,
+              46.9320018
+            ],
+            [
+              14.5490097,
+              46.9319615
+            ],
+            [
+              14.549037,
+              46.9319363
+            ]
+          ],
+          [
+            [
+              14.548887,
+              46.932065
+            ],
+            [
+              14.5489507,
+              46.9320018
+            ]
+          ],
+          [
+            [
+              14.5487915,
+              46.9321269
+            ],
+            [
+              14.548887,
+              46.932065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Rechtenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55,
+          46.9414
+        ]
+      }
+    },
+    {
+      "street": "Reiskirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55,
+          46.9414
+        ]
+      }
+    },
+    {
+      "street": "Vollnkirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55,
+          46.9414
+        ]
+      }
+    },
+    {
+      "street": "Volpertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55,
+          46.9414
+        ]
+      }
+    },
+    {
+      "street": "Weidenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55,
+          46.9414
+        ]
+      }
+    }
+  ]
+}
