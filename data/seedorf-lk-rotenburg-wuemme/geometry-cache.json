@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T22:26:29.756Z",
+  "streets": [
+    {
+      "street": "Godenstedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2269,
+          53.3505
+        ]
+      }
+    },
+    {
+      "street": "Seedorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2269,
+          53.3505
+        ]
+      }
+    }
+  ]
+}

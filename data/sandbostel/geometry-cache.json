@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T22:22:04.840Z",
+  "streets": [
+    {
+      "street": "Mintenburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1293,
+          53.4093
+        ]
+      }
+    },
+    {
+      "street": "Ober Ochtenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1293,
+          53.4093
+        ]
+      }
+    },
+    {
+      "street": "Sandbostel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1293,
+          53.4093
+        ]
+      }
+    }
+  ]
+}
