@@ -1,0 +1,295 @@
+{
+  "generatedAt": "2026-10-29T15:57:43.348Z",
+  "streets": [
+    {
+      "street": "Am Dorfgemeinschaftshaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Am Forstacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Am Gerichtsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Am Hang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Am Hasselholt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Am Soot",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Am Steinkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Bergkampsredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Berlinen Gang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Borgkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Borgkampredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Bürgermeister-Kock-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Dornbusch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Hühnerkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Im Kupfermühlental",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Im Winkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Lerchenhöhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Mechower Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Neuhofer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Ohst'en Barg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Papengang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Ratzeburger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Schlagsdorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Schwalbenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Walter-Fabinski-Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Zum Kiefernwald",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    },
+    {
+      "street": "Zur Schönen Aussicht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093,
+          53.7156
+        ]
+      }
+    }
+  ]
+}
