@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T21:38:48.457Z",
+  "streets": [
+    {
+      "street": "Kirchtimke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1521,
+          53.252
+        ]
+      }
+    },
+    {
+      "street": "Ostertimke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1521,
+          53.252
+        ]
+      }
+    }
+  ]
+}
