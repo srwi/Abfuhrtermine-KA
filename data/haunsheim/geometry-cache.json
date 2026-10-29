@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T05:45:00.853Z",
+  "streets": [
+    {
+      "street": "Albhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.374,
+          48.5998
+        ]
+      }
+    },
+    {
+      "street": "Haunsheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.374,
+          48.5998
+        ]
+      }
+    },
+    {
+      "street": "Unterbechingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.374,
+          48.5998
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:46:36.777Z",
+  "streets": [
+    {
+      "street": "Heidenfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.208,
+          49.9675
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:44:39.660Z",
+  "streets": [
+    {
+      "street": "Hauersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4959,
+          50.9558
+        ]
+      }
+    }
+  ]
+}

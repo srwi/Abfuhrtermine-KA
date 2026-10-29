@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-10-29T05:45:12.806Z",
+  "streets": [
+    {
+      "street": "Birnbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Buch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Dietenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Erlenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Esper",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Frauenwahl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Grossmuss",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Hausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Herrnwahl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Herrnwahlthann",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Kläranlage Grossmuss",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Kläranlage Hausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Kreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Naffenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Obersippenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Saladorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Schafreut",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Schoissenkager",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Sippenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    },
+    {
+      "street": "Weinberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3667,
+          51.3833
+        ]
+      }
+    }
+  ]
+}

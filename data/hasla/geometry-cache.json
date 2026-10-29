@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:43:57.969Z",
+  "streets": [
+    {
+      "street": "SOK-Hasla",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.844,
+          50.7614
+        ]
+      }
+    }
+  ]
+}

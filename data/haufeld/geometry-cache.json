@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:44:48.967Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Haufeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2737,
+          50.8027
+        ]
+      }
+    }
+  ]
+}
