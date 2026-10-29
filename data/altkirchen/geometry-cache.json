@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:37:08.841Z",
+  "streets": [
+    {
+      "street": "Altkirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          50.9333
+        ]
+      }
+    }
+  ]
+}

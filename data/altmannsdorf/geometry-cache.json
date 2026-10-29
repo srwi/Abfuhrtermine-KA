@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:37:18.052Z",
+  "streets": [
+    {
+      "street": "Altmannsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5849,
+          48.2521
+        ]
+      }
+    }
+  ]
+}

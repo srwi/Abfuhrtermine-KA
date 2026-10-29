@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:35:53.632Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Alter",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4,
+          65.4833
+        ]
+      }
+    }
+  ]
+}

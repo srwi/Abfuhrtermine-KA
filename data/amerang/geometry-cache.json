@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:38:02.075Z",
+  "streets": [
+    {
+      "street": "Amerang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.308,
+          47.9914
+        ]
+      }
+    }
+  ]
+}

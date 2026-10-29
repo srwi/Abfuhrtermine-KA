@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:37:43.336Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Altremda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2094,
+          50.7619
+        ]
+      }
+    }
+  ]
+}
