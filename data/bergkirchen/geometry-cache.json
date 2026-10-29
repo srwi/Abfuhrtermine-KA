@@ -1,0 +1,239 @@
+{
+  "generatedAt": "2026-10-29T04:02:45.134Z",
+  "streets": [
+    {
+      "street": "Bergkirchen Ort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Breitenau",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.4048712,
+              48.2727329
+            ],
+            [
+              11.4048809,
+              48.272901
+            ],
+            [
+              11.4047416,
+              48.2732636
+            ],
+            [
+              11.4047133,
+              48.2734048
+            ],
+            [
+              11.4047786,
+              48.2735888
+            ],
+            [
+              11.405109,
+              48.2740276
+            ],
+            [
+              11.4052896,
+              48.2742823
+            ],
+            [
+              11.4055224,
+              48.2745583
+            ],
+            [
+              11.4058426,
+              48.2748452
+            ],
+            [
+              11.4060686,
+              48.2750237
+            ],
+            [
+              11.406494,
+              48.2753355
+            ]
+          ],
+          [
+            [
+              11.4008995,
+              48.2725165
+            ],
+            [
+              11.4014181,
+              48.272232
+            ],
+            [
+              11.4017178,
+              48.2722031
+            ],
+            [
+              11.4020405,
+              48.2721795
+            ],
+            [
+              11.4028579,
+              48.2721631
+            ],
+            [
+              11.4031261,
+              48.2721416
+            ]
+          ],
+          [
+            [
+              11.4031261,
+              48.2721416
+            ],
+            [
+              11.4033982,
+              48.2721259
+            ],
+            [
+              11.4034774,
+              48.2721255
+            ],
+            [
+              11.4037735,
+              48.2723315
+            ],
+            [
+              11.4038814,
+              48.2724154
+            ],
+            [
+              11.4040714,
+              48.2724923
+            ],
+            [
+              11.4043636,
+              48.2725643
+            ],
+            [
+              11.4048712,
+              48.2727329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Feldgeding",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Gada",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Günding",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Kreuzholzhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Lauterbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Oberbachern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Palsweis",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Palweis-Moos",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Rennhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "restliche Gemeinde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    },
+    {
+      "street": "Unterbachern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3649,
+          48.2567
+        ]
+      }
+    }
+  ]
+}

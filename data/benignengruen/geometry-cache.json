@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:00:25.673Z",
+  "streets": [
+    {
+      "street": "SOK-Benignengrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5327,
+          50.4579
+        ]
+      }
+    }
+  ]
+}
