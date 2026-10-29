@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:01:07.533Z",
+  "streets": [
+    {
+      "street": "Monstab",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          51
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:59:46.328Z",
+  "streets": [
+    {
+      "street": "Molbitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3978,
+          51.011
+        ]
+      }
+    }
+  ]
+}

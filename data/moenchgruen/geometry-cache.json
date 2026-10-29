@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:00:17.198Z",
+  "streets": [
+    {
+      "street": "SOK-Mönchgrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7656,
+          50.5798
+        ]
+      }
+    }
+  ]
+}

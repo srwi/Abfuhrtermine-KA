@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:59:37.714Z",
+  "streets": [
+    {
+      "street": "Mohlis",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2992,
+          50.9202
+        ]
+      }
+    }
+  ]
+}

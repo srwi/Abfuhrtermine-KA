@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:00:44.802Z",
+  "streets": [
+    {
+      "street": "Mönchstockheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3665,
+          49.9322
+        ]
+      }
+    }
+  ]
+}
