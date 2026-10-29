@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2026-10-29T16:05:09.132Z",
+  "streets": [
+    {
+      "street": "Am Pfefferberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Am See",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Am Soll",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "An der Hove",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Bogenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Brookwisch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Dörptwiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Ernst-Küster-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Fritz-Berodt-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Glashütte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Grander Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Haibarg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Hamburger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Hinterm See",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Hohen Eichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Hovering",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Kamphöhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Lütjenseer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Petersgrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Petersweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Pfefferberg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3474159,
+            53.6320619
+          ],
+          [
+            10.3472396,
+            53.632018
+          ],
+          [
+            10.3470585,
+            53.631954
+          ],
+          [
+            10.3468068,
+            53.6318505
+          ],
+          [
+            10.3467471,
+            53.6318003
+          ],
+          [
+            10.3466283,
+            53.6316647
+          ],
+          [
+            10.3461916,
+            53.6308331
+          ],
+          [
+            10.3457581,
+            53.6299742
+          ],
+          [
+            10.3455011,
+            53.6294731
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Rausdorfer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Regelstaedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Sandberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Schierholzkaten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Schmiedeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Schulkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Seestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Sieker Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Steinrade",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Stubbenrode",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Trittauer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Waldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Wilhelm-Eylmann-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Wischhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    },
+    {
+      "street": "Wünschberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3495,
+          53.6319
+        ]
+      }
+    }
+  ]
+}

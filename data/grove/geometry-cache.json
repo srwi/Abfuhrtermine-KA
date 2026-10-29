@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T16:05:28.538Z",
+  "streets": [
+    {
+      "street": "Alte Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4928,
+          53.5292
+        ]
+      }
+    },
+    {
+      "street": "Am Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4928,
+          53.5292
+        ]
+      }
+    },
+    {
+      "street": "Kastanienallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4928,
+          53.5292
+        ]
+      }
+    },
+    {
+      "street": "Schäferkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4928,
+          53.5292
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4928,
+          53.5292
+        ]
+      }
+    },
+    {
+      "street": "Steinautal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4928,
+          53.5292
+        ]
+      }
+    },
+    {
+      "street": "Vor den Höfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4928,
+          53.5292
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "generatedAt": "2026-10-29T16:06:02.537Z",
+  "streets": [
+    {
+      "street": "Am Denkmal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Am Kamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Am Travehang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "An der Autobahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Buchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Buurredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Fliederweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Haferkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Hamburger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Hansfelder Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Hansfelder Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Hohenleuchte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Huswisch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Kastanienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Kiefernweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Neddelstenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Poggenpohl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Roggenring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Sandberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Sandhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Schmiedekamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Stormarnstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5791,
+          53.8386
+        ]
+      }
+    }
+  ]
+}
