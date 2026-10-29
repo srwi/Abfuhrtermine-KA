@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:32:17.284Z",
+  "streets": [
+    {
+      "street": "Treben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4167,
+          51.05
+        ]
+      }
+    }
+  ]
+}

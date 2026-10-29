@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:30:17.903Z",
+  "streets": [
+    {
+      "street": "Thonhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3167,
+          50.8333
+        ]
+      }
+    }
+  ]
+}

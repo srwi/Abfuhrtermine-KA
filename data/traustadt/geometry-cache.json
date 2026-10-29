@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:32:05.266Z",
+  "streets": [
+    {
+      "street": "Traustadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4123,
+          49.9401
+        ]
+      }
+    }
+  ]
+}

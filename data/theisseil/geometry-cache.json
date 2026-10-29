@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:29:19.746Z",
+  "streets": [
+    {
+      "street": "Theisseil",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2274,
+          49.6903
+        ]
+      }
+    }
+  ]
+}

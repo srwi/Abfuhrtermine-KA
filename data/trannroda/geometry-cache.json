@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:31:44.416Z",
+  "streets": [
+    {
+      "street": "SOK-Trannroda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5379,
+          50.6961
+        ]
+      }
+    }
+  ]
+}

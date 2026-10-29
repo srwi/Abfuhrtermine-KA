@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:31:04.674Z",
+  "streets": [
+    {
+      "street": "SOK-Titschendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5268,
+          50.3865
+        ]
+      }
+    }
+  ]
+}

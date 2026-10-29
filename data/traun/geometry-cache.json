@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:31:54.957Z",
+  "streets": [
+    {
+      "street": "SOK-Traun",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2383,
+          48.2209
+        ]
+      }
+    }
+  ]
+}

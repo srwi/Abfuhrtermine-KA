@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:30:02.435Z",
+  "streets": [
+    {
+      "street": "Thomashof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2861,
+          50.1117
+        ]
+      }
+    }
+  ]
+}
