@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:18:53.803Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Oberhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1333,
+          50.6333
+        ]
+      }
+    }
+  ]
+}

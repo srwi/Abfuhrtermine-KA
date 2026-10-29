@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:19:25.292Z",
+  "streets": [
+    {
+      "street": "SOK-Oberkoskau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9186,
+          50.4908
+        ]
+      }
+    }
+  ]
+}

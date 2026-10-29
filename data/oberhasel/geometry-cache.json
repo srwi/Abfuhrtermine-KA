@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:19:04.383Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Oberhasel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2762,
+          47.392
+        ]
+      }
+    }
+  ]
+}

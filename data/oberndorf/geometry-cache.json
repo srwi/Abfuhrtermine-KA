@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T07:20:42.502Z",
+  "streets": [
+    {
+      "street": "Eggelstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9511,
+          47.9391
+        ]
+      }
+    },
+    {
+      "street": "Flein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9511,
+          47.9391
+        ]
+      }
+    },
+    {
+      "street": "Holzmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9511,
+          47.9391
+        ]
+      }
+    },
+    {
+      "street": "Moorsiedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9511,
+          47.9391
+        ]
+      }
+    },
+    {
+      "street": "Oberndorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9511,
+          47.9391
+        ]
+      }
+    }
+  ]
+}

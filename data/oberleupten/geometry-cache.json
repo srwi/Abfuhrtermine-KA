@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:20:15.266Z",
+  "streets": [
+    {
+      "street": "Oberleupten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4855,
+          50.9617
+        ]
+      }
+    }
+  ]
+}

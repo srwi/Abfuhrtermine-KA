@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:19:14.972Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Oberköditz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1253,
+          50.6704
+        ]
+      }
+    }
+  ]
+}

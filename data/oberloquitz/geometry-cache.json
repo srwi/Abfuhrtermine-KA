@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:20:33.243Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Oberloquitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3487,
+          50.5652
+        ]
+      }
+    }
+  ]
+}

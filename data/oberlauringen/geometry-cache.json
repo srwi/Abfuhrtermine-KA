@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:19:56.080Z",
+  "streets": [
+    {
+      "street": "Oberlauringen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3791,
+          50.2174
+        ]
+      }
+    }
+  ]
+}

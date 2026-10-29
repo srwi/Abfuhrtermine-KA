@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:19:44.938Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Oberkrossen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4672,
+          50.7368
+        ]
+      }
+    }
+  ]
+}

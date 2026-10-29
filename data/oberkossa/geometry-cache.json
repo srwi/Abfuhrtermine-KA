@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:19:35.436Z",
+  "streets": [
+    {
+      "street": "Oberkossa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2623,
+          50.9634
+        ]
+      }
+    }
+  ]
+}
