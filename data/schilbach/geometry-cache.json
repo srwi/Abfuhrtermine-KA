@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:21:33.673Z",
+  "streets": [
+    {
+      "street": "SOK-Schilbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8252,
+          50.4885
+        ]
+      }
+    }
+  ]
+}

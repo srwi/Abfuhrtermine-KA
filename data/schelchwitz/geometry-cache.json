@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:20:52.374Z",
+  "streets": [
+    {
+      "street": "Schelchwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4767,
+          50.9973
+        ]
+      }
+    }
+  ]
+}

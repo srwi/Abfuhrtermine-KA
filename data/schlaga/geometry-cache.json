@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:22:30.830Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Schlaga",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4173,
+          50.5444
+        ]
+      }
+    }
+  ]
+}

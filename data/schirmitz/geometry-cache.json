@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:22:19.409Z",
+  "streets": [
+    {
+      "street": "Schirmitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1667,
+          49.65
+        ]
+      }
+    }
+  ]
+}

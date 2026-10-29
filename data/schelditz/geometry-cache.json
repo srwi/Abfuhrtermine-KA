@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:21:01.991Z",
+  "streets": [
+    {
+      "street": "Schelditz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3846,
+          51.0104
+        ]
+      }
+    }
+  ]
+}

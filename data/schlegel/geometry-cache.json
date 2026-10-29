@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:23:07.833Z",
+  "streets": [
+    {
+      "street": "SOK-Schlegel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6167,
+          50.4
+        ]
+      }
+    }
+  ]
+}
