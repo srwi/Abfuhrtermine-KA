@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-10-29T16:01:33.387Z",
+  "streets": [
+    {
+      "street": "Barkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Bergrade",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Brink",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Dörpstraat",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Duvensee-Wall",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Fliegenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Friweh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Heisch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "In de Brüch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "In de Pütt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "In`n Sack",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Ruhm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "See-Enn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    },
+    {
+      "street": "Wall",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5833,
+          53.688
+        ]
+      }
+    }
+  ]
+}
