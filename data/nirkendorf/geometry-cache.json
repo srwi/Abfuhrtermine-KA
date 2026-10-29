@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:14:22.599Z",
+  "streets": [
+    {
+      "street": "Nirkendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5299,
+          50.9424
+        ]
+      }
+    }
+  ]
+}

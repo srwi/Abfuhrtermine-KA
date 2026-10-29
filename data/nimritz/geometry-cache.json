@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:14:13.535Z",
+  "streets": [
+    {
+      "street": "SOK-Nimritz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.64,
+          50.6943
+        ]
+      }
+    }
+  ]
+}

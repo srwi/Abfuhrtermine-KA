@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-10-29T07:16:42.601Z",
+  "streets": [
+    {
+      "street": "Oberaudorf",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1991558,
+            47.6378538
+          ],
+          [
+            12.1993373,
+            47.6378807
+          ]
+        ]
+      }
+    }
+  ]
+}

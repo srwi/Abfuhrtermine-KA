@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:14:47.453Z",
+  "streets": [
+    {
+      "street": "Nobitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4861,
+          50.9762
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:14:56.789Z",
+  "streets": [
+    {
+      "street": "Nödenitzsch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3254,
+          50.9044
+        ]
+      }
+    }
+  ]
+}

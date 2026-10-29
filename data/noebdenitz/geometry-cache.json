@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:14:37.952Z",
+  "streets": [
+    {
+      "street": "Nöbdenitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2833,
+          50.8667
+        ]
+      }
+    }
+  ]
+}

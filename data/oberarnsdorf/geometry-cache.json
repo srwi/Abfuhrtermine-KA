@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:16:37.391Z",
+  "streets": [
+    {
+      "street": "Oberarnsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.95,
+          47.9667
+        ]
+      }
+    }
+  ]
+}

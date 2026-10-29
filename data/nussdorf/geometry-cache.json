@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:16:06.834Z",
+  "streets": [
+    {
+      "street": "Nussdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5961,
+          47.9056
+        ]
+      }
+    }
+  ]
+}
