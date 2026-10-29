@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:14:42.045Z",
+  "streets": [
+    {
+      "street": "Kleinstechau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2738,
+          50.8881
+        ]
+      }
+    }
+  ]
+}

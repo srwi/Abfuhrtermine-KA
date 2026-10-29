@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:15:36.314Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Knobelsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.086,
+          51.0904
+        ]
+      }
+    }
+  ]
+}

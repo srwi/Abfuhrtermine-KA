@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:13:48.335Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Kleinkrossen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          50.7384
+        ]
+      }
+    }
+  ]
+}

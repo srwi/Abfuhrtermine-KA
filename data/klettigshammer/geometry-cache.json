@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:15:04.125Z",
+  "streets": [
+    {
+      "street": "SOK-Klettigshammer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5479,
+          50.4845
+        ]
+      }
+    }
+  ]
+}

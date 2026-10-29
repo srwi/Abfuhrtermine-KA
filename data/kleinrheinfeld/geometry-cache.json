@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T06:14:20.157Z",
+  "streets": [
+    {
+      "street": "Kleinrheinfeld",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3846803,
+            49.9547725
+          ],
+          [
+            10.3845558,
+            49.9549648
+          ],
+          [
+            10.3843909,
+            49.9551561
+          ]
+        ]
+      }
+    }
+  ]
+}

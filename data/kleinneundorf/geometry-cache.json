@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:14:07.208Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Kleinneundorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3944,
+          50.5392
+        ]
+      }
+    }
+  ]
+}

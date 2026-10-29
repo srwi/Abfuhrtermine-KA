@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:15:27.316Z",
+  "streets": [
+    {
+      "street": "Knau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7197,
+          50.6503
+        ]
+      }
+    }
+  ]
+}

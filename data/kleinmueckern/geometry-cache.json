@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:13:57.988Z",
+  "streets": [
+    {
+      "street": "Kleinmückern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4045,
+          50.9107
+        ]
+      }
+    }
+  ]
+}

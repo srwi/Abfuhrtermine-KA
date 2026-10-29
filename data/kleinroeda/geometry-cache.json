@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:14:32.225Z",
+  "streets": [
+    {
+      "street": "Kleinröda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2957,
+          51.006
+        ]
+      }
+    }
+  ]
+}

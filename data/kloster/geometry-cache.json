@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:15:18.036Z",
+  "streets": [
+    {
+      "street": "SOK-Kloster",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0833,
+          46.8833
+        ]
+      }
+    }
+  ]
+}

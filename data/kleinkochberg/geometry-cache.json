@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:13:37.703Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Kleinkochberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3725,
+          50.7822
+        ]
+      }
+    }
+  ]
+}
