@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:43:32.794Z",
+  "streets": [
+    {
+      "street": "Hartha",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7611,
+          30.5848
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:42:18.423Z",
+  "streets": [
+    {
+      "street": "Hambach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0353,
+          49.0594
+        ]
+      }
+    }
+  ]
+}

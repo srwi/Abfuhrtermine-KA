@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:42:09.178Z",
+  "streets": [
+    {
+      "street": "Halfing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2753,
+          47.952
+        ]
+      }
+    }
+  ]
+}

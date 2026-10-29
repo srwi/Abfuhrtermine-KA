@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T05:41:59.478Z",
+  "streets": [
+    {
+      "street": "Eichenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35,
+          47.8
+        ]
+      }
+    },
+    {
+      "street": "Freybergerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35,
+          47.8
+        ]
+      }
+    },
+    {
+      "street": "Hafenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35,
+          47.8
+        ]
+      }
+    },
+    {
+      "street": "Haldenwang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35,
+          47.8
+        ]
+      }
+    },
+    {
+      "street": "Konzenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35,
+          47.8
+        ]
+      }
+    },
+    {
+      "street": "Mehrenstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35,
+          47.8
+        ]
+      }
+    }
+  ]
+}

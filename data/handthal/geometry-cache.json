@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:42:38.102Z",
+  "streets": [
+    {
+      "street": "Handthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4386,
+          49.8714
+        ]
+      }
+    }
+  ]
+}

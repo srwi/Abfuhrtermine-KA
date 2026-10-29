@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2026-10-29T05:43:01.382Z",
+  "streets": [
+    {
+      "street": "Birkenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Brennhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Brünsee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Bühlhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Ebermergen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Egermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Grosssorheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Harburg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              9.990371,
+              53.4571431
+            ],
+            [
+              9.9915502,
+              53.4570081
+            ],
+            [
+              9.9917083,
+              53.45699
+            ],
+            [
+              9.9919691,
+              53.4569601
+            ],
+            [
+              9.9934121,
+              53.456795
+            ],
+            [
+              9.9934987,
+              53.4567851
+            ],
+            [
+              9.9934536,
+              53.4566453
+            ],
+            [
+              9.9933682,
+              53.4566551
+            ],
+            [
+              9.9919252,
+              53.4568203
+            ],
+            [
+              9.9915048,
+              53.4568684
+            ],
+            [
+              9.9903259,
+              53.4570033
+            ],
+            [
+              9.9903366,
+              53.4570365
+            ],
+            [
+              9.9903405,
+              53.4570487
+            ],
+            [
+              9.9903459,
+              53.4570655
+            ],
+            [
+              9.9903513,
+              53.4570823
+            ],
+            [
+              9.990371,
+              53.4571431
+            ]
+          ],
+          [
+            [
+              9.9811972,
+              53.4644841
+            ],
+            [
+              9.9812567,
+              53.4645591
+            ],
+            [
+              9.9812953,
+              53.4645482
+            ],
+            [
+              9.9812628,
+              53.4645072
+            ],
+            [
+              9.9813113,
+              53.4644936
+            ],
+            [
+              9.9813614,
+              53.4645568
+            ],
+            [
+              9.9812759,
+              53.4645809
+            ],
+            [
+              9.9813548,
+              53.4646804
+            ],
+            [
+              9.9811536,
+              53.464737
+            ],
+            [
+              9.9811469,
+              53.4647285
+            ],
+            [
+              9.9803794,
+              53.4649442
+            ],
+            [
+              9.9803848,
+              53.464951
+            ],
+            [
+              9.9802886,
+              53.464978
+            ],
+            [
+              9.9801386,
+              53.4647887
+            ],
+            [
+              9.9809673,
+              53.4645558
+            ],
+            [
+              9.9809627,
+              53.46455
+            ],
+            [
+              9.9811972,
+              53.4644841
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Harthof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Heroldingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Hoppingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Katzenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Kratzhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Kreishof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Listhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Marbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Mauren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Möggingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Mündling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Olachmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Reismühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Ronheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Salchhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Schrattenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Sonderhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Spielberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    },
+    {
+      "street": "Tiefenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9839,
+          53.4606
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:42:27.447Z",
+  "streets": [
+    {
+      "street": "SOK-Hammermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9305,
+          47.5912
+        ]
+      }
+    }
+  ]
+}

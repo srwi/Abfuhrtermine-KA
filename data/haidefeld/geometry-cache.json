@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:41:13.342Z",
+  "streets": [
+    {
+      "street": "SOK-Haidefeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8878,
+          50.4416
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-10-29T05:41:50.014Z",
+  "streets": [
+    {
+      "street": "Aumühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Fürfällmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Gunzenhausener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Hainsfarth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Hasenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Hefehof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Kreuzhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Steinhart",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Wornfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    },
+    {
+      "street": "Ziegelhütte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6249,
+          48.9584
+        ]
+      }
+    }
+  ]
+}
