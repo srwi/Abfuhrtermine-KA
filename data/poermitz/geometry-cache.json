@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:39:26.918Z",
+  "streets": [
+    {
+      "street": "SOK-Pörmitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8167,
+          50.6167
+        ]
+      }
+    }
+  ]
+}

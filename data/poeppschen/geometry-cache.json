@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:39:07.009Z",
+  "streets": [
+    {
+      "street": "Pöppschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5031,
+          51.0079
+        ]
+      }
+    }
+  ]
+}

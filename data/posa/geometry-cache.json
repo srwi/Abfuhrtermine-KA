@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:39:47.951Z",
+  "streets": [
+    {
+      "street": "Posa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2871,
+          51.008
+        ]
+      }
+    }
+  ]
+}

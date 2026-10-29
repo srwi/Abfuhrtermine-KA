@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:39:37.547Z",
+  "streets": [
+    {
+      "street": "SOK-Porstendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9286,
+          50.7652
+        ]
+      }
+    }
+  ]
+}

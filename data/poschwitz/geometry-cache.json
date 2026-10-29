@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:39:58.603Z",
+  "streets": [
+    {
+      "street": "Poschwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4554,
+          51.004
+        ]
+      }
+    }
+  ]
+}

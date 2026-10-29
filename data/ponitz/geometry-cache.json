@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-10-29T07:38:44.312Z",
+  "streets": [
+    {
+      "street": "Ponitz",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4231432,
+            50.8570095
+          ],
+          [
+            12.4231021,
+            50.8570904
+          ]
+        ]
+      }
+    }
+  ]
+}

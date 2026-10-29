@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:37:36.158Z",
+  "streets": [
+    {
+      "street": "Pöhla",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8189,
+          50.5114
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:39:16.416Z",
+  "streets": [
+    {
+      "street": "SOK-Pöritzsch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7169,
+          50.4962
+        ]
+      }
+    }
+  ]
+}
