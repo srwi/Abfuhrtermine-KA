@@ -1,0 +1,475 @@
+{
+  "generatedAt": "2026-10-29T23:46:59.007Z",
+  "streets": [
+    {
+      "street": "Almsloh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Bergedorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Birkenheide",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5373314,
+            53.0107846
+          ],
+          [
+            8.5377394,
+            53.0121671
+          ],
+          [
+            8.5380727,
+            53.0132655
+          ],
+          [
+            8.5381248,
+            53.0134291
+          ],
+          [
+            8.5382023,
+            53.0143862
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Bookholzberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Bookhorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Bürstel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Elmeloh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Falkenburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Ganderkesee",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.5628556,
+              53.0332008
+            ],
+            [
+              8.564118,
+              53.0332383
+            ],
+            [
+              8.5654274,
+              53.0333243
+            ],
+            [
+              8.5679156,
+              53.0334028
+            ],
+            [
+              8.5679486,
+              53.0334038
+            ],
+            [
+              8.5681978,
+              53.031452
+            ],
+            [
+              8.5649308,
+              53.0313592
+            ],
+            [
+              8.5648356,
+              53.0310724
+            ],
+            [
+              8.564422,
+              53.0307394
+            ],
+            [
+              8.5637658,
+              53.0307094
+            ],
+            [
+              8.5635941,
+              53.0305958
+            ],
+            [
+              8.5636199,
+              53.0301416
+            ],
+            [
+              8.5626286,
+              53.0301014
+            ],
+            [
+              8.56263,
+              53.0301582
+            ],
+            [
+              8.5626291,
+              53.0301761
+            ],
+            [
+              8.5624655,
+              53.0301763
+            ],
+            [
+              8.562597,
+              53.0302716
+            ],
+            [
+              8.5625557,
+              53.0303011
+            ],
+            [
+              8.5624955,
+              53.0303068
+            ],
+            [
+              8.5628293,
+              53.030695
+            ],
+            [
+              8.5627376,
+              53.0316394
+            ],
+            [
+              8.5630224,
+              53.0317951
+            ],
+            [
+              8.5628556,
+              53.0332008
+            ]
+          ],
+          [
+            [
+              8.5435609,
+              53.0355192
+            ],
+            [
+              8.5435893,
+              53.0354974
+            ],
+            [
+              8.5427486,
+              53.0351327
+            ],
+            [
+              8.5419406,
+              53.0347805
+            ],
+            [
+              8.5419147,
+              53.0348039
+            ],
+            [
+              8.5426772,
+              53.035136
+            ],
+            [
+              8.543269,
+              53.0353937
+            ],
+            [
+              8.5435609,
+              53.0355192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Grüppenbühren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Habbrügge",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Havekost",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5289971,
+            53.0133894
+          ],
+          [
+            8.5298982,
+            53.0113337
+          ],
+          [
+            8.5302241,
+            53.0105327
+          ],
+          [
+            8.5301645,
+            53.0104937
+          ],
+          [
+            8.5299517,
+            53.0104614
+          ],
+          [
+            8.5287744,
+            53.0103461
+          ],
+          [
+            8.5285127,
+            53.0103891
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Heide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Hengsterholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Hohenböken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Holzkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Hoyerswege",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Hoykenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Immer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Kühlingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Mönchhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Neuenlande",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Nutzhorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Rethorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Schierbrok",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Schlutter",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Schönemoor",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Steinkimmen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Stenum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    },
+    {
+      "street": "Urneburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451,
+          53.0362
+        ]
+      }
+    }
+  ]
+}
