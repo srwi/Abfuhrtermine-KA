@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:23:59.852Z",
+  "streets": [
+    {
+      "street": "SOK-Oettersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8167,
+          50.6
+        ]
+      }
+    }
+  ]
+}

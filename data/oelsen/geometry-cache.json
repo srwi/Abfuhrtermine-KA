@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:23:49.476Z",
+  "streets": [
+    {
+      "street": "SOK-Oelsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.508,
+          50.6564
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:21:54.980Z",
+  "streets": [
+    {
+      "street": "Oberschwarzach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.41,
+          49.8605
+        ]
+      }
+    }
+  ]
+}

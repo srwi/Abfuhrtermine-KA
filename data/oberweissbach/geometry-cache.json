@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:23:02.872Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Oberweissbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1438,
+          50.5823
+        ]
+      }
+    }
+  ]
+}

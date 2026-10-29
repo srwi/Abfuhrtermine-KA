@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:21:26.374Z",
+  "streets": [
+    {
+      "street": "Oberpframmern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8133,
+          48.022
+        ]
+      }
+    }
+  ]
+}

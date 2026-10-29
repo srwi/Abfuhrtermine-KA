@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:23:29.386Z",
+  "streets": [
+    {
+      "street": "Oberzetzscha",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4196,
+          51.0156
+        ]
+      }
+    }
+  ]
+}

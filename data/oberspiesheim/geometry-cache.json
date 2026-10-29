@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:22:19.310Z",
+  "streets": [
+    {
+      "street": "Oberspiesheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2746,
+          49.9471
+        ]
+      }
+    }
+  ]
+}

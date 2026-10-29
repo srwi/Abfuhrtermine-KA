@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:21:45.371Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Oberschöbling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0876,
+          50.6415
+        ]
+      }
+    }
+  ]
+}

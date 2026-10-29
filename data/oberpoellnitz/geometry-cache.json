@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:21:35.755Z",
+  "streets": [
+    {
+      "street": "SOK-Oberpöllnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8804,
+          50.7448
+        ]
+      }
+    }
+  ]
+}
