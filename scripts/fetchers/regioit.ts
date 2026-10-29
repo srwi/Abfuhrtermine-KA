@@ -61,6 +61,13 @@ export function defaultMapWasteType(name: string): CategoryKey | null {
   return null;
 }
 
+const SHARED_DOMAIN_SERVICES = new Set([
+  'unna',
+  'frankenthal',
+  'awvlippe',
+  'kranenburg'
+]);
+
 export class RegioItFetcher implements CityFetcher {
   readonly id: string;
   readonly name: string;
@@ -92,7 +99,9 @@ export class RegioItFetcher implements CityFetcher {
 
     this.primaryBaseUrl = `https://${this.serviceDomain}-abfallapp.regioit.de/abfall-app-${this.serviceDomain}/rest`;
     this.fallbackBaseUrl = `https://abfallapp.regioit.de/abfall-app-${this.serviceDomain}/rest`;
-    this.activeBaseUrl = this.primaryBaseUrl;
+    this.activeBaseUrl = SHARED_DOMAIN_SERVICES.has(this.serviceDomain)
+      ? this.fallbackBaseUrl
+      : this.primaryBaseUrl;
   }
 
   private async fetchJson<T>(path: string, maxRetries = 3): Promise<T> {
@@ -113,14 +122,17 @@ export class RegioItFetcher implements CityFetcher {
         }
 
         if (res.status === 404) {
-          if (this.activeBaseUrl === this.primaryBaseUrl) {
-            this.activeBaseUrl = this.fallbackBaseUrl;
-          } else {
-            this.activeBaseUrl = this.primaryBaseUrl;
-          }
+          this.activeBaseUrl =
+            this.activeBaseUrl === this.primaryBaseUrl
+              ? this.fallbackBaseUrl
+              : this.primaryBaseUrl;
         }
       } catch (err) {
         lastError = err;
+        this.activeBaseUrl =
+          this.activeBaseUrl === this.primaryBaseUrl
+            ? this.fallbackBaseUrl
+            : this.primaryBaseUrl;
         await Bun.sleep(500 * attempt);
       }
     }
