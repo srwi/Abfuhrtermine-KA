@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T20:44:36.803Z",
+  "streets": [
+    {
+      "street": "Alpenrod",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8667,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Dehlingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8667,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Hirtscheid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8667,
+          50.6333
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T20:46:12.451Z",
+  "streets": [
+    {
+      "street": "Bad Marienberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9496,
+          50.6495
+        ]
+      }
+    },
+    {
+      "street": "Eichenstruth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9496,
+          50.6495
+        ]
+      }
+    },
+    {
+      "street": "Langenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9496,
+          50.6495
+        ]
+      }
+    },
+    {
+      "street": "Zinhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9496,
+          50.6495
+        ]
+      }
+    }
+  ]
+}

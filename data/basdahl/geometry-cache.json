@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T20:47:02.230Z",
+  "streets": [
+    {
+      "street": "Basdahl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0003,
+          53.445
+        ]
+      }
+    },
+    {
+      "street": "Oese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0003,
+          53.445
+        ]
+      }
+    },
+    {
+      "street": "Volkmarst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0003,
+          53.445
+        ]
+      }
+    }
+  ]
+}

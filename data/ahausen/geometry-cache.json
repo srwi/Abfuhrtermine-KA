@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T20:43:38.282Z",
+  "streets": [
+    {
+      "street": "Ahausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3134,
+          53.0628
+        ]
+      }
+    },
+    {
+      "street": "Eversen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3134,
+          53.0628
+        ]
+      }
+    }
+  ]
+}
