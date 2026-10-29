@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T04:44:53.379Z",
+  "streets": [
+    {
+      "street": "Melperts",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5252,
+          33.6042
+        ]
+      }
+    },
+    {
+      "street": "Reulbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5252,
+          33.6042
+        ]
+      }
+    },
+    {
+      "street": "Seiferts",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5252,
+          33.6042
+        ]
+      }
+    },
+    {
+      "street": "Thaiden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5252,
+          33.6042
+        ]
+      }
+    },
+    {
+      "street": "Wüstensachsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5252,
+          33.6042
+        ]
+      }
+    }
+  ]
+}

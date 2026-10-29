@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:41:37.868Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Egelsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8167,
+          47.1167
+        ]
+      }
+    }
+  ]
+}

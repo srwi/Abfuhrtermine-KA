@@ -1,0 +1,4119 @@
+{
+  "generatedAt": "2026-10-29T04:43:50.392Z",
+  "streets": [
+    {
+      "street": "Alpenweg - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Alte Tölzer Strasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Alter Flösserweg - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Altkirchner Strasse - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Anger - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Bergl - Moosham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Bühel - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Giesenanger - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Hochfeld - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Kaltenbach - Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Kleinfeld - Öhnböck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Kreuzacker - Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Lohberg - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Moos - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Moosbach - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Schulberg - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Wasserhaus - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Am Weiherbachl - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Amtmannstrasse - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Angermühlstrasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Angerweg - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Argeter Strasse - Öhnböck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Ascholdinger Strasse - Siegertshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Attenham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Attenhamer Strasse - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Aufhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Aufhofener Feld- Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Aufhofener Strasse - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Aumühle",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.4698238,
+              47.9534179
+            ],
+            [
+              11.4703103,
+              47.9530528
+            ],
+            [
+              11.4707455,
+              47.9528074
+            ],
+            [
+              11.4709271,
+              47.9527424
+            ]
+          ],
+          [
+            [
+              11.4703594,
+              47.9549595
+            ],
+            [
+              11.4702484,
+              47.9548529
+            ],
+            [
+              11.4701745,
+              47.9547687
+            ],
+            [
+              11.470125,
+              47.9546835
+            ],
+            [
+              11.4700977,
+              47.9546365
+            ],
+            [
+              11.4700956,
+              47.9544272
+            ],
+            [
+              11.4700935,
+              47.9542156
+            ],
+            [
+              11.469996,
+              47.9537975
+            ],
+            [
+              11.4698907,
+              47.9535102
+            ],
+            [
+              11.4698238,
+              47.9534179
+            ]
+          ],
+          [
+            [
+              11.4701313,
+              47.9548435
+            ],
+            [
+              11.4700663,
+              47.9547281
+            ],
+            [
+              11.4698562,
+              47.95473
+            ],
+            [
+              11.4699162,
+              47.9548599
+            ],
+            [
+              11.4700126,
+              47.9548584
+            ],
+            [
+              11.4700128,
+              47.9548446
+            ],
+            [
+              11.4701313,
+              47.9548435
+            ]
+          ],
+          [
+            [
+              11.4788881,
+              47.9628785
+            ],
+            [
+              11.4787955,
+              47.9627294
+            ],
+            [
+              11.478694,
+              47.9626221
+            ],
+            [
+              11.4784175,
+              47.9624565
+            ],
+            [
+              11.4783103,
+              47.9623842
+            ],
+            [
+              11.4782377,
+              47.9622921
+            ],
+            [
+              11.4781951,
+              47.9622105
+            ],
+            [
+              11.4779887,
+              47.9617362
+            ],
+            [
+              11.477946,
+              47.9616379
+            ],
+            [
+              11.4778688,
+              47.9614316
+            ],
+            [
+              11.4778015,
+              47.9612592
+            ],
+            [
+              11.477756,
+              47.9611467
+            ],
+            [
+              11.4777108,
+              47.9610326
+            ],
+            [
+              11.477622,
+              47.9608082
+            ],
+            [
+              11.4775409,
+              47.960578
+            ],
+            [
+              11.4774486,
+              47.9603932
+            ],
+            [
+              11.4772513,
+              47.9600787
+            ],
+            [
+              11.4771226,
+              47.9599035
+            ],
+            [
+              11.4763198,
+              47.9589123
+            ],
+            [
+              11.4762852,
+              47.9588615
+            ],
+            [
+              11.4762016,
+              47.9587569
+            ],
+            [
+              11.4760927,
+              47.9586303
+            ],
+            [
+              11.475935,
+              47.9584725
+            ],
+            [
+              11.475798,
+              47.9583382
+            ],
+            [
+              11.4756026,
+              47.9581694
+            ],
+            [
+              11.4754401,
+              47.9580454
+            ],
+            [
+              11.4753142,
+              47.9579549
+            ],
+            [
+              11.4752506,
+              47.9579052
+            ],
+            [
+              11.4750826,
+              47.957795
+            ],
+            [
+              11.47482,
+              47.9576278
+            ],
+            [
+              11.4743949,
+              47.9574026
+            ],
+            [
+              11.4731021,
+              47.956749
+            ],
+            [
+              11.4719514,
+              47.9561887
+            ],
+            [
+              11.4718517,
+              47.9561119
+            ],
+            [
+              11.4717944,
+              47.9560537
+            ],
+            [
+              11.4716905,
+              47.9558633
+            ],
+            [
+              11.4715908,
+              47.9556473
+            ],
+            [
+              11.4715441,
+              47.9555692
+            ],
+            [
+              11.4714635,
+              47.9554527
+            ],
+            [
+              11.471348,
+              47.9553411
+            ],
+            [
+              11.4712335,
+              47.9552597
+            ],
+            [
+              11.471196,
+              47.9552337
+            ]
+          ],
+          [
+            [
+              11.4709361,
+              47.9527405
+            ],
+            [
+              11.4713739,
+              47.9526731
+            ],
+            [
+              11.471889,
+              47.9525527
+            ]
+          ],
+          [
+            [
+              11.4709271,
+              47.9527424
+            ],
+            [
+              11.4709361,
+              47.9527405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Austrasse - Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Babenstuber Weg - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Berganger - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Brunnlachweg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Bullreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Deininger Strasse - Dettenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Dettenhausen",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5066171,
+            47.936783
+          ],
+          [
+            11.5066036,
+            47.9368093
+          ],
+          [
+            11.5065258,
+            47.9368322
+          ],
+          [
+            11.5064885,
+            47.9369183
+          ],
+          [
+            11.5070039,
+            47.9370488
+          ],
+          [
+            11.5070213,
+            47.9370542
+          ],
+          [
+            11.5068667,
+            47.9374841
+          ],
+          [
+            11.5072377,
+            47.9375726
+          ],
+          [
+            11.5074662,
+            47.9376134
+          ],
+          [
+            11.5087111,
+            47.9378445
+          ],
+          [
+            11.5087131,
+            47.9380038
+          ],
+          [
+            11.5091592,
+            47.9380031
+          ],
+          [
+            11.5087262,
+            47.9390677
+          ],
+          [
+            11.5084539,
+            47.9390786
+          ],
+          [
+            11.5084534,
+            47.9392966
+          ],
+          [
+            11.5084591,
+            47.9393819
+          ],
+          [
+            11.5081814,
+            47.939361
+          ],
+          [
+            11.5080028,
+            47.9393288
+          ],
+          [
+            11.5076797,
+            47.9392262
+          ],
+          [
+            11.5074024,
+            47.9390701
+          ],
+          [
+            11.5073386,
+            47.9391089
+          ],
+          [
+            11.50731,
+            47.9392327
+          ],
+          [
+            11.5072472,
+            47.9392363
+          ],
+          [
+            11.5055368,
+            47.939334
+          ],
+          [
+            11.5054994,
+            47.9391305
+          ],
+          [
+            11.5058098,
+            47.9390781
+          ],
+          [
+            11.5057394,
+            47.9381986
+          ],
+          [
+            11.505754,
+            47.9381479
+          ],
+          [
+            11.5057829,
+            47.9380472
+          ],
+          [
+            11.505645,
+            47.9380097
+          ],
+          [
+            11.5051815,
+            47.9378073
+          ],
+          [
+            11.505311,
+            47.9375624
+          ],
+          [
+            11.5052722,
+            47.9375517
+          ],
+          [
+            11.5050521,
+            47.937491
+          ],
+          [
+            11.5047931,
+            47.9378685
+          ],
+          [
+            11.5044733,
+            47.9377614
+          ],
+          [
+            11.504717,
+            47.937343
+          ],
+          [
+            11.5041849,
+            47.937155
+          ],
+          [
+            11.5041039,
+            47.9372708
+          ],
+          [
+            11.5037147,
+            47.9371298
+          ],
+          [
+            11.5037655,
+            47.936883
+          ],
+          [
+            11.5037117,
+            47.9367563
+          ],
+          [
+            11.5038095,
+            47.9365374
+          ],
+          [
+            11.5039285,
+            47.9363553
+          ],
+          [
+            11.5035906,
+            47.9362032
+          ],
+          [
+            11.5032508,
+            47.9360502
+          ],
+          [
+            11.503493,
+            47.9356021
+          ],
+          [
+            11.5038446,
+            47.9356684
+          ],
+          [
+            11.5039201,
+            47.9356826
+          ],
+          [
+            11.5049247,
+            47.936009
+          ],
+          [
+            11.5060704,
+            47.9364778
+          ],
+          [
+            11.5061083,
+            47.9364933
+          ],
+          [
+            11.5060579,
+            47.9366639
+          ],
+          [
+            11.5060843,
+            47.936816
+          ],
+          [
+            11.5064115,
+            47.9368988
+          ],
+          [
+            11.5064655,
+            47.9367544
+          ],
+          [
+            11.5066171,
+            47.936783
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Dietramszeller Strasse - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Dorfanger - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse - Ergertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Dürnstein - Dürnstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Dürnstein (Bruckenfischer)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Edelbuchweg - Ergertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Eglinger Strasse - Moosham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg - Siegertshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Endlhauser Strasse - Attenham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Ergertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Ergertshauser Strasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Eschenweg - Ergertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Eulenschwang",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.5562462,
+              47.9479947
+            ],
+            [
+              11.5560679,
+              47.9479752
+            ],
+            [
+              11.5558697,
+              47.9479568
+            ],
+            [
+              11.5556632,
+              47.9479365
+            ],
+            [
+              11.5554134,
+              47.9479076
+            ],
+            [
+              11.5551831,
+              47.9478784
+            ],
+            [
+              11.5549028,
+              47.9478501
+            ],
+            [
+              11.5547831,
+              47.9478391
+            ],
+            [
+              11.5546533,
+              47.9478252
+            ],
+            [
+              11.5545065,
+              47.9478047
+            ],
+            [
+              11.5544143,
+              47.9477809
+            ],
+            [
+              11.5542654,
+              47.9477324
+            ],
+            [
+              11.5539815,
+              47.947612
+            ],
+            [
+              11.5537655,
+              47.9475461
+            ],
+            [
+              11.5535271,
+              47.9474951
+            ],
+            [
+              11.5531964,
+              47.9475173
+            ],
+            [
+              11.5528335,
+              47.9475489
+            ],
+            [
+              11.5523578,
+              47.947548
+            ],
+            [
+              11.5514739,
+              47.9474858
+            ]
+          ],
+          [
+            [
+              11.5535271,
+              47.9474951
+            ],
+            [
+              11.5536051,
+              47.9470302
+            ],
+            [
+              11.5536128,
+              47.9468208
+            ]
+          ],
+          [
+            [
+              11.5514739,
+              47.9474858
+            ],
+            [
+              11.5512255,
+              47.9475121
+            ],
+            [
+              11.5506354,
+              47.9475669
+            ],
+            [
+              11.5497744,
+              47.9476486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Eulenschwanger Strasse - Aufhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Feldkirchen",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.5453375,
+              47.9080715
+            ],
+            [
+              11.54556,
+              47.9080856
+            ],
+            [
+              11.5460555,
+              47.9081254
+            ],
+            [
+              11.5462042,
+              47.9081289
+            ],
+            [
+              11.5464678,
+              47.9081161
+            ],
+            [
+              11.5467376,
+              47.9080892
+            ],
+            [
+              11.5469547,
+              47.9080717
+            ]
+          ],
+          [
+            [
+              11.545212,
+              47.9080733
+            ],
+            [
+              11.5452635,
+              47.9080703
+            ],
+            [
+              11.5453375,
+              47.9080715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Feldkirchener Strasse - Moosham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Feldkirchner Strasse - Moosham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Frasshauser Strasse - Attenham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Gasteig - Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Geilertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Geilertshauser Strasse - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Gewerbering - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Golkofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Gräfin-Justitia-Strasse - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Grosseichenhauser Strasse - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Harmating",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.5428231,
+              47.8882681
+            ],
+            [
+              11.5427879,
+              47.8880966
+            ],
+            [
+              11.5427649,
+              47.8880144
+            ]
+          ],
+          [
+            [
+              11.5429456,
+              47.8884896
+            ],
+            [
+              11.5428728,
+              47.8883811
+            ],
+            [
+              11.5428231,
+              47.8882681
+            ]
+          ],
+          [
+            [
+              11.543901,
+              47.8883967
+            ],
+            [
+              11.5437857,
+              47.8883526
+            ]
+          ],
+          [
+            [
+              11.5437857,
+              47.8883526
+            ],
+            [
+              11.5436187,
+              47.8882896
+            ],
+            [
+              11.543378,
+              47.8882033
+            ],
+            [
+              11.5432003,
+              47.888144
+            ],
+            [
+              11.54291,
+              47.888063
+            ],
+            [
+              11.5427649,
+              47.8880144
+            ]
+          ],
+          [
+            [
+              11.5421772,
+              47.8864706
+            ],
+            [
+              11.5422336,
+              47.8863834
+            ],
+            [
+              11.5423272,
+              47.8862512
+            ],
+            [
+              11.5424211,
+              47.8861654
+            ]
+          ],
+          [
+            [
+              11.5427649,
+              47.8880144
+            ],
+            [
+              11.5426897,
+              47.887848
+            ],
+            [
+              11.5425564,
+              47.8875342
+            ],
+            [
+              11.5422769,
+              47.8869909
+            ],
+            [
+              11.5422589,
+              47.8869605
+            ],
+            [
+              11.5422358,
+              47.8868735
+            ],
+            [
+              11.5422145,
+              47.8867874
+            ],
+            [
+              11.5421829,
+              47.8865345
+            ],
+            [
+              11.5421772,
+              47.8864706
+            ]
+          ],
+          [
+            [
+              11.5424211,
+              47.8861654
+            ],
+            [
+              11.5424783,
+              47.886087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Heinritzimühle - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Herderweg - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Herterleite - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Hirtenweg - Dettenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Hochleiten - Sachsenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Hochreutweg - Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Hochstrasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Hofmarkstrasse - Aufhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Hornstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Hornsteiner Strasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Im Thal - Reichertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Isarleiten - Sachsenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Jägerweg - Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kagererweg - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kalkofenweg - Aufhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kaltschmiedweg - Attenham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kapellenweg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Keltenstrasse - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kiebergstrasse - Schalkofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kirchbergweg - Aufhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kirchfeldweg - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Klosterweg - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kraxnbichlweg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kreuzbergweg - Aufhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Kreuzstrasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Laberstrasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Leonhardsweg - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse - Moosham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg - Attenham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Marienstrasse - Dettenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Moosham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Mooshamer Strasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Moosstrasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Moosweg - Sachsenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Mühlweg - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Münchner Strasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Neukolbing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Oberbiberger Strasse - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Öhnböck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Öhnböcker Strasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Osterbergweg - Ergertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Ötzstrasse - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Pater-Paulus-Weg - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Pfarrstrasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Pitzenweg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Pointweg - Aufhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Pupplinger Weg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Raiffeisenstrasse - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Rathausstrasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Rauschbuchweg - Ergertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Reichertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Riedhof",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.4666345,
+              47.9212291
+            ],
+            [
+              11.4666487,
+              47.9213397
+            ]
+          ],
+          [
+            [
+              11.4668917,
+              47.9205624
+            ],
+            [
+              11.4668217,
+              47.9210445
+            ],
+            [
+              11.4667742,
+              47.9211177
+            ],
+            [
+              11.4667844,
+              47.9212027
+            ]
+          ],
+          [
+            [
+              11.4666487,
+              47.9213397
+            ],
+            [
+              11.4666297,
+              47.9214143
+            ],
+            [
+              11.466571,
+              47.9215126
+            ],
+            [
+              11.4664909,
+              47.9216469
+            ],
+            [
+              11.466491,
+              47.921858
+            ],
+            [
+              11.4665937,
+              47.9219936
+            ],
+            [
+              11.4666628,
+              47.9220206
+            ]
+          ],
+          [
+            [
+              11.4666628,
+              47.9220206
+            ],
+            [
+              11.4666755,
+              47.9223298
+            ],
+            [
+              11.4665758,
+              47.9227225
+            ],
+            [
+              11.4663264,
+              47.9232596
+            ],
+            [
+              11.4658894,
+              47.923494
+            ],
+            [
+              11.4654927,
+              47.9237051
+            ],
+            [
+              11.4652687,
+              47.9236516
+            ],
+            [
+              11.4651179,
+              47.9235802
+            ],
+            [
+              11.4648958,
+              47.923563
+            ],
+            [
+              11.4646684,
+              47.9235453
+            ]
+          ],
+          [
+            [
+              11.466571,
+              47.9215126
+            ],
+            [
+              11.4667559,
+              47.9215455
+            ],
+            [
+              11.4670366,
+              47.9215705
+            ],
+            [
+              11.467285,
+              47.9215954
+            ]
+          ],
+          [
+            [
+              11.4739243,
+              47.9211197
+            ],
+            [
+              11.4737943,
+              47.921196
+            ],
+            [
+              11.4735449,
+              47.9212849
+            ],
+            [
+              11.4733292,
+              47.9213409
+            ],
+            [
+              11.4730278,
+              47.9213715
+            ],
+            [
+              11.4726614,
+              47.921407
+            ],
+            [
+              11.4721722,
+              47.9213672
+            ],
+            [
+              11.471789,
+              47.9213135
+            ],
+            [
+              11.4711455,
+              47.9212501
+            ],
+            [
+              11.4696927,
+              47.9210049
+            ],
+            [
+              11.4691955,
+              47.9209411
+            ],
+            [
+              11.4688454,
+              47.9209028
+            ],
+            [
+              11.4687282,
+              47.9208765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Riedhofweg - Ergertshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Sachsenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Sägmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Sauerlacher Strasse - Öhnböck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Schallkofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Schanzenstrasse - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Schiessstättstrasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Schmiedbergstrasse - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Schmiedweg - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Schnuckenhof - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Schönberg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.4874039,
+              47.9417124
+            ],
+            [
+              11.4870492,
+              47.9419646
+            ],
+            [
+              11.4866281,
+              47.9421748
+            ],
+            [
+              11.486275,
+              47.9423311
+            ],
+            [
+              11.4860343,
+              47.942446
+            ],
+            [
+              11.4859384,
+              47.9425177
+            ],
+            [
+              11.4858744,
+              47.9426254
+            ],
+            [
+              11.4858415,
+              47.9427262
+            ],
+            [
+              11.4858594,
+              47.9428404
+            ],
+            [
+              11.4858934,
+              47.9429143
+            ],
+            [
+              11.486126,
+              47.9433449
+            ],
+            [
+              11.4861399,
+              47.9434642
+            ],
+            [
+              11.4860911,
+              47.9435454
+            ],
+            [
+              11.4859259,
+              47.9436859
+            ],
+            [
+              11.4856786,
+              47.9437965
+            ],
+            [
+              11.4849559,
+              47.9440574
+            ],
+            [
+              11.4848084,
+              47.9441269
+            ],
+            [
+              11.4846639,
+              47.9442584
+            ],
+            [
+              11.4844489,
+              47.9445224
+            ],
+            [
+              11.4840799,
+              47.9449894
+            ],
+            [
+              11.4840301,
+              47.9450869
+            ],
+            [
+              11.4840247,
+              47.9451746
+            ],
+            [
+              11.4840681,
+              47.9452499
+            ],
+            [
+              11.4841692,
+              47.9453268
+            ]
+          ],
+          [
+            [
+              11.4917866,
+              47.9528659
+            ],
+            [
+              11.4921755,
+              47.9528546
+            ],
+            [
+              11.4925636,
+              47.9529085
+            ],
+            [
+              11.4929021,
+              47.9529884
+            ],
+            [
+              11.4928375,
+              47.9526224
+            ],
+            [
+              11.492798,
+              47.9517016
+            ],
+            [
+              11.492801,
+              47.9513947
+            ],
+            [
+              11.4927651,
+              47.9510942
+            ],
+            [
+              11.4927579,
+              47.9508317
+            ],
+            [
+              11.4925845,
+              47.9506677
+            ],
+            [
+              11.4922682,
+              47.9502289
+            ],
+            [
+              11.492211,
+              47.9501177
+            ],
+            [
+              11.4922319,
+              47.9499677
+            ],
+            [
+              11.4923599,
+              47.949805
+            ],
+            [
+              11.4923513,
+              47.9496386
+            ],
+            [
+              11.4922751,
+              47.9495331
+            ],
+            [
+              11.4919163,
+              47.9493251
+            ],
+            [
+              11.4917353,
+              47.9490934
+            ],
+            [
+              11.4916225,
+              47.9487084
+            ],
+            [
+              11.4916385,
+              47.9478696
+            ],
+            [
+              11.4924223,
+              47.9480009
+            ],
+            [
+              11.4925515,
+              47.9477077
+            ],
+            [
+              11.4927021,
+              47.9472252
+            ],
+            [
+              11.4931004,
+              47.9472466
+            ],
+            [
+              11.4931317,
+              47.9470228
+            ],
+            [
+              11.4935398,
+              47.9470311
+            ],
+            [
+              11.4931464,
+              47.9465123
+            ],
+            [
+              11.4926466,
+              47.9459487
+            ],
+            [
+              11.4920402,
+              47.9453584
+            ],
+            [
+              11.4915978,
+              47.9449942
+            ],
+            [
+              11.4913713,
+              47.9448586
+            ],
+            [
+              11.4910292,
+              47.9445216
+            ],
+            [
+              11.4905955,
+              47.9441671
+            ],
+            [
+              11.4903356,
+              47.943931
+            ],
+            [
+              11.4900763,
+              47.943623
+            ],
+            [
+              11.4892128,
+              47.9428978
+            ],
+            [
+              11.4887398,
+              47.9425889
+            ],
+            [
+              11.4881701,
+              47.9422403
+            ],
+            [
+              11.4876677,
+              47.9419638
+            ],
+            [
+              11.4873202,
+              47.9417338
+            ],
+            [
+              11.4870503,
+              47.9415041
+            ],
+            [
+              11.4867501,
+              47.9411928
+            ],
+            [
+              11.4861455,
+              47.9404067
+            ],
+            [
+              11.4857416,
+              47.9399858
+            ],
+            [
+              11.4852114,
+              47.9395591
+            ],
+            [
+              11.4847005,
+              47.9391585
+            ],
+            [
+              11.4841709,
+              47.9386797
+            ],
+            [
+              11.4837071,
+              47.9382368
+            ],
+            [
+              11.4834769,
+              47.937942
+            ],
+            [
+              11.4831506,
+              47.9375423
+            ],
+            [
+              11.4827369,
+              47.9371291
+            ],
+            [
+              11.482371,
+              47.9368109
+            ],
+            [
+              11.4820245,
+              47.9364959
+            ],
+            [
+              11.4815982,
+              47.9361508
+            ],
+            [
+              11.4814957,
+              47.9360926
+            ],
+            [
+              11.4804046,
+              47.9361339
+            ],
+            [
+              11.479796,
+              47.9360273
+            ],
+            [
+              11.4789169,
+              47.9358944
+            ],
+            [
+              11.4787416,
+              47.9359328
+            ],
+            [
+              11.4783023,
+              47.9361397
+            ],
+            [
+              11.4778728,
+              47.9363532
+            ],
+            [
+              11.4775507,
+              47.9364889
+            ],
+            [
+              11.4773448,
+              47.9364945
+            ],
+            [
+              11.4770733,
+              47.9364476
+            ],
+            [
+              11.4767642,
+              47.9364684
+            ],
+            [
+              11.4764976,
+              47.9366865
+            ],
+            [
+              11.4763608,
+              47.9367577
+            ],
+            [
+              11.4760999,
+              47.936754
+            ],
+            [
+              11.475943,
+              47.9367688
+            ],
+            [
+              11.4756795,
+              47.9368851
+            ],
+            [
+              11.4755237,
+              47.9369236
+            ],
+            [
+              11.4752428,
+              47.9368375
+            ],
+            [
+              11.4750103,
+              47.9367711
+            ],
+            [
+              11.474392,
+              47.9366481
+            ],
+            [
+              11.4740111,
+              47.9366426
+            ],
+            [
+              11.4739806,
+              47.9367665
+            ],
+            [
+              11.4740856,
+              47.9369498
+            ],
+            [
+              11.4740917,
+              47.9373089
+            ],
+            [
+              11.4742845,
+              47.9374534
+            ],
+            [
+              11.4743512,
+              47.9375777
+            ],
+            [
+              11.4743097,
+              47.9378289
+            ],
+            [
+              11.47423,
+              47.938031
+            ],
+            [
+              11.4742276,
+              47.938266
+            ],
+            [
+              11.4740054,
+              47.9387752
+            ],
+            [
+              11.4707558,
+              47.9386309
+            ],
+            [
+              11.4707697,
+              47.938482
+            ],
+            [
+              11.4707976,
+              47.9382819
+            ],
+            [
+              11.4708124,
+              47.9381079
+            ],
+            [
+              11.4708925,
+              47.9378819
+            ],
+            [
+              11.4696386,
+              47.9378397
+            ],
+            [
+              11.4695968,
+              47.9377241
+            ],
+            [
+              11.469517,
+              47.9377621
+            ],
+            [
+              11.4694295,
+              47.9378038
+            ],
+            [
+              11.4692102,
+              47.9378714
+            ],
+            [
+              11.469056,
+              47.937993
+            ],
+            [
+              11.4688642,
+              47.9382223
+            ],
+            [
+              11.4687617,
+              47.9382639
+            ],
+            [
+              11.4687476,
+              47.9389312
+            ],
+            [
+              11.4687476,
+              47.9389314
+            ],
+            [
+              11.4689102,
+              47.9394118
+            ],
+            [
+              11.4699399,
+              47.9392143
+            ],
+            [
+              11.4700767,
+              47.9393668
+            ],
+            [
+              11.470076,
+              47.9393719
+            ],
+            [
+              11.470007,
+              47.9399107
+            ],
+            [
+              11.4697604,
+              47.9401688
+            ],
+            [
+              11.469677,
+              47.9403713
+            ],
+            [
+              11.469554,
+              47.9405924
+            ],
+            [
+              11.46954,
+              47.9412582
+            ],
+            [
+              11.46954,
+              47.9412584
+            ],
+            [
+              11.4695952,
+              47.9414413
+            ],
+            [
+              11.4693666,
+              47.9417595
+            ],
+            [
+              11.4693301,
+              47.9418042
+            ],
+            [
+              11.4692984,
+              47.9418431
+            ],
+            [
+              11.4691883,
+              47.941978
+            ],
+            [
+              11.4692632,
+              47.9422092
+            ],
+            [
+              11.4695539,
+              47.9423433
+            ],
+            [
+              11.469854,
+              47.9423966
+            ],
+            [
+              11.4701451,
+              47.9424961
+            ],
+            [
+              11.4701959,
+              47.9425714
+            ],
+            [
+              11.470341,
+              47.9426644
+            ],
+            [
+              11.4704258,
+              47.9427686
+            ],
+            [
+              11.4704989,
+              47.9431613
+            ],
+            [
+              11.4705346,
+              47.9431883
+            ],
+            [
+              11.4706808,
+              47.9432991
+            ],
+            [
+              11.4706682,
+              47.9433022
+            ],
+            [
+              11.4706718,
+              47.9433062
+            ],
+            [
+              11.4707704,
+              47.9432816
+            ],
+            [
+              11.4709134,
+              47.9432643
+            ],
+            [
+              11.4710166,
+              47.9432605
+            ],
+            [
+              11.4711635,
+              47.943255
+            ],
+            [
+              11.4712624,
+              47.9432514
+            ],
+            [
+              11.4713296,
+              47.9433902
+            ],
+            [
+              11.4716601,
+              47.9438361
+            ],
+            [
+              11.4719094,
+              47.944232
+            ],
+            [
+              11.4719761,
+              47.9444285
+            ],
+            [
+              11.4720425,
+              47.9446481
+            ],
+            [
+              11.4720908,
+              47.9449657
+            ],
+            [
+              11.4721565,
+              47.9452546
+            ],
+            [
+              11.472198,
+              47.945399
+            ],
+            [
+              11.472304,
+              47.9455288
+            ],
+            [
+              11.4724745,
+              47.9456565
+            ],
+            [
+              11.4727393,
+              47.945802
+            ],
+            [
+              11.4731066,
+              47.9460114
+            ],
+            [
+              11.4734312,
+              47.946186
+            ],
+            [
+              11.4736269,
+              47.9463658
+            ],
+            [
+              11.4737612,
+              47.9466722
+            ],
+            [
+              11.4740057,
+              47.947135
+            ],
+            [
+              11.474098,
+              47.9473455
+            ],
+            [
+              11.4741219,
+              47.9475303
+            ],
+            [
+              11.4741708,
+              47.947796
+            ],
+            [
+              11.4741945,
+              47.9480039
+            ],
+            [
+              11.4742445,
+              47.9481541
+            ],
+            [
+              11.4743631,
+              47.9483163
+            ],
+            [
+              11.4744901,
+              47.9485015
+            ],
+            [
+              11.4746685,
+              47.94871
+            ],
+            [
+              11.474753,
+              47.9488489
+            ],
+            [
+              11.4747945,
+              47.9489934
+            ],
+            [
+              11.474819,
+              47.9491204
+            ],
+            [
+              11.4748866,
+              47.9492304
+            ],
+            [
+              11.4750138,
+              47.9493984
+            ],
+            [
+              11.4751576,
+              47.9496149
+            ],
+            [
+              11.4753614,
+              47.949841
+            ],
+            [
+              11.4754705,
+              47.9500954
+            ],
+            [
+              11.4755972,
+              47.9503153
+            ],
+            [
+              11.4756898,
+              47.9505004
+            ],
+            [
+              11.4757819,
+              47.9507317
+            ],
+            [
+              11.4758313,
+              47.9509454
+            ],
+            [
+              11.4758727,
+              47.9510898
+            ],
+            [
+              11.4759713,
+              47.9511087
+            ],
+            [
+              11.4762185,
+              47.9510691
+            ],
+            [
+              11.4766086,
+              47.9509615
+            ],
+            [
+              11.4768669,
+              47.9509051
+            ],
+            [
+              11.4771508,
+              47.9508717
+            ],
+            [
+              11.477503,
+              47.9508675
+            ],
+            [
+              11.4777693,
+              47.9508745
+            ],
+            [
+              11.4780611,
+              47.9508989
+            ],
+            [
+              11.478284,
+              47.9509519
+            ],
+            [
+              11.4785839,
+              47.951034
+            ],
+            [
+              11.478875,
+              47.9511277
+            ],
+            [
+              11.4791378,
+              47.9512729
+            ],
+            [
+              11.4793283,
+              47.9513375
+            ],
+            [
+              11.479508,
+              47.9514075
+            ],
+            [
+              11.4797469,
+              47.9514921
+            ],
+            [
+              11.4802515,
+              47.9515726
+            ],
+            [
+              11.480805,
+              47.9516077
+            ],
+            [
+              11.481573,
+              47.9515784
+            ],
+            [
+              11.4826225,
+              47.9515765
+            ],
+            [
+              11.4836325,
+              47.9516333
+            ],
+            [
+              11.4850477,
+              47.9518029
+            ],
+            [
+              11.4856394,
+              47.9519231
+            ],
+            [
+              11.4863179,
+              47.952096
+            ],
+            [
+              11.4869481,
+              47.952249
+            ],
+            [
+              11.4873359,
+              47.9523487
+            ],
+            [
+              11.4877337,
+              47.9524027
+            ],
+            [
+              11.4882101,
+              47.9523852
+            ],
+            [
+              11.4886283,
+              47.9523545
+            ],
+            [
+              11.4889536,
+              47.9523833
+            ],
+            [
+              11.4893023,
+              47.9525024
+            ],
+            [
+              11.4897957,
+              47.95272
+            ],
+            [
+              11.4900567,
+              47.9528713
+            ],
+            [
+              11.4902211,
+              47.9529569
+            ],
+            [
+              11.4904635,
+              47.9530102
+            ],
+            [
+              11.490804,
+              47.9529791
+            ],
+            [
+              11.4913682,
+              47.9529098
+            ],
+            [
+              11.4917866,
+              47.9528659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Schrammelweg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Sebaldmühle - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Siegertshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Siegertshofer Strasse - Schalkofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Sonnenham",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.5546389,
+              47.9407831
+            ],
+            [
+              11.5546652,
+              47.9409058
+            ],
+            [
+              11.5547174,
+              47.9411498
+            ],
+            [
+              11.5547726,
+              47.9413073
+            ],
+            [
+              11.5548051,
+              47.9414002
+            ],
+            [
+              11.5548379,
+              47.9416075
+            ],
+            [
+              11.5544427,
+              47.9417021
+            ],
+            [
+              11.5542263,
+              47.9417781
+            ],
+            [
+              11.5539414,
+              47.9418593
+            ],
+            [
+              11.5534576,
+              47.9419944
+            ]
+          ],
+          [
+            [
+              11.5570048,
+              47.9417203
+            ],
+            [
+              11.5568695,
+              47.941707
+            ],
+            [
+              11.5566912,
+              47.941685
+            ],
+            [
+              11.5564511,
+              47.9416504
+            ],
+            [
+              11.5561561,
+              47.9416145
+            ],
+            [
+              11.5559515,
+              47.9415934
+            ],
+            [
+              11.5554649,
+              47.9415728
+            ],
+            [
+              11.5548379,
+              47.9416075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Sonnenhamer Strasse - Attenham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Sonnleitenweg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Talstrasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Thal - Moosham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Thalweber",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Thanninger Weg - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Tölzer Strasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Unterfeld - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Veiglberg",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.4946201,
+              47.9245717
+            ],
+            [
+              11.4946996,
+              47.9244596
+            ]
+          ],
+          [
+            [
+              11.4946996,
+              47.9244596
+            ],
+            [
+              11.4950907,
+              47.9245907
+            ],
+            [
+              11.4954445,
+              47.9246898
+            ],
+            [
+              11.4960593,
+              47.9248631
+            ],
+            [
+              11.4962956,
+              47.9249107
+            ],
+            [
+              11.4964738,
+              47.9249263
+            ],
+            [
+              11.4966429,
+              47.9249029
+            ],
+            [
+              11.4968126,
+              47.924864
+            ],
+            [
+              11.4969399,
+              47.9248129
+            ],
+            [
+              11.4970448,
+              47.9247458
+            ],
+            [
+              11.4971018,
+              47.9246652
+            ],
+            [
+              11.4971266,
+              47.9245826
+            ],
+            [
+              11.4970933,
+              47.9244175
+            ],
+            [
+              11.4969888,
+              47.9241901
+            ],
+            [
+              11.4969694,
+              47.924052
+            ],
+            [
+              11.4969471,
+              47.9238289
+            ],
+            [
+              11.496869,
+              47.923687
+            ],
+            [
+              11.4967215,
+              47.9235144
+            ],
+            [
+              11.4964864,
+              47.9233445
+            ],
+            [
+              11.496286,
+              47.9231387
+            ],
+            [
+              11.4962553,
+              47.9230267
+            ],
+            [
+              11.4962378,
+              47.9229014
+            ],
+            [
+              11.4962878,
+              47.9227997
+            ],
+            [
+              11.4965293,
+              47.9224272
+            ],
+            [
+              11.4967717,
+              47.9221064
+            ],
+            [
+              11.4969203,
+              47.9219872
+            ],
+            [
+              11.4970612,
+              47.9218866
+            ],
+            [
+              11.4973974,
+              47.9216667
+            ],
+            [
+              11.4977603,
+              47.9215017
+            ],
+            [
+              11.4983406,
+              47.9210167
+            ],
+            [
+              11.4983501,
+              47.9210082
+            ],
+            [
+              11.4986153,
+              47.9207716
+            ],
+            [
+              11.4986307,
+              47.9206775
+            ],
+            [
+              11.4985603,
+              47.9205475
+            ],
+            [
+              11.497282,
+              47.9199105
+            ],
+            [
+              11.4969558,
+              47.9197054
+            ],
+            [
+              11.4961632,
+              47.9191837
+            ],
+            [
+              11.4958428,
+              47.919083
+            ],
+            [
+              11.4955322,
+              47.9190461
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Veiglberg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Veiglbergweg - Neufahrn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Wehrbau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Wehrbaustrasse - Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Wehrmeisterweg - Attenham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Weihermühle",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.5066395,
+              47.8852186
+            ],
+            [
+              11.5069124,
+              47.8851706
+            ],
+            [
+              11.5072257,
+              47.8851042
+            ],
+            [
+              11.5077036,
+              47.8850041
+            ],
+            [
+              11.5080533,
+              47.8849202
+            ],
+            [
+              11.5084147,
+              47.8847997
+            ],
+            [
+              11.5086083,
+              47.8847223
+            ],
+            [
+              11.5091993,
+              47.8844858
+            ],
+            [
+              11.5098763,
+              47.8841591
+            ],
+            [
+              11.510719,
+              47.883653
+            ],
+            [
+              11.511121,
+              47.883173
+            ],
+            [
+              11.51117,
+              47.883105
+            ],
+            [
+              11.5111994,
+              47.8830149
+            ],
+            [
+              11.511677,
+              47.882628
+            ],
+            [
+              11.5121277,
+              47.8822879
+            ],
+            [
+              11.5123308,
+              47.8821343
+            ],
+            [
+              11.5125604,
+              47.8819718
+            ],
+            [
+              11.5129688,
+              47.881727
+            ],
+            [
+              11.5132473,
+              47.8815659
+            ],
+            [
+              11.5135126,
+              47.8813722
+            ],
+            [
+              11.5138081,
+              47.8811234
+            ],
+            [
+              11.5141524,
+              47.8808374
+            ],
+            [
+              11.5144882,
+              47.8805503
+            ],
+            [
+              11.5147864,
+              47.8802944
+            ],
+            [
+              11.5148665,
+              47.8802301
+            ],
+            [
+              11.5149505,
+              47.8801728
+            ],
+            [
+              11.5150578,
+              47.8801253
+            ],
+            [
+              11.5152088,
+              47.8801072
+            ],
+            [
+              11.5155498,
+              47.8801108
+            ],
+            [
+              11.5158692,
+              47.8801248
+            ],
+            [
+              11.5165006,
+              47.8801586
+            ],
+            [
+              11.5168285,
+              47.8801829
+            ],
+            [
+              11.517075,
+              47.8802023
+            ],
+            [
+              11.517149,
+              47.8802043
+            ],
+            [
+              11.5172406,
+              47.8801993
+            ],
+            [
+              11.5176289,
+              47.8801441
+            ],
+            [
+              11.5179334,
+              47.8801113
+            ],
+            [
+              11.5182404,
+              47.880105
+            ],
+            [
+              11.518725,
+              47.8801129
+            ],
+            [
+              11.5190547,
+              47.8801212
+            ],
+            [
+              11.5193352,
+              47.8801083
+            ],
+            [
+              11.5193858,
+              47.8801089
+            ],
+            [
+              11.5197235,
+              47.8801463
+            ],
+            [
+              11.520109,
+              47.880284
+            ],
+            [
+              11.520164,
+              47.880313
+            ],
+            [
+              11.5204909,
+              47.8804749
+            ],
+            [
+              11.520677,
+              47.88056
+            ],
+            [
+              11.521331,
+              47.880914
+            ],
+            [
+              11.521942,
+              47.881284
+            ],
+            [
+              11.5224726,
+              47.8815709
+            ],
+            [
+              11.5229637,
+              47.8818258
+            ],
+            [
+              11.5232779,
+              47.8819631
+            ],
+            [
+              11.523517,
+              47.8820308
+            ],
+            [
+              11.5237329,
+              47.882056
+            ],
+            [
+              11.5244675,
+              47.8820563
+            ],
+            [
+              11.524668,
+              47.882074
+            ],
+            [
+              11.5248967,
+              47.8821907
+            ]
+          ],
+          [
+            [
+              11.5054814,
+              47.8852902
+            ],
+            [
+              11.5055753,
+              47.8852818
+            ]
+          ],
+          [
+            [
+              11.5055753,
+              47.8852818
+            ],
+            [
+              11.5064205,
+              47.885215
+            ],
+            [
+              11.5066395,
+              47.8852186
+            ]
+          ],
+          [
+            [
+              11.5057849,
+              47.8853883
+            ],
+            [
+              11.5058057,
+              47.8853842
+            ],
+            [
+              11.5062674,
+              47.8852943
+            ],
+            [
+              11.5066395,
+              47.8852186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Weiherstrasse - Deining",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Weiherweg - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Wiesmaier - Aufhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Wimbauernleiten - Endlhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Wolfratshauser Strasse - Egling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Wörschhausen",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.5550416,
+              47.924383
+            ],
+            [
+              11.5550345,
+              47.9246226
+            ],
+            [
+              11.5550845,
+              47.9248477
+            ]
+          ],
+          [
+            [
+              11.5551632,
+              47.9255089
+            ],
+            [
+              11.5551111,
+              47.925071
+            ],
+            [
+              11.5550845,
+              47.9248477
+            ],
+            [
+              11.5549031,
+              47.9247204
+            ],
+            [
+              11.554377,
+              47.9244821
+            ],
+            [
+              11.5541552,
+              47.924407
+            ],
+            [
+              11.5541123,
+              47.9243016
+            ]
+          ],
+          [
+            [
+              11.554377,
+              47.9244821
+            ],
+            [
+              11.5542013,
+              47.9245897
+            ],
+            [
+              11.5540985,
+              47.9246964
+            ],
+            [
+              11.554042,
+              47.9249077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Wörschhausen - Thanning",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Ziegelweg - Schalkofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    },
+    {
+      "street": "Zum Jägerweg - Puppling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052,
+          47.9232
+        ]
+      }
+    }
+  ]
+}

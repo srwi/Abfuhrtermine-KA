@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:41:12.255Z",
+  "streets": [
+    {
+      "street": "Eckartshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0235,
+          50.2537
+        ]
+      }
+    }
+  ]
+}

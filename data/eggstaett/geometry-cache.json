@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:43:22.961Z",
+  "streets": [
+    {
+      "street": "Eggstätt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3792,
+          47.927
+        ]
+      }
+    }
+  ]
+}

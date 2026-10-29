@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:44:13.510Z",
+  "streets": [
+    {
+      "street": "Egmating",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7953,
+          48.0041
+        ]
+      }
+    }
+  ]
+}
