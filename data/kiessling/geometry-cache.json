@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:09:40.946Z",
+  "streets": [
+    {
+      "street": "SOK-Kiessling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6717,
+          50.4079
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-10-29T06:09:30.696Z",
+  "streets": [
+    {
+      "street": "Kiefersfelden",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1962941,
+            47.6059094
+          ],
+          [
+            12.1963305,
+            47.6057845
+          ]
+        ]
+      }
+    }
+  ]
+}

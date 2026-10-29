@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:09:25.530Z",
+  "streets": [
+    {
+      "street": "Kertschütz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3119,
+          50.9421
+        ]
+      }
+    }
+  ]
+}
