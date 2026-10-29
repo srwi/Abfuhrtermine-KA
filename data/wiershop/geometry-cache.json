@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-10-29T16:51:59.502Z",
+  "streets": [
+    {
+      "street": "Bogenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Borgsollweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Geesthachter Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Hasenthaler Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Heidkaten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Lindenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Rappenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Twiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    },
+    {
+      "street": "Ulrich-Jahn-Stieg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4428,
+          53.4351
+        ]
+      }
+    }
+  ]
+}

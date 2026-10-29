@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-10-29T16:51:50.705Z",
+  "streets": [
+    {
+      "street": "Ahrensfelde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Birkhorst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Eichkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Kamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Neue Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Ratzeburger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Scharberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Schmiedeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Söhrenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Stückendamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Trenthorst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    },
+    {
+      "street": "Wulmenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4911,
+          53.7824
+        ]
+      }
+    }
+  ]
+}
