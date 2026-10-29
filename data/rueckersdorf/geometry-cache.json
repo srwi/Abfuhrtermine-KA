@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:08:50.416Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Rückersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2475,
+          49.4976
+        ]
+      }
+    }
+  ]
+}

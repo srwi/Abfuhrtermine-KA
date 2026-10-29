@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:06:29.737Z",
+  "streets": [
+    {
+      "street": "SOK-Rothenacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9068,
+          50.4594
+        ]
+      }
+    }
+  ]
+}

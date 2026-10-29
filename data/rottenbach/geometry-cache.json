@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T08:07:24.160Z",
+  "streets": [
+    {
+      "street": "Am Kirchplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9261,
+          49.6643
+        ]
+      }
+    },
+    {
+      "street": "Am Weinberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9261,
+          49.6643
+        ]
+      }
+    },
+    {
+      "street": "An der Leite",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9261,
+          49.6643
+        ]
+      }
+    },
+    {
+      "street": "Bungalow-Dorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9261,
+          49.6643
+        ]
+      }
+    },
+    {
+      "street": "Storchsdorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9261,
+          49.6643
+        ]
+      }
+    },
+    {
+      "street": "übrige Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9261,
+          49.6643
+        ]
+      }
+    }
+  ]
+}

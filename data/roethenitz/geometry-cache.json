@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:06:51.732Z",
+  "streets": [
+    {
+      "street": "Röthenitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.361,
+          50.9342
+        ]
+      }
+    }
+  ]
+}

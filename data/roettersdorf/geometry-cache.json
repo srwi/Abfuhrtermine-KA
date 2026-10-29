@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:08:39.438Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Röttersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6488,
+          48.2879
+        ]
+      }
+    }
+  ]
+}

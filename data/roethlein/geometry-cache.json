@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:07:02.362Z",
+  "streets": [
+    {
+      "street": "Röthlein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2167,
+          49.9833
+        ]
+      }
+    }
+  ]
+}
