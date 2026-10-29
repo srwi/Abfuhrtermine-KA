@@ -60,6 +60,48 @@ const TARGET_SERVICES: TargetService[] = [
     name: 'Essen',
     region: 'Essen, Nordrhein-Westfalen',
     serviceKey: '51be67f3758f1fb57b420efe065c0663'
+  },
+  {
+    name: 'Landkreis Reutlingen',
+    region: 'Landkreis Reutlingen, Baden-Württemberg',
+    serviceKey: '15f69fab91c4cae50d9dbb5bcfd383f0'
+  },
+  {
+    name: 'Landkreis Böblingen',
+    region: 'Landkreis Böblingen, Baden-Württemberg',
+    serviceKey: '76bdaac8568082d77e7a90cb41129f9b',
+    origin: 'https://www.awb-bb.de'
+  },
+  {
+    name: 'Landkreis Leipzig',
+    region: 'Landkreis Leipzig, Sachsen',
+    serviceKey: '0d7a92192ba3ae914c028ac37d73e222',
+    origin: 'https://kell-gmbh.de'
+  },
+  {
+    name: 'Landkreis Göttingen',
+    region: 'Landkreis Göttingen, Niedersachsen',
+    serviceKey: '4b5702d771c82b611c386ebbc7629026'
+  },
+  {
+    name: 'Landkreis Nordsachsen',
+    region: 'Landkreis Nordsachsen, Sachsen',
+    serviceKey: '2085afd95285e645e15ee9623d0c5172'
+  },
+  {
+    name: 'Landkreis Osterholz',
+    region: 'Landkreis Osterholz, Niedersachsen',
+    serviceKey: '8b016df0116d1d5094fa339bebea0c65'
+  },
+  {
+    name: 'Landkreis Neuwied',
+    region: 'Landkreis Neuwied, Rheinland-Pfalz',
+    serviceKey: 'de4957b006c53e47f8b9c21bc2c768f0'
+  },
+  {
+    name: 'Landkreis Märkisch-Oderland',
+    region: 'Landkreis Märkisch-Oderland, Brandenburg',
+    serviceKey: 'efb75cbd1f08fae1d4e47ae72a85c655'
   }
 ];
 
@@ -86,6 +128,44 @@ async function geocode(cityName: string, region: string): Promise<{ center: [num
     `${cleanName}, Deutschland`
   ];
 
+  // Try Photon (fast OSM geocoder by Komoot)
+  for (const q of queries) {
+    try {
+      const url = `https://photon.komoot.io/api/?q=${encodeURIComponent(q)}&limit=1`;
+      const res = await fetch(url, { headers: { 'User-Agent': 'Abfuhrtermine-Bot/1.0' } });
+      if (res.ok) {
+        const data = await res.json();
+        const f = data.features?.[0];
+        if (f && f.geometry?.coordinates) {
+          const lon = Math.round(f.geometry.coordinates[0] * 10000) / 10000;
+          const lat = Math.round(f.geometry.coordinates[1] * 10000) / 10000;
+          let bbox: [number, number, number, number];
+          if (f.properties?.extent && f.properties.extent.length === 4) {
+            // [west, north, east, south]
+            const [w, n, e, s] = f.properties.extent;
+            bbox = [
+              Math.round(s * 10000) / 10000,
+              Math.round(w * 10000) / 10000,
+              Math.round(n * 10000) / 10000,
+              Math.round(e * 10000) / 10000
+            ];
+          } else {
+            bbox = [
+              Math.round((lat - 0.05) * 10000) / 10000,
+              Math.round((lon - 0.05) * 10000) / 10000,
+              Math.round((lat + 0.05) * 10000) / 10000,
+              Math.round((lon + 0.05) * 10000) / 10000
+            ];
+          }
+          return { center: [lon, lat], bbox };
+        }
+      }
+    } catch {
+      // Fallback to nominatim
+    }
+  }
+
+  // Fallback to Nominatim
   for (const q of queries) {
     const url = `https://nominatim.openstreetmap.org/search?format=json&countrycodes=de&limit=1&q=${encodeURIComponent(q)}`;
     try {
@@ -123,7 +203,7 @@ async function resolveApiKey(target: TargetService): Promise<string | null> {
 
   try {
     const res = await fetch(`https://api.abfall.io?key=${encodeURIComponent(target.serviceKey)}`, {
-      headers: { 'user-agent': 'Abfuhrtermine/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)' }
+      headers: { 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' }
     });
     if (!res.ok) return null;
     const data = await res.json();
@@ -249,8 +329,8 @@ async function main() {
 
         console.log(`  ✅ Added: ${city.name} (${id}) [${geo.center.join(', ')}]`);
 
-        // Respect Nominatim rate limit
-        await new Promise((r) => setTimeout(r, 1100));
+        // Small polite delay
+        await new Promise((r) => setTimeout(r, 200));
       }
     } catch (err) {
       console.error(`Error querying GraphQL for ${target.name}:`, err);

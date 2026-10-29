@@ -131,6 +131,22 @@
     ]
   },
   {
+    "id": "adelebsen",
+    "name": "Adelebsen",
+    "shortName": "ADE",
+    "center": [
+      9.7524,
+      51.5795
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5218,
+      9.6584,
+      51.6144,
+      9.8268
+    ]
+  },
+  {
     "id": "adelheidsdorf",
     "name": "Adelheidsdorf",
     "shortName": "ADE",
@@ -799,6 +815,22 @@
     ]
   },
   {
+    "id": "alt-tucheband",
+    "name": "Alt Tucheband",
+    "shortName": "ALT",
+    "center": [
+      14.5118,
+      52.5372
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4983,
+      14.4419,
+      52.5578,
+      14.6023
+    ]
+  },
+  {
     "id": "altdorf-bb",
     "name": "Altdorf",
     "shortName": "ALT",
@@ -1068,6 +1100,22 @@
       12.3,
       50.9733,
       12.4
+    ]
+  },
+  {
+    "id": "altlandsberg",
+    "name": "Altlandsberg",
+    "shortName": "ALT",
+    "center": [
+      13.7246,
+      52.5615
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5397,
+      13.6687,
+      52.6476,
+      13.9388
     ]
   },
   {
@@ -1794,6 +1842,22 @@
     ]
   },
   {
+    "id": "anhausen",
+    "name": "Anhausen",
+    "shortName": "ANH",
+    "center": [
+      7.5534,
+      50.497
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4839,
+      7.5121,
+      50.5222,
+      7.5731
+    ]
+  },
+  {
     "id": "anzing",
     "name": "Anzing",
     "shortName": "ANZ",
@@ -1839,6 +1903,22 @@
       9.6913,
       53.6801,
       9.7778
+    ]
+  },
+  {
+    "id": "appenrode",
+    "name": "Appenrode",
+    "shortName": "APP",
+    "center": [
+      10.0368,
+      51.4601
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4101,
+      9.9868,
+      51.5101,
+      10.0868
     ]
   },
   {
@@ -1954,6 +2034,38 @@
     ]
   },
   {
+    "id": "arzberg",
+    "name": "Arzberg",
+    "shortName": "ARZ",
+    "center": [
+      13.127,
+      51.5303
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4777,
+      13.0603,
+      51.5619,
+      13.2083
+    ]
+  },
+  {
+    "id": "asbach",
+    "name": "Asbach",
+    "shortName": "ASB",
+    "center": [
+      7.4246,
+      50.6671
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.616,
+      7.3646,
+      50.6949,
+      7.4855
+    ]
+  },
+  {
     "id": "asbach-baeumenheim",
     "name": "Asbach-Bäumenheim",
     "shortName": "AB",
@@ -2066,6 +2178,22 @@
     ]
   },
   {
+    "id": "atzenhausen",
+    "name": "Atzenhausen",
+    "shortName": "ATZ",
+    "center": [
+      9.8118,
+      51.4199
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3699,
+      9.7618,
+      51.4699,
+      9.8618
+    ]
+  },
+  {
     "id": "atzum",
     "name": "Atzum",
     "shortName": "ATZ",
@@ -2159,6 +2287,22 @@
       6.8638,
       53.7363,
       7.8158
+    ]
+  },
+  {
+    "id": "axstedt",
+    "name": "Axstedt",
+    "shortName": "AXS",
+    "center": [
+      8.7732,
+      53.3553
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3341,
+      8.7359,
+      53.3794,
+      8.8135
     ]
   },
   {
@@ -2421,6 +2565,22 @@
     ]
   },
   {
+    "id": "bad-dueben",
+    "name": "Bad Düben",
+    "shortName": "BAD",
+    "center": [
+      12.5856,
+      51.5912
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5732,
+      12.5412,
+      51.628,
+      12.6435
+    ]
+  },
+  {
     "id": "bad-duerkheim",
     "name": "Bad Dürkheim",
     "shortName": "BD",
@@ -2485,6 +2645,22 @@
     ]
   },
   {
+    "id": "bad-freienwalde",
+    "name": "Bad Freienwalde",
+    "shortName": "BAD",
+    "center": [
+      14.0301,
+      52.7875
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.7273,
+      13.9776,
+      52.9034,
+      14.1616
+    ]
+  },
+  {
     "id": "bad-friedrichshall",
     "name": "Bad Friedrichshall",
     "shortName": "BFH",
@@ -2498,6 +2674,22 @@
       9.1771,
       49.2766,
       9.2677
+    ]
+  },
+  {
+    "id": "bad-grund-harz",
+    "name": "Bad Grund (Harz)",
+    "shortName": "BAD",
+    "center": [
+      10.2363,
+      51.8098
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.7512,
+      10.1423,
+      51.8328,
+      10.2626
     ]
   },
   {
@@ -2568,6 +2760,54 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "bad-hoenningen",
+    "name": "Bad Hönningen",
+    "shortName": "BAD",
+    "center": [
+      7.3066,
+      50.5157
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.503,
+      7.2916,
+      50.5584,
+      7.3872
+    ]
+  },
+  {
+    "id": "bad-lausick",
+    "name": "Bad Lausick",
+    "shortName": "BAD",
+    "center": [
+      12.6681,
+      51.1415
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.09,
+      12.5665,
+      51.1931,
+      12.754
+    ]
+  },
+  {
+    "id": "bad-lauterberg-im-harz",
+    "name": "Bad Lauterberg im Harz",
+    "shortName": "BAD",
+    "center": [
+      10.4707,
+      51.6314
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5623,
+      10.3681,
+      51.6784,
+      10.5684
     ]
   },
   {
@@ -2667,6 +2907,22 @@
       10.7287,
       50.3802,
       10.8287
+    ]
+  },
+  {
+    "id": "bad-sachsa",
+    "name": "Bad Sachsa",
+    "shortName": "BAD",
+    "center": [
+      10.5534,
+      51.5964
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5758,
+      10.5159,
+      51.623,
+      10.5844
     ]
   },
   {
@@ -2782,6 +3038,22 @@
     ]
   },
   {
+    "id": "bad-urach",
+    "name": "Bad Urach",
+    "shortName": "BAD",
+    "center": [
+      9.3979,
+      48.4938
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4363,
+      9.3451,
+      48.5337,
+      9.4878
+    ]
+  },
+  {
     "id": "bad-wimpfen",
     "name": "Bad Wimpfen",
     "shortName": "WIM",
@@ -2875,6 +3147,22 @@
       11.986,
       49.1191,
       12.086
+    ]
+  },
+  {
+    "id": "ballenhausen",
+    "name": "Ballenhausen",
+    "shortName": "BAL",
+    "center": [
+      9.9484,
+      51.4549
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4364,
+      9.935,
+      51.4636,
+      9.9993
     ]
   },
   {
@@ -2974,6 +3262,22 @@
     ]
   },
   {
+    "id": "barlissen",
+    "name": "Barlissen",
+    "shortName": "BAR",
+    "center": [
+      9.8164,
+      51.4369
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.425,
+      9.7887,
+      51.4499,
+      9.8399
+    ]
+  },
+  {
     "id": "barmstedt",
     "name": "Barmstedt",
     "shortName": "BAR",
@@ -3035,6 +3339,22 @@
       9.0664,
       52.0304,
       9.1664
+    ]
+  },
+  {
+    "id": "barterode",
+    "name": "Barterode",
+    "shortName": "BAR",
+    "center": [
+      9.7792,
+      51.5506
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5006,
+      9.7292,
+      51.6006,
+      9.8292
     ]
   },
   {
@@ -3198,6 +3518,22 @@
     ]
   },
   {
+    "id": "beienrode",
+    "name": "Beienrode",
+    "shortName": "BEI",
+    "center": [
+      10.1174,
+      51.4665
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4165,
+      10.0674,
+      51.5165,
+      10.1674
+    ]
+  },
+  {
     "id": "beiern",
     "name": "Beiern",
     "shortName": "BEI",
@@ -3211,6 +3547,22 @@
       12.5608,
       50.985,
       12.6608
+    ]
+  },
+  {
+    "id": "beiersdorf-freudenberg",
+    "name": "Beiersdorf-Freudenberg",
+    "shortName": "BEI",
+    "center": [
+      13.809,
+      52.6949
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6668,
+      13.7546,
+      52.7228,
+      13.8671
     ]
   },
   {
@@ -3230,6 +3582,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "beilrode",
+    "name": "Beilrode",
+    "shortName": "BEI",
+    "center": [
+      13.0697,
+      51.5688
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5486,
+      13.0411,
+      51.5967,
+      13.1609
     ]
   },
   {
@@ -3262,6 +3630,38 @@
       7.2851,
       49.9969,
       7.333
+    ]
+  },
+  {
+    "id": "belgern-schildau",
+    "name": "Belgern-Schildau",
+    "shortName": "BEL",
+    "center": [
+      13.027,
+      51.4649
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.406,
+      12.8343,
+      51.5236,
+      13.2041
+    ]
+  },
+  {
+    "id": "belgershain",
+    "name": "Belgershain",
+    "shortName": "BEL",
+    "center": [
+      12.5534,
+      51.24
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2069,
+      12.5148,
+      51.2731,
+      12.5892
     ]
   },
   {
@@ -3342,6 +3742,54 @@
       11.4827,
       50.4979,
       11.5827
+    ]
+  },
+  {
+    "id": "bennewitz",
+    "name": "Bennewitz",
+    "shortName": "BEN",
+    "center": [
+      12.6867,
+      51.3482
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.295,
+      12.6393,
+      51.4013,
+      12.7587
+    ]
+  },
+  {
+    "id": "benniehausen",
+    "name": "Benniehausen",
+    "shortName": "BEN",
+    "center": [
+      10.0529,
+      51.4883
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4383,
+      10.0029,
+      51.5383,
+      10.1029
+    ]
+  },
+  {
+    "id": "benterode",
+    "name": "Benterode",
+    "shortName": "BEN",
+    "center": [
+      9.6211,
+      51.3452
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3341,
+      9.6046,
+      51.3593,
+      9.6418
     ]
   },
   {
@@ -3780,6 +4228,38 @@
     ]
   },
   {
+    "id": "bernshausen",
+    "name": "Bernshausen",
+    "shortName": "BER",
+    "center": [
+      10.1766,
+      51.5664
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5538,
+      10.1568,
+      51.5868,
+      10.1931
+    ]
+  },
+  {
+    "id": "besenhausen",
+    "name": "Besenhausen",
+    "shortName": "BES",
+    "center": [
+      9.9494,
+      51.3894
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.382,
+      9.9396,
+      51.3972,
+      9.968
+    ]
+  },
+  {
     "id": "bessenbach",
     "name": "Bessenbach",
     "shortName": "BES",
@@ -3793,6 +4273,22 @@
       9.1972,
       50.0024,
       9.2972
+    ]
+  },
+  {
+    "id": "bettenrode",
+    "name": "Bettenrode",
+    "shortName": "BET",
+    "center": [
+      10.0188,
+      51.474
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.424,
+      9.9688,
+      51.524,
+      10.0688
     ]
   },
   {
@@ -4026,6 +4522,22 @@
     ]
   },
   {
+    "id": "billingshausen",
+    "name": "Billingshausen",
+    "shortName": "BIL",
+    "center": [
+      10.0211,
+      51.6021
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5521,
+      9.9711,
+      51.6521,
+      10.0711
+    ]
+  },
+  {
     "id": "bilsen",
     "name": "Bilsen",
     "shortName": "BIL",
@@ -4039,6 +4551,22 @@
       9.8579,
       53.7817,
       9.9016
+    ]
+  },
+  {
+    "id": "bilshausen",
+    "name": "Bilshausen",
+    "shortName": "BIL",
+    "center": [
+      10.1558,
+      51.6304
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6118,
+      10.1269,
+      51.6462,
+      10.1838
     ]
   },
   {
@@ -4186,6 +4714,22 @@
     ]
   },
   {
+    "id": "bischhausen",
+    "name": "Bischhausen",
+    "shortName": "BIS",
+    "center": [
+      10.0828,
+      51.4465
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3965,
+      10.0328,
+      51.4965,
+      10.1328
+    ]
+  },
+  {
     "id": "bischoffen",
     "name": "Bischoffen",
     "shortName": "BIS",
@@ -4327,6 +4871,38 @@
       8.5328,
       52.3404,
       8.6051
+    ]
+  },
+  {
+    "id": "bleyen-genschmar",
+    "name": "Bleyen-Genschmar",
+    "shortName": "BLE",
+    "center": [
+      14.5443,
+      52.6131
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5794,
+      14.4768,
+      52.6473,
+      14.6123
+    ]
+  },
+  {
+    "id": "bliesdorf",
+    "name": "Bliesdorf",
+    "shortName": "BLI",
+    "center": [
+      14.1726,
+      52.6948
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6753,
+      14.1181,
+      52.7144,
+      14.2395
     ]
   },
   {
@@ -4547,6 +5123,22 @@
     ]
   },
   {
+    "id": "bodensee",
+    "name": "Bodensee",
+    "shortName": "BOD",
+    "center": [
+      10.1336,
+      51.6039
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5917,
+      10.1105,
+      51.6208,
+      10.1613
+    ]
+  },
+  {
     "id": "boderitz",
     "name": "Boderitz",
     "shortName": "BOD",
@@ -4560,6 +5152,22 @@
       12.495,
       50.9875,
       12.595
+    ]
+  },
+  {
+    "id": "boehlen",
+    "name": "Böhlen",
+    "shortName": "BOEH",
+    "center": [
+      12.386,
+      51.2027
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1651,
+      12.3479,
+      51.2468,
+      12.4335
     ]
   },
   {
@@ -4806,6 +5414,22 @@
     ]
   },
   {
+    "id": "bonaforth",
+    "name": "Bonaforth",
+    "shortName": "BON",
+    "center": [
+      9.6284,
+      51.4006
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.393,
+      9.6031,
+      51.4059,
+      9.6386
+    ]
+  },
+  {
     "id": "bondorf",
     "name": "Bondorf",
     "shortName": "BON",
@@ -4819,6 +5443,22 @@
       8.7849,
       48.5424,
       8.8659
+    ]
+  },
+  {
+    "id": "bonefeld",
+    "name": "Bonefeld",
+    "shortName": "BON",
+    "center": [
+      7.49,
+      50.5247
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5173,
+      7.471,
+      50.5403,
+      7.5165
     ]
   },
   {
@@ -4867,6 +5507,22 @@
       7.4591,
       50.2656,
       7.6657
+    ]
+  },
+  {
+    "id": "boerdel",
+    "name": "Bördel",
+    "shortName": "BOER",
+    "center": [
+      9.7897,
+      51.489
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.439,
+      9.7397,
+      51.539,
+      9.8397
     ]
   },
   {
@@ -4953,6 +5609,22 @@
     ]
   },
   {
+    "id": "borna",
+    "name": "Borna",
+    "shortName": "BOR",
+    "center": [
+      12.5062,
+      51.1222
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0637,
+      12.446,
+      51.1807,
+      12.5659
+    ]
+  },
+  {
     "id": "bornheim",
     "name": "Bornheim",
     "shortName": "BOR",
@@ -5001,6 +5673,22 @@
       10.574,
       52.1097,
       10.614
+    ]
+  },
+  {
+    "id": "borsdorf",
+    "name": "Borsdorf",
+    "shortName": "BOR",
+    "center": [
+      12.5403,
+      51.3473
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3241,
+      12.4989,
+      51.3752,
+      12.576
     ]
   },
   {
@@ -5068,6 +5756,22 @@
     ]
   },
   {
+    "id": "boesinghausen",
+    "name": "Bösinghausen",
+    "shortName": "BOES",
+    "center": [
+      10.0628,
+      51.5663
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5627,
+      10.0479,
+      51.5772,
+      10.0773
+    ]
+  },
+  {
     "id": "bous",
     "name": "Bous",
     "shortName": "BOU",
@@ -5081,6 +5785,22 @@
       6.7747,
       49.2868,
       6.8585
+    ]
+  },
+  {
+    "id": "bovenden",
+    "name": "Bovenden",
+    "shortName": "BOV",
+    "center": [
+      9.9266,
+      51.5869
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5596,
+      9.8153,
+      51.6258,
+      10.0707
     ]
   },
   {
@@ -5145,6 +5865,22 @@
       9.6715,
       53.8699,
       9.7519
+    ]
+  },
+  {
+    "id": "brandis",
+    "name": "Brandis",
+    "shortName": "BRA",
+    "center": [
+      12.6089,
+      51.3347
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3006,
+      12.5308,
+      51.3521,
+      12.6935
     ]
   },
   {
@@ -5340,6 +6076,22 @@
     ]
   },
   {
+    "id": "breitenberg",
+    "name": "Breitenberg",
+    "shortName": "BRE",
+    "center": [
+      10.2879,
+      51.5457
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4957,
+      10.2379,
+      51.5957,
+      10.3379
+    ]
+  },
+  {
     "id": "breitenhain",
     "name": "Breitenhain",
     "shortName": "BRE",
@@ -5401,6 +6153,22 @@
       8.1412,
       50.7251,
       8.2412
+    ]
+  },
+  {
+    "id": "bremke",
+    "name": "Bremke",
+    "shortName": "BRE",
+    "center": [
+      10.0403,
+      51.4489
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3989,
+      9.9903,
+      51.4989,
+      10.0903
     ]
   },
   {
@@ -5516,6 +6284,22 @@
     ]
   },
   {
+    "id": "brochthausen",
+    "name": "Brochthausen",
+    "shortName": "BRO",
+    "center": [
+      10.3605,
+      51.5492
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4992,
+      10.3105,
+      51.5992,
+      10.4105
+    ]
+  },
+  {
     "id": "broeckel",
     "name": "Bröckel",
     "shortName": "BROE",
@@ -5593,6 +6377,22 @@
       12.2138,
       51.0818,
       12.3138
+    ]
+  },
+  {
+    "id": "bruchhausen",
+    "name": "Bruchhausen",
+    "shortName": "BRU",
+    "center": [
+      7.2536,
+      50.6025
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5951,
+      7.2428,
+      50.6147,
+      7.2785
     ]
   },
   {
@@ -5884,6 +6684,38 @@
     ]
   },
   {
+    "id": "buchholz",
+    "name": "Buchholz",
+    "shortName": "BUC",
+    "center": [
+      7.3925,
+      50.687
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6683,
+      7.3574,
+      50.7183,
+      7.4524
+    ]
+  },
+  {
+    "id": "buckow-maerkische-schweiz",
+    "name": "Buckow (Märkische Schweiz)",
+    "shortName": "BUC",
+    "center": [
+      14.0762,
+      52.5672
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5459,
+      14.0031,
+      52.5804,
+      14.1282
+    ]
+  },
+  {
     "id": "budenbach",
     "name": "Budenbach",
     "shortName": "BUD",
@@ -5897,6 +6729,22 @@
       7.54,
       50.0512,
       7.5851
+    ]
+  },
+  {
+    "id": "buehren",
+    "name": "Bühren",
+    "shortName": "BUEH",
+    "center": [
+      9.6801,
+      51.4847
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4596,
+      9.6415,
+      51.5058,
+      9.7109
     ]
   },
   {
@@ -6191,6 +7039,22 @@
     ]
   },
   {
+    "id": "bursfelde",
+    "name": "Bursfelde",
+    "shortName": "BUR",
+    "center": [
+      9.6249,
+      51.5417
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5416,
+      9.6245,
+      51.5417,
+      9.6253
+    ]
+  },
+  {
     "id": "burtenbach",
     "name": "Burtenbach",
     "shortName": "BUR",
@@ -6421,6 +7285,22 @@
     ]
   },
   {
+    "id": "cavertitz",
+    "name": "Cavertitz",
+    "shortName": "CAV",
+    "center": [
+      13.1403,
+      51.3768
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3268,
+      13.0903,
+      51.4268,
+      13.1903
+    ]
+  },
+  {
     "id": "celle",
     "name": "Celle",
     "shortName": "CEL",
@@ -6616,6 +7496,22 @@
     ]
   },
   {
+    "id": "colditz",
+    "name": "Colditz",
+    "shortName": "COL",
+    "center": [
+      12.8066,
+      51.1295
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0913,
+      12.6751,
+      51.1815,
+      12.8983
+    ]
+  },
+  {
     "id": "colmberg",
     "name": "Colmberg",
     "shortName": "COL",
@@ -6795,6 +7691,54 @@
     ]
   },
   {
+    "id": "dahlen",
+    "name": "Dahlen",
+    "shortName": "DAH",
+    "center": [
+      12.9984,
+      51.3661
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3145,
+      12.9025,
+      51.433,
+      13.0733
+    ]
+  },
+  {
+    "id": "dahlenrode",
+    "name": "Dahlenrode",
+    "shortName": "DAH",
+    "center": [
+      9.8368,
+      51.427
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.377,
+      9.7868,
+      51.477,
+      9.8868
+    ]
+  },
+  {
+    "id": "dahlheim",
+    "name": "Dahlheim",
+    "shortName": "DAH",
+    "center": [
+      9.6426,
+      51.3212
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2712,
+      9.5926,
+      51.3712,
+      9.6926
+    ]
+  },
+  {
     "id": "daiting",
     "name": "Daiting",
     "shortName": "DAI",
@@ -6843,6 +7787,22 @@
     ]
   },
   {
+    "id": "dankelshausen",
+    "name": "Dankelshausen",
+    "shortName": "DAN",
+    "center": [
+      9.7073,
+      51.4686
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4622,
+      9.6834,
+      51.4907,
+      9.7206
+    ]
+  },
+  {
     "id": "darmstadt",
     "name": "Darmstadt",
     "shortName": "DAR",
@@ -6875,6 +7835,38 @@
       10.9967,
       48.4248,
       11.0967
+    ]
+  },
+  {
+    "id": "dattenberg",
+    "name": "Dattenberg",
+    "shortName": "DAT",
+    "center": [
+      7.2939,
+      50.5536
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5482,
+      7.2791,
+      50.5798,
+      7.392
+    ]
+  },
+  {
+    "id": "datzeroth",
+    "name": "Datzeroth",
+    "shortName": "DAT",
+    "center": [
+      7.4304,
+      50.5064
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4887,
+      7.395,
+      50.517,
+      7.4621
     ]
   },
   {
@@ -6958,6 +7950,22 @@
     ]
   },
   {
+    "id": "deiderode",
+    "name": "Deiderode",
+    "shortName": "DEI",
+    "center": [
+      9.8638,
+      51.4216
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3716,
+      9.8138,
+      51.4716,
+      9.9138
+    ]
+  },
+  {
     "id": "deidesheim",
     "name": "Deidesheim",
     "shortName": "DEI",
@@ -7025,6 +8033,22 @@
     ]
   },
   {
+    "id": "delitzsch",
+    "name": "Delitzsch",
+    "shortName": "DEL",
+    "center": [
+      12.3429,
+      51.5256
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.481,
+      12.2743,
+      51.587,
+      12.4521
+    ]
+  },
+  {
     "id": "denkendorf",
     "name": "Denkendorf",
     "shortName": "DEN",
@@ -7060,6 +8084,38 @@
     ]
   },
   {
+    "id": "dernbach",
+    "name": "Dernbach",
+    "shortName": "DER",
+    "center": [
+      7.5984,
+      50.5446
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5324,
+      7.5737,
+      50.5603,
+      7.6234
+    ]
+  },
+  {
+    "id": "desingerode",
+    "name": "Desingerode",
+    "shortName": "DES",
+    "center": [
+      10.183,
+      51.5262
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4762,
+      10.133,
+      51.5762,
+      10.233
+    ]
+  },
+  {
     "id": "destedt",
     "name": "Destedt",
     "shortName": "DES",
@@ -7089,6 +8145,22 @@
       9.0504,
       48.6476,
       9.1504
+    ]
+  },
+  {
+    "id": "dettingen-an-der-erms",
+    "name": "Dettingen an der Erms",
+    "shortName": "DET",
+    "center": [
+      9.3461,
+      48.5289
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5043,
+      9.3174,
+      48.5493,
+      9.4027
     ]
   },
   {
@@ -7185,6 +8257,38 @@
       8.7632,
       49.9258,
       8.8725
+    ]
+  },
+  {
+    "id": "diemarden",
+    "name": "Diemarden",
+    "shortName": "DIE",
+    "center": [
+      9.9775,
+      51.4861
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4361,
+      9.9275,
+      51.5361,
+      10.0275
+    ]
+  },
+  {
+    "id": "dierdorf",
+    "name": "Dierdorf",
+    "shortName": "DIE",
+    "center": [
+      7.6564,
+      50.5479
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5188,
+      7.5828,
+      50.5946,
+      7.7029
     ]
   },
   {
@@ -7447,6 +8551,22 @@
     ]
   },
   {
+    "id": "doberschuetz",
+    "name": "Doberschütz",
+    "shortName": "DOB",
+    "center": [
+      12.6915,
+      51.5047
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4457,
+      12.613,
+      51.5637,
+      12.7773
+    ]
+  },
+  {
     "id": "dobian",
     "name": "Dobian",
     "shortName": "DOB",
@@ -7639,6 +8759,22 @@
       7.3633,
       50.175,
       7.4522
+    ]
+  },
+  {
+    "id": "dommitzsch",
+    "name": "Dommitzsch",
+    "shortName": "DOM",
+    "center": [
+      12.8501,
+      51.6496
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6147,
+      12.8027,
+      51.685,
+      12.9047
     ]
   },
   {
@@ -7917,6 +9053,22 @@
     ]
   },
   {
+    "id": "doettesfeld",
+    "name": "Döttesfeld",
+    "shortName": "DOET",
+    "center": [
+      7.5491,
+      50.6257
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5976,
+      7.5385,
+      50.6278,
+      7.5886
+    ]
+  },
+  {
     "id": "drackenstein",
     "name": "Drackenstein",
     "shortName": "DRA",
@@ -7949,6 +9101,38 @@
     ]
   },
   {
+    "id": "dramfeld",
+    "name": "Dramfeld",
+    "shortName": "DRA",
+    "center": [
+      9.8814,
+      51.4542
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4042,
+      9.8314,
+      51.5042,
+      9.9314
+    ]
+  },
+  {
+    "id": "dransfeld",
+    "name": "Dransfeld",
+    "shortName": "DRA",
+    "center": [
+      9.7583,
+      51.5012
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4677,
+      9.7298,
+      51.5323,
+      9.8104
+    ]
+  },
+  {
     "id": "dreba",
     "name": "Dreba",
     "shortName": "DRE",
@@ -7962,6 +9146,22 @@
       11.7,
       50.7067,
       11.8
+    ]
+  },
+  {
+    "id": "dreiheide",
+    "name": "Dreiheide",
+    "shortName": "DRE",
+    "center": [
+      12.9276,
+      51.5647
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5147,
+      12.8776,
+      51.6147,
+      12.9776
     ]
   },
   {
@@ -8093,6 +9293,22 @@
     ]
   },
   {
+    "id": "duderstadt",
+    "name": "Duderstadt",
+    "shortName": "DUD",
+    "center": [
+      10.2611,
+      51.5124
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4659,
+      10.1395,
+      51.5691,
+      10.3722
+    ]
+  },
+  {
     "id": "duggendorf",
     "name": "Duggendorf",
     "shortName": "DUG",
@@ -8205,6 +9421,22 @@
     ]
   },
   {
+    "id": "duerrholz",
+    "name": "Dürrholz",
+    "shortName": "DUER",
+    "center": [
+      7.5707,
+      50.5819
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5778,
+      7.5434,
+      50.6046,
+      7.5982
+    ]
+  },
+  {
     "id": "duerrlauingen",
     "name": "Dürrlauingen",
     "shortName": "DUER",
@@ -8282,6 +9514,38 @@
       10.9084,
       50.1064,
       11.0084
+    ]
+  },
+  {
+    "id": "ebergoetzen",
+    "name": "Ebergötzen",
+    "shortName": "EBE",
+    "center": [
+      10.1071,
+      51.5701
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5528,
+      10.04,
+      51.6103,
+      10.1447
+    ]
+  },
+  {
+    "id": "eberhausen",
+    "name": "Eberhausen",
+    "shortName": "EBE",
+    "center": [
+      9.7157,
+      51.5535
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5035,
+      9.6657,
+      51.6035,
+      9.7657
     ]
   },
   {
@@ -8490,6 +9754,22 @@
       8.9735,
       50.2937,
       9.0735
+    ]
+  },
+  {
+    "id": "eddigehausen",
+    "name": "Eddigehausen",
+    "shortName": "EDD",
+    "center": [
+      9.9604,
+      51.5949
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5449,
+      9.9104,
+      51.6449,
+      10.0104
     ]
   },
   {
@@ -8717,6 +9997,22 @@
       9.6775,
       48.3226,
       9.7775
+    ]
+  },
+  {
+    "id": "ehlscheid",
+    "name": "Ehlscheid",
+    "shortName": "EHL",
+    "center": [
+      7.4661,
+      50.5134
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4991,
+      7.4377,
+      50.5266,
+      7.4795
     ]
   },
   {
@@ -9033,6 +10329,38 @@
     ]
   },
   {
+    "id": "elbickerode",
+    "name": "Elbickerode",
+    "shortName": "ELB",
+    "center": [
+      10.0629,
+      51.4365
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4183,
+      10.0562,
+      51.4428,
+      10.0796
+    ]
+  },
+  {
+    "id": "elbingerode",
+    "name": "Elbingerode",
+    "shortName": "ELB",
+    "center": [
+      10.2804,
+      51.659
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6399,
+      10.2541,
+      51.6657,
+      10.3094
+    ]
+  },
+  {
     "id": "eldingen",
     "name": "Eldingen",
     "shortName": "ELD",
@@ -9062,6 +10390,22 @@
       11.5511,
       50.5365,
       11.6511
+    ]
+  },
+  {
+    "id": "elkershausen",
+    "name": "Elkershausen",
+    "shortName": "ELK",
+    "center": [
+      9.8903,
+      51.4238
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3738,
+      9.8403,
+      51.4738,
+      9.9403
     ]
   },
   {
@@ -9110,6 +10454,22 @@
       7.6205,
       50.0029,
       7.6701
+    ]
+  },
+  {
+    "id": "ellershausen",
+    "name": "Ellershausen",
+    "shortName": "ELL",
+    "center": [
+      9.8654,
+      51.5209
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5104,
+      9.8001,
+      51.5526,
+      9.8785
     ]
   },
   {
@@ -9199,6 +10559,38 @@
     ]
   },
   {
+    "id": "elsnig",
+    "name": "Elsnig",
+    "shortName": "ELS",
+    "center": [
+      12.9285,
+      51.6106
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5803,
+      12.8692,
+      51.6502,
+      13.0284
+    ]
+  },
+  {
+    "id": "elstertrebnitz",
+    "name": "Elstertrebnitz",
+    "shortName": "ELS",
+    "center": [
+      12.2428,
+      51.1536
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1297,
+      12.1956,
+      51.166,
+      12.261
+    ]
+  },
+  {
     "id": "emleben",
     "name": "Emleben",
     "shortName": "EML",
@@ -9244,6 +10636,22 @@
       7.5103,
       50.1797,
       7.5654
+    ]
+  },
+  {
+    "id": "emmenhausen",
+    "name": "Emmenhausen",
+    "shortName": "EMM",
+    "center": [
+      9.8297,
+      51.5837
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5337,
+      9.7797,
+      51.6337,
+      9.8797
     ]
   },
   {
@@ -9308,6 +10716,38 @@
       12.5224,
       50.9638,
       12.6224
+    ]
+  },
+  {
+    "id": "engstingen",
+    "name": "Engstingen",
+    "shortName": "ENG",
+    "center": [
+      9.2915,
+      48.3881
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3588,
+      9.2398,
+      48.4232,
+      9.3462
+    ]
+  },
+  {
+    "id": "eningen-unter-achalm",
+    "name": "Eningen unter Achalm",
+    "shortName": "ENI",
+    "center": [
+      9.2773,
+      48.4831
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4556,
+      9.2304,
+      48.5106,
+      9.3274
     ]
   },
   {
@@ -9404,6 +10844,22 @@
       11.9959,
       49.8798,
       12.0959
+    ]
+  },
+  {
+    "id": "erbsen",
+    "name": "Erbsen",
+    "shortName": "ERB",
+    "center": [
+      9.8059,
+      51.5861
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5361,
+      9.7559,
+      51.6361,
+      9.8559
     ]
   },
   {
@@ -9573,6 +11029,22 @@
     ]
   },
   {
+    "id": "erpel",
+    "name": "Erpel",
+    "shortName": "ERP",
+    "center": [
+      7.2378,
+      50.5825
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5791,
+      7.2228,
+      50.6308,
+      7.3302
+    ]
+  },
+  {
     "id": "erzhausen",
     "name": "Erzhausen",
     "shortName": "ERZ",
@@ -9669,6 +11141,22 @@
     ]
   },
   {
+    "id": "escherode",
+    "name": "Escherode",
+    "shortName": "ESC",
+    "center": [
+      9.6716,
+      51.3226
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3069,
+      9.6463,
+      51.3337,
+      9.7013
+    ]
+  },
+  {
     "id": "eschweiler",
     "name": "Eschweiler",
     "shortName": "ESW",
@@ -9701,6 +11189,22 @@
       12.4716,
       49.6235,
       12.5716
+    ]
+  },
+  {
+    "id": "esplingerode",
+    "name": "Esplingerode",
+    "shortName": "ESP",
+    "center": [
+      10.1952,
+      51.5322
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4822,
+      10.1452,
+      51.5822,
+      10.2452
     ]
   },
   {
@@ -9781,6 +11285,22 @@
       13.5516,
       48.4791,
       13.6516
+    ]
+  },
+  {
+    "id": "etzenborn",
+    "name": "Etzenborn",
+    "shortName": "ETZ",
+    "center": [
+      10.1662,
+      51.4607
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4107,
+      10.1162,
+      51.5107,
+      10.2162
     ]
   },
   {
@@ -9928,6 +11448,38 @@
     ]
   },
   {
+    "id": "falkenhagen",
+    "name": "Falkenhagen",
+    "shortName": "FAL",
+    "center": [
+      10.0999,
+      51.5206
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5145,
+      10.087,
+      51.5316,
+      10.1146
+    ]
+  },
+  {
+    "id": "falkenhagen-mark",
+    "name": "Falkenhagen (Mark)",
+    "shortName": "FAL",
+    "center": [
+      14.3169,
+      52.4291
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4029,
+      14.2709,
+      52.4573,
+      14.3784
+    ]
+  },
+  {
     "id": "falkenhain",
     "name": "Falkenhain",
     "shortName": "FAL",
@@ -10072,6 +11624,22 @@
       12.3339,
       51.0576,
       12.4339
+    ]
+  },
+  {
+    "id": "fichtenhoehe",
+    "name": "Fichtenhöhe",
+    "shortName": "FIC",
+    "center": [
+      14.4199,
+      52.4608
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4362,
+      14.3685,
+      52.4852,
+      14.4765
     ]
   },
   {
@@ -10497,6 +12065,22 @@
     ]
   },
   {
+    "id": "fredersdorf-vogelsdorf",
+    "name": "Fredersdorf-Vogelsdorf",
+    "shortName": "FRE",
+    "center": [
+      13.753,
+      52.5241
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4865,
+      13.7097,
+      52.5515,
+      13.7768
+    ]
+  },
+  {
     "id": "freiburg",
     "name": "Freiburg im Breisgau",
     "shortName": "FR",
@@ -10660,6 +12244,22 @@
     ]
   },
   {
+    "id": "friedland",
+    "name": "Friedland",
+    "shortName": "FRI",
+    "center": [
+      9.9143,
+      51.4205
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4107,
+      9.9021,
+      51.4322,
+      9.9562
+    ]
+  },
+  {
     "id": "friedrichroda",
     "name": "Friedrichroda",
     "shortName": "FRI",
@@ -10753,6 +12353,22 @@
       11.591,
       50.5365,
       11.691
+    ]
+  },
+  {
+    "id": "frohburg",
+    "name": "Frohburg",
+    "shortName": "FRO",
+    "center": [
+      12.5657,
+      51.0612
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.9789,
+      12.5014,
+      51.1431,
+      12.7225
     ]
   },
   {
@@ -10865,6 +12481,22 @@
       9.8837,
       50.1483,
       9.9837
+    ]
+  },
+  {
+    "id": "fuhrbach",
+    "name": "Fuhrbach",
+    "shortName": "FUH",
+    "center": [
+      10.3388,
+      51.5287
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4787,
+      10.2888,
+      51.5787,
+      10.3888
     ]
   },
   {
@@ -11271,6 +12903,22 @@
     ]
   },
   {
+    "id": "garzau-garzin",
+    "name": "Garzau-Garzin",
+    "shortName": "GAR",
+    "center": [
+      13.9452,
+      52.5344
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5199,
+      13.9115,
+      52.5515,
+      14.0313
+    ]
+  },
+  {
     "id": "gaeufelden",
     "name": "Gäufelden",
     "shortName": "GAEU",
@@ -11447,6 +13095,22 @@
     ]
   },
   {
+    "id": "geithain",
+    "name": "Geithain",
+    "shortName": "GEI",
+    "center": [
+      12.6791,
+      51.0651
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0263,
+      12.6219,
+      51.1035,
+      12.7466
+    ]
+  },
+  {
     "id": "geldersheim",
     "name": "Geldersheim",
     "shortName": "GEL",
@@ -11460,6 +13124,22 @@
       10.1061,
       50.0829,
       10.2061
+    ]
+  },
+  {
+    "id": "gelliehausen",
+    "name": "Gelliehausen",
+    "shortName": "GEL",
+    "center": [
+      10.0524,
+      51.4752
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4252,
+      10.0024,
+      51.5252,
+      10.1024
     ]
   },
   {
@@ -11594,6 +13274,22 @@
     ]
   },
   {
+    "id": "gerblingerode",
+    "name": "Gerblingerode",
+    "shortName": "GER",
+    "center": [
+      10.2616,
+      51.4942
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4442,
+      10.2116,
+      51.5442,
+      10.3116
+    ]
+  },
+  {
     "id": "geretsried",
     "name": "Geretsried",
     "shortName": "GER",
@@ -11623,6 +13319,22 @@
       11.3265,
       48.1739,
       11.4265
+    ]
+  },
+  {
+    "id": "germershausen",
+    "name": "Germershausen",
+    "shortName": "GER",
+    "center": [
+      10.1917,
+      51.5627
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.544,
+      10.1741,
+      51.5663,
+      10.215
     ]
   },
   {
@@ -11818,6 +13530,22 @@
     ]
   },
   {
+    "id": "gieboldehausen",
+    "name": "Gieboldehausen",
+    "shortName": "GIE",
+    "center": [
+      10.2154,
+      51.61
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5814,
+      10.1635,
+      51.6325,
+      10.2468
+    ]
+  },
+  {
     "id": "gielde",
     "name": "Gielde",
     "shortName": "GIE",
@@ -11898,6 +13626,22 @@
     ]
   },
   {
+    "id": "gimte",
+    "name": "Gimte",
+    "shortName": "GIM",
+    "center": [
+      9.6414,
+      51.4392
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4277,
+      9.6275,
+      51.4689,
+      9.6594
+    ]
+  },
+  {
     "id": "gingen",
     "name": "Gingen",
     "shortName": "GIN",
@@ -11911,6 +13655,22 @@
       9.7873,
       48.6615,
       9.7889
+    ]
+  },
+  {
+    "id": "glashuette",
+    "name": "Glashütte",
+    "shortName": "GLA",
+    "center": [
+      9.6187,
+      51.5273
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4773,
+      9.5687,
+      51.5773,
+      9.6687
     ]
   },
   {
@@ -12154,6 +13914,38 @@
       20.8871,
       48.8958,
       20.9871
+    ]
+  },
+  {
+    "id": "golzow",
+    "name": "Golzow",
+    "shortName": "GOL",
+    "center": [
+      13.8799,
+      52.582
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5816,
+      13.8792,
+      52.5822,
+      13.8801
+    ]
+  },
+  {
+    "id": "gomadingen",
+    "name": "Gomadingen",
+    "shortName": "GOM",
+    "center": [
+      9.3908,
+      48.3992
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3506,
+      9.3304,
+      48.4253,
+      9.4616
     ]
   },
   {
@@ -12413,6 +14205,22 @@
     ]
   },
   {
+    "id": "grabenstetten",
+    "name": "Grabenstetten",
+    "shortName": "GRA",
+    "center": [
+      9.4494,
+      48.5231
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4992,
+      9.4162,
+      48.5469,
+      9.4905
+    ]
+  },
+  {
     "id": "grafenau-bb",
     "name": "Grafenau",
     "shortName": "GRA",
@@ -12426,6 +14234,22 @@
       8.8551,
       48.7309,
       8.9441
+    ]
+  },
+  {
+    "id": "grafenberg",
+    "name": "Grafenberg",
+    "shortName": "GRA",
+    "center": [
+      9.3053,
+      48.5662
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5584,
+      9.2868,
+      48.5812,
+      9.3229
     ]
   },
   {
@@ -12653,6 +14477,22 @@
     ]
   },
   {
+    "id": "grasberg",
+    "name": "Grasberg",
+    "shortName": "GRA",
+    "center": [
+      8.9833,
+      53.1833
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.126,
+      8.9558,
+      53.2424,
+      9.0714
+    ]
+  },
+  {
     "id": "graevenwiesbach",
     "name": "Grävenwiesbach",
     "shortName": "GRÄ",
@@ -12816,6 +14656,22 @@
     ]
   },
   {
+    "id": "grimma",
+    "name": "Grimma",
+    "shortName": "GRI",
+    "center": [
+      12.7289,
+      51.2366
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1565,
+      12.6398,
+      51.3125,
+      12.9316
+    ]
+  },
+  {
     "id": "groeba",
     "name": "Gröba",
     "shortName": "GROE",
@@ -12877,6 +14733,22 @@
       11.6791,
       50.6105,
       11.7791
+    ]
+  },
+  {
+    "id": "groitzsch",
+    "name": "Groitzsch",
+    "shortName": "GRO",
+    "center": [
+      12.2833,
+      51.15
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0903,
+      12.2202,
+      51.183,
+      12.39
     ]
   },
   {
@@ -12976,6 +14848,22 @@
     ]
   },
   {
+    "id": "gross-lengden",
+    "name": "Groß Lengden",
+    "shortName": "GRO",
+    "center": [
+      10.0327,
+      51.5083
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4583,
+      9.9827,
+      51.5583,
+      10.0827
+    ]
+  },
+  {
     "id": "gross-nordende",
     "name": "Groß Nordende",
     "shortName": "GN",
@@ -13005,6 +14893,22 @@
       9.6901,
       53.8352,
       9.7543
+    ]
+  },
+  {
+    "id": "gross-schneen",
+    "name": "Groß Schneen",
+    "shortName": "GRO",
+    "center": [
+      9.9313,
+      51.4362
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4216,
+      9.9105,
+      51.4536,
+      9.9912
     ]
   },
   {
@@ -13248,6 +15152,22 @@
     ]
   },
   {
+    "id": "grossmaischeid",
+    "name": "Großmaischeid",
+    "shortName": "GRO",
+    "center": [
+      7.634,
+      50.5051
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.478,
+      7.5939,
+      50.5274,
+      7.6797
+    ]
+  },
+  {
     "id": "grossmecka",
     "name": "Großmecka",
     "shortName": "GRO",
@@ -13296,6 +15216,22 @@
       9.026,
       49.9598,
       9.126
+    ]
+  },
+  {
+    "id": "grosspoesna",
+    "name": "Großpösna",
+    "shortName": "GRO",
+    "center": [
+      12.4751,
+      51.2565
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2069,
+      12.4053,
+      51.3061,
+      12.5439
     ]
   },
   {
@@ -13622,6 +15558,22 @@
     ]
   },
   {
+    "id": "guentersen",
+    "name": "Güntersen",
+    "shortName": "GUEN",
+    "center": [
+      9.7393,
+      51.5367
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4867,
+      9.6893,
+      51.5867,
+      9.7893
+    ]
+  },
+  {
     "id": "guenzburg",
     "name": "Günzburg",
     "shortName": "GUEN",
@@ -13635,6 +15587,22 @@
       10.227,
       48.496,
       10.327
+    ]
+  },
+  {
+    "id": "gusow-platkow",
+    "name": "Gusow-Platkow",
+    "shortName": "GUS",
+    "center": [
+      14.34,
+      52.5777
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.548,
+      14.2819,
+      52.6186,
+      14.3939
     ]
   },
   {
@@ -14108,6 +16076,22 @@
     ]
   },
   {
+    "id": "hambergen",
+    "name": "Hambergen",
+    "shortName": "HAM",
+    "center": [
+      8.8245,
+      53.3106
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2659,
+      8.7797,
+      53.3416,
+      8.8768
+    ]
+  },
+  {
     "id": "hambuehren",
     "name": "Hambühren",
     "shortName": "HAM",
@@ -14172,6 +16156,22 @@
     ]
   },
   {
+    "id": "hammerstein",
+    "name": "Hammerstein",
+    "shortName": "HAM",
+    "center": [
+      7.3484,
+      50.4791
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.466,
+      7.338,
+      50.5004,
+      7.3977
+    ]
+  },
+  {
     "id": "hanau",
     "name": "Hanau",
     "shortName": "HU",
@@ -14220,6 +16220,38 @@
     ]
   },
   {
+    "id": "hann-muenden",
+    "name": "Hann. Münden",
+    "shortName": "HAN",
+    "center": [
+      9.655,
+      51.4162
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3563,
+      9.5684,
+      51.5631,
+      9.8035
+    ]
+  },
+  {
+    "id": "hanroth",
+    "name": "Hanroth",
+    "shortName": "HAN",
+    "center": [
+      7.6414,
+      50.5877
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5817,
+      7.6219,
+      50.5943,
+      7.6586
+    ]
+  },
+  {
     "id": "harburg",
     "name": "Harburg",
     "shortName": "HAR",
@@ -14233,6 +16265,22 @@
       9.9339,
       53.5006,
       10.0339
+    ]
+  },
+  {
+    "id": "hardert",
+    "name": "Hardert",
+    "shortName": "HAR",
+    "center": [
+      7.5152,
+      50.5159
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.506,
+      7.5046,
+      50.5264,
+      7.5441
     ]
   },
   {
@@ -14265,6 +16313,22 @@
       11.6333,
       50.4567,
       11.7333
+    ]
+  },
+  {
+    "id": "harschbach",
+    "name": "Harschbach",
+    "shortName": "HAR",
+    "center": [
+      7.5946,
+      50.574
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5674,
+      7.581,
+      50.5835,
+      7.6094
     ]
   },
   {
@@ -14313,6 +16377,22 @@
       11.0575,
       51.8958,
       11.1421
+    ]
+  },
+  {
+    "id": "harste",
+    "name": "Harste",
+    "shortName": "HAR",
+    "center": [
+      9.8583,
+      51.6004
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5504,
+      9.8083,
+      51.6504,
+      9.9083
     ]
   },
   {
@@ -14495,6 +16575,22 @@
     ]
   },
   {
+    "id": "hattorf-am-harz",
+    "name": "Hattorf am Harz",
+    "shortName": "HAT",
+    "center": [
+      10.2386,
+      51.6485
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6098,
+      10.1662,
+      51.6758,
+      10.3003
+    ]
+  },
+  {
     "id": "hauersdorf",
     "name": "Hauersdorf",
     "shortName": "HAU",
@@ -14607,6 +16703,22 @@
     ]
   },
   {
+    "id": "hayingen",
+    "name": "Hayingen",
+    "shortName": "HAY",
+    "center": [
+      9.4781,
+      48.2752
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2446,
+      9.3942,
+      48.3391,
+      9.5583
+    ]
+  },
+  {
     "id": "heberndorf",
     "name": "Heberndorf",
     "shortName": "HEB",
@@ -14655,6 +16767,22 @@
     ]
   },
   {
+    "id": "heckelberg-brunow",
+    "name": "Heckelberg-Brunow",
+    "shortName": "HEC",
+    "center": [
+      13.8189,
+      52.7324
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.707,
+      13.7295,
+      52.758,
+      13.9052
+    ]
+  },
+  {
     "id": "hecken",
     "name": "Hecken",
     "shortName": "HEC",
@@ -14668,6 +16796,22 @@
       7.3759,
       49.9269,
       7.4263
+    ]
+  },
+  {
+    "id": "hedemuenden",
+    "name": "Hedemünden",
+    "shortName": "HED",
+    "center": [
+      9.7664,
+      51.3934
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3845,
+      9.7247,
+      51.4189,
+      9.8035
     ]
   },
   {
@@ -15173,6 +17317,22 @@
     ]
   },
   {
+    "id": "hemeln",
+    "name": "Hemeln",
+    "shortName": "HEM",
+    "center": [
+      9.6084,
+      51.5006
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4645,
+      9.5847,
+      51.5631,
+      9.6824
+    ]
+  },
+  {
     "id": "hemkenrode",
     "name": "Hemkenrode",
     "shortName": "HEM",
@@ -15368,6 +17528,22 @@
       12.022,
       48.8286,
       12.122
+    ]
+  },
+  {
+    "id": "herzberg-am-harz",
+    "name": "Herzberg am Harz",
+    "shortName": "HER",
+    "center": [
+      10.3428,
+      51.6565
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6298,
+      10.2788,
+      51.6828,
+      10.3801
     ]
   },
   {
@@ -15604,6 +17780,22 @@
     ]
   },
   {
+    "id": "hilkerode",
+    "name": "Hilkerode",
+    "shortName": "HIL",
+    "center": [
+      10.3109,
+      51.5606
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5106,
+      10.2609,
+      51.6106,
+      10.3609
+    ]
+  },
+  {
     "id": "hilpoltstein",
     "name": "Hilpoltstein",
     "shortName": "HIL",
@@ -15617,6 +17809,22 @@
       11.1406,
       49.2305,
       11.2406
+    ]
+  },
+  {
+    "id": "hilwartshausen",
+    "name": "Hilwartshausen",
+    "shortName": "HIL",
+    "center": [
+      9.6408,
+      51.4506
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4006,
+      9.5908,
+      51.5006,
+      9.6908
     ]
   },
   {
@@ -15911,6 +18119,22 @@
     ]
   },
   {
+    "id": "hoehenland",
+    "name": "Höhenland",
+    "shortName": "HOEH",
+    "center": [
+      13.9201,
+      52.7169
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6658,
+      13.8484,
+      52.7574,
+      14.0003
+    ]
+  },
+  {
     "id": "hohenlinden",
     "name": "Hohenlinden",
     "shortName": "HOH",
@@ -16039,6 +18263,22 @@
     ]
   },
   {
+    "id": "hohenstein",
+    "name": "Hohenstein",
+    "shortName": "HOH",
+    "center": [
+      9.3548,
+      48.3473
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2976,
+      9.2797,
+      48.3763,
+      9.4591
+    ]
+  },
+  {
     "id": "hohenwarte",
     "name": "Hohenwarte",
     "shortName": "HOH",
@@ -16119,6 +18359,22 @@
     ]
   },
   {
+    "id": "holste",
+    "name": "Holste",
+    "shortName": "HOL",
+    "center": [
+      8.8591,
+      53.3735
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3403,
+      8.7851,
+      53.3957,
+      8.9105
+    ]
+  },
+  {
     "id": "holzbach",
     "name": "Holzbach",
     "shortName": "HOL",
@@ -16132,6 +18388,22 @@
       7.5128,
       49.9677,
       7.5498
+    ]
+  },
+  {
+    "id": "holzerode",
+    "name": "Holzerode",
+    "shortName": "HOL",
+    "center": [
+      10.0634,
+      51.5959
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5784,
+      10.04,
+      51.6103,
+      10.0989
     ]
   },
   {
@@ -16199,6 +18471,22 @@
     ]
   },
   {
+    "id": "hoppegarten",
+    "name": "Hoppegarten",
+    "shortName": "HOP",
+    "center": [
+      13.6412,
+      52.5502
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4665,
+      13.6106,
+      52.5695,
+      13.6888
+    ]
+  },
+  {
     "id": "horba",
     "name": "Horba",
     "shortName": "HOR",
@@ -16212,6 +18500,22 @@
       11.0744,
       50.7205,
       11.1744
+    ]
+  },
+  {
+    "id": "hoerden-am-harz",
+    "name": "Hörden am Harz",
+    "shortName": "HOER",
+    "center": [
+      10.2842,
+      51.6681
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6578,
+      10.2577,
+      51.6901,
+      10.3164
     ]
   },
   {
@@ -16458,6 +18762,38 @@
     ]
   },
   {
+    "id": "huelben",
+    "name": "Hülben",
+    "shortName": "HUEL",
+    "center": [
+      9.4069,
+      48.5219
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5047,
+      9.3786,
+      48.539,
+      9.4251
+    ]
+  },
+  {
+    "id": "huemmerich",
+    "name": "Hümmerich",
+    "shortName": "HUEM",
+    "center": [
+      7.4944,
+      50.568
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5551,
+      7.4713,
+      50.5812,
+      7.5099
+    ]
+  },
+  {
     "id": "hundelshausen",
     "name": "Hundelshausen",
     "shortName": "HUN",
@@ -16685,6 +19021,22 @@
     ]
   },
   {
+    "id": "imbsen",
+    "name": "Imbsen",
+    "shortName": "IMB",
+    "center": [
+      9.7287,
+      51.5215
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5097,
+      9.7065,
+      51.5305,
+      9.7527
+    ]
+  },
+  {
     "id": "immenreuth",
     "name": "Immenreuth",
     "shortName": "IMM",
@@ -16698,6 +19050,22 @@
       11.8167,
       49.94,
       11.9167
+    ]
+  },
+  {
+    "id": "immingerode",
+    "name": "Immingerode",
+    "shortName": "IMM",
+    "center": [
+      10.2332,
+      51.489
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.439,
+      10.1832,
+      51.539,
+      10.2832
     ]
   },
   {
@@ -16832,6 +19200,22 @@
     ]
   },
   {
+    "id": "ischenrode",
+    "name": "Ischenrode",
+    "shortName": "ISC",
+    "center": [
+      10.0292,
+      51.4297
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3797,
+      9.9792,
+      51.4797,
+      10.0792
+    ]
+  },
+  {
     "id": "isen",
     "name": "Isen",
     "shortName": "ISE",
@@ -16845,6 +19229,22 @@
       128.8872,
       27.7161,
       128.9872
+    ]
+  },
+  {
+    "id": "isenburg",
+    "name": "Isenburg",
+    "shortName": "ISE",
+    "center": [
+      7.5918,
+      50.4753
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4613,
+      7.5639,
+      50.4912,
+      7.6005
     ]
   },
   {
@@ -17008,6 +19408,22 @@
       11.0833,
       48.2067,
       11.1833
+    ]
+  },
+  {
+    "id": "jesewitz",
+    "name": "Jesewitz",
+    "shortName": "JES",
+    "center": [
+      12.5646,
+      51.4224
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3734,
+      12.492,
+      51.4514,
+      12.6598
     ]
   },
   {
@@ -17187,6 +19603,22 @@
       12.5788,
       50.967,
       12.6788
+    ]
+  },
+  {
+    "id": "juehnde",
+    "name": "Jühnde",
+    "shortName": "JUEH",
+    "center": [
+      9.7997,
+      51.4642
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.425,
+      9.7614,
+      51.4853,
+      9.8522
     ]
   },
   {
@@ -17599,6 +20031,22 @@
     ]
   },
   {
+    "id": "kasbach-ohlenberg",
+    "name": "Kasbach-Ohlenberg",
+    "shortName": "KAS",
+    "center": [
+      7.2697,
+      50.5866
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5744,
+      7.2481,
+      50.599,
+      7.2981
+    ]
+  },
+  {
     "id": "kasendorf",
     "name": "Kasendorf",
     "shortName": "KAS",
@@ -17772,6 +20220,22 @@
       6.3584,
       51.425,
       6.5356
+    ]
+  },
+  {
+    "id": "kerstlingerode",
+    "name": "Kerstlingerode",
+    "shortName": "KER",
+    "center": [
+      10.0958,
+      51.4691
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4528,
+      10.0732,
+      51.4853,
+      10.1175
     ]
   },
   {
@@ -18149,6 +20613,22 @@
     ]
   },
   {
+    "id": "kitzscher",
+    "name": "Kitzscher",
+    "shortName": "KIT",
+    "center": [
+      12.553,
+      51.1645
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1285,
+      12.5074,
+      51.2062,
+      12.585
+    ]
+  },
+  {
     "id": "klausa",
     "name": "Klausa",
     "shortName": "KLA",
@@ -18245,6 +20725,22 @@
     ]
   },
   {
+    "id": "klein-lengden",
+    "name": "Klein Lengden",
+    "shortName": "KLE",
+    "center": [
+      10.0058,
+      51.4963
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4463,
+      9.9558,
+      51.5463,
+      10.0558
+    ]
+  },
+  {
     "id": "klein-nordende",
     "name": "Klein Nordende",
     "shortName": "KN",
@@ -18277,6 +20773,22 @@
     ]
   },
   {
+    "id": "klein-schneen",
+    "name": "Klein Schneen",
+    "shortName": "KLE",
+    "center": [
+      9.9062,
+      51.4446
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3946,
+      9.8562,
+      51.4946,
+      9.9562
+    ]
+  },
+  {
     "id": "klein-schoeppenstedt",
     "name": "Klein Schöppenstedt",
     "shortName": "KS",
@@ -18306,6 +20818,22 @@
       10.6731,
       52.137,
       10.7302
+    ]
+  },
+  {
+    "id": "klein-wiershausen",
+    "name": "Klein Wiershausen",
+    "shortName": "KLE",
+    "center": [
+      9.8142,
+      51.5072
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4572,
+      9.7642,
+      51.5572,
+      9.8642
     ]
   },
   {
@@ -18402,6 +20930,22 @@
       11.4183,
       50.7784,
       11.5183
+    ]
+  },
+  {
+    "id": "kleinmaischeid",
+    "name": "Kleinmaischeid",
+    "shortName": "KLE",
+    "center": [
+      7.6073,
+      50.514
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4869,
+      7.582,
+      50.5295,
+      7.6276
     ]
   },
   {
@@ -19166,6 +21710,22 @@
     ]
   },
   {
+    "id": "krebeck",
+    "name": "Krebeck",
+    "shortName": "KRE",
+    "center": [
+      10.1255,
+      51.5891
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5753,
+      10.0708,
+      51.6225,
+      10.1542
+    ]
+  },
+  {
     "id": "krebitschen",
     "name": "Krebitschen",
     "shortName": "KRE",
@@ -19323,6 +21883,22 @@
       10.0942,
       50.1239,
       10.1942
+    ]
+  },
+  {
+    "id": "krostitz",
+    "name": "Krostitz",
+    "shortName": "KRO",
+    "center": [
+      12.4487,
+      51.463
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4239,
+      12.3694,
+      51.4991,
+      12.5191
     ]
   },
   {
@@ -19646,6 +22222,22 @@
     ]
   },
   {
+    "id": "kurtscheid",
+    "name": "Kurtscheid",
+    "shortName": "KUR",
+    "center": [
+      7.4648,
+      50.5355
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5204,
+      7.4411,
+      50.5539,
+      7.4796
+    ]
+  },
+  {
     "id": "kusterdingen",
     "name": "Kusterdingen",
     "shortName": "KUS",
@@ -19659,6 +22251,22 @@
       9.0698,
       48.5629,
       9.1698
+    ]
+  },
+  {
+    "id": "kuestriner-vorland",
+    "name": "Küstriner Vorland",
+    "shortName": "KUES",
+    "center": [
+      14.5691,
+      52.5651
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5241,
+      14.5179,
+      52.6099,
+      14.6397
     ]
   },
   {
@@ -19774,6 +22382,22 @@
     ]
   },
   {
+    "id": "landolfshausen",
+    "name": "Landolfshausen",
+    "shortName": "LAN",
+    "center": [
+      10.1036,
+      51.5394
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5142,
+      10.0499,
+      51.5559,
+      10.1341
+    ]
+  },
+  {
     "id": "landsberied",
     "name": "Landsberied",
     "shortName": "LAN",
@@ -19803,6 +22427,22 @@
       11.4619,
       50.5896,
       11.5619
+    ]
+  },
+  {
+    "id": "landwehrhagen",
+    "name": "Landwehrhagen",
+    "shortName": "LAN",
+    "center": [
+      9.5957,
+      51.3533
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3347,
+      9.5493,
+      51.371,
+      9.6875
     ]
   },
   {
@@ -19918,6 +22558,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "langenhagen",
+    "name": "Langenhagen",
+    "shortName": "LAN",
+    "center": [
+      10.3231,
+      51.5383
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4883,
+      10.2731,
+      51.5883,
+      10.3731
     ]
   },
   {
@@ -20295,6 +22951,22 @@
     ]
   },
   {
+    "id": "laussig",
+    "name": "Laußig",
+    "shortName": "LAU",
+    "center": [
+      12.631,
+      51.547
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.508,
+      12.5734,
+      51.6627,
+      12.7795
+    ]
+  },
+  {
     "id": "lauterstein",
     "name": "Lauterstein",
     "shortName": "LAU",
@@ -20340,6 +23012,22 @@
       7.249,
       49.952,
       7.2936
+    ]
+  },
+  {
+    "id": "lebus",
+    "name": "Lebus",
+    "shortName": "LEB",
+    "center": [
+      13.8799,
+      52.582
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5816,
+      13.8792,
+      52.5822,
+      13.8801
     ]
   },
   {
@@ -20605,6 +23293,22 @@
     ]
   },
   {
+    "id": "lemshausen",
+    "name": "Lemshausen",
+    "shortName": "LEM",
+    "center": [
+      9.8655,
+      51.4849
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4349,
+      9.8155,
+      51.5349,
+      9.9155
+    ]
+  },
+  {
     "id": "lengdorf",
     "name": "Lengdorf",
     "shortName": "LEN",
@@ -20634,6 +23338,22 @@
       11.5247,
       47.7227,
       11.6247
+    ]
+  },
+  {
+    "id": "lenglern",
+    "name": "Lenglern",
+    "shortName": "LEN",
+    "center": [
+      9.8734,
+      51.5861
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5361,
+      9.8234,
+      51.6361,
+      9.9234
     ]
   },
   {
@@ -20685,6 +23405,22 @@
       8.6483,
       52.0525,
       8.7483
+    ]
+  },
+  {
+    "id": "letschin",
+    "name": "Letschin",
+    "shortName": "LET",
+    "center": [
+      14.3618,
+      52.6437
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5894,
+      14.2697,
+      52.7612,
+      14.4985
     ]
   },
   {
@@ -20781,6 +23517,22 @@
       10.3619,
       49.3387,
       10.4619
+    ]
+  },
+  {
+    "id": "leutesdorf",
+    "name": "Leutesdorf",
+    "shortName": "LEU",
+    "center": [
+      7.3865,
+      50.4504
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4429,
+      7.356,
+      50.4945,
+      7.409
     ]
   },
   {
@@ -20883,6 +23635,38 @@
     ]
   },
   {
+    "id": "lichtenhagen",
+    "name": "Lichtenhagen",
+    "shortName": "LIC",
+    "center": [
+      10.0053,
+      51.4286
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4145,
+      9.9912,
+      51.4354,
+      10.0224
+    ]
+  },
+  {
+    "id": "lichtenstein",
+    "name": "Lichtenstein",
+    "shortName": "LIC",
+    "center": [
+      9.2591,
+      48.4209
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3874,
+      9.2168,
+      48.4622,
+      9.3158
+    ]
+  },
+  {
     "id": "lichtentanne",
     "name": "Lichtentanne",
     "shortName": "LIC",
@@ -20931,6 +23715,22 @@
     ]
   },
   {
+    "id": "liebschuetzberg",
+    "name": "Liebschützberg",
+    "shortName": "LIE",
+    "center": [
+      13.152,
+      51.3355
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2704,
+      13.0493,
+      51.3785,
+      13.2147
+    ]
+  },
+  {
     "id": "liebshausen",
     "name": "Liebshausen",
     "shortName": "LIE",
@@ -20960,6 +23760,38 @@
       13.9443,
       52.881,
       14.0013
+    ]
+  },
+  {
+    "id": "lietzen",
+    "name": "Lietzen",
+    "shortName": "LIE",
+    "center": [
+      14.342,
+      52.4704
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4477,
+      14.2512,
+      52.4987,
+      14.3826
+    ]
+  },
+  {
+    "id": "lilienthal",
+    "name": "Lilienthal",
+    "shortName": "LIL",
+    "center": [
+      8.9068,
+      53.1414
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1257,
+      8.7816,
+      53.2116,
+      9.0046
     ]
   },
   {
@@ -21046,6 +23878,22 @@
     ]
   },
   {
+    "id": "lindendorf",
+    "name": "Lindendorf",
+    "shortName": "LIN",
+    "center": [
+      14.4362,
+      52.4948
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4611,
+      14.362,
+      52.5288,
+      14.5197
+    ]
+  },
+  {
     "id": "lindenschied",
     "name": "Lindenschied",
     "shortName": "LIN",
@@ -21091,6 +23939,22 @@
       7.5386,
       50.1042,
       7.6066
+    ]
+  },
+  {
+    "id": "linkenbach",
+    "name": "Linkenbach",
+    "shortName": "LIN",
+    "center": [
+      7.5535,
+      50.5721
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5543,
+      7.5303,
+      50.584,
+      7.5745
     ]
   },
   {
@@ -21142,6 +24006,38 @@
     ]
   },
   {
+    "id": "linz",
+    "name": "Linz",
+    "shortName": "LIN",
+    "center": [
+      7.2813,
+      50.5662
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5589,
+      7.2655,
+      50.6173,
+      7.3397
+    ]
+  },
+  {
+    "id": "lippoldshausen",
+    "name": "Lippoldshausen",
+    "shortName": "LIP",
+    "center": [
+      9.7282,
+      51.4166
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4004,
+      9.7072,
+      51.4352,
+      9.7575
+    ]
+  },
+  {
     "id": "loebichau",
     "name": "Löbichau",
     "shortName": "LOEB",
@@ -21155,6 +24051,38 @@
       12.2137,
       50.9338,
       12.3137
+    ]
+  },
+  {
+    "id": "loebnitz",
+    "name": "Löbnitz",
+    "shortName": "LOEB",
+    "center": [
+      12.4635,
+      51.5916
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5469,
+      12.3667,
+      51.6104,
+      12.5274
+    ]
+  },
+  {
+    "id": "loedingsen",
+    "name": "Lödingsen",
+    "shortName": "LOED",
+    "center": [
+      9.783,
+      51.5955
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5455,
+      9.733,
+      51.6455,
+      9.833
     ]
   },
   {
@@ -21337,6 +24265,22 @@
     ]
   },
   {
+    "id": "lossatal",
+    "name": "Lossatal",
+    "shortName": "LOS",
+    "center": [
+      12.8229,
+      51.3939
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3324,
+      12.7247,
+      51.4553,
+      12.9431
+    ]
+  },
+  {
     "id": "loessau",
     "name": "Lössau",
     "shortName": "LOES",
@@ -21385,6 +24329,22 @@
     ]
   },
   {
+    "id": "loewenhagen",
+    "name": "Löwenhagen",
+    "shortName": "LOEW",
+    "center": [
+      9.7074,
+      51.5201
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.511,
+      9.6713,
+      51.5403,
+      9.7205
+    ]
+  },
+  {
     "id": "loewenstein",
     "name": "Löwenstein",
     "shortName": "LOEW",
@@ -21414,6 +24374,22 @@
       8.5328,
       52.3437,
       8.7286
+    ]
+  },
+  {
+    "id": "luebberstedt",
+    "name": "Lübberstedt",
+    "shortName": "LUEB",
+    "center": [
+      8.8059,
+      53.3347
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.3158,
+      8.7627,
+      53.3524,
+      8.8442
     ]
   },
   {
@@ -21497,6 +24473,22 @@
       7.259,
       51.8337,
       7.5385
+    ]
+  },
+  {
+    "id": "ludolfshausen",
+    "name": "Ludolfshausen",
+    "shortName": "LUD",
+    "center": [
+      9.9819,
+      51.4243
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4146,
+      9.9716,
+      51.4325,
+      10
     ]
   },
   {
@@ -21695,6 +24687,22 @@
     ]
   },
   {
+    "id": "luetgenhausen",
+    "name": "Lütgenhausen",
+    "shortName": "LUET",
+    "center": [
+      10.276,
+      51.5876
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5804,
+      10.258,
+      51.6101,
+      10.305
+    ]
+  },
+  {
     "id": "lutschuetz",
     "name": "Lutschütz",
     "shortName": "LUT",
@@ -21708,6 +24716,22 @@
       12.2944,
       51.0079,
       12.3944
+    ]
+  },
+  {
+    "id": "lutterberg",
+    "name": "Lutterberg",
+    "shortName": "LUT",
+    "center": [
+      9.6178,
+      51.3723
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3339,
+      9.5843,
+      51.3885,
+      9.7239
     ]
   },
   {
@@ -21820,6 +24844,38 @@
       13.2568,
       53.2918,
       13.3568
+    ]
+  },
+  {
+    "id": "machern",
+    "name": "Machern",
+    "shortName": "MAC",
+    "center": [
+      12.6294,
+      51.3605
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3105,
+      12.5794,
+      51.4105,
+      12.6794
+    ]
+  },
+  {
+    "id": "mackenrode",
+    "name": "Mackenrode",
+    "shortName": "MAC",
+    "center": [
+      10.0632,
+      51.5298
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5205,
+      10.0499,
+      51.543,
+      10.0793
     ]
   },
   {
@@ -22210,6 +25266,38 @@
     ]
   },
   {
+    "id": "mariengarten",
+    "name": "Mariengarten",
+    "shortName": "MAR",
+    "center": [
+      9.8683,
+      51.4461
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4309,
+      9.8398,
+      51.4586,
+      9.8843
+    ]
+  },
+  {
+    "id": "marienhausen",
+    "name": "Marienhausen",
+    "shortName": "MAR",
+    "center": [
+      7.6913,
+      50.5629
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5504,
+      7.6697,
+      50.6,
+      7.7115
+    ]
+  },
+  {
     "id": "marienmuenster",
     "name": "Marienmünster",
     "shortName": "MAR",
@@ -22274,6 +25362,38 @@
     ]
   },
   {
+    "id": "maerkische-hoehe",
+    "name": "Märkische Höhe",
+    "shortName": "MAER",
+    "center": [
+      14.1259,
+      52.6191
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5762,
+      14.0877,
+      52.6527,
+      14.1799
+    ]
+  },
+  {
+    "id": "markkleeberg",
+    "name": "Markkleeberg",
+    "shortName": "MAR",
+    "center": [
+      12.3719,
+      51.2786
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2404,
+      12.3222,
+      51.2965,
+      12.4493
+    ]
+  },
+  {
     "id": "marklkofen",
     "name": "Marklkofen",
     "shortName": "MAR",
@@ -22287,6 +25407,22 @@
       12.5167,
       48.59,
       12.6167
+    ]
+  },
+  {
+    "id": "markranstaedt",
+    "name": "Markranstädt",
+    "shortName": "MAR",
+    "center": [
+      12.2205,
+      51.3026
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2384,
+      12.1478,
+      51.347,
+      12.2813
     ]
   },
   {
@@ -22610,6 +25746,22 @@
     ]
   },
   {
+    "id": "meensen",
+    "name": "Meensen",
+    "shortName": "MEE",
+    "center": [
+      9.7601,
+      51.4432
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4272,
+      9.7315,
+      51.4575,
+      9.79
+    ]
+  },
+  {
     "id": "megesheim",
     "name": "Megesheim",
     "shortName": "MEG",
@@ -22658,6 +25810,22 @@
     ]
   },
   {
+    "id": "mehrstetten",
+    "name": "Mehrstetten",
+    "shortName": "MEH",
+    "center": [
+      9.5662,
+      48.3766
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3544,
+      9.529,
+      48.3955,
+      9.605
+    ]
+  },
+  {
     "id": "meilitz",
     "name": "Meilitz",
     "shortName": "MEI",
@@ -22671,6 +25839,22 @@
       12.032,
       50.8557,
       12.132
+    ]
+  },
+  {
+    "id": "meinborn",
+    "name": "Meinborn",
+    "shortName": "MEI",
+    "center": [
+      7.5614,
+      50.4956
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4792,
+      7.5433,
+      50.5041,
+      7.5832
     ]
   },
   {
@@ -22738,6 +25922,22 @@
     ]
   },
   {
+    "id": "melsbach",
+    "name": "Melsbach",
+    "shortName": "MEL",
+    "center": [
+      7.4797,
+      50.4872
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4745,
+      7.4671,
+      50.5045,
+      7.4952
+    ]
+  },
+  {
     "id": "memmingen",
     "name": "Memmingen",
     "shortName": "MEM",
@@ -22767,6 +25967,22 @@
       7.4832,
       49.9235,
       7.5447
+    ]
+  },
+  {
+    "id": "mengershausen",
+    "name": "Mengershausen",
+    "shortName": "MEN",
+    "center": [
+      9.8706,
+      51.4915
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4415,
+      9.8206,
+      51.5415,
+      9.9206
     ]
   },
   {
@@ -23093,6 +26309,22 @@
     ]
   },
   {
+    "id": "metzingen",
+    "name": "Metzingen",
+    "shortName": "MET",
+    "center": [
+      9.2831,
+      48.5397
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4925,
+      9.2383,
+      48.562,
+      9.3454
+    ]
+  },
+  {
     "id": "meucha",
     "name": "Meucha",
     "shortName": "MEU",
@@ -23170,6 +26402,22 @@
       7.4351,
       50.024,
       7.4764
+    ]
+  },
+  {
+    "id": "mielenhausen",
+    "name": "Mielenhausen",
+    "shortName": "MIE",
+    "center": [
+      9.7016,
+      51.4548
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4466,
+      9.6659,
+      51.4641,
+      9.7112
     ]
   },
   {
@@ -23256,6 +26504,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "mingerode",
+    "name": "Mingerode",
+    "shortName": "MIN",
+    "center": [
+      10.2406,
+      51.5359
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4859,
+      10.1906,
+      51.5859,
+      10.2906
     ]
   },
   {
@@ -23451,6 +26715,22 @@
     ]
   },
   {
+    "id": "mockrehna",
+    "name": "Mockrehna",
+    "shortName": "MOC",
+    "center": [
+      12.77,
+      51.4792
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4292,
+      12.72,
+      51.5292,
+      12.82
+    ]
+  },
+  {
     "id": "mockzig",
     "name": "Mockzig",
     "shortName": "MOC",
@@ -23560,6 +26840,22 @@
       12.3478,
       51.051,
       12.4478
+    ]
+  },
+  {
+    "id": "mollenfelde",
+    "name": "Mollenfelde",
+    "shortName": "MOL",
+    "center": [
+      9.8434,
+      51.4085
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3585,
+      9.7934,
+      51.4585,
+      9.8934
     ]
   },
   {
@@ -24065,6 +27361,22 @@
     ]
   },
   {
+    "id": "muegeln",
+    "name": "Mügeln",
+    "shortName": "MUEG",
+    "center": [
+      13.0476,
+      51.2367
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2113,
+      12.9995,
+      51.2709,
+      13.1104
+    ]
+  },
+  {
     "id": "muehlberg",
     "name": "Mühlberg",
     "shortName": "MUEH",
@@ -24183,6 +27495,22 @@
     ]
   },
   {
+    "id": "muencheberg",
+    "name": "Müncheberg",
+    "shortName": "MUEN",
+    "center": [
+      14.1123,
+      52.4991
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4466,
+      13.953,
+      52.5517,
+      14.1918
+    ]
+  },
+  {
     "id": "munningen",
     "name": "Munningen",
     "shortName": "MUN",
@@ -24228,6 +27556,22 @@
       11.3167,
       47.94,
       11.4167
+    ]
+  },
+  {
+    "id": "muensingen",
+    "name": "Münsingen",
+    "shortName": "MUEN",
+    "center": [
+      9.4948,
+      48.4129
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3064,
+      9.4104,
+      48.4516,
+      9.6288
     ]
   },
   {
@@ -24314,6 +27658,22 @@
     ]
   },
   {
+    "id": "mutzschen",
+    "name": "Mutzschen",
+    "shortName": "MUT",
+    "center": [
+      12.8909,
+      51.2602
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2452,
+      12.8625,
+      51.2783,
+      12.9205
+    ]
+  },
+  {
     "id": "nalbach",
     "name": "Nalbach",
     "shortName": "NAL",
@@ -24394,6 +27754,22 @@
       13.0581,
       51.2972,
       13.1581
+    ]
+  },
+  {
+    "id": "naunhof",
+    "name": "Naunhof",
+    "shortName": "NAU",
+    "center": [
+      12.5883,
+      51.278
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2479,
+      12.514,
+      51.3154,
+      12.6754
     ]
   },
   {
@@ -24490,6 +27866,22 @@
       9.8833,
       51.0567,
       9.9833
+    ]
+  },
+  {
+    "id": "nesselroeden",
+    "name": "Nesselröden",
+    "shortName": "NES",
+    "center": [
+      10.1858,
+      51.4957
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4457,
+      10.1358,
+      51.5457,
+      10.2358
     ]
   },
   {
@@ -24653,6 +28045,22 @@
     ]
   },
   {
+    "id": "neuenhagen-b-berlin",
+    "name": "Neuenhagen b. Berlin",
+    "shortName": "NEU",
+    "center": [
+      13.6889,
+      52.5262
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5006,
+      13.6569,
+      52.5462,
+      13.7428
+    ]
+  },
+  {
     "id": "neuenhaus",
     "name": "Neuenhaus",
     "shortName": "NEU",
@@ -24765,6 +28173,22 @@
     ]
   },
   {
+    "id": "neuhardenberg",
+    "name": "Neuhardenberg",
+    "shortName": "NEU",
+    "center": [
+      14.2384,
+      52.5966
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5446,
+      14.1309,
+      52.6639,
+      14.3072
+    ]
+  },
+  {
     "id": "neuhausen",
     "name": "Neuhausen",
     "shortName": "NEU",
@@ -24797,6 +28221,22 @@
     ]
   },
   {
+    "id": "neukieritzsch",
+    "name": "Neukieritzsch",
+    "shortName": "NEU",
+    "center": [
+      12.409,
+      51.1502
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0986,
+      12.3237,
+      51.1973,
+      12.4897
+    ]
+  },
+  {
     "id": "neukirchen",
     "name": "Neukirchen",
     "shortName": "NEU",
@@ -24810,6 +28250,22 @@
       12.2259,
       47.2905,
       12.3259
+    ]
+  },
+  {
+    "id": "neulewin",
+    "name": "Neulewin",
+    "shortName": "NEU",
+    "center": [
+      14.2785,
+      52.725
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.7051,
+      14.2224,
+      52.7633,
+      14.3111
     ]
   },
   {
@@ -25043,6 +28499,22 @@
     ]
   },
   {
+    "id": "neustadt-wied",
+    "name": "Neustadt/Wied",
+    "shortName": "NEU",
+    "center": [
+      7.4261,
+      50.6216
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5754,
+      7.3628,
+      50.6467,
+      7.4764
+    ]
+  },
+  {
     "id": "neustetten",
     "name": "Neustetten",
     "shortName": "NEU",
@@ -25075,6 +28547,38 @@
     ]
   },
   {
+    "id": "neutrebbin",
+    "name": "Neutrebbin",
+    "shortName": "NEU",
+    "center": [
+      14.2262,
+      52.6671
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6417,
+      14.1773,
+      52.7145,
+      14.306
+    ]
+  },
+  {
+    "id": "neuwied",
+    "name": "Neuwied",
+    "shortName": "NEU",
+    "center": [
+      7.4004,
+      50.5651
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4118,
+      7.21,
+      50.7183,
+      7.7115
+    ]
+  },
+  {
     "id": "ney",
     "name": "Ney",
     "shortName": "NEY",
@@ -25104,6 +28608,22 @@
       6.3721,
       50.7126,
       6.6014
+    ]
+  },
+  {
+    "id": "niedeck",
+    "name": "Niedeck",
+    "shortName": "NIE",
+    "center": [
+      10.0664,
+      51.4982
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4482,
+      10.0164,
+      51.5482,
+      10.1164
     ]
   },
   {
@@ -25152,6 +28672,22 @@
       12.45,
       48.3567,
       12.55
+    ]
+  },
+  {
+    "id": "niederbreitbach",
+    "name": "Niederbreitbach",
+    "shortName": "NIE",
+    "center": [
+      7.4176,
+      50.53
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5109,
+      7.3958,
+      50.5494,
+      7.4545
     ]
   },
   {
@@ -25235,6 +28771,38 @@
     ]
   },
   {
+    "id": "niedergandern",
+    "name": "Niedergandern",
+    "shortName": "NIE",
+    "center": [
+      9.9379,
+      51.3936
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3753,
+      9.9153,
+      51.4036,
+      9.9476
+    ]
+  },
+  {
+    "id": "niederhofen",
+    "name": "Niederhofen",
+    "shortName": "NIE",
+    "center": [
+      7.6037,
+      50.5606
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5573,
+      7.5932,
+      50.5688,
+      7.6177
+    ]
+  },
+  {
     "id": "niederkassel",
     "name": "Niederkassel",
     "shortName": "NIE",
@@ -25315,6 +28883,22 @@
     ]
   },
   {
+    "id": "niedernjesa",
+    "name": "Niedernjesa",
+    "shortName": "NIE",
+    "center": [
+      9.9259,
+      51.4758
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4258,
+      9.8759,
+      51.5258,
+      9.9759
+    ]
+  },
+  {
     "id": "niederschoenenfeld",
     "name": "Niederschönenfeld",
     "shortName": "NIE",
@@ -25392,6 +28976,22 @@
       12.3333,
       48.6567,
       12.4333
+    ]
+  },
+  {
+    "id": "niederwambach",
+    "name": "Niederwambach",
+    "shortName": "NIE",
+    "center": [
+      7.5967,
+      50.6323
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.615,
+      7.5696,
+      50.6525,
+      7.6187
     ]
   },
   {
@@ -26505,6 +30105,22 @@
     ]
   },
   {
+    "id": "oberbarnim",
+    "name": "Oberbarnim",
+    "shortName": "OBE",
+    "center": [
+      14.0458,
+      52.6016
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5671,
+      13.9265,
+      52.6359,
+      14.1145
+    ]
+  },
+  {
     "id": "oberbergkirchen",
     "name": "Oberbergkirchen",
     "shortName": "OBE",
@@ -26588,6 +30204,22 @@
     ]
   },
   {
+    "id": "oberdreis",
+    "name": "Oberdreis",
+    "shortName": "OBE",
+    "center": [
+      7.6635,
+      50.6271
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6122,
+      7.6437,
+      50.6474,
+      7.701
+    ]
+  },
+  {
     "id": "obereuerheim",
     "name": "Obereuerheim",
     "shortName": "OBE",
@@ -26668,6 +30300,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "oberhonnefeld-gierend",
+    "name": "Oberhonnefeld-Gierend",
+    "shortName": "OBE",
+    "center": [
+      7.5216,
+      50.5593
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5093,
+      7.4716,
+      50.6093,
+      7.5716
     ]
   },
   {
@@ -26879,6 +30527,54 @@
     ]
   },
   {
+    "id": "obernfeld",
+    "name": "Obernfeld",
+    "shortName": "OBE",
+    "center": [
+      10.2335,
+      51.555
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.537,
+      10.2075,
+      51.5711,
+      10.2831
+    ]
+  },
+  {
+    "id": "obernjesa",
+    "name": "Obernjesa",
+    "shortName": "OBE",
+    "center": [
+      9.9176,
+      51.4609
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4109,
+      9.8676,
+      51.5109,
+      9.9676
+    ]
+  },
+  {
+    "id": "oberode",
+    "name": "Oberode",
+    "shortName": "OBE",
+    "center": [
+      9.7483,
+      51.3858
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3563,
+      9.6864,
+      51.3945,
+      9.7638
+    ]
+  },
+  {
     "id": "oberoppurg",
     "name": "Oberoppurg",
     "shortName": "OBE",
@@ -26924,6 +30620,22 @@
       11.8304,
       50.7848,
       11.9304
+    ]
+  },
+  {
+    "id": "oberraden",
+    "name": "Oberraden",
+    "shortName": "OBE",
+    "center": [
+      7.534,
+      50.548
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5314,
+      7.5235,
+      50.5587,
+      7.5582
     ]
   },
   {
@@ -27263,6 +30975,22 @@
     ]
   },
   {
+    "id": "ockenfels",
+    "name": "Ockenfels",
+    "shortName": "OCK",
+    "center": [
+      7.2735,
+      50.5775
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5718,
+      7.2646,
+      50.5894,
+      7.2965
+    ]
+  },
+  {
     "id": "odelzhausen",
     "name": "Odelzhausen",
     "shortName": "ODE",
@@ -27292,6 +31020,22 @@
       7.0909,
       51.0747,
       7.2104
+    ]
+  },
+  {
+    "id": "oderaue",
+    "name": "Oderaue",
+    "shortName": "ODE",
+    "center": [
+      14.1722,
+      52.7945
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.7445,
+      14.1222,
+      52.8445,
+      14.2222
     ]
   },
   {
@@ -27551,6 +31295,22 @@
     ]
   },
   {
+    "id": "olenhusen",
+    "name": "Olenhusen",
+    "shortName": "OLE",
+    "center": [
+      9.8579,
+      51.5054
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4554,
+      9.8079,
+      51.5554,
+      9.9079
+    ]
+  },
+  {
     "id": "olfen",
     "name": "Olfen",
     "shortName": "OLF",
@@ -27631,6 +31391,38 @@
     ]
   },
   {
+    "id": "oschatz",
+    "name": "Oschatz",
+    "shortName": "OSC",
+    "center": [
+      13.1081,
+      51.298
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2489,
+      13.0303,
+      51.334,
+      13.1637
+    ]
+  },
+  {
+    "id": "ossenfeld",
+    "name": "Ossenfeld",
+    "shortName": "OSS",
+    "center": [
+      9.7967,
+      51.5262
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.519,
+      9.7773,
+      51.5408,
+      9.8124
+    ]
+  },
+  {
     "id": "ossla",
     "name": "Oßla",
     "shortName": "OSSL",
@@ -27663,6 +31455,22 @@
     ]
   },
   {
+    "id": "osterholz-scharmbeck",
+    "name": "Osterholz-Scharmbeck",
+    "shortName": "OST",
+    "center": [
+      8.7948,
+      53.2282
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1831,
+      8.6598,
+      53.3268,
+      8.9504
+    ]
+  },
+  {
     "id": "osterhorn",
     "name": "Osterhorn",
     "shortName": "OST",
@@ -27676,6 +31484,22 @@
       9.6741,
       53.8909,
       9.7207
+    ]
+  },
+  {
+    "id": "osterode-am-harz",
+    "name": "Osterode am Harz",
+    "shortName": "OST",
+    "center": [
+      10.2508,
+      51.7278
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.6798,
+      10.1823,
+      51.7628,
+      10.3668
     ]
   },
   {
@@ -27743,6 +31567,22 @@
       11.8333,
       48.2567,
       11.9333
+    ]
+  },
+  {
+    "id": "otterwisch",
+    "name": "Otterwisch",
+    "shortName": "OTT",
+    "center": [
+      12.613,
+      51.2025
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1783,
+      12.5618,
+      51.2267,
+      12.6642
     ]
   },
   {
@@ -27973,6 +31813,22 @@
     ]
   },
   {
+    "id": "parthenstein",
+    "name": "Parthenstein",
+    "shortName": "PAR",
+    "center": [
+      12.6361,
+      51.252
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2153,
+      12.5668,
+      51.2888,
+      12.6799
+    ]
+  },
+  {
     "id": "partschefeld",
     "name": "Partschefeld",
     "shortName": "PAR",
@@ -28050,6 +31906,22 @@
       12.1167,
       50.0067,
       12.2167
+    ]
+  },
+  {
+    "id": "pegau",
+    "name": "Pegau",
+    "shortName": "PEG",
+    "center": [
+      12.2555,
+      51.1667
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1319,
+      12.1738,
+      51.2602,
+      12.3005
     ]
   },
   {
@@ -28146,6 +32018,22 @@
       15.5489,
       50.8896,
       15.6489
+    ]
+  },
+  {
+    "id": "petershagen-eggersdorf",
+    "name": "Petershagen/Eggersdorf",
+    "shortName": "PET",
+    "center": [
+      13.7994,
+      52.5302
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5059,
+      13.7531,
+      52.5582,
+      13.851
     ]
   },
   {
@@ -28373,6 +32261,38 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "pfronstetten",
+    "name": "Pfronstetten",
+    "shortName": "PFR",
+    "center": [
+      9.3614,
+      48.2761
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.222,
+      9.3322,
+      48.3168,
+      9.4342
+    ]
+  },
+  {
+    "id": "pfullingen",
+    "name": "Pfullingen",
+    "shortName": "PFU",
+    "center": [
+      9.2255,
+      48.4657
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4242,
+      9.168,
+      48.4845,
+      9.2998
     ]
   },
   {
@@ -28619,6 +32539,22 @@
     ]
   },
   {
+    "id": "pliezhausen",
+    "name": "Pliezhausen",
+    "shortName": "PLI",
+    "center": [
+      9.2058,
+      48.5582
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5494,
+      9.1253,
+      48.5825,
+      9.2218
+    ]
+  },
+  {
     "id": "ploessberg",
     "name": "Plößberg",
     "shortName": "PLOE",
@@ -28696,6 +32632,22 @@
       12.4186,
       50.9504,
       12.5186
+    ]
+  },
+  {
+    "id": "podelzig",
+    "name": "Podelzig",
+    "shortName": "POD",
+    "center": [
+      14.539,
+      52.47
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4464,
+      14.4949,
+      52.5036,
+      14.5948
     ]
   },
   {
@@ -29057,6 +33009,22 @@
     ]
   },
   {
+    "id": "potzwenden",
+    "name": "Potzwenden",
+    "shortName": "POT",
+    "center": [
+      10.0846,
+      51.5212
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5142,
+      10.0742,
+      51.5283,
+      10.089
+    ]
+  },
+  {
     "id": "prehna",
     "name": "Prehna",
     "shortName": "PRE",
@@ -29393,6 +33361,22 @@
     ]
   },
   {
+    "id": "proetzel",
+    "name": "Prötzel",
+    "shortName": "PROE",
+    "center": [
+      13.941,
+      52.6466
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6045,
+      13.8377,
+      52.6888,
+      14.0115
+    ]
+  },
+  {
     "id": "pruessberg",
     "name": "Prüßberg",
     "shortName": "PRUE",
@@ -29454,6 +33438,22 @@
       11.3,
       48.19,
       11.4
+    ]
+  },
+  {
+    "id": "puderbach",
+    "name": "Puderbach",
+    "shortName": "PUD",
+    "center": [
+      7.6119,
+      50.5994
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5835,
+      7.5753,
+      50.6203,
+      7.6406
     ]
   },
   {
@@ -29668,6 +33668,22 @@
     ]
   },
   {
+    "id": "rackwitz",
+    "name": "Rackwitz",
+    "shortName": "RAC",
+    "center": [
+      12.3715,
+      51.439
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4153,
+      12.3095,
+      51.4935,
+      12.4181
+    ]
+  },
+  {
     "id": "radevormwald",
     "name": "Radevormwald",
     "shortName": "RAD",
@@ -29844,6 +33860,38 @@
       12.2651,
       48.2821,
       12.3651
+    ]
+  },
+  {
+    "id": "ratzert",
+    "name": "Ratzert",
+    "shortName": "RAT",
+    "center": [
+      7.611,
+      50.6411
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6326,
+      7.5923,
+      50.649,
+      7.6262
+    ]
+  },
+  {
+    "id": "raubach",
+    "name": "Raubach",
+    "shortName": "RAU",
+    "center": [
+      7.625,
+      50.5749
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5573,
+      7.598,
+      50.5889,
+      7.6587
     ]
   },
   {
@@ -30058,6 +34106,38 @@
     ]
   },
   {
+    "id": "regis-breitingen",
+    "name": "Regis-Breitingen",
+    "shortName": "REG",
+    "center": [
+      12.4396,
+      51.0889
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.0728,
+      12.3522,
+      51.1283,
+      12.462
+    ]
+  },
+  {
+    "id": "rehfelde",
+    "name": "Rehfelde",
+    "shortName": "REH",
+    "center": [
+      13.9106,
+      52.5331
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4972,
+      13.8703,
+      52.5451,
+      13.9331
+    ]
+  },
+  {
     "id": "rehling",
     "name": "Rehling",
     "shortName": "REH",
@@ -30154,6 +34234,22 @@
     ]
   },
   {
+    "id": "reichenow-moeglin",
+    "name": "Reichenow-Möglin",
+    "shortName": "REI",
+    "center": [
+      14.0667,
+      52.6539
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.6322,
+      14.0052,
+      52.676,
+      14.1297
+    ]
+  },
+  {
     "id": "reichersbeuern",
     "name": "Reichersbeuern",
     "shortName": "REI",
@@ -30234,6 +34330,22 @@
     ]
   },
   {
+    "id": "reiffenhausen",
+    "name": "Reiffenhausen",
+    "shortName": "REI",
+    "center": [
+      9.9749,
+      51.4119
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3961,
+      9.94,
+      51.4277,
+      10.0087
+    ]
+  },
+  {
     "id": "reimlingen",
     "name": "Reimlingen",
     "shortName": "REI",
@@ -30247,6 +34359,22 @@
       10.4667,
       48.8567,
       10.5667
+    ]
+  },
+  {
+    "id": "reinhausen",
+    "name": "Reinhausen",
+    "shortName": "REI",
+    "center": [
+      9.9818,
+      51.4696
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4196,
+      9.9318,
+      51.5196,
+      10.0318
     ]
   },
   {
@@ -30330,6 +34458,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "reitwein",
+    "name": "Reitwein",
+    "shortName": "REI",
+    "center": [
+      14.5828,
+      52.5015
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4696,
+      14.5495,
+      52.5261,
+      14.6353
     ]
   },
   {
@@ -30477,6 +34621,22 @@
     ]
   },
   {
+    "id": "rengsdorf",
+    "name": "Rengsdorf",
+    "shortName": "REN",
+    "center": [
+      7.4963,
+      50.503
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4874,
+      7.4758,
+      50.5194,
+      7.5235
+    ]
+  },
+  {
     "id": "rennertshofen",
     "name": "Rennertshofen",
     "shortName": "REN",
@@ -30506,6 +34666,22 @@
       8.8772,
       48.8084,
       8.9766
+    ]
+  },
+  {
+    "id": "renshausen",
+    "name": "Renshausen",
+    "shortName": "REN",
+    "center": [
+      10.1035,
+      51.6047
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5948,
+      10.0708,
+      51.6225,
+      10.1151
     ]
   },
   {
@@ -30554,6 +34730,38 @@
       12.8833,
       48.3567,
       12.9833
+    ]
+  },
+  {
+    "id": "reutlingen",
+    "name": "Reutlingen",
+    "shortName": "REU",
+    "center": [
+      9.3572,
+      48.4088
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1948,
+      9.1149,
+      48.606,
+      9.6375
+    ]
+  },
+  {
+    "id": "reyershausen",
+    "name": "Reyershausen",
+    "shortName": "REY",
+    "center": [
+      9.9903,
+      51.606
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.556,
+      9.9403,
+      51.656,
+      10.0403
     ]
   },
   {
@@ -30659,6 +34867,38 @@
     ]
   },
   {
+    "id": "rheinbreitbach",
+    "name": "Rheinbreitbach",
+    "shortName": "RHE",
+    "center": [
+      7.2291,
+      50.6186
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6115,
+      7.2113,
+      50.6382,
+      7.3164
+    ]
+  },
+  {
+    "id": "rheinbrohl",
+    "name": "Rheinbrohl",
+    "shortName": "RHE",
+    "center": [
+      7.3302,
+      50.4977
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4822,
+      7.3123,
+      50.5325,
+      7.4023
+    ]
+  },
+  {
     "id": "rhene",
     "name": "Rhene",
     "shortName": "RHE",
@@ -30672,6 +34912,22 @@
       10.197,
       52.1094,
       10.227
+    ]
+  },
+  {
+    "id": "rhumspringe",
+    "name": "Rhumspringe",
+    "shortName": "RHU",
+    "center": [
+      10.2963,
+      51.5824
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5686,
+      10.258,
+      51.6101,
+      10.3206
     ]
   },
   {
@@ -30704,6 +34960,22 @@
       11.6388,
       49.0038,
       11.7388
+    ]
+  },
+  {
+    "id": "riederich",
+    "name": "Riederich",
+    "shortName": "RIE",
+    "center": [
+      9.2652,
+      48.5573
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5448,
+      9.2396,
+      48.5697,
+      9.2899
     ]
   },
   {
@@ -30851,6 +35123,38 @@
     ]
   },
   {
+    "id": "ritterhude",
+    "name": "Ritterhude",
+    "shortName": "RIT",
+    "center": [
+      8.7521,
+      53.1886
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1582,
+      8.6623,
+      53.2239,
+      8.8078
+    ]
+  },
+  {
+    "id": "rittmarshausen",
+    "name": "Rittmarshausen",
+    "shortName": "RIT",
+    "center": [
+      10.1037,
+      51.4822
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4322,
+      10.0537,
+      51.5322,
+      10.1537
+    ]
+  },
+  {
     "id": "roebschuetz",
     "name": "Röbschütz",
     "shortName": "ROEB",
@@ -30976,6 +35280,22 @@
       11.3797,
       50.8203,
       11.4797
+    ]
+  },
+  {
+    "id": "rodenbach-verbandsgemeinde-puderbach",
+    "name": "Rodenbach (Verbandsgemeinde Puderbach)",
+    "shortName": "ROD",
+    "center": [
+      7.6489,
+      50.6382
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6222,
+      7.6177,
+      50.6533,
+      7.6574
     ]
   },
   {
@@ -31219,6 +35539,38 @@
     ]
   },
   {
+    "id": "rollshausen",
+    "name": "Rollshausen",
+    "shortName": "ROL",
+    "center": [
+      10.2128,
+      51.5753
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.544,
+      10.1741,
+      51.5908,
+      10.247
+    ]
+  },
+  {
+    "id": "roemerstein",
+    "name": "Römerstein",
+    "shortName": "ROEM",
+    "center": [
+      9.535,
+      48.5006
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4701,
+      9.4718,
+      48.54,
+      9.5929
+    ]
+  },
+  {
     "id": "romschuetz",
     "name": "Romschütz",
     "shortName": "ROM",
@@ -31280,6 +35632,22 @@
       8.5923,
       50.3181,
       8.744
+    ]
+  },
+  {
+    "id": "rosdorf",
+    "name": "Rosdorf",
+    "shortName": "ROS",
+    "center": [
+      9.8984,
+      51.5052
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.41,
+      9.7279,
+      51.5215,
+      9.9315
     ]
   },
   {
@@ -31392,6 +35760,22 @@
       7.4442,
       50.0957,
       7.4775
+    ]
+  },
+  {
+    "id": "roetha",
+    "name": "Rötha",
+    "shortName": "ROET",
+    "center": [
+      12.5084,
+      51.2076
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1733,
+      12.3965,
+      51.2419,
+      12.563
     ]
   },
   {
@@ -31571,6 +35955,38 @@
     ]
   },
   {
+    "id": "ruedersdorf",
+    "name": "Rüdersdorf",
+    "shortName": "RUED",
+    "center": [
+      13.8289,
+      52.4837
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4374,
+      13.7406,
+      52.5296,
+      13.9179
+    ]
+  },
+  {
+    "id": "ruedershausen",
+    "name": "Rüdershausen",
+    "shortName": "RUED",
+    "center": [
+      10.2705,
+      51.5812
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5614,
+      10.236,
+      51.5977,
+      10.2994
+    ]
+  },
+  {
     "id": "ruednitz-ruednitz",
     "name": "Rüdnitz-Rüdnitz",
     "shortName": "RR",
@@ -31712,6 +36128,22 @@
       7.3361,
       50.8798,
       7.5303
+    ]
+  },
+  {
+    "id": "ruescheid",
+    "name": "Rüscheid",
+    "shortName": "RUES",
+    "center": [
+      7.5636,
+      50.5222
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5131,
+      7.5439,
+      50.5359,
+      7.5906
     ]
   },
   {
@@ -32092,6 +36524,22 @@
     ]
   },
   {
+    "id": "sattenhausen",
+    "name": "Sattenhausen",
+    "shortName": "SAT",
+    "center": [
+      10.0989,
+      51.5049
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4549,
+      10.0489,
+      51.5549,
+      10.1489
+    ]
+  },
+  {
     "id": "schaafheim",
     "name": "Schaafheim",
     "shortName": "SCH",
@@ -32185,6 +36633,22 @@
       12.0739,
       47.9691,
       12.1739
+    ]
+  },
+  {
+    "id": "scheden",
+    "name": "Scheden",
+    "shortName": "SCH",
+    "center": [
+      9.7289,
+      51.459
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4272,
+      9.6834,
+      51.4959,
+      9.79
     ]
   },
   {
@@ -32396,6 +36860,22 @@
       12.1167,
       49.69,
       12.2167
+    ]
+  },
+  {
+    "id": "schkeuditz",
+    "name": "Schkeuditz",
+    "shortName": "SCH",
+    "center": [
+      12.2209,
+      51.3939
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3326,
+      12.1724,
+      51.4617,
+      12.3546
     ]
   },
   {
@@ -33224,6 +37704,22 @@
     ]
   },
   {
+    "id": "schoenwoelkau",
+    "name": "Schönwölkau",
+    "shortName": "SCH",
+    "center": [
+      12.4644,
+      51.5115
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4709,
+      12.3873,
+      51.5703,
+      12.5282
+    ]
+  },
+  {
     "id": "schopfloch",
     "name": "Schopfloch",
     "shortName": "SCH",
@@ -33624,6 +38120,22 @@
       12.2892,
       50.9931,
       12.3892
+    ]
+  },
+  {
+    "id": "schwanewede",
+    "name": "Schwanewede",
+    "shortName": "SCH",
+    "center": [
+      8.5943,
+      53.2255
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1757,
+      8.4807,
+      53.367,
+      8.703
     ]
   },
   {
@@ -34187,6 +38699,22 @@
     ]
   },
   {
+    "id": "seeburg",
+    "name": "Seeburg",
+    "shortName": "SEE",
+    "center": [
+      10.1492,
+      51.565
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5411,
+      10.1118,
+      51.5868,
+      10.1931
+    ]
+  },
+  {
     "id": "seeheim-jugenheim",
     "name": "Seeheim-Jugenheim",
     "shortName": "SJ",
@@ -34200,6 +38728,22 @@
       8.6182,
       49.7977,
       8.7055
+    ]
+  },
+  {
+    "id": "seelow",
+    "name": "Seelow",
+    "shortName": "SEE",
+    "center": [
+      14.3891,
+      52.529
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5286,
+      14.3886,
+      52.5293,
+      14.3897
     ]
   },
   {
@@ -34519,6 +39063,22 @@
     ]
   },
   {
+    "id": "sennickerode",
+    "name": "Sennickerode",
+    "shortName": "SEN",
+    "center": [
+      10.0739,
+      51.4605
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4105,
+      10.0239,
+      51.5105,
+      10.1239
+    ]
+  },
+  {
     "id": "serbitz",
     "name": "Serbitz",
     "shortName": "SER",
@@ -34551,6 +39111,22 @@
     ]
   },
   {
+    "id": "settmarshausen",
+    "name": "Settmarshausen",
+    "shortName": "SET",
+    "center": [
+      9.8311,
+      51.4974
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4788,
+      9.8047,
+      51.5162,
+      9.8684
+    ]
+  },
+  {
     "id": "seubtendorf",
     "name": "Seubtendorf",
     "shortName": "SEU",
@@ -34567,6 +39143,38 @@
     ]
   },
   {
+    "id": "seulingen",
+    "name": "Seulingen",
+    "shortName": "SEU",
+    "center": [
+      10.1615,
+      51.542
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5185,
+      10.12,
+      51.5572,
+      10.1883
+    ]
+  },
+  {
+    "id": "sichelnstein",
+    "name": "Sichelnstein",
+    "shortName": "SIC",
+    "center": [
+      9.6393,
+      51.3521
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3377,
+      9.6315,
+      51.3614,
+      9.6566
+    ]
+  },
+  {
     "id": "sickte",
     "name": "Sickte",
     "shortName": "SIC",
@@ -34580,6 +39188,22 @@
       10.5957,
       52.2461,
       10.6732
+    ]
+  },
+  {
+    "id": "sieboldshausen",
+    "name": "Sieboldshausen",
+    "shortName": "SIE",
+    "center": [
+      9.8899,
+      51.4702
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4202,
+      9.8399,
+      51.5202,
+      9.9399
     ]
   },
   {
@@ -34954,6 +39578,22 @@
     ]
   },
   {
+    "id": "sonnenbuehl",
+    "name": "Sonnenbühl",
+    "shortName": "SON",
+    "center": [
+      9.1801,
+      48.3831
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3331,
+      9.1173,
+      48.4312,
+      9.2502
+    ]
+  },
+  {
     "id": "sorga",
     "name": "Sorga",
     "shortName": "SOR",
@@ -35034,6 +39674,22 @@
     ]
   },
   {
+    "id": "spanbeck",
+    "name": "Spanbeck",
+    "shortName": "SPA",
+    "center": [
+      10.0446,
+      51.6086
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5586,
+      9.9946,
+      51.6586,
+      10.0946
+    ]
+  },
+  {
     "id": "sparnberg",
     "name": "Sparnberg",
     "shortName": "SPA",
@@ -35047,6 +39703,22 @@
       11.7218,
       50.453,
       11.8218
+    ]
+  },
+  {
+    "id": "speele",
+    "name": "Speele",
+    "shortName": "SPE",
+    "center": [
+      9.5655,
+      51.3797
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3297,
+      9.5155,
+      51.4297,
+      9.6155
     ]
   },
   {
@@ -35095,6 +39767,22 @@
       9.3944,
       49.0808,
       9.4944
+    ]
+  },
+  {
+    "id": "spiekershausen",
+    "name": "Spiekershausen",
+    "shortName": "SPI",
+    "center": [
+      9.5608,
+      51.3501
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3001,
+      9.5108,
+      51.4001,
+      9.6108
     ]
   },
   {
@@ -35159,6 +39847,38 @@
       7.6357,
       50.1718,
       7.7263
+    ]
+  },
+  {
+    "id": "st-johann",
+    "name": "St. Johann",
+    "shortName": "STJ",
+    "center": [
+      9.3595,
+      48.4488
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4088,
+      9.2937,
+      48.5139,
+      9.4178
+    ]
+  },
+  {
+    "id": "st-katharinen",
+    "name": "St. Katharinen",
+    "shortName": "STK",
+    "center": [
+      7.3455,
+      50.5922
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5914,
+      7.3441,
+      50.593,
+      7.3464
     ]
   },
   {
@@ -35293,6 +40013,38 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "stebach",
+    "name": "Stebach",
+    "shortName": "STE",
+    "center": [
+      7.6619,
+      50.5122
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5041,
+      7.6494,
+      50.5231,
+      7.6735
+    ]
+  },
+  {
+    "id": "steimel",
+    "name": "Steimel",
+    "shortName": "STE",
+    "center": [
+      7.6264,
+      50.6171
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6049,
+      7.5981,
+      50.636,
+      7.6517
     ]
   },
   {
@@ -35485,6 +40237,22 @@
       10.1667,
       49.4567,
       10.2667
+    ]
+  },
+  {
+    "id": "steinsmuehle",
+    "name": "Steinsmühle",
+    "shortName": "STE",
+    "center": [
+      10.0139,
+      51.4909
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4409,
+      9.9639,
+      51.5409,
+      10.0639
     ]
   },
   {
@@ -35699,6 +40467,22 @@
     ]
   },
   {
+    "id": "strassenhaus",
+    "name": "Straßenhaus",
+    "shortName": "STR",
+    "center": [
+      7.5173,
+      50.5415
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5208,
+      7.4648,
+      50.5589,
+      7.5435
+    ]
+  },
+  {
     "id": "strassenreuth",
     "name": "Straßenreuth",
     "shortName": "STR",
@@ -35712,6 +40496,22 @@
       11.8505,
       50.4635,
       11.9505
+    ]
+  },
+  {
+    "id": "strausberg",
+    "name": "Strausberg",
+    "shortName": "STR",
+    "center": [
+      13.8799,
+      52.582
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.5816,
+      13.8792,
+      52.5822,
+      13.8801
     ]
   },
   {
@@ -36192,6 +40992,22 @@
       10.6338,
       48.7132,
       10.7338
+    ]
+  },
+  {
+    "id": "taucha",
+    "name": "Taucha",
+    "shortName": "TAU",
+    "center": [
+      12.4936,
+      51.38
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3604,
+      12.4567,
+      51.4242,
+      12.5764
     ]
   },
   {
@@ -36803,6 +41619,38 @@
     ]
   },
   {
+    "id": "thalhausen",
+    "name": "Thalhausen",
+    "shortName": "THA",
+    "center": [
+      7.5825,
+      50.5031
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.4927,
+      7.5684,
+      50.5234,
+      7.5963
+    ]
+  },
+  {
+    "id": "thallwitz",
+    "name": "Thallwitz",
+    "shortName": "THA",
+    "center": [
+      12.6807,
+      51.4325
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3813,
+      12.6451,
+      51.4687,
+      12.8307
+    ]
+  },
+  {
     "id": "thalmassing",
     "name": "Thalmassing",
     "shortName": "THA",
@@ -37011,6 +41859,38 @@
     ]
   },
   {
+    "id": "tiefenbrunn",
+    "name": "Tiefenbrunn",
+    "shortName": "TIE",
+    "center": [
+      9.8741,
+      51.4988
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4967,
+      9.8672,
+      51.5016,
+      9.8818
+    ]
+  },
+  {
+    "id": "tiftlingerode",
+    "name": "Tiftlingerode",
+    "shortName": "TIF",
+    "center": [
+      10.2415,
+      51.4996
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4496,
+      10.1915,
+      51.5496,
+      10.2915
+    ]
+  },
+  {
     "id": "timmendorfer-strand",
     "name": "Timmendorfer Strand",
     "shortName": "TS",
@@ -37190,6 +42070,22 @@
     ]
   },
   {
+    "id": "torgau",
+    "name": "Torgau",
+    "shortName": "TOR",
+    "center": [
+      12.7578,
+      51.4791
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4291,
+      12.7078,
+      51.5291,
+      12.8078
+    ]
+  },
+  {
     "id": "tornesch",
     "name": "Tornesch",
     "shortName": "TOR",
@@ -37302,6 +42198,22 @@
     ]
   },
   {
+    "id": "trebsen",
+    "name": "Trebsen",
+    "shortName": "TRE",
+    "center": [
+      12.7518,
+      51.2895
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2587,
+      12.7196,
+      51.3015,
+      12.7849
+    ]
+  },
+  {
     "id": "trebula",
     "name": "Trebula",
     "shortName": "TRE",
@@ -37315,6 +42227,22 @@
       12.287,
       50.9601,
       12.387
+    ]
+  },
+  {
+    "id": "treplin",
+    "name": "Treplin",
+    "shortName": "TRE",
+    "center": [
+      14.3958,
+      52.3967
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.3739,
+      14.3706,
+      52.4097,
+      14.4314
     ]
   },
   {
@@ -37398,6 +42326,22 @@
     ]
   },
   {
+    "id": "trochtelfingen",
+    "name": "Trochtelfingen",
+    "shortName": "TRO",
+    "center": [
+      9.2448,
+      48.3078
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.2844,
+      9.2099,
+      48.3317,
+      9.282
+    ]
+  },
+  {
     "id": "troisdorf",
     "name": "Troisdorf",
     "shortName": "TRO",
@@ -37411,6 +42355,22 @@
       7.0772,
       50.8745,
       7.2149
+    ]
+  },
+  {
+    "id": "trossin",
+    "name": "Trossin",
+    "shortName": "TRO",
+    "center": [
+      12.8209,
+      51.6185
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5653,
+      12.7064,
+      51.6672,
+      12.9124
     ]
   },
   {
@@ -37811,6 +42771,22 @@
       9.9416,
       48.4384,
       10.0416
+    ]
+  },
+  {
+    "id": "unkel",
+    "name": "Unkel",
+    "shortName": "UNK",
+    "center": [
+      7.2157,
+      50.5996
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5836,
+      7.21,
+      50.6355,
+      7.3167
     ]
   },
   {
@@ -38332,6 +43308,22 @@
     ]
   },
   {
+    "id": "uschlag",
+    "name": "Uschlag",
+    "shortName": "USC",
+    "center": [
+      9.6172,
+      51.3306
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3117,
+      9.5947,
+      51.3405,
+      9.6547
+    ]
+  },
+  {
     "id": "usingen",
     "name": "Usingen",
     "shortName": "USI",
@@ -38383,6 +43375,38 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "varlosen",
+    "name": "Varlosen",
+    "shortName": "VAR",
+    "center": [
+      9.7094,
+      51.5027
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.486,
+      9.6691,
+      51.5123,
+      9.7349
+    ]
+  },
+  {
+    "id": "varmissen",
+    "name": "Varmissen",
+    "shortName": "VAR",
+    "center": [
+      9.7951,
+      51.5051
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4905,
+      9.78,
+      51.5204,
+      9.8165
     ]
   },
   {
@@ -38482,6 +43506,22 @@
     ]
   },
   {
+    "id": "vettelschoss",
+    "name": "Vettelschoß",
+    "shortName": "VET",
+    "center": [
+      7.3432,
+      50.6164
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6042,
+      7.309,
+      50.631,
+      7.3667
+    ]
+  },
+  {
     "id": "vettweiss",
     "name": "Vettweiß",
     "shortName": "VET",
@@ -38511,6 +43551,22 @@
       11.4167,
       48.4067,
       11.5167
+    ]
+  },
+  {
+    "id": "vierlinden",
+    "name": "Vierlinden",
+    "shortName": "VIE",
+    "center": [
+      14.3141,
+      52.515
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4705,
+      14.2192,
+      52.5676,
+      14.4526
     ]
   },
   {
@@ -38562,6 +43618,22 @@
       8.3081,
       48.1254,
       8.6366
+    ]
+  },
+  {
+    "id": "vogelsang",
+    "name": "Vogelsang",
+    "shortName": "VOG",
+    "center": [
+      10.0762,
+      51.4302
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3802,
+      10.0262,
+      51.4802,
+      10.1262
     ]
   },
   {
@@ -38680,6 +43752,22 @@
     ]
   },
   {
+    "id": "volkerode",
+    "name": "Volkerode",
+    "shortName": "VOL",
+    "center": [
+      9.8565,
+      51.4679
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4179,
+      9.8065,
+      51.5179,
+      9.9065
+    ]
+  },
+  {
     "id": "volkmarsen",
     "name": "Volkmarsen",
     "shortName": "VOL",
@@ -38696,6 +43784,38 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "volkmarshausen",
+    "name": "Volkmarshausen",
+    "shortName": "VOL",
+    "center": [
+      9.6632,
+      51.4451
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4368,
+      9.6512,
+      51.4505,
+      9.6827
+    ]
+  },
+  {
+    "id": "vollersode",
+    "name": "Vollersode",
+    "shortName": "VOL",
+    "center": [
+      8.9167,
+      53.3338
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.2829,
+      8.8466,
+      53.3741,
+      8.9656
     ]
   },
   {
@@ -38760,6 +43880,22 @@
       6.6867,
       52.1281,
       6.911
+    ]
+  },
+  {
+    "id": "waake",
+    "name": "Waake",
+    "shortName": "WAA",
+    "center": [
+      10.0565,
+      51.5553
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.54,
+      10.0372,
+      51.5772,
+      10.0892
     ]
   },
   {
@@ -38987,6 +44123,38 @@
     ]
   },
   {
+    "id": "waldbreitbach",
+    "name": "Waldbreitbach",
+    "shortName": "WAL",
+    "center": [
+      7.4178,
+      50.552
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5373,
+      7.3968,
+      50.5652,
+      7.4555
+    ]
+  },
+  {
+    "id": "walddorfhaeslach",
+    "name": "Walddorfhäslach",
+    "shortName": "WAL",
+    "center": [
+      9.1876,
+      48.5921
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.5733,
+      9.1187,
+      48.606,
+      9.2071
+    ]
+  },
+  {
     "id": "waldenbuch",
     "name": "Waldenbuch",
     "shortName": "WAL",
@@ -39115,6 +44283,38 @@
     ]
   },
   {
+    "id": "waldschloesschen",
+    "name": "Waldschlößchen",
+    "shortName": "WAL",
+    "center": [
+      9.714,
+      51.5878
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5378,
+      9.664,
+      51.6378,
+      9.764
+    ]
+  },
+  {
+    "id": "waldsieversdorf",
+    "name": "Waldsieversdorf",
+    "shortName": "WAL",
+    "center": [
+      14.0686,
+      52.5418
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.509,
+      14.0194,
+      52.5646,
+      14.1272
+    ]
+  },
+  {
     "id": "waldstetten",
     "name": "Waldstetten",
     "shortName": "WAL",
@@ -39144,6 +44344,22 @@
       12.2792,
       49.7122,
       12.3792
+    ]
+  },
+  {
+    "id": "walkenried",
+    "name": "Walkenried",
+    "shortName": "WAL",
+    "center": [
+      10.6161,
+      51.5881
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5581,
+      10.5809,
+      51.6124,
+      10.6661
     ]
   },
   {
@@ -39505,6 +44721,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "wannweil",
+    "name": "Wannweil",
+    "shortName": "WAN",
+    "center": [
+      9.154,
+      48.5144
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.4997,
+      9.1361,
+      48.5273,
+      9.1702
     ]
   },
   {
@@ -40138,6 +45370,22 @@
     ]
   },
   {
+    "id": "weissenborn",
+    "name": "Weißenborn",
+    "shortName": "WEI",
+    "center": [
+      10.1274,
+      51.4394
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3894,
+      10.0774,
+      51.4894,
+      10.1774
+    ]
+  },
+  {
     "id": "weissenbrunn",
     "name": "Weißenbrunn",
     "shortName": "WEI",
@@ -40378,6 +45626,22 @@
       7.1386,
       51.161,
       7.2989
+    ]
+  },
+  {
+    "id": "wermsdorf",
+    "name": "Wermsdorf",
+    "shortName": "WER",
+    "center": [
+      12.9541,
+      51.2977
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.2407,
+      12.8703,
+      51.3546,
+      13.0524
     ]
   },
   {
@@ -40637,6 +45901,22 @@
     ]
   },
   {
+    "id": "werxhausen",
+    "name": "Werxhausen",
+    "shortName": "WER",
+    "center": [
+      10.1865,
+      51.5153
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4653,
+      10.1365,
+      51.5653,
+      10.2365
+    ]
+  },
+  {
     "id": "wesendorf",
     "name": "Wesendorf",
     "shortName": "WES",
@@ -40682,6 +45962,22 @@
       10.1988,
       52.1301,
       10.252
+    ]
+  },
+  {
+    "id": "westerode",
+    "name": "Westerode",
+    "shortName": "WES",
+    "center": [
+      10.2279,
+      51.5199
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4699,
+      10.1779,
+      51.5699,
+      10.2779
     ]
   },
   {
@@ -40822,6 +46118,22 @@
     ]
   },
   {
+    "id": "wibbecke",
+    "name": "Wibbecke",
+    "shortName": "WIB",
+    "center": [
+      9.7788,
+      51.5753
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5253,
+      9.7288,
+      51.6253,
+      9.8288
+    ]
+  },
+  {
     "id": "wickendorf",
     "name": "Wickendorf",
     "shortName": "WIC",
@@ -40902,6 +46214,22 @@
     ]
   },
   {
+    "id": "wiedemar",
+    "name": "Wiedemar",
+    "shortName": "WIE",
+    "center": [
+      12.2913,
+      51.5064
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.506,
+      12.2909,
+      51.5067,
+      12.2919
+    ]
+  },
+  {
     "id": "wienhausen",
     "name": "Wienhausen",
     "shortName": "WIE",
@@ -40915,6 +46243,22 @@
       10.1211,
       52.6116,
       10.3007
+    ]
+  },
+  {
+    "id": "wiershausen",
+    "name": "Wiershausen",
+    "shortName": "WIE",
+    "center": [
+      9.7136,
+      51.4257
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4094,
+      9.6793,
+      51.4391,
+      9.7284
     ]
   },
   {
@@ -41257,6 +46601,22 @@
     ]
   },
   {
+    "id": "windhagen",
+    "name": "Windhagen",
+    "shortName": "WIN",
+    "center": [
+      7.3538,
+      50.64
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.6177,
+      7.3144,
+      50.6714,
+      7.3896
+    ]
+  },
+  {
     "id": "windischeschenbach",
     "name": "Windischeschenbach",
     "shortName": "WIN",
@@ -41561,6 +46921,22 @@
     ]
   },
   {
+    "id": "wittmarshof",
+    "name": "Wittmarshof",
+    "shortName": "WIT",
+    "center": [
+      10.0311,
+      51.4895
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4395,
+      9.9811,
+      51.5395,
+      10.0811
+    ]
+  },
+  {
     "id": "witzendorf",
     "name": "Witzendorf",
     "shortName": "WIT",
@@ -41590,6 +46966,22 @@
       11.8153,
       51.8045,
       11.9153
+    ]
+  },
+  {
+    "id": "woldert",
+    "name": "Woldert",
+    "shortName": "WOL",
+    "center": [
+      7.6482,
+      50.6029
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.5919,
+      7.6317,
+      50.6195,
+      7.6744
     ]
   },
   {
@@ -41673,6 +47065,54 @@
     ]
   },
   {
+    "id": "wollbrandshausen",
+    "name": "Wollbrandshausen",
+    "shortName": "WOL",
+    "center": [
+      10.1616,
+      51.5867
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5754,
+      10.1482,
+      51.6131,
+      10.1961
+    ]
+  },
+  {
+    "id": "wollershausen",
+    "name": "Wollershausen",
+    "shortName": "WOL",
+    "center": [
+      10.2526,
+      51.5979
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.5893,
+      10.2217,
+      51.6285,
+      10.3018
+    ]
+  },
+  {
+    "id": "woellmarshausen",
+    "name": "Wöllmarshausen",
+    "shortName": "WOEL",
+    "center": [
+      10.0885,
+      51.4898
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4398,
+      10.0385,
+      51.5398,
+      10.1385
+    ]
+  },
+  {
     "id": "wolperndorf",
     "name": "Wolperndorf",
     "shortName": "WOL",
@@ -41753,6 +47193,22 @@
     ]
   },
   {
+    "id": "worpswede",
+    "name": "Worpswede",
+    "shortName": "WOR",
+    "center": [
+      8.9759,
+      53.2617
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      53.1852,
+      8.8238,
+      53.338,
+      9.0265
+    ]
+  },
+  {
     "id": "woerth",
     "name": "Wörth",
     "shortName": "WOER",
@@ -41766,6 +47222,22 @@
       -87.8473,
       41.7297,
       -87.7473
+    ]
+  },
+  {
+    "id": "wriezen",
+    "name": "Wriezen",
+    "shortName": "WRI",
+    "center": [
+      14.1275,
+      52.7216
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.72,
+      14.1255,
+      52.7229,
+      14.13
     ]
   },
   {
@@ -41801,6 +47273,22 @@
     ],
     "defaultCategories": [
       "restmuell"
+    ]
+  },
+  {
+    "id": "wulften-am-harz",
+    "name": "Wulften am Harz",
+    "shortName": "WUL",
+    "center": [
+      10.1747,
+      51.6595
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.626,
+      10.1395,
+      51.6814,
+      10.225
     ]
   },
   {
@@ -41865,6 +47353,22 @@
       11.4878,
       50.5036,
       11.5878
+    ]
+  },
+  {
+    "id": "wurzen",
+    "name": "Wurzen",
+    "shortName": "WUR",
+    "center": [
+      12.7411,
+      51.371
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.3008,
+      12.7106,
+      51.3925,
+      12.9082
     ]
   },
   {
@@ -41996,6 +47500,22 @@
     ]
   },
   {
+    "id": "zechin",
+    "name": "Zechin",
+    "shortName": "ZEC",
+    "center": [
+      14.4529,
+      52.6097
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.578,
+      14.4113,
+      52.6462,
+      14.5006
+    ]
+  },
+  {
     "id": "zehma",
     "name": "Zehma",
     "shortName": "ZEH",
@@ -42105,6 +47625,22 @@
       17.4936,
       28.591,
       17.5936
+    ]
+  },
+  {
+    "id": "zeschdorf",
+    "name": "Zeschdorf",
+    "shortName": "ZES",
+    "center": [
+      14.4138,
+      52.4132
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      52.4036,
+      14.3765,
+      52.4226,
+      14.4331
     ]
   },
   {
@@ -42479,6 +48015,22 @@
     ]
   },
   {
+    "id": "zschepplin",
+    "name": "Zschepplin",
+    "shortName": "ZSC",
+    "center": [
+      12.5597,
+      51.5213
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.4635,
+      12.4824,
+      51.5789,
+      12.6267
+    ]
+  },
+  {
     "id": "zschernichen",
     "name": "Zschernichen",
     "shortName": "ZSC",
@@ -42620,6 +48172,38 @@
       12.2556,
       51.0081,
       12.3556
+    ]
+  },
+  {
+    "id": "zwenkau",
+    "name": "Zwenkau",
+    "shortName": "ZWE",
+    "center": [
+      12.3242,
+      51.2183
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      51.1765,
+      12.2368,
+      51.2598,
+      12.3691
+    ]
+  },
+  {
+    "id": "zwiefalten",
+    "name": "Zwiefalten",
+    "shortName": "ZWI",
+    "center": [
+      9.4615,
+      48.2332
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.1964,
+      9.4311,
+      48.2563,
+      9.5005
     ]
   }
 ]
