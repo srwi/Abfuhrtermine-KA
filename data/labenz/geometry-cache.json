@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-10-29T16:10:31.161Z",
+  "streets": [
+    {
+      "street": "Am Schweinskrug",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Fuhrweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Godentwiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Hellerfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Im Dorfe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Im Ruhwinkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Lüchower Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Moorweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Mühlenkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Schmiedetwiete",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Schulweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Steinhorster Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Vierstücken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Wolfsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    },
+    {
+      "street": "Zum Mühlenteich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537,
+          53.7016
+        ]
+      }
+    }
+  ]
+}

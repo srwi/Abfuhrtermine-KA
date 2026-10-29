@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-10-29T16:10:01.864Z",
+  "streets": [
+    {
+      "street": "B 209 / P - Tierpark Krüzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Hinter den Höfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Juliusburger Landstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Moorweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Querweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Schmiedeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Siedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5344,
+          53.4168
+        ]
+      }
+    },
+    {
+      "street": "Ziegelei",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5322507,
+            53.4156165
+          ],
+          [
+            10.5324933,
+            53.4157648
+          ],
+          [
+            10.532951,
+            53.4159163
+          ],
+          [
+            10.5332082,
+            53.4159698
+          ],
+          [
+            10.5343509,
+            53.4156739
+          ]
+        ]
+      }
+    }
+  ]
+}
