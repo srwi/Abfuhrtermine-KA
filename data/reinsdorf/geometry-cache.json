@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:54:55.019Z",
+  "streets": [
+    {
+      "street": "SOK-Reinsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5556,
+          50.6978
+        ]
+      }
+    }
+  ]
+}

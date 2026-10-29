@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:54:45.376Z",
+  "streets": [
+    {
+      "street": "Reimlingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5167,
+          48.8167
+        ]
+      }
+    }
+  ]
+}

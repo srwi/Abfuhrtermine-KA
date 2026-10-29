@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:53:11.438Z",
+  "streets": [
+    {
+      "street": "SOK-Rehmen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9975,
+          47.3222
+        ]
+      }
+    }
+  ]
+}

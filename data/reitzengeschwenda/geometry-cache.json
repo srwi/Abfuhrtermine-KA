@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:55:42.409Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Reitzengeschwenda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5378,
+          50.5922
+        ]
+      }
+    }
+  ]
+}

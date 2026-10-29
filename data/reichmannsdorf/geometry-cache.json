@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:54:29.608Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Reichmannsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2576,
+          50.5496
+        ]
+      }
+    }
+  ]
+}
