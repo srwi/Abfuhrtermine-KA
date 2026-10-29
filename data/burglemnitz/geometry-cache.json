@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:19:13.604Z",
+  "streets": [
+    {
+      "street": "SOK-Burglemnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5135,
+          50.5329
+        ]
+      }
+    }
+  ]
+}

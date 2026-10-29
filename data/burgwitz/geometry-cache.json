@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:20:20.931Z",
+  "streets": [
+    {
+      "street": "SOK-Burgwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7474,
+          50.7196
+        ]
+      }
+    }
+  ]
+}

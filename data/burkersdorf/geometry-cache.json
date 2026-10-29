@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:20:42.612Z",
+  "streets": [
+    {
+      "street": "Burkersdorf (Nobitz)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0136,
+          50.7856
+        ]
+      }
+    }
+  ]
+}

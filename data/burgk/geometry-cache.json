@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:18:25.821Z",
+  "streets": [
+    {
+      "street": "SOK-Burgk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.718,
+          50.556
+        ]
+      }
+    }
+  ]
+}

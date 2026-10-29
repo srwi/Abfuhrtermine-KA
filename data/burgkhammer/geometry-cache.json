@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:18:35.447Z",
+  "streets": [
+    {
+      "street": "SOK-Burgkhammer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7194,
+          50.5503
+        ]
+      }
+    }
+  ]
+}
