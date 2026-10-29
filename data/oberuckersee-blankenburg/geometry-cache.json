@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T02:33:37.287Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          51.2
+        ]
+      }
+    },
+    {
+      "street": "Heidehof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          51.2
+        ]
+      }
+    }
+  ]
+}

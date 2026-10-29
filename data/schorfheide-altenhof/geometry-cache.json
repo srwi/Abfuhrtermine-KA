@@ -1,0 +1,213 @@
+{
+  "generatedAt": "2026-10-29T02:41:09.825Z",
+  "streets": [
+    {
+      "street": "Adolf-August-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Altenhofer Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Altenhofer Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Am Kiefernweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Am See",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.8535789,
+            54.4005459
+          ],
+          [
+            9.8538318,
+            54.4010101
+          ],
+          [
+            9.8538579,
+            54.4011041
+          ],
+          [
+            9.8538154,
+            54.4011872
+          ],
+          [
+            9.8534888,
+            54.4013545
+          ],
+          [
+            9.8532323,
+            54.4014884
+          ],
+          [
+            9.8528135,
+            54.401886
+          ],
+          [
+            9.8527737,
+            54.4020156
+          ],
+          [
+            9.8528809,
+            54.4021135
+          ],
+          [
+            9.8548405,
+            54.4026251
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Eberswalder Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Eichhorster Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Eschenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Hochstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Joachimsthaler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Kleine Gasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Krumme Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Uferstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Unter den Buchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    },
+    {
+      "street": "Unter den Linden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8727,
+          54.434
+        ]
+      }
+    }
+  ]
+}

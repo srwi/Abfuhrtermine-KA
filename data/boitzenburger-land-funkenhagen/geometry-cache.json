@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T02:25:04.156Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Aalkasten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Am Dreetzsee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Boisterfelde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Charlottenthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Funkenhagen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Götzkendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Hof im Winkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Neufunkenhagen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Steinrode",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Thomsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    },
+    {
+      "street": "Thomsdorf Sommerland",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9204,
+          54.238
+        ]
+      }
+    }
+  ]
+}

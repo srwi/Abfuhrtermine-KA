@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T02:25:21.246Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9964,
+          51.1088
+        ]
+      }
+    },
+    {
+      "street": "Immenheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9964,
+          51.1088
+        ]
+      }
+    },
+    {
+      "street": "Karolinenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9964,
+          51.1088
+        ]
+      }
+    },
+    {
+      "street": "Kuhz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9964,
+          51.1088
+        ]
+      }
+    },
+    {
+      "street": "Ruhhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9964,
+          51.1088
+        ]
+      }
+    }
+  ]
+}

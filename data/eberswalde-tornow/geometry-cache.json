@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T02:40:32.736Z",
+  "streets": [
+    {
+      "street": "Dannenberger Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9563,
+          52.7617
+        ]
+      }
+    },
+    {
+      "street": "Hinterstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9563,
+          52.7617
+        ]
+      }
+    },
+    {
+      "street": "Karlswerker Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9563,
+          52.7617
+        ]
+      }
+    },
+    {
+      "street": "Schlehenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9563,
+          52.7617
+        ]
+      }
+    },
+    {
+      "street": "Tornower Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9563,
+          52.7617
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9563,
+          52.7617
+        ]
+      }
+    },
+    {
+      "street": "Zickenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9563,
+          52.7617
+        ]
+      }
+    }
+  ]
+}

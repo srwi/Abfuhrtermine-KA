@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T02:10:48.879Z",
+  "streets": [
+    {
+      "street": "alle Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4892,
+          47.9269
+        ]
+      }
+    },
+    {
+      "street": "Teilort Behla",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4892,
+          47.9269
+        ]
+      }
+    },
+    {
+      "street": "Teilort Fürstenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4892,
+          47.9269
+        ]
+      }
+    },
+    {
+      "street": "Teilort Hausen v.W.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4892,
+          47.9269
+        ]
+      }
+    },
+    {
+      "street": "Teilort Mundelfingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4892,
+          47.9269
+        ]
+      }
+    },
+    {
+      "street": "Teilort Sumpfohren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4892,
+          47.9269
+        ]
+      }
+    }
+  ]
+}

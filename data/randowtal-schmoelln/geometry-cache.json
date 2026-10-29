@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T02:35:04.357Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3534,
+          50.8968
+        ]
+      }
+    },
+    {
+      "street": "Räuberberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3534,
+          50.8968
+        ]
+      }
+    },
+    {
+      "street": "Schmölln",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3534,
+          50.8968
+        ]
+      }
+    },
+    {
+      "street": "Schwaneberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3534,
+          50.8968
+        ]
+      }
+    }
+  ]
+}

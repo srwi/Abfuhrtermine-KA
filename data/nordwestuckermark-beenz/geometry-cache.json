@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T02:28:58.624Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3474,
+          53.2682
+        ]
+      }
+    },
+    {
+      "street": "Theerbrennerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3474,
+          53.2682
+        ]
+      }
+    }
+  ]
+}

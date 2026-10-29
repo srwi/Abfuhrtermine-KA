@@ -1,0 +1,67 @@
+{
+  "year": 2026,
+  "generatedAt": "2026-10-29T02:33:47.053Z",
+  "categories": [
+    {
+      "key": "restmuell",
+      "label": "Restmüll",
+      "color": "#4b5563"
+    },
+    {
+      "key": "bioabfall",
+      "label": "Bioabfall",
+      "color": "#92400e"
+    },
+    {
+      "key": "wertstoff",
+      "label": "Wertstoff / Gelb",
+      "color": "#eab308"
+    },
+    {
+      "key": "papier",
+      "label": "Papier",
+      "color": "#1d4ed8"
+    }
+  ],
+  "days": [
+    {
+      "isoDate": "2026-11-03",
+      "date": "03.11.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-11-17",
+      "date": "17.11.2026",
+      "categories": [
+        "restmuell",
+        "wertstoff",
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-12-01",
+      "date": "01.12.2026",
+      "categories": [
+        "restmuell"
+      ]
+    },
+    {
+      "isoDate": "2026-12-15",
+      "date": "15.12.2026",
+      "categories": [
+        "restmuell",
+        "wertstoff",
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-12-29",
+      "date": "29.12.2026",
+      "categories": [
+        "restmuell"
+      ]
+    }
+  ]
+}

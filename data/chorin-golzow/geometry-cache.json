@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2026-10-29T02:39:59.699Z",
+  "streets": [
+    {
+      "street": "Alte Handelsstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Am Kienbruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Am Mühlenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "An der Trift",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.6103027,
+              52.2814966
+            ],
+            [
+              12.6100549,
+              52.2813317
+            ],
+            [
+              12.6096805,
+              52.2810909
+            ],
+            [
+              12.6090359,
+              52.2806232
+            ],
+            [
+              12.6076189,
+              52.2796241
+            ]
+          ],
+          [
+            [
+              12.6076189,
+              52.2796241
+            ],
+            [
+              12.6075684,
+              52.2795895
+            ],
+            [
+              12.6072307,
+              52.2793296
+            ],
+            [
+              12.6071837,
+              52.2792779
+            ],
+            [
+              12.607181,
+              52.2792193
+            ],
+            [
+              12.6071858,
+              52.2791784
+            ]
+          ],
+          [
+            [
+              12.6110923,
+              52.2820092
+            ],
+            [
+              12.6110198,
+              52.2819508
+            ],
+            [
+              12.6107705,
+              52.2817604
+            ],
+            [
+              12.6105178,
+              52.2816397
+            ],
+            [
+              12.6103027,
+              52.2814966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Britzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Choriner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Joachimsthaler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Kirchsteig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Lichterfelder Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Postberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Schönhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Senftenhütter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Weidenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    },
+    {
+      "street": "Zum Moospfuhl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005,
+          52.2762
+        ]
+      }
+    }
+  ]
+}

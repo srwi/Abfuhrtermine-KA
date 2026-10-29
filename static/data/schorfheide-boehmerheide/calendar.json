@@ -1,0 +1,98 @@
+{
+  "year": 2026,
+  "generatedAt": "2026-10-29T02:41:17.371Z",
+  "categories": [
+    {
+      "key": "restmuell",
+      "label": "Restmüll",
+      "color": "#4b5563"
+    },
+    {
+      "key": "bioabfall",
+      "label": "Bioabfall",
+      "color": "#92400e"
+    },
+    {
+      "key": "wertstoff",
+      "label": "Wertstoff / Gelb",
+      "color": "#eab308"
+    },
+    {
+      "key": "papier",
+      "label": "Papier",
+      "color": "#1d4ed8"
+    }
+  ],
+  "days": [
+    {
+      "isoDate": "2026-10-30",
+      "date": "30.10.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-11-13",
+      "date": "13.11.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-11-17",
+      "date": "17.11.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-11-25",
+      "date": "25.11.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-11-27",
+      "date": "27.11.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-12-08",
+      "date": "08.12.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    },
+    {
+      "isoDate": "2026-12-11",
+      "date": "11.12.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-12-22",
+      "date": "22.12.2026",
+      "categories": [
+        "papier"
+      ]
+    },
+    {
+      "isoDate": "2026-12-24",
+      "date": "24.12.2026",
+      "categories": [
+        "bioabfall"
+      ]
+    },
+    {
+      "isoDate": "2026-12-29",
+      "date": "29.12.2026",
+      "categories": [
+        "wertstoff"
+      ]
+    }
+  ]
+}

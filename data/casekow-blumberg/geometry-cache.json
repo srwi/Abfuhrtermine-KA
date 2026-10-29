@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T02:26:02.670Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5333,
+          47.8406
+        ]
+      }
+    },
+    {
+      "street": "Försterweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5333,
+          47.8406
+        ]
+      }
+    },
+    {
+      "street": "Woltersdorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5333,
+          47.8406
+        ]
+      }
+    }
+  ]
+}

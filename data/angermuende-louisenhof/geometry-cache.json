@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T02:24:04.081Z",
+  "streets": [
+    {
+      "street": "Schmargendorfer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3947,
+          53.602
+        ]
+      }
+    }
+  ]
+}

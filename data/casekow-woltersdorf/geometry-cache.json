@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T02:26:29.827Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7499,
+          52.4555
+        ]
+      }
+    },
+    {
+      "street": "Hohenselchower Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7499,
+          52.4555
+        ]
+      }
+    }
+  ]
+}

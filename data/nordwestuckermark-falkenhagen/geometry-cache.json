@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T02:29:23.782Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3167,
+          52.4333
+        ]
+      }
+    },
+    {
+      "street": "Friedenshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3167,
+          52.4333
+        ]
+      }
+    },
+    {
+      "street": "Kruseshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3167,
+          52.4333
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T02:38:08.111Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9334,
+          52.2566
+        ]
+      }
+    },
+    {
+      "street": "Fennluch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9334,
+          52.2566
+        ]
+      }
+    },
+    {
+      "street": "Moritzhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9334,
+          52.2566
+        ]
+      }
+    },
+    {
+      "street": "Steinfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9334,
+          52.2566
+        ]
+      }
+    }
+  ]
+}

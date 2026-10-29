@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T02:25:53.464Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7369,
+          54.1117
+        ]
+      }
+    },
+    {
+      "street": "Lindensee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7369,
+          54.1117
+        ]
+      }
+    },
+    {
+      "street": "Rummelpforter Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7369,
+          54.1117
+        ]
+      }
+    },
+    {
+      "street": "Sternthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7369,
+          54.1117
+        ]
+      }
+    }
+  ]
+}

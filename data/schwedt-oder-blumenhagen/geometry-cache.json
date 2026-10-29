@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T02:35:19.353Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.875,
+          53.5321
+        ]
+      }
+    },
+    {
+      "street": "Neue Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.875,
+          53.5321
+        ]
+      }
+    },
+    {
+      "street": "Wildbahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.875,
+          53.5321
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T02:27:56.844Z",
+  "streets": [
+    {
+      "street": "Gartzer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8614,
+          53.7142
+        ]
+      }
+    }
+  ]
+}

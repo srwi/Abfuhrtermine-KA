@@ -1,0 +1,119 @@
+{
+  "generatedAt": "2026-10-29T02:42:45.919Z",
+  "streets": [
+    {
+      "street": "Alte Beiersdorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7,
+          51.3
+        ]
+      }
+    },
+    {
+      "street": "Am Waldrand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7,
+          51.3
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7435711,
+            51.3206447
+          ],
+          [
+            13.7439244,
+            51.3204981
+          ],
+          [
+            13.7444151,
+            51.3202655
+          ],
+          [
+            13.7445364,
+            51.3201956
+          ],
+          [
+            13.7445792,
+            51.32011
+          ],
+          [
+            13.7445948,
+            51.3200502
+          ],
+          [
+            13.7447541,
+            51.3192309
+          ],
+          [
+            13.7448619,
+            51.3187586
+          ],
+          [
+            13.7448802,
+            51.3185226
+          ],
+          [
+            13.744876,
+            51.3183298
+          ],
+          [
+            13.7448662,
+            51.3181672
+          ],
+          [
+            13.7448448,
+            51.317814
+          ],
+          [
+            13.7448768,
+            51.3176972
+          ],
+          [
+            13.7450975,
+            51.3172682
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Neue Beiersdorfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7,
+          51.3
+        ]
+      }
+    },
+    {
+      "street": "Schönfelder Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7,
+          51.3
+        ]
+      }
+    },
+    {
+      "street": "Weesower Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7,
+          51.3
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T02:39:35.940Z",
+  "streets": [
+    {
+      "street": "Birkholzer Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8391,
+          52.4162
+        ]
+      }
+    },
+    {
+      "street": "Neubauernsiedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8391,
+          52.4162
+        ]
+      }
+    },
+    {
+      "street": "Schwanebecker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8391,
+          52.4162
+        ]
+      }
+    },
+    {
+      "street": "Strasse nach Blumberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8391,
+          52.4162
+        ]
+      }
+    },
+    {
+      "street": "VEG-Siedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8391,
+          52.4162
+        ]
+      }
+    }
+  ]
+}

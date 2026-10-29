@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T02:25:29.893Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4289,
+          53.3591
+        ]
+      }
+    },
+    {
+      "street": "Collinshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4289,
+          53.3591
+        ]
+      }
+    },
+    {
+      "street": "Egarsee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4289,
+          53.3591
+        ]
+      }
+    },
+    {
+      "street": "Stabeshöhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4289,
+          53.3591
+        ]
+      }
+    }
+  ]
+}

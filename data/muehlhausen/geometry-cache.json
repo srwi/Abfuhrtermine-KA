@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-10-29T02:13:35.287Z",
+  "streets": [
+    {
+      "street": "Albsteige",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Blumenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Brühlstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Brunnenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Buchstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Dürrenbergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Eselhöfe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Filsaue",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Filsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Gosbacher Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Gruibinger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "In den Höfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Industrie- und Businesspark",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Kohlhaustrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Kölleshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Kreuzäckerstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Obere Sommerbergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Parkstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Schönbachweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Schulgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Steinbruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Sterneckbergweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Todtsburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Untere Sommerbergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Warmenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    },
+    {
+      "street": "Wiesensteiger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6639,
+          48.5836
+        ]
+      }
+    }
+  ]
+}

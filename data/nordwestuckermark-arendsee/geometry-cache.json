@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T02:28:41.451Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7432,
+          54.1476
+        ]
+      }
+    },
+    {
+      "street": "Am Zionsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7432,
+          54.1476
+        ]
+      }
+    }
+  ]
+}

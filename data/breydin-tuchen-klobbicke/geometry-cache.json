@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-10-29T02:39:50.704Z",
+  "streets": [
+    {
+      "street": "Akazienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    },
+    {
+      "street": "Am Storchennest",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    },
+    {
+      "street": "Beerbaumer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    },
+    {
+      "street": "Melchower Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    },
+    {
+      "street": "Neue Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    },
+    {
+      "street": "Waldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0931,
+          53.0626
+        ]
+      }
+    }
+  ]
+}

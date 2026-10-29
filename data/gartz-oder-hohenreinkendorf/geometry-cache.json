@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T02:26:47.980Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3303,
+          53.2304
+        ]
+      }
+    },
+    {
+      "street": "Am Räubertanger",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3619184,
+            53.2443602
+          ],
+          [
+            14.3624525,
+            53.2441691
+          ],
+          [
+            14.362893,
+            53.2440491
+          ]
+        ]
+      }
+    }
+  ]
+}

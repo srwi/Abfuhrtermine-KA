@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T02:24:48.935Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6609,
+          53.2821
+        ]
+      }
+    },
+    {
+      "street": "Neu Zervelin",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6609,
+          53.2821
+        ]
+      }
+    }
+  ]
+}

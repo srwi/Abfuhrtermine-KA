@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-10-29T02:43:03.381Z",
+  "streets": [
+    {
+      "street": "Adolf-Reichwein-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofssiedlung",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Berliner Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Eberswalder Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Floraweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Freudenberger Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Im Grund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Kaliebeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Müncheberger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Neue Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Parkstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Schmiedeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    },
+    {
+      "street": "Seeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2739,
+          54.3791
+        ]
+      }
+    }
+  ]
+}

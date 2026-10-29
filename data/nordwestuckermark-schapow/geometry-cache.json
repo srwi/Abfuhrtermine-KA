@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-10-29T02:32:10.512Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7054,
+          53.3565
+        ]
+      }
+    },
+    {
+      "street": "Fischershof",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7362922,
+            53.3612364
+          ],
+          [
+            13.7351788,
+            53.3612935
+          ],
+          [
+            13.734135,
+            53.3613457
+          ],
+          [
+            13.7330136,
+            53.3613848
+          ]
+        ]
+      }
+    }
+  ]
+}

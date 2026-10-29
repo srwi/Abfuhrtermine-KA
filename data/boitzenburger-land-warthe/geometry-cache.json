@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T02:25:44.460Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9112,
+          53.9836
+        ]
+      }
+    },
+    {
+      "street": "Bröddin",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9112,
+          53.9836
+        ]
+      }
+    },
+    {
+      "street": "Krumme Hecken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9112,
+          53.9836
+        ]
+      }
+    },
+    {
+      "street": "Luisenfelde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9112,
+          53.9836
+        ]
+      }
+    },
+    {
+      "street": "Mahlendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9112,
+          53.9836
+        ]
+      }
+    },
+    {
+      "street": "Mahlendorfer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9112,
+          53.9836
+        ]
+      }
+    }
+  ]
+}

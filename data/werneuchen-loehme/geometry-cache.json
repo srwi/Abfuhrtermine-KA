@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T02:42:37.192Z",
+  "streets": [
+    {
+      "street": "Bernauer Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6107,
+          54.5831
+        ]
+      }
+    },
+    {
+      "street": "Löhmer Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6107,
+          54.5831
+        ]
+      }
+    },
+    {
+      "street": "Parzellenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6107,
+          54.5831
+        ]
+      }
+    },
+    {
+      "street": "Siedlerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6107,
+          54.5831
+        ]
+      }
+    },
+    {
+      "street": "Trappenhöhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6107,
+          54.5831
+        ]
+      }
+    }
+  ]
+}

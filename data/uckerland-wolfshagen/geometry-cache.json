@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T02:39:00.611Z",
+  "streets": [
+    {
+      "street": "-alle Strassen-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4773,
+          54.2555
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4773,
+          54.2555
+        ]
+      }
+    }
+  ]
+}
