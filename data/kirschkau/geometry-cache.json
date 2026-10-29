@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:12:26.789Z",
+  "streets": [
+    {
+      "street": "SOK-Kirschkau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8871,
+          50.6049
+        ]
+      }
+    }
+  ]
+}

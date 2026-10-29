@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:11:38.308Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Kirchhasel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3935,
+          50.7302
+        ]
+      }
+    }
+  ]
+}

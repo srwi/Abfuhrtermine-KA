@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:12:57.978Z",
+  "streets": [
+    {
+      "street": "Klausa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5119,
+          50.9584
+        ]
+      }
+    }
+  ]
+}

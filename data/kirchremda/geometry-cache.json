@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:11:56.871Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Kirchremda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2344,
+          50.765
+        ]
+      }
+    }
+  ]
+}

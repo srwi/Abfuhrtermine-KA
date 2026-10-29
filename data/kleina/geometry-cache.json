@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:13:07.003Z",
+  "streets": [
+    {
+      "street": "SOK-Kleina",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7616,
+          50.6838
+        ]
+      }
+    }
+  ]
+}

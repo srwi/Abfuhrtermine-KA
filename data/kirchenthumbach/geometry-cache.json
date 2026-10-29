@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:11:28.879Z",
+  "streets": [
+    {
+      "street": "Kirchenthumbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7254,
+          49.7487
+        ]
+      }
+    }
+  ]
+}

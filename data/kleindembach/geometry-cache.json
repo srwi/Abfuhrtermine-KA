@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:13:16.600Z",
+  "streets": [
+    {
+      "street": "SOK-Kleindembach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958,
+          50.7338
+        ]
+      }
+    }
+  ]
+}

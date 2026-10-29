@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-29T06:10:55.536Z",
+  "streets": [
+    {
+      "street": "Alustrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          47.4667
+        ]
+      }
+    },
+    {
+      "street": "Bachmehring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          47.4667
+        ]
+      }
+    },
+    {
+      "street": "Dimpfl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          47.4667
+        ]
+      }
+    },
+    {
+      "street": "Esbaum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          47.4667
+        ]
+      }
+    },
+    {
+      "street": "Esbaumer Bogen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          47.4667
+        ]
+      }
+    },
+    {
+      "street": "Kirchdorf Rest",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          47.4667
+        ]
+      }
+    },
+    {
+      "street": "Rainbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          47.4667
+        ]
+      }
+    },
+    {
+      "street": "Sonnenfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          47.4667
+        ]
+      }
+    }
+  ]
+}

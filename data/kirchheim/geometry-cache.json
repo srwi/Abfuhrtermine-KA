@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:11:48.138Z",
+  "streets": [
+    {
+      "street": "Kirchheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4964,
+          48.6093
+        ]
+      }
+    }
+  ]
+}
