@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:28:05.217Z",
+  "streets": [
+    {
+      "street": "Zschöpperitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3064,
+          50.9503
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:27:24.724Z",
+  "streets": [
+    {
+      "street": "Zschechwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4505,
+          50.9632
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:28:40.160Z",
+  "streets": [
+    {
+      "street": "SOK-Zwackau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8067,
+          50.7685
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:27:55.152Z",
+  "streets": [
+    {
+      "street": "Zschöpel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4129,
+          50.8687
+        ]
+      }
+    }
+  ]
+}
