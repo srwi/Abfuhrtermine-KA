@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-10-29T22:48:41.798Z",
+  "streets": [
+    {
+      "street": "Am Rödgesbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Bläulingsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Brunnenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Heubergsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Jahnstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Rehnstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Rheinstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Wiesenpfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    },
+    {
+      "street": "Zu den Gärten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          50.5
+        ]
+      }
+    }
+  ]
+}

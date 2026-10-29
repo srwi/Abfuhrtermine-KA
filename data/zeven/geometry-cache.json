@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-29T22:50:06.048Z",
+  "streets": [
+    {
+      "street": "Bademühlen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2756,
+          53.2957
+        ]
+      }
+    },
+    {
+      "street": "Badenstedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2756,
+          53.2957
+        ]
+      }
+    },
+    {
+      "street": "Brauel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2756,
+          53.2957
+        ]
+      }
+    },
+    {
+      "street": "Brümmerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2756,
+          53.2957
+        ]
+      }
+    },
+    {
+      "street": "Brüttendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2756,
+          53.2957
+        ]
+      }
+    },
+    {
+      "street": "Oldendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2756,
+          53.2957
+        ]
+      }
+    },
+    {
+      "street": "Wistedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2756,
+          53.2957
+        ]
+      }
+    },
+    {
+      "street": "Zeven",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2756,
+          53.2957
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T22:47:36.043Z",
+  "streets": [
+    {
+      "street": "Auf dem Seifen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Birkenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Stuhllindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Taunusblick",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Weiherweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Westerburger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    },
+    {
+      "street": "Zur Schönen Aussicht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117,
+          50.5733
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "generatedAt": "2026-10-29T22:48:56.013Z",
+  "streets": [
+    {
+      "street": "Am Feld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Am Riesselhörn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Am Tiefenbruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "An der Ramme",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "An der Turnhalle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Auetal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Bredenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Eichenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Heckenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Hohe Luft",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Kurze Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Poststr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Rammestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Ramshausener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Riesselhörn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Rustal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Sonnenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Spreckelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Vierdener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Wangersener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    },
+    {
+      "street": "Zum Auetal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5264,
+          53.3559
+        ]
+      }
+    }
+  ]
+}

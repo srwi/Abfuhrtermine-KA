@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2026-10-29T22:47:24.916Z",
+  "streets": [
+    {
+      "street": "An der B 8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Auf der Norr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Im Gassenstück",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Krambergsmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Ober Priesgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Parkstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Talweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    },
+    {
+      "street": "Wiedstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7331,
+          50.6497
+        ]
+      }
+    }
+  ]
+}

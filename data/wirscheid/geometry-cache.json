@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-10-29T22:48:29.882Z",
+  "streets": [
+    {
+      "street": "Am Hang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Hochstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Kauser Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Lärchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Sessenbacher Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Unter den Eichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          50.4667
+        ]
+      }
+    }
+  ]
+}

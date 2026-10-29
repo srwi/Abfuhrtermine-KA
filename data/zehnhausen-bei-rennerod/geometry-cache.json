@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T22:49:44.219Z",
+  "streets": [
+    {
+      "street": "Bundesstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Hochstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Im Neuen Garten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Vor dem Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Vor dem Schorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Westend",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0597,
+          50.6472
+        ]
+      }
+    }
+  ]
+}

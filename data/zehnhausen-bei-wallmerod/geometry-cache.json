@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-29T22:49:56.080Z",
+  "streets": [
+    {
+      "street": "Bachstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9236,
+          50.4761
+        ]
+      }
+    },
+    {
+      "street": "Borngasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9236,
+          50.4761
+        ]
+      }
+    },
+    {
+      "street": "Dahlener Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9236,
+          50.4761
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9236,
+          50.4761
+        ]
+      }
+    },
+    {
+      "street": "Im Baumgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9236,
+          50.4761
+        ]
+      }
+    },
+    {
+      "street": "Im Wickengarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9236,
+          50.4761
+        ]
+      }
+    },
+    {
+      "street": "Neuer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9236,
+          50.4761
+        ]
+      }
+    },
+    {
+      "street": "Ruppacher Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9236,
+          50.4761
+        ]
+      }
+    }
+  ]
+}

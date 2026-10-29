@@ -1,0 +1,505 @@
+{
+  "generatedAt": "2026-10-29T22:47:00.277Z",
+  "streets": [
+    {
+      "street": "Akazienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Am Alten Sportplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Am Bogen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Am Brink",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Am Emel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Am Löhberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Amselweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "An den Eichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "An der Reitbahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Ansgarweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Hollacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Auf der Loge",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofsplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Buchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Buchholzer Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Bülstedter Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Dipshorner Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Fasanenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Ginsterweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Heideweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Hinter den Höfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Holzschuhmacher Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Ikkiaweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Kiebitzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Kiefernweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Kleine Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Konterschaft",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Kreuzackerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Kurzer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Lerchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Löhbergstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Molkereistr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Ostlandstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Pappelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Richtweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Rosenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Schlehenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Schwalbenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Tarmstedter Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Vorwerker Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Wacholderweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Wilstedter Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Wüllenheide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Zum Klusberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Zum Neuen Land",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    },
+    {
+      "street": "Zum Seegen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096,
+          53.1949
+        ]
+      }
+    }
+  ]
+}

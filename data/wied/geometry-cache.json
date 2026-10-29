@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-10-29T22:46:21.689Z",
+  "streets": [
+    {
+      "street": "Auf den Steinen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Hasenwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Hinter der Hohl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Hohlen Garten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Kirchweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Krambergsmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Lindenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Mittelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Mühlental",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Mühlentalstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Rheinstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Sonnenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Talstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572,
+          50.6392
+        ]
+      }
+    }
+  ]
+}

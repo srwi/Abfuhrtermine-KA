@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T22:46:35.707Z",
+  "streets": [
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0877,
+          50.6676
+        ]
+      }
+    },
+    {
+      "street": "Fuchskaute",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0877,
+          50.6676
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0877,
+          50.6676
+        ]
+      }
+    },
+    {
+      "street": "Hermannshainer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0877,
+          50.6676
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0877,
+          50.6676
+        ]
+      }
+    },
+    {
+      "street": "Oststrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0877,
+          50.6676
+        ]
+      }
+    },
+    {
+      "street": "Südstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0877,
+          50.6676
+        ]
+      }
+    }
+  ]
+}

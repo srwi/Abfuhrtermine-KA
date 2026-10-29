@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T22:46:46.673Z",
+  "streets": [
+    {
+      "street": "Am Schulberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Am Sonnenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Auf der Bach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Bornstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Brückenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Hofacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Im Bangert",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Langwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Oberstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    },
+    {
+      "street": "Reuterstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814,
+          50.5414
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "generatedAt": "2026-10-29T22:49:30.195Z",
+  "streets": [
+    {
+      "street": "Ahornweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Am Dorfmühlweiher",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Am Mühlbuck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Am Vogelfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Ampèrestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Auchtweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Aumühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Badbuckstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Bösenlustnau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Brombach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Buchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Dinkelsbühler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Dorfplatz Bösenlustenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Dürrenstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Eichenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Fichtenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Gaugenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Gewerbestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Grobenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Grünstädt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Häringssägmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Hirschhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Hohweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Im Auchtfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Im Gässle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Jammermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Jungholzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Kiefernstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Königsrotermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Konradsbronn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Konradsbronner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Lerchenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Lilienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Lustnauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Mittelmeizen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Nelkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Oberes Rot Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Pfladermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Rosenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Rotwiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Schlossgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Schönbronn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Spitalhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Springhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Stödtlener Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Talblick",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Tannenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Tulpenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Wehrlachstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Weiherwehr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    },
+    {
+      "street": "Werdlinstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2724,
+          49.0305
+        ]
+      }
+    }
+  ]
+}

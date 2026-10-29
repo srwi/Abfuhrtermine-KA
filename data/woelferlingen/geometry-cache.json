@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-10-29T22:49:12.936Z",
+  "streets": [
+    {
+      "street": "Am Hofacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Auf der Schwefelsburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Bachstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Berghof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Düringer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Feldwiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Freilinger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Hannesfellerstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Heidestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Kaulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Obere Gondorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Poststrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Rotenhainer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Siedlerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Unterdorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Untere Gondorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Weidenhahner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    },
+    {
+      "street": "Wölferlinger Kopf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8511,
+          50.5644
+        ]
+      }
+    }
+  ]
+}
