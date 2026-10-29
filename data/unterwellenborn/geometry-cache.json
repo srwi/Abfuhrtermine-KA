@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:41:32.868Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Unterwellenborn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4333,
+          50.65
+        ]
+      }
+    }
+  ]
+}

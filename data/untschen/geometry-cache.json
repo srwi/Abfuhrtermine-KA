@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:42:12.370Z",
+  "streets": [
+    {
+      "street": "Untschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2925,
+          50.8893
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:41:18.887Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Unterweissbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1674,
+          50.614
+        ]
+      }
+    }
+  ]
+}

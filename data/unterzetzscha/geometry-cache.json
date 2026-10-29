@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:41:57.386Z",
+  "streets": [
+    {
+      "street": "Unterzetzscha",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4315,
+          51.0181
+        ]
+      }
+    }
+  ]
+}

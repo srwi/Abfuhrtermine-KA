@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T09:43:31.760Z",
+  "streets": [
+    {
+      "street": "Bayersried",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4459,
+          48.2643
+        ]
+      }
+    },
+    {
+      "street": "Mindelzell",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4459,
+          48.2643
+        ]
+      }
+    },
+    {
+      "street": "Oberrohr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4459,
+          48.2643
+        ]
+      }
+    },
+    {
+      "street": "Premach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4459,
+          48.2643
+        ]
+      }
+    },
+    {
+      "street": "Ursberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4459,
+          48.2643
+        ]
+      }
+    }
+  ]
+}

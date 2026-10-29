@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:44:32.635Z",
+  "streets": [
+    {
+      "street": "SOK-Venzka",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8354,
+          50.4016
+        ]
+      }
+    }
+  ]
+}

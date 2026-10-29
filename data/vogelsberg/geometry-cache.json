@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:45:07.144Z",
+  "streets": [
+    {
+      "street": "SOK-Vogelsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25,
+          51.1333
+        ]
+      }
+    }
+  ]
+}

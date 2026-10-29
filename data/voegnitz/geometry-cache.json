@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:45:19.725Z",
+  "streets": [
+    {
+      "street": "Vögnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3896,
+          49.9306
+        ]
+      }
+    }
+  ]
+}

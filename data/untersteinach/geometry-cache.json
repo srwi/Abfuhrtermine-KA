@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T09:41:08.866Z",
+  "streets": [
+    {
+      "street": "Gumpersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5167,
+          50.1333
+        ]
+      }
+    },
+    {
+      "street": "Gut Hummendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5167,
+          50.1333
+        ]
+      }
+    },
+    {
+      "street": "Untersteinach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5167,
+          50.1333
+        ]
+      }
+    }
+  ]
+}
