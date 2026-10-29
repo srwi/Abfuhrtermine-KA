@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:35:19.508Z",
+  "streets": [
+    {
+      "street": "SOK-Grochwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7291,
+          50.5705
+        ]
+      }
+    }
+  ]
+}

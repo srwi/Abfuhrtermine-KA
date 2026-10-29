@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:34:00.969Z",
+  "streets": [
+    {
+      "street": "Gressthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0387,
+          50.0769
+        ]
+      }
+    }
+  ]
+}

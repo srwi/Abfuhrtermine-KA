@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:34:20.007Z",
+  "streets": [
+    {
+      "street": "Griesstätt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1773,
+          47.994
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-10-29T05:33:29.060Z",
+  "streets": [
+    {
+      "street": "Allendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Arborn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Beilstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Greifenstein",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.2930743,
+              50.6292137
+            ],
+            [
+              8.2912161,
+              50.628753
+            ],
+            [
+              8.2903282,
+              50.6285753
+            ],
+            [
+              8.2900019,
+              50.6284606
+            ],
+            [
+              8.2899048,
+              50.6282955
+            ],
+            [
+              8.2899092,
+              50.6281137
+            ],
+            [
+              8.2900151,
+              50.6278898
+            ],
+            [
+              8.2911006,
+              50.6258617
+            ],
+            [
+              8.2912871,
+              50.6256295
+            ]
+          ],
+          [
+            [
+              8.2912871,
+              50.6256295
+            ],
+            [
+              8.2913108,
+              50.625861
+            ],
+            [
+              8.2919312,
+              50.6271845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Holzhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Nenderoth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Odersberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Rodenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Rodenroth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    },
+    {
+      "street": "Ulm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          50.6167
+        ]
+      }
+    }
+  ]
+}

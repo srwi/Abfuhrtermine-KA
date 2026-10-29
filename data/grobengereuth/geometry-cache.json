@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:34:39.081Z",
+  "streets": [
+    {
+      "street": "SOK-Grobengereuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6694,
+          50.6692
+        ]
+      }
+    }
+  ]
+}

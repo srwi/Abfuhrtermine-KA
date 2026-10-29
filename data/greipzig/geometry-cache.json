@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:33:51.543Z",
+  "streets": [
+    {
+      "street": "Greipzig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4502,
+          50.9407
+        ]
+      }
+    }
+  ]
+}
