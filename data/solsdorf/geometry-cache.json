@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:02:41.038Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Solsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1619,
+          50.716
+        ]
+      }
+    }
+  ]
+}

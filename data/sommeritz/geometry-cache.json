@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:02:52.074Z",
+  "streets": [
+    {
+      "street": "Sommeritz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3314,
+          50.8774
+        ]
+      }
+    }
+  ]
+}

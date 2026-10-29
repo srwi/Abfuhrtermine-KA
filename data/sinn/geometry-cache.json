@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T09:01:46.551Z",
+  "streets": [
+    {
+      "street": "Edingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9988,
+          35.315
+        ]
+      }
+    },
+    {
+      "street": "Fleisbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9988,
+          35.315
+        ]
+      }
+    },
+    {
+      "street": "Sinn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9988,
+          35.315
+        ]
+      }
+    }
+  ]
+}

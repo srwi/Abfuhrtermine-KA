@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:02:19.386Z",
+  "streets": [
+    {
+      "street": "SOK-Solkwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6667,
+          50.7
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:02:07.965Z",
+  "streets": [
+    {
+      "street": "Söchtenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2296,
+          47.9312
+        ]
+      }
+    }
+  ]
+}

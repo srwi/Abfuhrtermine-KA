@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-10-29T09:02:29.436Z",
+  "streets": [
+    {
+      "street": "Albshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.407,
+          50.5362
+        ]
+      }
+    },
+    {
+      "street": "Burgsolms",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4251673,
+            50.5374782
+          ],
+          [
+            8.4251216,
+            50.5374192
+          ],
+          [
+            8.4249915,
+            50.5368101
+          ],
+          [
+            8.4262374,
+            50.5371968
+          ],
+          [
+            8.4261025,
+            50.5378135
+          ],
+          [
+            8.4251673,
+            50.5374782
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Niederbiel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.407,
+          50.5362
+        ]
+      }
+    },
+    {
+      "street": "Oberbiel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.407,
+          50.5362
+        ]
+      }
+    },
+    {
+      "street": "Oberndorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.407,
+          50.5362
+        ]
+      }
+    }
+  ]
+}

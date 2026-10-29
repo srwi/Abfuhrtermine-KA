@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:03:13.503Z",
+  "streets": [
+    {
+      "street": "Sömmersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0833,
+          52.1667
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:01:23.187Z",
+  "streets": [
+    {
+      "street": "Siegendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5423,
+          47.781
+        ]
+      }
+    }
+  ]
+}

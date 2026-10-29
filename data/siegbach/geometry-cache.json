@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T09:01:10.668Z",
+  "streets": [
+    {
+      "street": "Eisemroth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4179,
+          50.739
+        ]
+      }
+    },
+    {
+      "street": "Oberndorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4179,
+          50.739
+        ]
+      }
+    },
+    {
+      "street": "Tringenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4179,
+          50.739
+        ]
+      }
+    },
+    {
+      "street": "Übernthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4179,
+          50.739
+        ]
+      }
+    },
+    {
+      "street": "Wallenfels",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4179,
+          50.739
+        ]
+      }
+    }
+  ]
+}

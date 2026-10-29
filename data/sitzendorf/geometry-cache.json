@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:01:56.412Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Sitzendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9425,
+          48.5984
+        ]
+      }
+    }
+  ]
+}

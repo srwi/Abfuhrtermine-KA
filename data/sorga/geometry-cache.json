@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:03:45.648Z",
+  "streets": [
+    {
+      "street": "SOK-Sorga",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9799,
+          45.2133
+        ]
+      }
+    }
+  ]
+}
