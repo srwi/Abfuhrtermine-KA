@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:52:00.362Z",
+  "streets": [
+    {
+      "street": "Bad Feilnbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0097,
+          47.7733
+        ]
+      }
+    }
+  ]
+}

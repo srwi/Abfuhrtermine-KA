@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T03:50:13.311Z",
+  "streets": [
+    {
+      "street": "nördl. Münchner/Rosenheimerstr. (1.Tag)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0106,
+          47.8638
+        ]
+      }
+    },
+    {
+      "street": "südl. Münchner/Rosenheimerstr. (2.Tag)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0106,
+          47.8638
+        ]
+      }
+    }
+  ]
+}
