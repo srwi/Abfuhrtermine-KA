@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:42:35.364Z",
+  "streets": [
+    {
+      "street": "Lutschütz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3444,
+          50.9679
+        ]
+      }
+    }
+  ]
+}

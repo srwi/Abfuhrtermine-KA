@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:42:27.216Z",
+  "streets": [
+    {
+      "street": "Lumpzig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2667,
+          50.95
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:42:52.663Z",
+  "streets": [
+    {
+      "street": "Madenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2995,
+          50.1364
+        ]
+      }
+    }
+  ]
+}

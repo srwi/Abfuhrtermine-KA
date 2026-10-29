@@ -1,0 +1,241 @@
+{
+  "generatedAt": "2026-10-29T06:43:00.551Z",
+  "streets": [
+    {
+      "street": "Asch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Dippersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Ebersberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Fiedlhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Frauenreuth (Mähring)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Griesbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Groppenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Grosskonreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Hiltershof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Laub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Lauterbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Mähring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Neumühle (Mähring)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Ödhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Poppenreuth b. Tirschenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Redenbach",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4798156,
+            49.886524
+          ],
+          [
+            12.4797875,
+            49.886492
+          ],
+          [
+            12.4797794,
+            49.8864471
+          ],
+          [
+            12.4797995,
+            49.886416
+          ],
+          [
+            12.480045,
+            49.8862501
+          ],
+          [
+            12.4801026,
+            49.8862431
+          ],
+          [
+            12.4801442,
+            49.8862578
+          ],
+          [
+            12.480285,
+            49.8863762
+          ],
+          [
+            12.4802783,
+            49.8864194
+          ],
+          [
+            12.4801227,
+            49.8865568
+          ],
+          [
+            12.4800745,
+            49.8865594
+          ],
+          [
+            12.4798156,
+            49.886524
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Reisach (Mähring)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Treppenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    },
+    {
+      "street": "Ziegelhütte (Mähring)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5245,
+          49.911
+        ]
+      }
+    }
+  ]
+}
