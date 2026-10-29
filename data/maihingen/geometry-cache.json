@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T06:43:41.522Z",
+  "streets": [
+    {
+      "street": "Klostermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4987,
+          48.9275
+        ]
+      }
+    },
+    {
+      "street": "Langenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4987,
+          48.9275
+        ]
+      }
+    },
+    {
+      "street": "Lochmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4987,
+          48.9275
+        ]
+      }
+    },
+    {
+      "street": "Maihingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4987,
+          48.9275
+        ]
+      }
+    },
+    {
+      "street": "Utzwingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4987,
+          48.9275
+        ]
+      }
+    }
+  ]
+}

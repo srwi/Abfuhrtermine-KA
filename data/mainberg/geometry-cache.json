@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:44:05.456Z",
+  "streets": [
+    {
+      "street": "Mainberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.288,
+          50.058
+        ]
+      }
+    }
+  ]
+}

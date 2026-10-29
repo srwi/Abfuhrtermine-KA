@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:43:50.542Z",
+  "streets": [
+    {
+      "street": "Mailes",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4002,
+          50.2021
+        ]
+      }
+    }
+  ]
+}

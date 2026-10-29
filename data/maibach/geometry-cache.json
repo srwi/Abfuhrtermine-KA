@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:43:33.086Z",
+  "streets": [
+    {
+      "street": "Maibach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5718,
+          50.3792
+        ]
+      }
+    }
+  ]
+}

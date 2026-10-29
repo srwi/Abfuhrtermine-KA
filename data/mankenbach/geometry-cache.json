@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:47:43.789Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Mankenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1374,
+          50.6192
+        ]
+      }
+    }
+  ]
+}
