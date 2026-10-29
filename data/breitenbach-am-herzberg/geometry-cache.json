@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:11:53.839Z",
+  "streets": [
+    {
+      "street": "Breitenbach a.H.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.516,
+          50.7752
+        ]
+      }
+    }
+  ]
+}

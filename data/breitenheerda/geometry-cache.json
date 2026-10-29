@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:12:12.237Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Breitenheerda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2024,
+          50.7838
+        ]
+      }
+    }
+  ]
+}

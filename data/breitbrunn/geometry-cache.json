@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:11:44.794Z",
+  "streets": [
+    {
+      "street": "Breitbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7,
+          50.0167
+        ]
+      }
+    }
+  ]
+}

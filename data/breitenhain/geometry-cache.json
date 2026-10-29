@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:12:02.369Z",
+  "streets": [
+    {
+      "street": "SOK-Breitenhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3203,
+          51.0855
+        ]
+      }
+    }
+  ]
+}

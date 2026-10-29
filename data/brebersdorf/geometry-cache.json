@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:11:23.646Z",
+  "streets": [
+    {
+      "street": "Brebersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0731,
+          50.0509
+        ]
+      }
+    }
+  ]
+}
