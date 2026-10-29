@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T15:58:57.502Z",
+  "streets": [
+    {
+      "street": "Am Brink",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Am See",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Bgm.-Adolf-Martens-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Fischerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Herrenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Hofstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Hollenbek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Seestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    },
+    {
+      "street": "Ziegelei",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6675,
+          53.6998
+        ]
+      }
+    }
+  ]
+}

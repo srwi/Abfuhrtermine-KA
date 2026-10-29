@@ -1,0 +1,275 @@
+{
+  "generatedAt": "2026-10-29T15:59:46.018Z",
+  "streets": [
+    {
+      "street": "Achterhoff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Alte Landstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "An der Chaussee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "An der Moorkuhle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Bergkoppel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Birkenwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Braaker Bogen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Braaker Grund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Braaker Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Brookstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Fürstredder",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Heerdestieg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Heermoorweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Höhenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Ihlendiek",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Im Dorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Matthäus-Berg-Ring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Mittelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Op de Loh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Röthbargweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Röthwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Schmiedestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Schwarzer Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Spötzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    },
+    {
+      "street": "Waldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383,
+          53.5995
+        ]
+      }
+    }
+  ]
+}
