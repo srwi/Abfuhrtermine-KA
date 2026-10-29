@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:21:21.684Z",
+  "streets": [
+    {
+      "street": "Kraasa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2935,
+          50.978
+        ]
+      }
+    }
+  ]
+}

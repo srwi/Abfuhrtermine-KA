@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:24:27.493Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Kuhfrass",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3889,
+          50.7634
+        ]
+      }
+    }
+  ]
+}

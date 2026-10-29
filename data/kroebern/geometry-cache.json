@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:21:55.231Z",
+  "streets": [
+    {
+      "street": "Kröbern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3547,
+          51.0009
+        ]
+      }
+    }
+  ]
+}

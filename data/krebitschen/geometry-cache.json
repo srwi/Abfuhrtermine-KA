@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:21:34.984Z",
+  "streets": [
+    {
+      "street": "Krebitschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3559,
+          50.9834
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T06:21:14.588Z",
+  "streets": [
+    {
+      "street": "Ebersbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5171,
+          52.6401
+        ]
+      }
+    },
+    {
+      "street": "Grosskötz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5171,
+          52.6401
+        ]
+      }
+    },
+    {
+      "street": "Kleinkötz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5171,
+          52.6401
+        ]
+      }
+    },
+    {
+      "street": "Kötz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5171,
+          52.6401
+        ]
+      }
+    },
+    {
+      "street": "Riedweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5171,
+          52.6401
+        ]
+      }
+    }
+  ]
+}

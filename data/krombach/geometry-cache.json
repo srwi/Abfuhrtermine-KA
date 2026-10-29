@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:22:09.576Z",
+  "streets": [
+    {
+      "street": "Krombach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0675,
+          50.26
+        ]
+      }
+    }
+  ]
+}

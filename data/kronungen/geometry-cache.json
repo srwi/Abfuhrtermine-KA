@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:23:21.095Z",
+  "streets": [
+    {
+      "street": "Kronungen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1442,
+          50.0839
+        ]
+      }
+    }
+  ]
+}

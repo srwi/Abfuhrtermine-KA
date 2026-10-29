@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:22:02.014Z",
+  "streets": [
+    {
+      "street": "SOK-Krölpa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5385,
+          50.6774
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:21:48.605Z",
+  "streets": [
+    {
+      "street": "Kriebitzsch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3332,
+          51.0235
+        ]
+      }
+    }
+  ]
+}
