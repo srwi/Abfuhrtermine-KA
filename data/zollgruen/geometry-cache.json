@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:25:52.751Z",
+  "streets": [
+    {
+      "street": "SOK-Zollgrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8302,
+          50.5142
+        ]
+      }
+    }
+  ]
+}

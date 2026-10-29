@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:26:52.468Z",
+  "streets": [
+    {
+      "street": "SOK-Zschachenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5395,
+          50.5021
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:27:03.586Z",
+  "streets": [
+    {
+      "street": "Zschaiga",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4878,
+          50.9376
+        ]
+      }
+    }
+  ]
+}

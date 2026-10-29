@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T10:25:30.129Z",
+  "streets": [
+    {
+      "street": "Dattenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3988,
+          48.6524
+        ]
+      }
+    },
+    {
+      "street": "Reistingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3988,
+          48.6524
+        ]
+      }
+    },
+    {
+      "street": "Ziertheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3988,
+          48.6524
+        ]
+      }
+    }
+  ]
+}

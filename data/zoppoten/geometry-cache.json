@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:26:03.188Z",
+  "streets": [
+    {
+      "street": "SOK-Zoppoten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6979,
+          50.4909
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:25:00.939Z",
+  "streets": [
+    {
+      "street": "SOK-Ziegenrück",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6498,
+          50.6075
+        ]
+      }
+    }
+  ]
+}

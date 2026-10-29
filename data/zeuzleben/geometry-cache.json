@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:24:38.361Z",
+  "streets": [
+    {
+      "street": "Zeuzleben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0769,
+          49.9758
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:24:13.849Z",
+  "streets": [
+    {
+      "street": "SOK-Zella",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5436,
+          28.551
+        ]
+      }
+    }
+  ]
+}
