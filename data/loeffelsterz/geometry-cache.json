@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:39:20.825Z",
+  "streets": [
+    {
+      "street": "Löffelsterz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6573,
+          50.9299
+        ]
+      }
+    }
+  ]
+}

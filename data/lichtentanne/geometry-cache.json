@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T06:38:12.823Z",
+  "streets": [
+    {
+      "street": "Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4259,
+          50.6926
+        ]
+      }
+    },
+    {
+      "street": "Ort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4259,
+          50.6926
+        ]
+      }
+    }
+  ]
+}

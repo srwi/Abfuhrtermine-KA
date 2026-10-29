@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:38:48.839Z",
+  "streets": [
+    {
+      "street": "SOK-Linda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5508,
+          39.1277
+        ]
+      }
+    }
+  ]
+}

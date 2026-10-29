@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:38:40.619Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Limbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.25,
+          50.5833
+        ]
+      }
+    }
+  ]
+}

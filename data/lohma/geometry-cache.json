@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:39:41.272Z",
+  "streets": [
+    {
+      "street": "Lohma (Langenleuba-Ndh.)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.852,
+          50.6117
+        ]
+      }
+    }
+  ]
+}

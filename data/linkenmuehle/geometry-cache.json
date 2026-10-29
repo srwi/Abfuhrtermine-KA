@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:39:02.582Z",
+  "streets": [
+    {
+      "street": "SOK-Linkenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2948,
+          49.6049
+        ]
+      }
+    }
+  ]
+}

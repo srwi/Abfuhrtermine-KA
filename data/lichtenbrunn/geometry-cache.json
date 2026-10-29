@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:37:12.694Z",
+  "streets": [
+    {
+      "street": "SOK-Lichtenbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6411,
+          50.4218
+        ]
+      }
+    }
+  ]
+}

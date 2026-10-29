@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:38:22.454Z",
+  "streets": [
+    {
+      "street": "SOK-Liebengrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6463,
+          50.5621
+        ]
+      }
+    }
+  ]
+}

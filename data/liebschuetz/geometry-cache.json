@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:38:31.651Z",
+  "streets": [
+    {
+      "street": "SOK-Liebschütz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6469,
+          50.5715
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:39:12.018Z",
+  "streets": [
+    {
+      "street": "Löbichau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2637,
+          50.8938
+        ]
+      }
+    }
+  ]
+}
