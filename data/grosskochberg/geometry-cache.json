@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:37:17.257Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Grosskochberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3558,
+          50.7749
+        ]
+      }
+    }
+  ]
+}

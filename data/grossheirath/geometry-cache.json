@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T05:36:49.817Z",
+  "streets": [
+    {
+      "street": "Buchenrod",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9505,
+          50.176
+        ]
+      }
+    },
+    {
+      "street": "Erlesmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9505,
+          50.176
+        ]
+      }
+    },
+    {
+      "street": "Gossenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9505,
+          50.176
+        ]
+      }
+    },
+    {
+      "street": "Grossheirath",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9505,
+          50.176
+        ]
+      }
+    },
+    {
+      "street": "Neuses a. d. Eichen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9505,
+          50.176
+        ]
+      }
+    },
+    {
+      "street": "Rossach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9505,
+          50.176
+        ]
+      }
+    },
+    {
+      "street": "Watzendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9505,
+          50.176
+        ]
+      }
+    }
+  ]
+}
