@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:56:15.666Z",
+  "streets": [
+    {
+      "street": "Holzhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0968,
+          48.223
+        ]
+      }
+    }
+  ]
+}

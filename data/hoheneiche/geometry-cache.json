@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:54:43.496Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Hoheneiche",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5974,
+          52.574
+        ]
+      }
+    }
+  ]
+}

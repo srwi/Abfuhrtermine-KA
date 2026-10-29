@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:56:33.550Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Horba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1244,
+          50.6805
+        ]
+      }
+    }
+  ]
+}

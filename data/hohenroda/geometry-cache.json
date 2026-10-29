@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:55:43.108Z",
+  "streets": [
+    {
+      "street": "Hohenroda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4283,
+          51.4988
+        ]
+      }
+    }
+  ]
+}

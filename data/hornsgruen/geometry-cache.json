@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:56:43.235Z",
+  "streets": [
+    {
+      "street": "SOK-Hornsgrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5789,
+          50.4306
+        ]
+      }
+    }
+  ]
+}

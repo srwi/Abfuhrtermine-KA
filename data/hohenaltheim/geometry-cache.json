@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-10-29T05:54:19.197Z",
+  "streets": [
+    {
+      "street": "Frohnmühle",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.5243486,
+              48.7926987
+            ],
+            [
+              10.5241526,
+              48.7928247
+            ]
+          ],
+          [
+            [
+              10.5249849,
+              48.7923648
+            ],
+            [
+              10.5243486,
+              48.7926987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Ganzenmühle",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5146367,
+            48.7897225
+          ],
+          [
+            10.5142636,
+            48.7898019
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hohenaltheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5349,
+          48.784
+        ]
+      }
+    },
+    {
+      "street": "Karlshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5349,
+          48.784
+        ]
+      }
+    },
+    {
+      "street": "Mühlauhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5349,
+          48.784
+        ]
+      }
+    },
+    {
+      "street": "Niederaltheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5349,
+          48.784
+        ]
+      }
+    },
+    {
+      "street": "Schellenhof",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5254476,
+            48.7947534
+          ],
+          [
+            10.5256526,
+            48.7948058
+          ],
+          [
+            10.5257374,
+            48.7948807
+          ],
+          [
+            10.5256996,
+            48.7949858
+          ],
+          [
+            10.5255988,
+            48.7950688
+          ],
+          [
+            10.5257977,
+            48.7951653
+          ],
+          [
+            10.5267164,
+            48.7953408
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Weiherhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5349,
+          48.784
+        ]
+      }
+    }
+  ]
+}

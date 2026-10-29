@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:56:24.838Z",
+  "streets": [
+    {
+      "street": "Hoppachshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3004,
+          50.1188
+        ]
+      }
+    }
+  ]
+}

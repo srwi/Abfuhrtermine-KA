@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:55:52.018Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Hohenwarte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4833,
+          50.6
+        ]
+      }
+    }
+  ]
+}
