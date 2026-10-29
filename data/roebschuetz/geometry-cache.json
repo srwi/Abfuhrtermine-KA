@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:00:41.410Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Röbschütz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42,
+          51.123
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "generatedAt": "2026-10-29T08:00:23.212Z",
+  "streets": [
+    {
+      "street": "Aichet",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Aicheter Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Albanberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Am Bergfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Am Schelmberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Bergmeierstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Bergstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Bieberstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Birkenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Buch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Buchetweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Diepoltskirchener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Döding",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Eglsöd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Falkenberger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Feriendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Feuerhausweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Flurstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Gamsenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Gangkofener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Gmoastr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Grammetsöd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Greinsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Grub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Hangersöd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Hangweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Heckenwies",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Heuwies",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Hinterhag",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Hochweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Hochwimm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Holzhäusl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Irlach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Kimperting",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Kirchplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Lanz-Leo-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Lindgraben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Loherweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Massinger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Mecklweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Oberellbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Oberrohrbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Orading",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Ortsstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Rattenbacher Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Reicheneibacher Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Rimbacher Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Rohrbacher Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Rothenhag",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Sallacher Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Schelmbergstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Schmidsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Senftlberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Sommerschneid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Spiegelreut",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Starzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Taufkirchener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Ulrichstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Unterellbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Utting",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Vogging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Wagnerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Waldstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Wimpersing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Wimpersinger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    },
+    {
+      "street": "Wirtsstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9519,
+          47.8282
+        ]
+      }
+    }
+  ]
+}

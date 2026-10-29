@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:00:51.669Z",
+  "streets": [
+    {
+      "street": "SOK-Rockendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5205,
+          50.6728
+        ]
+      }
+    }
+  ]
+}

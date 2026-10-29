@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T07:58:34.198Z",
+  "streets": [
+    {
+      "street": "Harthausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45,
+          49.0667
+        ]
+      }
+    },
+    {
+      "street": "Lüsshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45,
+          49.0667
+        ]
+      }
+    },
+    {
+      "street": "Remshart",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45,
+          49.0667
+        ]
+      }
+    },
+    {
+      "street": "Rettenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45,
+          49.0667
+        ]
+      }
+    }
+  ]
+}

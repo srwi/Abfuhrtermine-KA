@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-10-29T08:00:30.653Z",
+  "streets": [
+    {
+      "street": "Rimsting",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3379978,
+            47.8786364
+          ],
+          [
+            12.3379127,
+            47.8785077
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:59:58.116Z",
+  "streets": [
+    {
+      "street": "Riekofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          48.9167
+        ]
+      }
+    }
+  ]
+}

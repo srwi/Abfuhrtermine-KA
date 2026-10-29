@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:01:16.221Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Roda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8589,
+          37.7718
+        ]
+      }
+    }
+  ]
+}
