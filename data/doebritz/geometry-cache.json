@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:32:52.628Z",
+  "streets": [
+    {
+      "street": "SOK-Döbritz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6404,
+          50.6944
+        ]
+      }
+    }
+  ]
+}

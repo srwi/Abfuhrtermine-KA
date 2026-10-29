@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:32:08.705Z",
+  "streets": [
+    {
+      "street": "SOK-Dobian",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5214,
+          50.6532
+        ]
+      }
+    }
+  ]
+}

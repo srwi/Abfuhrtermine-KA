@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:32:43.014Z",
+  "streets": [
+    {
+      "street": "Dobraschütz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2843,
+          50.9716
+        ]
+      }
+    }
+  ]
+}

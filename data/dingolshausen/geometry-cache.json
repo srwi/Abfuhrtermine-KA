@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:29:25.916Z",
+  "streets": [
+    {
+      "street": "Dingolshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3903,
+          49.9071
+        ]
+      }
+    }
+  ]
+}

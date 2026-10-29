@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:31:59.357Z",
+  "streets": [
+    {
+      "street": "SOK-Dobareuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8565,
+          50.4265
+        ]
+      }
+    }
+  ]
+}

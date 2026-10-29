@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:33:02.237Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Döhlen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0164,
+          50.7164
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:31:18.519Z",
+  "streets": [
+    {
+      "street": "Dippelsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4918,
+          50.9487
+        ]
+      }
+    }
+  ]
+}

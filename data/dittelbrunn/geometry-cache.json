@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:31:39.690Z",
+  "streets": [
+    {
+      "street": "Dittelbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2197,
+          50.0721
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:32:18.366Z",
+  "streets": [
+    {
+      "street": "Dobitschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2808,
+          50.9573
+        ]
+      }
+    }
+  ]
+}

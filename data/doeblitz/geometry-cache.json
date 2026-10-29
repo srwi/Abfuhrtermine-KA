@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:32:26.755Z",
+  "streets": [
+    {
+      "street": "SOK-Döblitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8294,
+          51.5569
+        ]
+      }
+    }
+  ]
+}
