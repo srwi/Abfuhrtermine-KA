@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:06:16.807Z",
+  "streets": [
+    {
+      "street": "SOK-Birkenhügel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75,
+          50.4333
+        ]
+      }
+    }
+  ]
+}

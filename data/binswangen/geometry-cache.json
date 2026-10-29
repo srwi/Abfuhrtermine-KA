@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:06:02.799Z",
+  "streets": [
+    {
+      "street": "Binswangen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6425,
+          48.558
+        ]
+      }
+    }
+  ]
+}

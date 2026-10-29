@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:06:09.728Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Birkenheide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2619,
+          49.4814
+        ]
+      }
+    }
+  ]
+}
