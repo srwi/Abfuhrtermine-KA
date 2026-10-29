@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:47:13.428Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Heilingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.461,
+          50.7711
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:47:23.643Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Heilsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5795,
+          54.1259
+        ]
+      }
+    }
+  ]
+}

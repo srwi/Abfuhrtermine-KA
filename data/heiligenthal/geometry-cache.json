@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:47:03.534Z",
+  "streets": [
+    {
+      "street": "Heiligenthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2427,
+          53.927
+        ]
+      }
+    }
+  ]
+}
