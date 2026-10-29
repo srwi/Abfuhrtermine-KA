@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:03:32.847Z",
+  "streets": [
+    {
+      "street": "SOK-Juchhöh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1964,
+          51.1118
+        ]
+      }
+    }
+  ]
+}

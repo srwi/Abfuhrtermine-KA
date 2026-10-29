@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:05:08.028Z",
+  "streets": [
+    {
+      "street": "Kaisten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0434,
+          47.5416
+        ]
+      }
+    }
+  ]
+}

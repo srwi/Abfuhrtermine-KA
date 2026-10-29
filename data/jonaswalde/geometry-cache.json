@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:03:23.501Z",
+  "streets": [
+    {
+      "street": "Jonaswalde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3,
+          50.8333
+        ]
+      }
+    }
+  ]
+}

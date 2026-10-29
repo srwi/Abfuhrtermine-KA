@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T06:02:55.683Z",
+  "streets": [
+    {
+      "street": "Breunsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9068,
+          48.7363
+        ]
+      }
+    },
+    {
+      "street": "Johannesberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9068,
+          48.7363
+        ]
+      }
+    },
+    {
+      "street": "Oberafferbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9068,
+          48.7363
+        ]
+      }
+    },
+    {
+      "street": "Rückersbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9068,
+          48.7363
+        ]
+      }
+    },
+    {
+      "street": "Steinbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9068,
+          48.7363
+        ]
+      }
+    },
+    {
+      "street": "Sternberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9068,
+          48.7363
+        ]
+      }
+    }
+  ]
+}

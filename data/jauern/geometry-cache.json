@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:02:07.541Z",
+  "streets": [
+    {
+      "street": "Jauern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3776,
+          50.9489
+        ]
+      }
+    }
+  ]
+}

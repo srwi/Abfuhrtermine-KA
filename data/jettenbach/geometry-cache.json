@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T06:02:37.621Z",
+  "streets": [
+    {
+      "street": "Jettenbach Rest",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5572,
+          49.5348
+        ]
+      }
+    },
+    {
+      "street": "Pfaffenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5572,
+          49.5348
+        ]
+      }
+    }
+  ]
+}
