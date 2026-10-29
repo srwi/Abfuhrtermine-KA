@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:09:25.251Z",
+  "streets": [
+    {
+      "street": "Stadtlauringen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3616,
+          50.1871
+        ]
+      }
+    }
+  ]
+}

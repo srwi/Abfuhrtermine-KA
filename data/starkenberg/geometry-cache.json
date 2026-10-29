@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:10:25.681Z",
+  "streets": [
+    {
+      "street": "Starkenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3101,
+          50.9839
+        ]
+      }
+    }
+  ]
+}

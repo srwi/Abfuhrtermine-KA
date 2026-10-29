@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:10:00.049Z",
+  "streets": [
+    {
+      "street": "Stammheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9148,
+          50.3112
+        ]
+      }
+    }
+  ]
+}

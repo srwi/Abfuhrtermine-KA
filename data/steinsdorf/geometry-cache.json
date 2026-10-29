@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:11:45.430Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Steinsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.05,
+          50.75
+        ]
+      }
+    }
+  ]
+}

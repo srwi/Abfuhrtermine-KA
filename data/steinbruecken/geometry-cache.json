@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:10:43.112Z",
+  "streets": [
+    {
+      "street": "SOK-Steinbrücken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0294,
+          49.5364
+        ]
+      }
+    }
+  ]
+}

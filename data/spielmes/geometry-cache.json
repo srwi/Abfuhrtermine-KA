@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:09:12.777Z",
+  "streets": [
+    {
+      "street": "SOK-Spielmes",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9294,
+          50.4678
+        ]
+      }
+    }
+  ]
+}
