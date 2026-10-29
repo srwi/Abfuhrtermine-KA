@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T06:27:38.410Z",
+  "streets": [
+    {
+      "street": "Glöttweng",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5242,
+          48.4344
+        ]
+      }
+    },
+    {
+      "street": "Landensberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5242,
+          48.4344
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:25:33.200Z",
+  "streets": [
+    {
+      "street": "SOK-Külmla",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6783,
+          50.6213
+        ]
+      }
+    }
+  ]
+}

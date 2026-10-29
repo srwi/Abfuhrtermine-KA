@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:24:37.946Z",
+  "streets": [
+    {
+      "street": "SOK-Kulm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1137,
+          47.31
+        ]
+      }
+    }
+  ]
+}

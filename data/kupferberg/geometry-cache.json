@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T06:26:08.190Z",
+  "streets": [
+    {
+      "street": "Dörnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5776,
+          50.1396
+        ]
+      }
+    },
+    {
+      "street": "Kupferberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5776,
+          50.1396
+        ]
+      }
+    },
+    {
+      "street": "Schallerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5776,
+          50.1396
+        ]
+      }
+    },
+    {
+      "street": "Schmölz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5776,
+          50.1396
+        ]
+      }
+    },
+    {
+      "street": "Unterbirkenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5776,
+          50.1396
+        ]
+      }
+    }
+  ]
+}

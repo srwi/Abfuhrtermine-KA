@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:27:20.208Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Laasen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9185,
+          46.7759
+        ]
+      }
+    }
+  ]
+}

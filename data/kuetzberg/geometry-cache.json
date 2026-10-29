@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:27:11.169Z",
+  "streets": [
+    {
+      "street": "Kützberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1147,
+          50.0836
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T06:27:02.863Z",
+  "streets": [
+    {
+      "street": "Immenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1198,
+          48.5229
+        ]
+      }
+    },
+    {
+      "street": "Jettenburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1198,
+          48.5229
+        ]
+      }
+    },
+    {
+      "street": "Kusterdingen-Ort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1198,
+          48.5229
+        ]
+      }
+    },
+    {
+      "street": "Mähringen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1198,
+          48.5229
+        ]
+      }
+    },
+    {
+      "street": "Wankheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1198,
+          48.5229
+        ]
+      }
+    }
+  ]
+}

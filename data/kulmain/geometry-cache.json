@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-10-29T06:24:47.327Z",
+  "streets": [
+    {
+      "street": "Aign",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Altensteinreuth",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9287457,
+            49.8905168
+          ],
+          [
+            11.9287398,
+            49.8906151
+          ],
+          [
+            11.9287395,
+            49.8906404
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Armesberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Babilon",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Erdenweis",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Frankenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Hofstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Kulmain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Lenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Neugrünberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Oberbruck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Oberwappenöst",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9350343,
+            49.9082047
+          ],
+          [
+            11.935091,
+            49.9082544
+          ],
+          [
+            11.9352892,
+            49.9083512
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Ölbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Rothenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Unterwappenöst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Witzlasreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Wunschenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Ziegelhütte (Kulmain)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    },
+    {
+      "street": "Zinst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          49.9
+        ]
+      }
+    }
+  ]
+}

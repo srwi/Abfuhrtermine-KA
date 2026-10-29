@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:25:41.624Z",
+  "streets": [
+    {
+      "street": "Kummer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3854,
+          53.3293
+        ]
+      }
+    }
+  ]
+}
