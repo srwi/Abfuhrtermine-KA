@@ -1,0 +1,235 @@
+{
+  "generatedAt": "2026-10-29T04:08:31.621Z",
+  "streets": [
+    {
+      "street": "Bissingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Buggenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Burgmagerbein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Diemantstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Fronhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Gaishardt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Göllingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Hochdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Hochstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Kesselostheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Leiheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Leitenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Oberliezheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Obermagerbein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Oberringingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Reimertshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Stillnau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Thalheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Tuifstädt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Unterbissingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Unterringingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Warnhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    },
+    {
+      "street": "Zoltingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4915,
+          48.5992
+        ]
+      }
+    }
+  ]
+}

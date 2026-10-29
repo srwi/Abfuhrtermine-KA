@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:09:16.684Z",
+  "streets": [
+    {
+      "street": "SOK-Blintendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.806,
+          50.4478
+        ]
+      }
+    }
+  ]
+}

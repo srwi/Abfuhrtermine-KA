@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:08:58.141Z",
+  "streets": [
+    {
+      "street": "SOK-Blankenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.699,
+          50.4021
+        ]
+      }
+    }
+  ]
+}

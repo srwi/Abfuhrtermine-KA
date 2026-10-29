@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:09:47.650Z",
+  "streets": [
+    {
+      "street": "SOK-Bodelwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6222,
+          50.6875
+        ]
+      }
+    }
+  ]
+}
