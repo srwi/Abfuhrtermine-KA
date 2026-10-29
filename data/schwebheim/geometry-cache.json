@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:58:13.018Z",
+  "streets": [
+    {
+      "street": "Schwebheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2478,
+          49.9904
+        ]
+      }
+    }
+  ]
+}

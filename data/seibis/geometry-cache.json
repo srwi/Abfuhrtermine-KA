@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:59:26.432Z",
+  "streets": [
+    {
+      "street": "SOK-Seibis",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.639,
+          50.3987
+        ]
+      }
+    }
+  ]
+}

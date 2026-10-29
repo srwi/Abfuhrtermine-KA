@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:00:50.542Z",
+  "streets": [
+    {
+      "street": "SOK-Seubtendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8089,
+          50.4732
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:00:11.823Z",
+  "streets": [
+    {
+      "street": "Sennfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2599,
+          50.039
+        ]
+      }
+    }
+  ]
+}

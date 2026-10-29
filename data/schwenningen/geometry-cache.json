@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-10-29T08:58:45.054Z",
+  "streets": [
+    {
+      "street": "Dettenhart",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Fischweitschwaig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Gremheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Gunkelschwaige",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Joasschwaig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Neuschwaig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Ruppenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Ruppenschwaig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Schwenningen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    },
+    {
+      "street": "Stoffelhansenschwaig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          48.1
+        ]
+      }
+    }
+  ]
+}

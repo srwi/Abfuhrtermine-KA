@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:58:24.298Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Schweinbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4225,
+          48.3403
+        ]
+      }
+    }
+  ]
+}

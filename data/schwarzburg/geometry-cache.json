@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:57:52.514Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Schwarzburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1919,
+          50.643
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T08:59:50.507Z",
+  "streets": [
+    {
+      "street": "Selka",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3102,
+          50.8752
+        ]
+      }
+    }
+  ]
+}
