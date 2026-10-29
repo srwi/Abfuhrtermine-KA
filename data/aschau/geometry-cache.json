@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:42:50.946Z",
+  "streets": [
+    {
+      "street": "Aschau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          48.1985
+        ]
+      }
+    }
+  ]
+}

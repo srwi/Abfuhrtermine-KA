@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:41:32.907Z",
+  "streets": [
+    {
+      "street": "SOK-Arlas",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7134,
+          50.4171
+        ]
+      }
+    }
+  ]
+}

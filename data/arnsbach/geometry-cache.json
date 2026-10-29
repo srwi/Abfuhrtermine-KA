@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:41:42.756Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Arnsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2467,
+          51.0541
+        ]
+      }
+    }
+  ]
+}
