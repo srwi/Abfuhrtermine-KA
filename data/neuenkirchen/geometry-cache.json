@@ -1,0 +1,1679 @@
+{
+  "generatedAt": "2026-10-29T17:41:27.225Z",
+  "streets": [
+    {
+      "street": "Ackerpool",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Ägypten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Alte Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Alte Poststr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Am Gehn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Am Kanal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Am Schulhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Astrid-Lindgren-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Harenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Auf der Haar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Auf der Westerlage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Augustenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Barenfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Bockhorststrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Bramscher Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Brockamps Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Brookweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Bruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Bückershof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Bühner",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Bur",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Dechant-Starp-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Dobbelhofskamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Dönnege",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Elisabethstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Enzel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Erlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Feldkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Fressholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Friedrich-Ebert-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Fürstenauer Damm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Grenzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Grüner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Haarmeyers Kamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Harenkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Hemmelkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Hermann-Rothert-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Höckeler Damm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Hülskamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Im Birken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Im Dieke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Im Esch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Im Hülsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Im Kölzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Im Moore",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Im Nihen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "In den Wellen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Industriestr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Jivitsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Kirchweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Kitzerostr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Kleiner Sundern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Kohlenbruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Kolpingstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Kölschenmoor",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Konrad-Adenauer-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Langen Hülsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Lechtruper Torfweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Limberger Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Lindenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Linterner Schulstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Lünort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Masurenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Mettinger Str.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8087674,
+            52.3750913
+          ],
+          [
+            7.8112397,
+            52.3767552
+          ],
+          [
+            7.8118398,
+            52.3771525
+          ],
+          [
+            7.8131351,
+            52.378033
+          ],
+          [
+            7.8139199,
+            52.3785617
+          ],
+          [
+            7.8144225,
+            52.3789052
+          ],
+          [
+            7.8155803,
+            52.3796754
+          ],
+          [
+            7.8158123,
+            52.3798053
+          ],
+          [
+            7.8160798,
+            52.3799341
+          ],
+          [
+            7.8170774,
+            52.3802856
+          ],
+          [
+            7.8175393,
+            52.380446
+          ],
+          [
+            7.8178868,
+            52.38058
+          ],
+          [
+            7.8182373,
+            52.3806654
+          ],
+          [
+            7.8186227,
+            52.3807402
+          ],
+          [
+            7.8193607,
+            52.3808735
+          ],
+          [
+            7.8202272,
+            52.3810453
+          ],
+          [
+            7.8206205,
+            52.3811261
+          ],
+          [
+            7.8208158,
+            52.3811819
+          ],
+          [
+            7.8210096,
+            52.3812572
+          ],
+          [
+            7.8212216,
+            52.3813728
+          ],
+          [
+            7.8215784,
+            52.3815705
+          ],
+          [
+            7.8217804,
+            52.3816967
+          ],
+          [
+            7.8225059,
+            52.3821143
+          ],
+          [
+            7.8227253,
+            52.3822746
+          ],
+          [
+            7.8229711,
+            52.3824854
+          ],
+          [
+            7.8232977,
+            52.3827904
+          ],
+          [
+            7.8243404,
+            52.3837899
+          ],
+          [
+            7.8245819,
+            52.384034
+          ],
+          [
+            7.8252418,
+            52.3846375
+          ],
+          [
+            7.8262133,
+            52.3855636
+          ],
+          [
+            7.8266952,
+            52.386023
+          ],
+          [
+            7.8282927,
+            52.3874967
+          ],
+          [
+            7.8286781,
+            52.3879415
+          ],
+          [
+            7.8290506,
+            52.388513
+          ],
+          [
+            7.8290813,
+            52.3885507
+          ],
+          [
+            7.8292444,
+            52.3888261
+          ],
+          [
+            7.8300083,
+            52.38994
+          ],
+          [
+            7.8304206,
+            52.3906429
+          ],
+          [
+            7.8304437,
+            52.3906823
+          ],
+          [
+            7.8305588,
+            52.3908785
+          ],
+          [
+            7.8313748,
+            52.3918115
+          ],
+          [
+            7.8315045,
+            52.3919442
+          ],
+          [
+            7.8316485,
+            52.3920915
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Moorkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Moorpool",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Moorstrasse",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8087674,
+            52.3750913
+          ],
+          [
+            7.808695,
+            52.3751295
+          ],
+          [
+            7.808495,
+            52.3751979
+          ],
+          [
+            7.8076185,
+            52.3755167
+          ],
+          [
+            7.8044504,
+            52.3765792
+          ],
+          [
+            7.8013281,
+            52.3776586
+          ],
+          [
+            7.8005524,
+            52.3779204
+          ],
+          [
+            7.800356,
+            52.3779909
+          ],
+          [
+            7.7981308,
+            52.3787888
+          ],
+          [
+            7.7977092,
+            52.3789261
+          ],
+          [
+            7.7973349,
+            52.379048
+          ],
+          [
+            7.7972849,
+            52.3790643
+          ],
+          [
+            7.7970724,
+            52.3791378
+          ],
+          [
+            7.7961505,
+            52.3794383
+          ],
+          [
+            7.7957485,
+            52.3795739
+          ],
+          [
+            7.7955109,
+            52.3796585
+          ],
+          [
+            7.7951293,
+            52.3798088
+          ],
+          [
+            7.7942984,
+            52.3801417
+          ],
+          [
+            7.7940867,
+            52.3802308
+          ],
+          [
+            7.7918069,
+            52.3811571
+          ],
+          [
+            7.7914125,
+            52.3813078
+          ],
+          [
+            7.7909615,
+            52.3815003
+          ],
+          [
+            7.7869059,
+            52.3831762
+          ],
+          [
+            7.7847263,
+            52.3840322
+          ],
+          [
+            7.7844917,
+            52.3841288
+          ],
+          [
+            7.7843912,
+            52.3841702
+          ],
+          [
+            7.7842346,
+            52.3842346
+          ],
+          [
+            7.7819453,
+            52.3851771
+          ],
+          [
+            7.7817498,
+            52.3852576
+          ],
+          [
+            7.7815659,
+            52.3853325
+          ],
+          [
+            7.7809039,
+            52.3856022
+          ],
+          [
+            7.78048,
+            52.3857748
+          ],
+          [
+            7.7804052,
+            52.3858053
+          ],
+          [
+            7.7797332,
+            52.3860791
+          ],
+          [
+            7.7795884,
+            52.3861381
+          ],
+          [
+            7.7795228,
+            52.3861648
+          ],
+          [
+            7.7792741,
+            52.3862661
+          ],
+          [
+            7.7784189,
+            52.3866144
+          ],
+          [
+            7.7779765,
+            52.3867946
+          ],
+          [
+            7.7769281,
+            52.3872327
+          ],
+          [
+            7.7765785,
+            52.3873711
+          ],
+          [
+            7.7762251,
+            52.387511
+          ],
+          [
+            7.7759736,
+            52.3876105
+          ],
+          [
+            7.7754569,
+            52.3878176
+          ],
+          [
+            7.7747654,
+            52.3880948
+          ],
+          [
+            7.77416,
+            52.3883375
+          ],
+          [
+            7.7734312,
+            52.3886297
+          ],
+          [
+            7.7731546,
+            52.3887406
+          ],
+          [
+            7.7731351,
+            52.3887484
+          ],
+          [
+            7.772624,
+            52.3889533
+          ],
+          [
+            7.7725425,
+            52.388986
+          ],
+          [
+            7.7708818,
+            52.3896517
+          ],
+          [
+            7.7706617,
+            52.3897399
+          ],
+          [
+            7.7702536,
+            52.3899059
+          ],
+          [
+            7.7690297,
+            52.390397
+          ],
+          [
+            7.7680424,
+            52.3907932
+          ],
+          [
+            7.7676325,
+            52.3909577
+          ],
+          [
+            7.7674839,
+            52.3910176
+          ],
+          [
+            7.7673114,
+            52.3910839
+          ],
+          [
+            7.7667034,
+            52.3913324
+          ],
+          [
+            7.7658604,
+            52.3916725
+          ],
+          [
+            7.7653081,
+            52.3918953
+          ],
+          [
+            7.7637342,
+            52.3925449
+          ],
+          [
+            7.7630146,
+            52.3928419
+          ],
+          [
+            7.7626522,
+            52.3929914
+          ],
+          [
+            7.7625745,
+            52.3930235
+          ],
+          [
+            7.7614751,
+            52.3934772
+          ],
+          [
+            7.761018,
+            52.3936692
+          ],
+          [
+            7.7605449,
+            52.393868
+          ],
+          [
+            7.7602001,
+            52.3940034
+          ],
+          [
+            7.7600859,
+            52.3940499
+          ],
+          [
+            7.7591876,
+            52.3944155
+          ],
+          [
+            7.7588681,
+            52.3945411
+          ],
+          [
+            7.7585164,
+            52.3946793
+          ],
+          [
+            7.7580624,
+            52.3948578
+          ],
+          [
+            7.7571144,
+            52.3952305
+          ],
+          [
+            7.7570199,
+            52.3952622
+          ],
+          [
+            7.7557583,
+            52.395762
+          ],
+          [
+            7.7552479,
+            52.3959642
+          ],
+          [
+            7.7550034,
+            52.3960603
+          ],
+          [
+            7.7549234,
+            52.3960917
+          ],
+          [
+            7.753967,
+            52.3964677
+          ],
+          [
+            7.7537456,
+            52.3965309
+          ],
+          [
+            7.7535721,
+            52.3965804
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Nienstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Norbertastr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Obstgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Paradies",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Pfarrer-Bartels-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Recker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Rehstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Reyeringsort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Riedenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Roter Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Schöllerhofstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Schulten Wiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Schultenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Schwalbenstert",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Schwester-Maximilia-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Schwieteringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Selma-Lagerlöf-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Sönnkenort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Südmerzener Moorweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Sunderkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Tauschlag",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Tellkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Theodor-Heuss-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Ueffelner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Uhlenbrock",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Unterm Esch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vinte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vinter Dorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vinter Dorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vinter Höhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vinter Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vinter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Voegedeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vogelknapp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Voltlager Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Von-Galen-Platz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Von-Galen-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vor den Höfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vorm Esch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Vornholtstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Weeser Damm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Westerlage",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Winterdorfstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Zum Farwig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Zum Naturschutzgebiet",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    },
+    {
+      "street": "Zur Vinter Höhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807,
+          52.3735
+        ]
+      }
+    }
+  ]
+}
