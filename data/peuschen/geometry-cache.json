@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:31:17.047Z",
+  "streets": [
+    {
+      "street": "SOK-Peuschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6448,
+          50.6589
+        ]
+      }
+    }
+  ]
+}

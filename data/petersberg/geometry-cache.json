@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-10-29T07:30:24.051Z",
+  "streets": [
+    {
+      "street": "Almendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Böckels",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Götzenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Horwieden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Marbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Margretenhaun",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Melzdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Petersberg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.0026469,
+            51.5585101
+          ],
+          [
+            12.0048453,
+            51.556263
+          ],
+          [
+            12.0049392,
+            51.5561215
+          ],
+          [
+            12.0037166,
+            51.5563656
+          ],
+          [
+            12.0031962,
+            51.5566357
+          ],
+          [
+            12.0029807,
+            51.5567797
+          ],
+          [
+            12.002692,
+            51.5569726
+          ],
+          [
+            12.0025857,
+            51.5571377
+          ],
+          [
+            12.0024559,
+            51.5573394
+          ],
+          [
+            12.0023433,
+            51.5578931
+          ],
+          [
+            12.0023916,
+            51.5584868
+          ],
+          [
+            12.0025078,
+            51.5585408
+          ],
+          [
+            12.0026469,
+            51.5585101
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Rex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Steinau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Steinhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Stöckels",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    },
+    {
+      "street": "Untergötzenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9533,
+          51.5965
+        ]
+      }
+    }
+  ]
+}

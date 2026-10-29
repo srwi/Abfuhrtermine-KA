@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:29:54.203Z",
+  "streets": [
+    {
+      "street": "Pentling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0587,
+          48.9834
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:31:35.708Z",
+  "streets": [
+    {
+      "street": "Pfakofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2274,
+          48.8582
+        ]
+      }
+    }
+  ]
+}

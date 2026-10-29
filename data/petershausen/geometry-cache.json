@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-10-29T07:30:51.388Z",
+  "streets": [
+    {
+      "street": "Glonnbercha",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4706,
+          48.4097
+        ]
+      }
+    },
+    {
+      "street": "Göppertshausen",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4832133,
+            48.4194482
+          ],
+          [
+            11.483408,
+            48.4193503
+          ],
+          [
+            11.4837424,
+            48.4191142
+          ],
+          [
+            11.4841989,
+            48.4187919
+          ],
+          [
+            11.4845425,
+            48.4185492
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Mittermarbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4706,
+          48.4097
+        ]
+      }
+    },
+    {
+      "street": "Obermarbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4706,
+          48.4097
+        ]
+      }
+    },
+    {
+      "street": "Petershausen links der Bahnlinie",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4706,
+          48.4097
+        ]
+      }
+    },
+    {
+      "street": "Petershausen zw. Glonn und Bahnlinie",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4706,
+          48.4097
+        ]
+      }
+    },
+    {
+      "street": "restliche Gemeinde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4706,
+          48.4097
+        ]
+      }
+    },
+    {
+      "street": "Ziegelberg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4551951,
+            48.4013037
+          ],
+          [
+            11.4552268,
+            48.4013211
+          ],
+          [
+            11.4552477,
+            48.4013267
+          ],
+          [
+            11.4557383,
+            48.4014964
+          ],
+          [
+            11.4554976,
+            48.4017691
+          ],
+          [
+            11.4550685,
+            48.4015903
+          ],
+          [
+            11.4550029,
+            48.4016102
+          ],
+          [
+            11.4549195,
+            48.4017334
+          ],
+          [
+            11.454505,
+            48.4015866
+          ],
+          [
+            11.4544738,
+            48.4015755
+          ],
+          [
+            11.4547879,
+            48.4013356
+          ],
+          [
+            11.455082,
+            48.4011604
+          ],
+          [
+            11.4553429,
+            48.4010269
+          ],
+          [
+            11.4553681,
+            48.4010237
+          ],
+          [
+            11.4553704,
+            48.4010437
+          ],
+          [
+            11.4551951,
+            48.4013037
+          ]
+        ]
+      }
+    }
+  ]
+}

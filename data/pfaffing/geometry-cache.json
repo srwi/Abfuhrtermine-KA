@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:31:26.662Z",
+  "streets": [
+    {
+      "street": "Pfaffing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4751,
+          48.018
+        ]
+      }
+    }
+  ]
+}

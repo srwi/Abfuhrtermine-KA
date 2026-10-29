@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:29:34.980Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Paulinzella",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1023,
+          50.7027
+        ]
+      }
+    }
+  ]
+}
