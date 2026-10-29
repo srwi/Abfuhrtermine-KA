@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:03:06.281Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Mötzelbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4056,
+          50.753
+        ]
+      }
+    }
+  ]
+}

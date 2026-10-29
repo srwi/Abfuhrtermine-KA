@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:03:35.608Z",
+  "streets": [
+    {
+      "street": "SOK-Mühlberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2218,
+          51.4345
+        ]
+      }
+    }
+  ]
+}

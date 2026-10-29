@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-10-29T07:03:50.383Z",
+  "streets": [
+    {
+      "street": "Eulenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6,
+          48.9167
+        ]
+      }
+    },
+    {
+      "street": "Faulenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6,
+          48.9167
+        ]
+      }
+    },
+    {
+      "street": "Haid",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6,
+          48.9167
+        ]
+      }
+    },
+    {
+      "street": "Laub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6,
+          48.9167
+        ]
+      }
+    },
+    {
+      "street": "Munningen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6,
+          48.9167
+        ]
+      }
+    },
+    {
+      "street": "Schwörsheim",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6238747,
+            48.9132214
+          ],
+          [
+            10.6238625,
+            48.9132415
+          ],
+          [
+            10.6239854,
+            48.9132739
+          ],
+          [
+            10.6239976,
+            48.9132538
+          ],
+          [
+            10.6238747,
+            48.9132214
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Ziegelmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6,
+          48.9167
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:03:59.955Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Munschwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4734,
+          50.5845
+        ]
+      }
+    }
+  ]
+}

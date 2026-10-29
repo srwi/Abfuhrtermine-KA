@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T07:03:15.059Z",
+  "streets": [
+    {
+      "street": "Dengling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3736,
+          48.8935
+        ]
+      }
+    },
+    {
+      "street": "Mötzing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3736,
+          48.8935
+        ]
+      }
+    },
+    {
+      "street": "Oberhaimbuch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3736,
+          48.8935
+        ]
+      }
+    },
+    {
+      "street": "Schafhöfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3736,
+          48.8935
+        ]
+      }
+    },
+    {
+      "street": "Schönach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3736,
+          48.8935
+        ]
+      }
+    },
+    {
+      "street": "Unterhaimbuch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3736,
+          48.8935
+        ]
+      }
+    }
+  ]
+}

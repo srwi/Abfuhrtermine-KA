@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:02:29.046Z",
+  "streets": [
+    {
+      "street": "SOK-Möschlitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7515,
+          50.5655
+        ]
+      }
+    }
+  ]
+}

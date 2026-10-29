@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T07:02:48.200Z",
+  "streets": [
+    {
+      "street": "Bad Sebastiansweiler",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0542,
+          48.4057
+        ]
+      }
+    },
+    {
+      "street": "Bästenhardt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0542,
+          48.4057
+        ]
+      }
+    },
+    {
+      "street": "Belsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0542,
+          48.4057
+        ]
+      }
+    },
+    {
+      "street": "Mössingen-Stadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0542,
+          48.4057
+        ]
+      }
+    },
+    {
+      "street": "Öschingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0542,
+          48.4057
+        ]
+      }
+    },
+    {
+      "street": "Talheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0542,
+          48.4057
+        ]
+      }
+    }
+  ]
+}

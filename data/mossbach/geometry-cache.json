@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:02:38.567Z",
+  "streets": [
+    {
+      "street": "SOK-Mossbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8167,
+          50.6833
+        ]
+      }
+    }
+  ]
+}

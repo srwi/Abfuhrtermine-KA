@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:06:09.306Z",
+  "streets": [
+    {
+      "street": "Mutzenroth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4018,
+          49.8743
+        ]
+      }
+    }
+  ]
+}
