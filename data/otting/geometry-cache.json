@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T07:27:44.352Z",
+  "streets": [
+    {
+      "street": "Dattenbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8002,
+          48.8725
+        ]
+      }
+    },
+    {
+      "street": "Hentalhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8002,
+          48.8725
+        ]
+      }
+    },
+    {
+      "street": "Otting",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8002,
+          48.8725
+        ]
+      }
+    },
+    {
+      "street": "Weilheimerbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8002,
+          48.8725
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:26:53.465Z",
+  "streets": [
+    {
+      "street": "SOK-Oppurg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6529,
+          50.7107
+        ]
+      }
+    }
+  ]
+}

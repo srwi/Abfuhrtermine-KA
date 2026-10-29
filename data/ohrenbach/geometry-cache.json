@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-10-29T07:25:10.647Z",
+  "streets": [
+    {
+      "street": "Gailshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2101,
+          49.4706
+        ]
+      }
+    },
+    {
+      "street": "Gumpelshofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2101,
+          49.4706
+        ]
+      }
+    },
+    {
+      "street": "Habelsee",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.2455371,
+            49.4627561
+          ],
+          [
+            10.2459415,
+            49.462941
+          ],
+          [
+            10.2465978,
+            49.4632675
+          ],
+          [
+            10.2470296,
+            49.4634822
+          ],
+          [
+            10.2472568,
+            49.4635932
+          ],
+          [
+            10.2478014,
+            49.4638558
+          ],
+          [
+            10.2481922,
+            49.4640329
+          ],
+          [
+            10.2484361,
+            49.4641493
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Oberscheckenbach",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.1862743,
+            49.4981748
+          ],
+          [
+            10.1864137,
+            49.4984441
+          ],
+          [
+            10.1866842,
+            49.4989296
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Ohrenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2101,
+          49.4706
+        ]
+      }
+    },
+    {
+      "street": "Reichardsroth",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.1841191,
+            49.4875478
+          ],
+          [
+            10.1843117,
+            49.4874841
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Seemühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2101,
+          49.4706
+        ]
+      }
+    }
+  ]
+}

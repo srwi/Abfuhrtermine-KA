@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:27:53.919Z",
+  "streets": [
+    {
+      "street": "SOK-Ottmannsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8455,
+          50.7803
+        ]
+      }
+    }
+  ]
+}

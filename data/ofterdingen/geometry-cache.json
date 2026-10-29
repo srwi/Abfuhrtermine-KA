@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:24:41.868Z",
+  "streets": [
+    {
+      "street": "Ofterdingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0333,
+          48.4167
+        ]
+      }
+    }
+  ]
+}
