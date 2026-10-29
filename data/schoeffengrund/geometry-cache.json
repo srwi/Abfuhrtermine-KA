@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T08:27:32.084Z",
+  "streets": [
+    {
+      "street": "Laufdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718,
+          50.4935
+        ]
+      }
+    },
+    {
+      "street": "Niederquembach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718,
+          50.4935
+        ]
+      }
+    },
+    {
+      "street": "Niederwetz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718,
+          50.4935
+        ]
+      }
+    },
+    {
+      "street": "Oberquembach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718,
+          50.4935
+        ]
+      }
+    },
+    {
+      "street": "Oberwetz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718,
+          50.4935
+        ]
+      }
+    },
+    {
+      "street": "Schwalbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718,
+          50.4935
+        ]
+      }
+    }
+  ]
+}
