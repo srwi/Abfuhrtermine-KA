@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:29:53.601Z",
+  "streets": [
+    {
+      "street": "SOK-Laskau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6647,
+          50.6598
+        ]
+      }
+    }
+  ]
+}

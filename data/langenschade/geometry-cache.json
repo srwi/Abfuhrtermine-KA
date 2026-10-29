@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:29:10.180Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Langenschade",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3969,
+          50.6962
+        ]
+      }
+    }
+  ]
+}

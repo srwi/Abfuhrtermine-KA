@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:28:46.802Z",
+  "streets": [
+    {
+      "street": "SOK-Langenorla",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5802,
+          50.7407
+        ]
+      }
+    }
+  ]
+}

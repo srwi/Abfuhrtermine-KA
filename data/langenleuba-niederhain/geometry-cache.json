@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:28:27.160Z",
+  "streets": [
+    {
+      "street": "Langenleuba-Niederhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886,
+          50.9599
+        ]
+      }
+    }
+  ]
+}
