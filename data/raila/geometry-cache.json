@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:48:11.800Z",
+  "streets": [
+    {
+      "street": "SOK-Raila",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7925,
+          50.5181
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:49:22.891Z",
+  "streets": [
+    {
+      "street": "SOK-Rauschengesees",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5261,
+          50.5231
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:48:02.824Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Quittelsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1987,
+          50.6905
+        ]
+      }
+    }
+  ]
+}

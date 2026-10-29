@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:47:53.518Z",
+  "streets": [
+    {
+      "street": "SOK-Quaschwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7,
+          50.6833
+        ]
+      }
+    }
+  ]
+}

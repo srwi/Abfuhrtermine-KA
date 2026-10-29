@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:47:33.526Z",
+  "streets": [
+    {
+      "street": "Pusselsheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3844,
+          49.9837
+        ]
+      }
+    }
+  ]
+}
