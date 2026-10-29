@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:31:30.458Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Allendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6723,
+          51.03
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:31:21.375Z",
+  "streets": [
+    {
+      "street": "Alitzheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3283,
+          49.9363
+        ]
+      }
+    }
+  ]
+}

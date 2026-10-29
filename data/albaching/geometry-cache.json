@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:28:46.900Z",
+  "streets": [
+    {
+      "street": "Albaching",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1107,
+          48.1101
+        ]
+      }
+    }
+  ]
+}
