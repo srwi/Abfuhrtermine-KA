@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-10-29T04:24:59.053Z",
+  "streets": [
+    {
+      "street": "Deidesheim",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.1924235,
+              49.4078422
+            ],
+            [
+              8.1925904,
+              49.4081239
+            ],
+            [
+              8.1926681,
+              49.4082551
+            ],
+            [
+              8.1929273,
+              49.4087069
+            ],
+            [
+              8.1931409,
+              49.4090741
+            ]
+          ],
+          [
+            [
+              8.1924754,
+              49.4081816
+            ],
+            [
+              8.1924959,
+              49.4082178
+            ],
+            [
+              8.19262,
+              49.4084331
+            ],
+            [
+              8.1931858,
+              49.4094237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Forst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1845,
+          49.4078
+        ]
+      }
+    },
+    {
+      "street": "Meckenheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1845,
+          49.4078
+        ]
+      }
+    },
+    {
+      "street": "Niederkirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1845,
+          49.4078
+        ]
+      }
+    },
+    {
+      "street": "Ruppertsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1845,
+          49.4078
+        ]
+      }
+    }
+  ]
+}

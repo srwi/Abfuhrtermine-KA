@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:24:48.585Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Deesbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15,
+          50.5667
+        ]
+      }
+    }
+  ]
+}

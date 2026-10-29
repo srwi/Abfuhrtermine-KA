@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:24:38.996Z",
+  "streets": [
+    {
+      "street": "SOK-Daumitsch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6812,
+          50.6701
+        ]
+      }
+    }
+  ]
+}
