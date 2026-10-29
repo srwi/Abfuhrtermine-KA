@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:40:30.915Z",
+  "streets": [
+    {
+      "street": "Guteborn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9333,
+          51.4167
+        ]
+      }
+    }
+  ]
+}

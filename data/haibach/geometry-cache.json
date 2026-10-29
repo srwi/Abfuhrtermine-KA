@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T05:41:02.223Z",
+  "streets": [
+    {
+      "street": "Dörrmorsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3441,
+          48.4443
+        ]
+      }
+    },
+    {
+      "street": "Grünmorsbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3441,
+          48.4443
+        ]
+      }
+    },
+    {
+      "street": "Haibach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3441,
+          48.4443
+        ]
+      }
+    }
+  ]
+}

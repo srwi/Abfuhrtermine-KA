@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:38:42.163Z",
+  "streets": [
+    {
+      "street": "SOK-Grumbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5667,
+          49.65
+        ]
+      }
+    }
+  ]
+}

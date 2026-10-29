@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-10-29T05:40:39.926Z",
+  "streets": [
+    {
+      "street": "Breitenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Buch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Eeg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Erlenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Guttenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Kaltenstauden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Maierhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Messengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Möhrenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Neuenwirtshaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Pfaffenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Streichenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Torkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Torschenknock",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    },
+    {
+      "street": "Vogtendorf-Guttenb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0996,
+          42.7858
+        ]
+      }
+    }
+  ]
+}

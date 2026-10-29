@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:38:27.016Z",
+  "streets": [
+    {
+      "street": "Grossstöbnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3883,
+          50.9216
+        ]
+      }
+    }
+  ]
+}

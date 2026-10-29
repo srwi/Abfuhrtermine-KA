@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:38:51.855Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Grünau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7431,
+          50.9351
+        ]
+      }
+    }
+  ]
+}

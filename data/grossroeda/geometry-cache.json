@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:38:08.630Z",
+  "streets": [
+    {
+      "street": "Grossröda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3188,
+          50.9957
+        ]
+      }
+    }
+  ]
+}

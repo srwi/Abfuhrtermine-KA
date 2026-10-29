@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:39:28.036Z",
+  "streets": [
+    {
+      "street": "Gstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4181,
+          47.8845
+        ]
+      }
+    }
+  ]
+}
