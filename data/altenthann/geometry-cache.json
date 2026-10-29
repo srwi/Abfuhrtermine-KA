@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:35:43.012Z",
+  "streets": [
+    {
+      "street": "Altenthann",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3,
+          49.1
+        ]
+      }
+    }
+  ]
+}

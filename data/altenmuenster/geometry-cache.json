@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:35:24.517Z",
+  "streets": [
+    {
+      "street": "Altenmünster",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5907,
+          48.465
+        ]
+      }
+    }
+  ]
+}

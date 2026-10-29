@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:33:44.159Z",
+  "streets": [
+    {
+      "street": "Alteglofsheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          48.9167
+        ]
+      }
+    }
+  ]
+}

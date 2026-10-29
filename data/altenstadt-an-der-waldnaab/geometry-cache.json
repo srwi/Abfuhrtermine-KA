@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:35:33.791Z",
+  "streets": [
+    {
+      "street": "Altenstadt/WN",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1598,
+          49.7159
+        ]
+      }
+    }
+  ]
+}

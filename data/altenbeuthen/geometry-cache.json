@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:33:53.204Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Altenbeuthen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6006,
+          50.5919
+        ]
+      }
+    }
+  ]
+}

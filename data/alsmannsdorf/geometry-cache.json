@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T03:33:34.590Z",
+  "streets": [
+    {
+      "street": "SOK-Alsmannsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8038,
+          50.7528
+        ]
+      }
+    }
+  ]
+}
