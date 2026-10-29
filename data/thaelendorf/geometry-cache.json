@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:27:47.926Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Thälendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1982,
+          50.717
+        ]
+      }
+    }
+  ]
+}

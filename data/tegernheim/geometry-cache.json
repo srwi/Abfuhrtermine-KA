@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:22:37.977Z",
+  "streets": [
+    {
+      "street": "Tegernheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.173,
+          49.0239
+        ]
+      }
+    }
+  ]
+}

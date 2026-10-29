@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:22:54.287Z",
+  "streets": [
+    {
+      "street": "Tegkwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3416,
+          50.9801
+        ]
+      }
+    }
+  ]
+}

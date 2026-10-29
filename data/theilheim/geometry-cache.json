@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:29:07.538Z",
+  "streets": [
+    {
+      "street": "Theilheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0306,
+          49.754
+        ]
+      }
+    }
+  ]
+}

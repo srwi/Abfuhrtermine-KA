@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:27:59.016Z",
+  "streets": [
+    {
+      "street": "Thalmassing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.155,
+          48.9117
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:23:36.583Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Teichweiden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3495,
+          50.751
+        ]
+      }
+    }
+  ]
+}
