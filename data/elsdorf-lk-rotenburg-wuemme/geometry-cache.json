@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T20:58:45.993Z",
+  "streets": [
+    {
+      "street": "Ehestorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3506,
+          53.2412
+        ]
+      }
+    },
+    {
+      "street": "Elsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3506,
+          53.2412
+        ]
+      }
+    },
+    {
+      "street": "Frankenbostel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3506,
+          53.2412
+        ]
+      }
+    },
+    {
+      "street": "Hatzte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3506,
+          53.2412
+        ]
+      }
+    },
+    {
+      "street": "Rüspel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3506,
+          53.2412
+        ]
+      }
+    },
+    {
+      "street": "Volkensen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3506,
+          53.2412
+        ]
+      }
+    }
+  ]
+}

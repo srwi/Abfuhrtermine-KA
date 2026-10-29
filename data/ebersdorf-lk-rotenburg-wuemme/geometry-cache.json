@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T20:55:50.083Z",
+  "streets": [
+    {
+      "street": "Ebersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.049,
+          53.5251
+        ]
+      }
+    },
+    {
+      "street": "Neu Ebersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.049,
+          53.5251
+        ]
+      }
+    }
+  ]
+}
