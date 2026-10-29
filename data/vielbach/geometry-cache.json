@@ -1,0 +1,175 @@
+{
+  "generatedAt": "2026-10-29T22:38:20.234Z",
+  "streets": [
+    {
+      "street": "Alte Wiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Am Fischweiher",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Am Merzelbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Steinacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Birkenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Gänsmorgen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Hinterdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Lotzenheck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Mühlengasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Neue Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Nordhofener Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Quirnbacher Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719,
+          50.5106
+        ]
+      }
+    }
+  ]
+}

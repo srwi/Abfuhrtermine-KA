@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T22:38:12.320Z",
+  "streets": [
+    {
+      "street": "Benkeloh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6321,
+          53.1851
+        ]
+      }
+    },
+    {
+      "street": "Riepe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6321,
+          53.1851
+        ]
+      }
+    },
+    {
+      "street": "Vahlde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6321,
+          53.1851
+        ]
+      }
+    }
+  ]
+}

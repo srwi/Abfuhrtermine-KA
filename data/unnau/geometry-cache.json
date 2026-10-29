@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T22:37:20.530Z",
+  "streets": [
+    {
+      "street": "Korb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9083,
+          50.6488
+        ]
+      }
+    },
+    {
+      "street": "Stangenrod",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9083,
+          50.6488
+        ]
+      }
+    },
+    {
+      "street": "Unnau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9083,
+          50.6488
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T22:31:04.178Z",
+  "streets": [
+    {
+      "street": "Langenbaum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8033,
+          50.6107
+        ]
+      }
+    },
+    {
+      "street": "Schmidthahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8033,
+          50.6107
+        ]
+      }
+    },
+    {
+      "street": "Steinebach an der Wied",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8033,
+          50.6107
+        ]
+      }
+    }
+  ]
+}

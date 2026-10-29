@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T22:36:56.046Z",
+  "streets": [
+    {
+      "street": "Brochterbeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8146,
+          52.2191
+        ]
+      }
+    },
+    {
+      "street": "Ledde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8146,
+          52.2191
+        ]
+      }
+    },
+    {
+      "street": "Leeden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8146,
+          52.2191
+        ]
+      }
+    },
+    {
+      "street": "Tecklenburg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8018973,
+            52.2159596
+          ],
+          [
+            7.8025947,
+            52.2157532
+          ],
+          [
+            7.8026479,
+            52.2157265
+          ],
+          [
+            7.8027458,
+            52.215696
+          ],
+          [
+            7.8027391,
+            52.2156858
+          ],
+          [
+            7.8016166,
+            52.2160247
+          ],
+          [
+            7.8016294,
+            52.2160403
+          ],
+          [
+            7.8018973,
+            52.2159596
+          ]
+        ]
+      }
+    }
+  ]
+}
