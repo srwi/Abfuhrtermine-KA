@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:02:37.312Z",
+  "streets": [
+    {
+      "street": "SOK-Weitisberga",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4963,
+          50.5038
+        ]
+      }
+    }
+  ]
+}

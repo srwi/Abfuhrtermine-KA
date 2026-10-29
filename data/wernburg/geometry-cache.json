@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:05:51.476Z",
+  "streets": [
+    {
+      "street": "SOK-Wernburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602,
+          50.6778
+        ]
+      }
+    }
+  ]
+}

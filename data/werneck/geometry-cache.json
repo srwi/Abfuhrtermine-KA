@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:06:02.301Z",
+  "streets": [
+    {
+      "street": "Werneck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0988,
+          49.982
+        ]
+      }
+    }
+  ]
+}

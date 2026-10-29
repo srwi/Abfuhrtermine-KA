@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:02:26.762Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Weitersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1378,
+          48.1183
+        ]
+      }
+    }
+  ]
+}

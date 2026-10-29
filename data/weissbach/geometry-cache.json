@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:01:36.858Z",
+  "streets": [
+    {
+      "street": "Weissbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5953,
+          49.2972
+        ]
+      }
+    }
+  ]
+}

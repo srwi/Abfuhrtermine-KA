@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:06:14.513Z",
+  "streets": [
+    {
+      "street": "Wernsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1142,
+          49.5392
+        ]
+      }
+    }
+  ]
+}

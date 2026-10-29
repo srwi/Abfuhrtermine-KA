@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:02:58.033Z",
+  "streets": [
+    {
+      "street": "SOK-Weltwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7853,
+          50.7277
+        ]
+      }
+    }
+  ]
+}

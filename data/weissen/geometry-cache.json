@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:01:48.976Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Weissen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2475,
+          51.8413
+        ]
+      }
+    }
+  ]
+}
