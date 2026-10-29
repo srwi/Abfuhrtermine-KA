@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T09:57:42.221Z",
+  "streets": [
+    {
+      "street": "Neuensorg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2165,
+          50.3395
+        ]
+      }
+    },
+    {
+      "street": "Trübenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2165,
+          50.3395
+        ]
+      }
+    },
+    {
+      "street": "Weidhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2165,
+          50.3395
+        ]
+      }
+    }
+  ]
+}

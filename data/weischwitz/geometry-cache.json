@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:01:01.700Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Weischwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3931,
+          50.6073
+        ]
+      }
+    }
+  ]
+}

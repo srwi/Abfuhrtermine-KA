@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T09:57:15.474Z",
+  "streets": [
+    {
+      "street": "Albertshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          48.3833
+        ]
+      }
+    },
+    {
+      "street": "Breitenwiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          48.3833
+        ]
+      }
+    },
+    {
+      "street": "Daxberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          48.3833
+        ]
+      }
+    },
+    {
+      "street": "Ebersbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          48.3833
+        ]
+      }
+    },
+    {
+      "street": "Restliche Gemeinde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          48.3833
+        ]
+      }
+    },
+    {
+      "street": "Weichs",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          48.3833
+        ]
+      }
+    },
+    {
+      "street": "Zillhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          48.3833
+        ]
+      }
+    }
+  ]
+}

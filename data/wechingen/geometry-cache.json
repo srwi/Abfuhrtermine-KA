@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T09:56:39.821Z",
+  "streets": [
+    {
+      "street": "Fessenheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6133,
+          48.8923
+        ]
+      }
+    },
+    {
+      "street": "Holzkirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6133,
+          48.8923
+        ]
+      }
+    },
+    {
+      "street": "Muttenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6133,
+          48.8923
+        ]
+      }
+    },
+    {
+      "street": "Pfladermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6133,
+          48.8923
+        ]
+      }
+    },
+    {
+      "street": "Speckbrodi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6133,
+          48.8923
+        ]
+      }
+    },
+    {
+      "street": "Wechingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6133,
+          48.8923
+        ]
+      }
+    },
+    {
+      "street": "Wolfsmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6133,
+          48.8923
+        ]
+      }
+    }
+  ]
+}

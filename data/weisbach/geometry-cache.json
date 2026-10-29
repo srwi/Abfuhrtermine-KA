@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:00:49.137Z",
+  "streets": [
+    {
+      "street": "SOK-Weisbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6002,
+          50.5597
+        ]
+      }
+    }
+  ]
+}

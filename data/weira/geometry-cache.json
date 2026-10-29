@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T10:00:35.672Z",
+  "streets": [
+    {
+      "street": "SOK-Weira",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7167,
+          50.7
+        ]
+      }
+    }
+  ]
+}

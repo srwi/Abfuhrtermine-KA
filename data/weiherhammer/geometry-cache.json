@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T09:58:06.445Z",
+  "streets": [
+    {
+      "street": "Kaltenbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0667,
+          49.6333
+        ]
+      }
+    },
+    {
+      "street": "Weiherhammer",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0667,
+          49.6333
+        ]
+      }
+    }
+  ]
+}
