@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:35:16.108Z",
+  "streets": [
+    {
+      "street": "Pleystein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4063,
+          49.6491
+        ]
+      }
+    }
+  ]
+}

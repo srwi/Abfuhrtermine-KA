@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:34:57.856Z",
+  "streets": [
+    {
+      "street": "Pirk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1667,
+          49.6333
+        ]
+      }
+    }
+  ]
+}

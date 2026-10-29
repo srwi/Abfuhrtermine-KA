@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:34:16.371Z",
+  "streets": [
+    {
+      "street": "SOK-Pillingsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7941,
+          50.7803
+        ]
+      }
+    }
+  ]
+}

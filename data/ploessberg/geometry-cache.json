@@ -1,0 +1,395 @@
+{
+  "generatedAt": "2026-10-29T07:35:45.874Z",
+  "streets": [
+    {
+      "street": "Albernhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Beidl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Beidlmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Betzenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Bodenmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Dreihöf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Dürnkonreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Erkersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Frankengut",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Geisleithen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Geissenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Honnersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Kohlerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Konnersreuth (Plössberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Krähenhaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Kriegermühle (Plössberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Leichau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Liebenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Mooslohe (Plössberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Neuteichhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Ödschönlind",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Plössberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Prommenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Rothhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Schafmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Schirnbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Schleif",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Schnackenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Schönficht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Schönkirch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Schönthan",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Stein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Streissenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Waffenhammer (Plössberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Wildenau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Winkelmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Wurmsgefäll",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Zanklhut",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    },
+    {
+      "street": "Ziegelhütte (Plössberg)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8688,
+          49.9198
+        ]
+      }
+    }
+  ]
+}

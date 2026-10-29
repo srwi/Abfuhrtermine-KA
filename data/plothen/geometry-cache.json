@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:35:57.710Z",
+  "streets": [
+    {
+      "street": "SOK-Plothen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7667,
+          50.6333
+        ]
+      }
+    }
+  ]
+}

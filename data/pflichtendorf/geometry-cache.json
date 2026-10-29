@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:33:03.267Z",
+  "streets": [
+    {
+      "street": "Pflichtendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3464,
+          51.0452
+        ]
+      }
+    }
+  ]
+}

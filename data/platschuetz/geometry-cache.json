@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:35:07.052Z",
+  "streets": [
+    {
+      "street": "Platschütz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3397,
+          50.9264
+        ]
+      }
+    }
+  ]
+}

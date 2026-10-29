@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:36:07.627Z",
+  "streets": [
+    {
+      "street": "Plottendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4393,
+          51.0549
+        ]
+      }
+    }
+  ]
+}

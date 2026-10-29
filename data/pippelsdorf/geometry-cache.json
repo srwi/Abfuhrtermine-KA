@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:34:48.315Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Pippelsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2959,
+          50.5695
+        ]
+      }
+    }
+  ]
+}

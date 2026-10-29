@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:34:05.284Z",
+  "streets": [
+    {
+      "street": "Pielenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.957,
+          49.0724
+        ]
+      }
+    }
+  ]
+}
