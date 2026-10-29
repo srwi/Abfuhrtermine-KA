@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:49:45.121Z",
+  "streets": [
+    {
+      "street": "SOK-Helmsgrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5892,
+          50.4597
+        ]
+      }
+    }
+  ]
+}

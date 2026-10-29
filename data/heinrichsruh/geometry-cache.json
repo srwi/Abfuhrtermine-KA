@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:49:08.088Z",
+  "streets": [
+    {
+      "street": "SOK-Heinrichsruh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9205,
+          53.6449
+        ]
+      }
+    }
+  ]
+}

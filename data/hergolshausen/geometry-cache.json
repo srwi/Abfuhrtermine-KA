@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:50:15.065Z",
+  "streets": [
+    {
+      "street": "Hergolshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1556,
+          49.9634
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-10-29T05:50:05.451Z",
+  "streets": [
+    {
+      "street": "Amdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Burg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Guntersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Herborn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Hirschberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Hörbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Merkenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Schönbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Seelbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    },
+    {
+      "street": "Uckersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4278,
+          49.7417
+        ]
+      }
+    }
+  ]
+}

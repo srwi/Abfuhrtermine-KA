@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:49:17.663Z",
+  "streets": [
+    {
+      "street": "Heinrichsthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.343,
+          50.0711
+        ]
+      }
+    }
+  ]
+}

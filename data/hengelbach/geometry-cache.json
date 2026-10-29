@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:49:55.582Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Hengelbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1106,
+          50.7242
+        ]
+      }
+    }
+  ]
+}

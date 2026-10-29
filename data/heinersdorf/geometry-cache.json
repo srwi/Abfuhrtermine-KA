@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:48:38.566Z",
+  "streets": [
+    {
+      "street": "SOK-Heinersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5759,
+          50.4727
+        ]
+      }
+    }
+  ]
+}

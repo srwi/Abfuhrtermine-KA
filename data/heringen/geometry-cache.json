@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T05:50:24.426Z",
+  "streets": [
+    {
+      "street": "Heringen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0072,
+          50.888
+        ]
+      }
+    },
+    {
+      "street": "Leimbach",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.0268912,
+              50.898946
+            ],
+            [
+              10.0269573,
+              50.8989492
+            ],
+            [
+              10.0269665,
+              50.8988625
+            ],
+            [
+              10.0268488,
+              50.8988698
+            ],
+            [
+              10.0268912,
+              50.898946
+            ]
+          ],
+          [
+            [
+              10.026529,
+              50.8987526
+            ],
+            [
+              10.0264012,
+              50.8986492
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Lengers",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0072,
+          50.888
+        ]
+      }
+    },
+    {
+      "street": "Übrige Ortsteile",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0072,
+          50.888
+        ]
+      }
+    }
+  ]
+}

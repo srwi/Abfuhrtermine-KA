@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:48:48.780Z",
+  "streets": [
+    {
+      "street": "SOK-Heinrichshöhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5301,
+          50.3977
+        ]
+      }
+    }
+  ]
+}

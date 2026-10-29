@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:48:58.587Z",
+  "streets": [
+    {
+      "street": "SOK-Heinrichsort",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6388,
+          50.7265
+        ]
+      }
+    }
+  ]
+}
