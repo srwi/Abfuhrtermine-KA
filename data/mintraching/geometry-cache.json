@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:57:12.540Z",
+  "streets": [
+    {
+      "street": "Mintraching",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2421,
+          48.9536
+        ]
+      }
+    }
+  ]
+}

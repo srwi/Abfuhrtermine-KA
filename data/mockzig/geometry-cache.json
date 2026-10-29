@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:59:03.817Z",
+  "streets": [
+    {
+      "street": "Mockzig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4766,
+          50.9328
+        ]
+      }
+    }
+  ]
+}

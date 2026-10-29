@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:58:55.794Z",
+  "streets": [
+    {
+      "street": "Mockern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7667,
+          50.85
+        ]
+      }
+    }
+  ]
+}

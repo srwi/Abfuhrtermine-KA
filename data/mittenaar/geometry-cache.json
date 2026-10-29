@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T06:58:05.784Z",
+  "streets": [
+    {
+      "street": "Ballersbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          50.7
+        ]
+      }
+    },
+    {
+      "street": "Bellersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          50.7
+        ]
+      }
+    },
+    {
+      "street": "Bicken",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          50.7
+        ]
+      }
+    },
+    {
+      "street": "Offenbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          50.7
+        ]
+      }
+    }
+  ]
+}

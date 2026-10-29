@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:57:21.929Z",
+  "streets": [
+    {
+      "street": "Misselwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3245,
+          50.9757
+        ]
+      }
+    }
+  ]
+}

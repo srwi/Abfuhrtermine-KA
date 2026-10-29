@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:59:11.823Z",
+  "streets": [
+    {
+      "street": "Modelwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4672,
+          50.9502
+        ]
+      }
+    }
+  ]
+}
