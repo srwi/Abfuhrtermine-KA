@@ -1,0 +1,825 @@
+{
+  "generatedAt": "2026-10-29T17:22:19.293Z",
+  "streets": [
+    {
+      "street": "Adelheidstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Ahornweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Am Cordtskamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Am Husbert",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Am Röselberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Amselweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "B 214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Backsbollweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Badberger Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bestener Sackgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bestener Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bestener Transformatorenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bippener Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Blumenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bockradener Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bockradener Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bramweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Branneckeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Breiter Steinweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Bruchweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Brunsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Buchenallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Buerenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Distelkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Dornenhügel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Döthener Mühlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Eggermühlen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Eichenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Feldkampweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Finkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Forellenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Friesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Ginsterweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Grosse Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Grosser Moordamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Haffwiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Hammerstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Hehlweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Hermann-Kortland-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Hofdienerweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Ilexhöhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Im Eye",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Im Lohe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Im Mersch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Im Sternbusch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Klara-von-Boeselager-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Klein-Bokerner-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Kolpingstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Krevinghausener Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Leonie-Srock-Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Lerchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Linnertweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Marienstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Maximilianplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Meisenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Merschdamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Moorstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Neewiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Neu Bockraden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Ostendeweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Osterboll",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Sandhase",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Schlehenbusch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Stegemann-Röbkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Stottenhausener Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Striekeler Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Suddenfeldweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Turmweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Von-Boeselager-Platz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Wilhelm-Schwöppe-Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Wittenporte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Ziegeleiweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Zum Brinkberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    },
+    {
+      "street": "Zum Sportplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8149,
+          52.5647
+        ]
+      }
+    }
+  ]
+}
