@@ -6,28 +6,56 @@ interface TargetDistrict {
   name: string;
   region: string;
   serviceKey: string;
+  singleMunicipality?: boolean;
 }
 
 const TARGET_DISTRICTS: TargetDistrict[] = [
   {
-    name: 'Ostalbkreis',
-    region: 'Ostalbkreis, Baden-Württemberg',
-    serviceKey: '3ca331fb42d25e25f95014693ebcf855'
+    name: 'Rhein-Neckar-Kreis',
+    region: 'Rhein-Neckar-Kreis, Baden-Württemberg',
+    serviceKey: '914fb9d000a9a05af4fd54cfba478860'
   },
   {
-    name: 'Kreis Steinfurt',
-    region: 'Kreis Steinfurt, Nordrhein-Westfalen',
-    serviceKey: 'e21758b9c711463552fb9c70ac7d4273'
+    name: 'Landkreis Unterallgäu',
+    region: 'Landkreis Unterallgäu, Bayern',
+    serviceKey: 'c22b850ea4eff207a273e46847e417c5'
   },
   {
-    name: 'Landkreis Rotenburg (Wümme)',
-    region: 'Landkreis Rotenburg (Wümme), Niedersachsen',
-    serviceKey: '645adb3c27370a61f7eabbb2039de4f1'
+    name: 'Landkreis Mayen-Koblenz',
+    region: 'Landkreis Mayen-Koblenz, Rheinland-Pfalz',
+    serviceKey: '8303df78b822c30ff2c2f98e405f86e6'
   },
   {
-    name: 'Westerwaldkreis',
-    region: 'Westerwaldkreis, Rheinland-Pfalz',
-    serviceKey: '248deacbb49b06e868d29cb53c8ef034'
+    name: 'Landkreis Landshut',
+    region: 'Landkreis Landshut, Bayern',
+    serviceKey: '04b7561b94f2cbaa171cd85bb6aa56de'
+  },
+  {
+    name: 'Landkreis Weißenburg-Gunzenhausen',
+    region: 'Landkreis Weißenburg-Gunzenhausen, Bayern',
+    serviceKey: '31fb9c7d783a030bf9e4e1994c7d2a91'
+  },
+  {
+    name: 'Landkreis Oldenburg',
+    region: 'Landkreis Oldenburg, Niedersachsen',
+    serviceKey: '27708a019a2e35de7eb4bbe7c851609f'
+  },
+  {
+    name: 'Landkreis Cuxhaven',
+    region: 'Landkreis Cuxhaven, Niedersachsen',
+    serviceKey: '49fe8a63a056adbfc43f051f61dd4a44'
+  },
+  {
+    name: 'Ludwigshafen am Rhein',
+    region: 'Ludwigshafen am Rhein, Rheinland-Pfalz',
+    serviceKey: '6efba91e69a5b454ac0ae3497978fe1d',
+    singleMunicipality: true
+  },
+  {
+    name: 'Stadt Landshut',
+    region: 'Landshut, Bayern',
+    serviceKey: 'bd0c2d0177a0849a905cded5cb734a6f',
+    singleMunicipality: true
   }
 ];
 
@@ -86,9 +114,17 @@ async function geocode(
         match = results.find((r) => r.admin1?.includes('Niedersachsen')) ?? match;
       } else if (region.includes('Rheinland-Pfalz')) {
         match = results.find((r) => r.admin1?.includes('Rheinland-Pfalz')) ?? match;
+      } else if (region.includes('Bayern')) {
+        match = results.find((r) => r.admin1?.includes('Bayern')) ?? match;
       }
 
-      if (match && match.latitude && match.longitude) {
+      if (
+        match &&
+        match.latitude >= 47 &&
+        match.latitude <= 55.5 &&
+        match.longitude >= 5.8 &&
+        match.longitude <= 15.1
+      ) {
         const center: [number, number] = [
           Math.round(match.longitude * 10000) / 10000,
           Math.round(match.latitude * 10000) / 10000
@@ -123,13 +159,41 @@ async function geocode(
         if (f && f.geometry?.coordinates) {
           const lon = Math.round(f.geometry.coordinates[0] * 10000) / 10000;
           const lat = Math.round(f.geometry.coordinates[1] * 10000) / 10000;
-          const bbox: [number, number, number, number] = [
-            Math.round((lat - 0.05) * 10000) / 10000,
-            Math.round((lon - 0.06) * 10000) / 10000,
-            Math.round((lat + 0.05) * 10000) / 10000,
-            Math.round((lon + 0.06) * 10000) / 10000
-          ];
-          return { center: [lon, lat], bbox };
+          if (lat >= 47 && lat <= 55.5 && lon >= 5.8 && lon <= 15.1) {
+            const bbox: [number, number, number, number] = [
+              Math.round((lat - 0.05) * 10000) / 10000,
+              Math.round((lon - 0.06) * 10000) / 10000,
+              Math.round((lat + 0.05) * 10000) / 10000,
+              Math.round((lon + 0.06) * 10000) / 10000
+            ];
+            return { center, bbox };
+          }
+        }
+      }
+    } catch {}
+  }
+
+  // Fallback to Nominatim
+  for (const q of queries) {
+    try {
+      const url = `https://nominatim.openstreetmap.org/search?format=json&countrycodes=de&limit=1&q=${encodeURIComponent(q)}`;
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'Abfuhrtermine-Bot/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)' },
+        signal: AbortSignal.timeout(3500)
+      });
+      if (res.ok) {
+        const list = await res.json();
+        const d = list?.[0];
+        if (d && d.boundingbox) {
+          const south = Math.round(parseFloat(d.boundingbox[0]) * 10000) / 10000;
+          const north = Math.round(parseFloat(d.boundingbox[1]) * 10000) / 10000;
+          const west = Math.round(parseFloat(d.boundingbox[2]) * 10000) / 10000;
+          const east = Math.round(parseFloat(d.boundingbox[3]) * 10000) / 10000;
+          const lon = Math.round(parseFloat(d.lon) * 10000) / 10000;
+          const lat = Math.round(parseFloat(d.lat) * 10000) / 10000;
+          if (lat >= 47 && lat <= 55.5 && lon >= 5.8 && lon <= 15.1) {
+            return { center: [lon, lat], bbox: [south, west, north, east] };
+          }
         }
       }
     } catch {}
@@ -150,7 +214,7 @@ async function main() {
   const knownIds = new Set(existingCities.map((c) => c.id));
   const knownNames = new Set(existingCities.map((c) => c.name.toLowerCase()));
 
-  console.log(`Starting abfall.io discovery...`);
+  console.log(`Starting abfall.io discovery for new districts...`);
   console.log(`Current cities.json total: ${existingCities.length}`);
   console.log(`Current abfall-io-cities.json total: ${existingAbfallIo.length}\n`);
 
@@ -175,6 +239,75 @@ async function main() {
       const cookie = initRes.headers.get('set-cookie')?.split(';')[0] || '';
       const initHtml = await initRes.text();
 
+      if (target.singleMunicipality) {
+        const alreadyInTarget = existingAbfallIo.some(
+          (ap) => ap.serviceKey === target.serviceKey
+        );
+        if (alreadyInTarget) {
+          console.log(`  ${target.name} already in target, skipping.`);
+          continue;
+        }
+
+        const streetCount = [
+          ...initHtml.matchAll(/<option value="([0-9]+)">([^<]+)<\/option>/g)
+        ].filter((m) => m[1] !== '0').length;
+
+        if (streetCount === 0) {
+          console.log(`  Skipping ${target.name} (0 streets)`);
+          continue;
+        }
+
+        const normName = target.name.toLowerCase().trim();
+        let displayName = target.name;
+        let id = slugify(displayName);
+
+        if (knownIds.has(id) || knownNames.has(normName)) {
+          console.log(`  ${target.name} already in catalog, skipping.`);
+          continue;
+        }
+
+        console.log(`Geocoding single municipality: ${displayName} (${streetCount} streets)...`);
+        const geo = await geocode(target.name, target.region);
+        if (!geo) {
+          console.warn(`  ⚠️ Could not geocode "${target.name}", skipping.`);
+          continue;
+        }
+
+        const shortName = makeShortName(displayName);
+
+        const configEntry: AbfallIoConfig = {
+          id,
+          name: displayName,
+          shortName,
+          serviceKey: target.serviceKey,
+          center: geo.center,
+          defaultZoom: 12,
+          bbox: geo.bbox
+        };
+
+        const cityEntry: CityInfo = {
+          id,
+          name: displayName,
+          shortName,
+          center: geo.center,
+          defaultZoom: 12,
+          bbox: geo.bbox
+        };
+
+        existingAbfallIo.push(configEntry);
+        existingCities.push(cityEntry);
+        knownIds.add(id);
+        knownNames.add(displayName.toLowerCase().trim());
+        knownNames.add(normName);
+        addedTotal++;
+
+        console.log(
+          `  ✅ Added: ${displayName} (${id}) [${geo.center.join(', ')}] with ${streetCount} streets`
+        );
+        continue;
+      }
+
+      // Multi-municipality district
       const hiddenMatches = [
         ...initHtml.matchAll(/<input type="hidden" name="([^"]+)" value="([^"]*)"/g)
       ];
@@ -189,6 +322,15 @@ async function main() {
       console.log(`Found ${kommunen.length} municipalities in ${target.name}.`);
 
       for (const kommune of kommunen) {
+        const alreadyInTarget = existingAbfallIo.some(
+          (ap) =>
+            ap.serviceKey === target.serviceKey &&
+            (ap.kommuneId === kommune.id || ap.name.toLowerCase() === kommune.name.toLowerCase().trim())
+        );
+        if (alreadyInTarget) {
+          continue;
+        }
+
         // Quick verification of street count
         const formKommune = new URLSearchParams({
           ...baseHidden,

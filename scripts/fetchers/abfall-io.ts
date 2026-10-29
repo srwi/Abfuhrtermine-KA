@@ -16,7 +16,7 @@ export interface AbfallIoConfig {
   name: string;
   shortName: string;
   serviceKey: string; // 32-char service key
-  kommuneId: string; // e.g. '1316' for Aalen
+  kommuneId?: string; // e.g. '1316' for Aalen; omitted for single-municipality services
   center: [number, number];
   defaultZoom: number;
   bbox: [number, number, number, number];
@@ -55,7 +55,7 @@ export class AbfallIoFetcher implements CityFetcher {
   readonly name: string;
   readonly shortName: string;
   readonly serviceKey: string;
-  readonly kommuneId: string;
+  readonly kommuneId?: string;
   readonly center: [number, number];
   readonly defaultZoom: number;
   readonly bbox: [number, number, number, number];
@@ -85,7 +85,7 @@ export class AbfallIoFetcher implements CityFetcher {
   }
 
   async fetchStreets(): Promise<string[]> {
-    console.log(`[${this.name}] Fetching streets from abfall.io (kommuneId=${this.kommuneId})...`);
+    console.log(`[${this.name}] Fetching streets from abfall.io (kommuneId=${this.kommuneId ?? 'none'})...`);
     const wurl = this.getWurl();
 
     // 1. Init request to get session cookies and hidden token
@@ -99,30 +99,35 @@ export class AbfallIoFetcher implements CityFetcher {
     const cookie = initRes.headers.get('set-cookie')?.split(';')[0] || '';
     const initHtml = await initRes.text();
 
-    const hiddenMatches = [...initHtml.matchAll(/<input type="hidden" name="([^"]+)" value="([^"]*)"/g)];
-    const formKommune = new URLSearchParams();
-    for (const m of hiddenMatches) {
-      formKommune.append(m[1], m[2]);
+    let targetHtml = initHtml;
+
+    if (this.kommuneId) {
+      const hiddenMatches = [...initHtml.matchAll(/<input type="hidden" name="([^"]+)" value="([^"]*)"/g)];
+      const formKommune = new URLSearchParams();
+      for (const m of hiddenMatches) {
+        formKommune.append(m[1], m[2]);
+      }
+      formKommune.append('f_id_kommune', this.kommuneId);
+
+      // Select kommune to get street list
+      const kRes = await fetch(`${wurl}&waction=auswahl_kommune_set`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'User-Agent': 'Abfuhrtermine/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)',
+          ...(cookie ? { Cookie: cookie } : {})
+        },
+        body: formKommune.toString()
+      });
+
+      if (!kRes.ok) {
+        throw new Error(`[${this.name}] auswahl_kommune_set failed: HTTP ${kRes.status}`);
+      }
+
+      targetHtml = await kRes.text();
     }
-    formKommune.append('f_id_kommune', this.kommuneId);
 
-    // 2. Select kommune to get street list
-    const kRes = await fetch(`${wurl}&waction=auswahl_kommune_set`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        'User-Agent': 'Abfuhrtermine/1.0 (+https://github.com/srwi/Abfuhrtermine-KA)',
-        ...(cookie ? { Cookie: cookie } : {})
-      },
-      body: formKommune.toString()
-    });
-
-    if (!kRes.ok) {
-      throw new Error(`[${this.name}] auswahl_kommune_set failed: HTTP ${kRes.status}`);
-    }
-
-    const kHtml = await kRes.text();
-    const streetOptions = [...kHtml.matchAll(/<option value="([0-9]+)">([^<]+)<\/option>/g)].filter(
+    const streetOptions = [...targetHtml.matchAll(/<option value="([0-9]+)">([^<]+)<\/option>/g)].filter(
       (m) => m[1] !== '0'
     );
 
@@ -198,7 +203,7 @@ export class AbfallIoFetcher implements CityFetcher {
     // Call auswahl_hnr_set to retrieve tokens and active checkboxes
     const formHnr = new URLSearchParams({
       ...baseHidden,
-      f_id_kommune: this.kommuneId,
+      ...(this.kommuneId ? { f_id_kommune: this.kommuneId } : {}),
       f_id_strasse: firstStreetId,
       f_id_strasse_hnr: firstStreetId
     });
@@ -237,7 +242,7 @@ export class AbfallIoFetcher implements CityFetcher {
       const form = new URLSearchParams();
       for (const [k, v] of Object.entries(baseHidden)) form.append(k, v);
       for (const m of hiddenMatchesHnr) form.append(m[1], m[2]);
-      form.append('f_id_kommune', this.kommuneId);
+      if (this.kommuneId) form.append('f_id_kommune', this.kommuneId);
       form.append('f_id_strasse', streetId);
       form.append('f_id_strasse_hnr', streetId);
       for (const m of cbMatches) form.append(m[1], m[2]);
