@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:39:07.005Z",
+  "streets": [
+    {
+      "street": "Unterlödla",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3752,
+          51.0015
+        ]
+      }
+    }
+  ]
+}

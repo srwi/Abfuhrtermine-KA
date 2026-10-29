@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:39:16.606Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Unterloquitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4034,
+          50.5844
+        ]
+      }
+    }
+  ]
+}

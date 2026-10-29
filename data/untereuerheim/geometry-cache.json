@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:37:40.903Z",
+  "streets": [
+    {
+      "street": "Untereuerheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3558,
+          50.013
+        ]
+      }
+    }
+  ]
+}

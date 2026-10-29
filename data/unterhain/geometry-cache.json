@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:38:14.347Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Unterhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1288,
+          50.6357
+        ]
+      }
+    }
+  ]
+}

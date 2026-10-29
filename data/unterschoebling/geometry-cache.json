@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:40:16.152Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Unterschöbling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1102,
+          50.652
+        ]
+      }
+    }
+  ]
+}

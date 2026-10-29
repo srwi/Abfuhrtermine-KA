@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:40:56.636Z",
+  "streets": [
+    {
+      "street": "Unterspiesheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2616,
+          49.9538
+        ]
+      }
+    }
+  ]
+}

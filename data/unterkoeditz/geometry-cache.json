@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:38:36.399Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Unterköditz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.144,
+          50.6702
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:38:55.953Z",
+  "streets": [
+    {
+      "street": "SOK-Unterlemnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6213,
+          50.4719
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T09:38:46.460Z",
+  "streets": [
+    {
+      "street": "SOK-Unterkoskau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9117,
+          50.502
+        ]
+      }
+    }
+  ]
+}
