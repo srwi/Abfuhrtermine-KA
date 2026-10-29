@@ -69,7 +69,19 @@ const TARGETS: AwidoTarget[] = [
   { customer: 'lichtenfels', region: 'Landkreis Lichtenfels, Bayern' },
   { customer: 'kreis-tir', region: 'Landkreis Tirschenreuth, Bayern' },
   { customer: 'lra-schweinfurt', region: 'Landkreis Schweinfurt, Bayern' },
-  { customer: 'gifhorn', region: 'Landkreis Gifhorn, Niedersachsen' }
+  { customer: 'gifhorn', region: 'Landkreis Gifhorn, Niedersachsen' },
+  { customer: 'fulda-stadt', region: 'Fulda, Hessen' },
+  { customer: 'fulda', region: 'Landkreis Fulda, Hessen' },
+  { customer: 'azv-hef-rof', region: 'Landkreis Hersfeld-Rotenburg, Hessen' },
+  { customer: 'wgv', region: 'Landkreis Bad Tölz-Wolfratshausen, Bayern' },
+  { customer: 'awv-isar-inn', region: 'Landkreis Rottal-Inn und Dingolfing-Landau, Bayern' },
+  { customer: 'neustadt', region: 'Landkreis Neustadt an der Waldnaab, Bayern' },
+  { customer: 'awb-altenburg', region: 'Landkreis Altenburger Land, Thüringen' },
+  { customer: 'zaso', region: 'Zweckverband Saale-Orla, Thüringen' },
+  { customer: 'unterhaching', region: 'Unterhaching, Bayern' },
+  { customer: 'unterschleissheim', region: 'Unterschleißheim, Bayern' },
+  { customer: 'pullach', region: 'Pullach im Isartal, Bayern' },
+  { customer: 'koenigstein', region: 'Königstein im Taunus, Hessen' }
 ];
 
 function slugify(name: string): string {
@@ -165,13 +177,29 @@ async function main() {
     console.log(`Found ${places.length} places in ${customer}.`);
 
     for (const place of places) {
-      const name = place.value.trim();
+      let name = place.value.trim();
+      if (name.toLowerCase() === 'landkreis' || name.toLowerCase() === 'alle' || name === '') {
+        continue;
+      }
+      if (customer === 'koenigstein') {
+        if (name.includes('Kernstadt')) name = 'Königstein im Taunus';
+      }
+      if (name === 'Altenstadt/WN') {
+        name = 'Altenstadt an der Waldnaab';
+      }
+      if (name === 'Breitenbach a.H.') {
+        name = 'Breitenbach am Herzberg';
+      }
+
       const cleanName = name
+        .replace(/^(SLF-RU|SOK)-/i, '')
         .replace(/\s*\(.*?\)\s*$/, '')
         .replace(/^Gemeinde\s+/i, '')
         .replace(/^Stadt\s+/i, '')
         .replace(/^VG\s+/i, '')
         .trim();
+
+      if (!cleanName || cleanName.length < 2) continue;
 
       const normName = name.toLowerCase();
       const normClean = cleanName.toLowerCase();
