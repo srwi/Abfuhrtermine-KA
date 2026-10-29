@@ -1,0 +1,245 @@
+{
+  "generatedAt": "2026-10-29T22:39:03.686Z",
+  "streets": [
+    {
+      "street": "Auf der Norr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Beilstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Frankfurter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Hammermühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Hehlinger Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Hofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Hohlweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Hubertusstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Kirchergarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Kleegarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Kölner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Lauterberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Lerchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Marzauer Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Ober dem Beilstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Rheinstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Ringweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Rosenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Schulweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Steinenwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7167,
+          50.65
+        ]
+      }
+    }
+  ]
+}

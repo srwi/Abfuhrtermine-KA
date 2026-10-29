@@ -1,0 +1,245 @@
+{
+  "generatedAt": "2026-10-29T22:44:14.318Z",
+  "streets": [
+    {
+      "street": "Am Falkenlager",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Am Heuplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Am Immhoff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Am Kamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Am Ring",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "An den Höchens",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Auf der Worth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Birkenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Bülstedter Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Eichenstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Im Bogen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "In der Buddenkuhle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Kurze Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Neues Feld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Sandstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Schnakenmühlen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Segelflugplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Waldstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Zum Deegmoor",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Zum Heidkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Zum Treffpunkt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    },
+    {
+      "street": "Zum Verdel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1308,
+          53.237
+        ]
+      }
+    }
+  ]
+}

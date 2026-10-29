@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-10-29T22:41:49.349Z",
+  "streets": [
+    {
+      "street": "An der Pforte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Auf der Hub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Burgstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Girkenrother Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Im Boden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Im Patengarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Im Seifen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Mittelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Oberweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Ottensteiner Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Reifenberger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Salzer Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Sayner Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Turmweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Unterstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Wiegand Weg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    },
+    {
+      "street": "Zum Berberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9606,
+          50.5323
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "generatedAt": "2026-10-29T22:40:56.448Z",
+  "streets": [
+    {
+      "street": "Alte Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Am Bins",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Am Korb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Am Pfaffenstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Am Steinbruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Auf der Seeburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Bachstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Bornstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Eichelgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Freilinger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Im Bruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Im Hanffeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Im Korb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Im Mohrengarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Im Seifen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "In der Jägerwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Kuhnhöfer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Maxsainer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Mühlenholzweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Rotdornallee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Zum Adrian",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    },
+    {
+      "street": "Zum Steinchesbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8339,
+          50.5472
+        ]
+      }
+    }
+  ]
+}

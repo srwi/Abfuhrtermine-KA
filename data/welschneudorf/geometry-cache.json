@@ -1,0 +1,365 @@
+{
+  "generatedAt": "2026-10-29T22:41:27.234Z",
+  "streets": [
+    {
+      "street": "Alte Nassauer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Arzbacher Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Backeswiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Bad Emser Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Bleichstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Bleichwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Bornplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Bornwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Brunnenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Buchenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Dielkopfweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Ebereschenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Friedhofsweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Goldgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Gut Tiergarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Im Krautfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Immenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "In den Stömpen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Jakobstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Kreuzplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Kuckucksweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Mariothstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Montabaurer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Neustrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Stelzenbachhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Tannenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Tiergartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Unter dem Dorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Wiesenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Wilhelmstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    },
+    {
+      "street": "Zum Weissen Stein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7981,
+          50.3733
+        ]
+      }
+    }
+  ]
+}

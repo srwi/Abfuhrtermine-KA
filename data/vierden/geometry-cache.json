@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T22:38:38.426Z",
+  "streets": [
+    {
+      "street": "Ippensen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5066,
+          53.3295
+        ]
+      }
+    },
+    {
+      "street": "Nüttel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5066,
+          53.3295
+        ]
+      }
+    },
+    {
+      "street": "Ramshausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5066,
+          53.3295
+        ]
+      }
+    },
+    {
+      "street": "Vierden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5066,
+          53.3295
+        ]
+      }
+    }
+  ]
+}

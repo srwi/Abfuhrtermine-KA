@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-10-29T22:38:46.118Z",
+  "streets": [
+    {
+      "street": "Bleckwedel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Buchholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Dreessel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Drögenbostel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Egenbostel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Grapenmühlen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Hainhorst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Hiddingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Jeddingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Kettenburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Lüdingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Nindorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Ottingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Rosebruch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Schwitschen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Visselhövede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Wehnsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    },
+    {
+      "street": "Wittorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.581,
+          52.9861
+        ]
+      }
+    }
+  ]
+}

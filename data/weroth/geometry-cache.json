@@ -1,0 +1,195 @@
+{
+  "generatedAt": "2026-10-29T22:42:04.302Z",
+  "streets": [
+    {
+      "street": "Auf dem Pfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Auf der Heide",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Bei der Langheck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Bongard-und-Lind-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Diezer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Feldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Hundsänger-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Im Eichelgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "In den Sümpfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Industriestrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Kaiserstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Mühlenpfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Oberstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Unterstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    },
+    {
+      "street": "Westerwaldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9484,
+          50.4604
+        ]
+      }
+    }
+  ]
+}

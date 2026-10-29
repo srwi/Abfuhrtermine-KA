@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-10-29T22:41:14.035Z",
+  "streets": [
+    {
+      "street": "Am Marrstück",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Aussiedlerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Gartenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Grube Eiskeller",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Höchstenbacher Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Im Borngarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Im Heckelchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Jagdhaus auf  der Halde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Mittelweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7264,
+          50.6333
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "generatedAt": "2026-10-29T22:40:36.101Z",
+  "streets": [
+    {
+      "street": "Alte-Hof-Gasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Alter Schulhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Am Friedhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Bahnhofstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Borngasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Dorfwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Dörrbachweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Eckengasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Frankfurter Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Gerhardsberger Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Gerichtsstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Hof am Born",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Holzbitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Im Alten Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Im Boden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Im Grauen Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Im Hölzgen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Johann-Braun-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Karl-Hutter-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Konrad-Adenauer-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Langgarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Leckersbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Marienweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Mittelstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Molsberger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Mühlenpfad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Philipp-Baldus-Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Salzer Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Schlossblick",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Talblick",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Unterm Born",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Wickengarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Zum Welschenacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    },
+    {
+      "street": "Zur Bornwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95,
+          50.4833
+        ]
+      }
+    }
+  ]
+}

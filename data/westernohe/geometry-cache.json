@@ -1,0 +1,415 @@
+{
+  "generatedAt": "2026-10-29T22:43:55.094Z",
+  "streets": [
+    {
+      "street": "Am Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Am Hang",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Am Huggert",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Am Roten Born",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Am Trift",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Auf dem Rain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Austrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Bachweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Birkenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Borngasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Bornwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Dr. Walter Zoth Allee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Erlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Eschwies",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Feldgasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Forststrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Heiligenstock",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Im Bierhahn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Im Klobes",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Im Wiesengrund",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Im Winkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "In der Eck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "In der Scheib",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "In der Stark",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Neue Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Oberwies",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Querstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Südstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Torweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Waldstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Weststrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Wochenendhausgebiet",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Zum Altenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Zum Bläuling",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Zum Gallpüsch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Zum Steingarten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    },
+    {
+      "street": "Zum Weitstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1003,
+          50.5892
+        ]
+      }
+    }
+  ]
+}

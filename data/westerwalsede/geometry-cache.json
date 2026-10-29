@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T22:44:27.777Z",
+  "streets": [
+    {
+      "street": "Süderwalsede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.363,
+          53.0323
+        ]
+      }
+    },
+    {
+      "street": "Westerwalsede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.363,
+          53.0323
+        ]
+      }
+    }
+  ]
+}

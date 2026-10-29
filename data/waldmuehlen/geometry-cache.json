@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T22:39:29.773Z",
+  "streets": [
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Eicherwiese",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Erlenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Gartenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Holzbachstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Kirchstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Langstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Limburger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Mühlenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Neustrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Secker Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    },
+    {
+      "street": "Weilburger Strasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0667,
+          50.5833
+        ]
+      }
+    }
+  ]
+}

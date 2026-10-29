@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-10-29T22:39:19.414Z",
+  "streets": [
+    {
+      "street": "Am Hofacker",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    },
+    {
+      "street": "Auf der Höhe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    },
+    {
+      "street": "Bergstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    },
+    {
+      "street": "Haus am Homberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    },
+    {
+      "street": "Ringstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    },
+    {
+      "street": "Schulstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    },
+    {
+      "street": "Waigandshainer Mühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    },
+    {
+      "street": "Wiesenstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0853,
+          50.6447
+        ]
+      }
+    }
+  ]
+}

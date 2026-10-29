@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T22:38:55.301Z",
+  "streets": [
+    {
+      "street": "Buchholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1528,
+          53.1904
+        ]
+      }
+    },
+    {
+      "street": "Dipshorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1528,
+          53.1904
+        ]
+      }
+    },
+    {
+      "street": "Vorwerk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1528,
+          53.1904
+        ]
+      }
+    }
+  ]
+}
