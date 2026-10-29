@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-29T16:10:57.140Z",
+  "streets": [
+    {
+      "street": "Am See",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846,
+          53.3848
+        ]
+      }
+    },
+    {
+      "street": "Berliner Str.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846,
+          53.3848
+        ]
+      }
+    },
+    {
+      "street": "Bundesstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846,
+          53.3848
+        ]
+      }
+    },
+    {
+      "street": "Campingplatz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846,
+          53.3848
+        ]
+      }
+    },
+    {
+      "street": "Dorfstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846,
+          53.3848
+        ]
+      }
+    },
+    {
+      "street": "Kieswerk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846,
+          53.3848
+        ]
+      }
+    },
+    {
+      "street": "Querkamp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846,
+          53.3848
+        ]
+      }
+    },
+    {
+      "street": "Schrankenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846,
+          53.3848
+        ]
+      }
+    }
+  ]
+}
