@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T22:07:39.712Z",
+  "streets": [
+    {
+      "street": "Emmerichenhain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.067,
+          50.6082
+        ]
+      }
+    },
+    {
+      "street": "Rennerod",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.067,
+          50.6082
+        ]
+      }
+    }
+  ]
+}

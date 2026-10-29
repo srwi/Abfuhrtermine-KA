@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T22:07:48.038Z",
+  "streets": [
+    {
+      "street": "Rhade",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1135,
+          53.3287
+        ]
+      }
+    },
+    {
+      "street": "Rhadereistedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1135,
+          53.3287
+        ]
+      }
+    }
+  ]
+}
