@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:18:38.439Z",
+  "streets": [
+    {
+      "street": "SOK-Kopitzsch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8225,
+          50.7418
+        ]
+      }
+    }
+  ]
+}

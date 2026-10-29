@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:16:57.248Z",
+  "streets": [
+    {
+      "street": "Kolitzheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2333,
+          49.9167
+        ]
+      }
+    }
+  ]
+}

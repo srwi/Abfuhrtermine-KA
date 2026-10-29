@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:16:20.931Z",
+  "streets": [
+    {
+      "street": "Köfering",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          48.9333
+        ]
+      }
+    }
+  ]
+}

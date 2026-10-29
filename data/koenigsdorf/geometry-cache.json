@@ -1,0 +1,1277 @@
+{
+  "generatedAt": "2026-10-29T06:17:25.264Z",
+  "streets": [
+    {
+      "street": "Almweg - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Alpenblickweg - Niederham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Am Bachfeld - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Am Brand",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Am Krautgarten - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Am Pfarrerberg - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Am Segelflugplatz - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Am Sportplatz - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Am Steinbruch - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "An der Leismühle - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Angersteig - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Au",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Badstube - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Berg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Beuerberger Strasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Blombergstrasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Boschhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Boschstrasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Brandl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Brauneckweg - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Carossaring - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Dekan-Zistl-Ring - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Dorfstrasse - Osterhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Enziangasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Gewerbering am Brand - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Graben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Grafing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Grundstrasse - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Hauptstrasse",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              16.207691,
+              47.0207366
+            ],
+            [
+              16.2077099,
+              47.0205766
+            ],
+            [
+              16.2077042,
+              47.0204879
+            ],
+            [
+              16.2076969,
+              47.0203748
+            ],
+            [
+              16.207648,
+              47.0201423
+            ],
+            [
+              16.2075497,
+              47.0198595
+            ],
+            [
+              16.2074015,
+              47.0195716
+            ],
+            [
+              16.2071817,
+              47.0192185
+            ],
+            [
+              16.2065165,
+              47.0183765
+            ],
+            [
+              16.2043908,
+              47.0157494
+            ],
+            [
+              16.2039408,
+              47.0151434
+            ],
+            [
+              16.2035595,
+              47.0144531
+            ],
+            [
+              16.2034604,
+              47.014075
+            ],
+            [
+              16.2034371,
+              47.0138007
+            ],
+            [
+              16.2034543,
+              47.0135263
+            ],
+            [
+              16.2035275,
+              47.0132916
+            ],
+            [
+              16.2036494,
+              47.013068
+            ],
+            [
+              16.2036754,
+              47.0130069
+            ],
+            [
+              16.2041159,
+              47.012478
+            ],
+            [
+              16.2045877,
+              47.0119116
+            ],
+            [
+              16.2046149,
+              47.0118149
+            ],
+            [
+              16.2046187,
+              47.0118015
+            ],
+            [
+              16.2046974,
+              47.0115217
+            ],
+            [
+              16.2047061,
+              47.0114906
+            ],
+            [
+              16.2046938,
+              47.0112541
+            ],
+            [
+              16.2046566,
+              47.0111049
+            ],
+            [
+              16.2046338,
+              47.0110131
+            ],
+            [
+              16.2044893,
+              47.0107189
+            ],
+            [
+              16.2044677,
+              47.0106751
+            ],
+            [
+              16.2042931,
+              47.0104434
+            ]
+          ],
+          [
+            [
+              16.1751179,
+              47.0135688
+            ],
+            [
+              16.1753325,
+              47.0134877
+            ],
+            [
+              16.1755419,
+              47.0134341
+            ],
+            [
+              16.1758215,
+              47.0133944
+            ],
+            [
+              16.176045,
+              47.0133911
+            ]
+          ],
+          [
+            [
+              16.2154222,
+              47.001128
+            ],
+            [
+              16.21562,
+              47.0010514
+            ]
+          ],
+          [
+            [
+              16.176045,
+              47.0133911
+            ],
+            [
+              16.1758558,
+              47.0134356
+            ],
+            [
+              16.1757669,
+              47.0134609
+            ],
+            [
+              16.1753461,
+              47.0135454
+            ],
+            [
+              16.1751179,
+              47.0135688
+            ]
+          ],
+          [
+            [
+              16.1484979,
+              47.0234695
+            ],
+            [
+              16.1480124,
+              47.0236741
+            ],
+            [
+              16.1478044,
+              47.0237602
+            ],
+            [
+              16.1474261,
+              47.0239167
+            ],
+            [
+              16.1471227,
+              47.0240427
+            ],
+            [
+              16.1469245,
+              47.0241251
+            ],
+            [
+              16.1466519,
+              47.0242364
+            ],
+            [
+              16.146358,
+              47.0243566
+            ],
+            [
+              16.1461837,
+              47.0244278
+            ],
+            [
+              16.1459967,
+              47.0245042
+            ],
+            [
+              16.1458646,
+              47.0245583
+            ],
+            [
+              16.1456469,
+              47.0246476
+            ],
+            [
+              16.1454667,
+              47.024711
+            ],
+            [
+              16.1452171,
+              47.024799
+            ],
+            [
+              16.1449823,
+              47.0248739
+            ],
+            [
+              16.144813,
+              47.0249279
+            ],
+            [
+              16.1446911,
+              47.0249657
+            ],
+            [
+              16.1443056,
+              47.0250855
+            ],
+            [
+              16.1441316,
+              47.0251384
+            ],
+            [
+              16.1435651,
+              47.0253144
+            ],
+            [
+              16.1430782,
+              47.0254613
+            ],
+            [
+              16.1425302,
+              47.0256267
+            ]
+          ],
+          [
+            [
+              16.2042931,
+              47.0104434
+            ],
+            [
+              16.2040615,
+              47.0101903
+            ],
+            [
+              16.2038536,
+              47.0099806
+            ],
+            [
+              16.2035756,
+              47.0097545
+            ],
+            [
+              16.2035083,
+              47.0096998
+            ],
+            [
+              16.2030534,
+              47.0092968
+            ],
+            [
+              16.2026462,
+              47.0089428
+            ]
+          ],
+          [
+            [
+              16.2026462,
+              47.0089428
+            ],
+            [
+              16.2023523,
+              47.0086699
+            ],
+            [
+              16.2022322,
+              47.0085458
+            ],
+            [
+              16.2021117,
+              47.0083799
+            ],
+            [
+              16.2018603,
+              47.0079435
+            ],
+            [
+              16.2016032,
+              47.0074971
+            ],
+            [
+              16.2014072,
+              47.0071569
+            ]
+          ],
+          [
+            [
+              16.2014072,
+              47.0071569
+            ],
+            [
+              16.2013983,
+              47.0071403
+            ],
+            [
+              16.2011153,
+              47.0066114
+            ],
+            [
+              16.201101,
+              47.0065846
+            ],
+            [
+              16.2010309,
+              47.0064727
+            ],
+            [
+              16.2009796,
+              47.0063917
+            ],
+            [
+              16.2009693,
+              47.00637
+            ],
+            [
+              16.2007557,
+              47.0060221
+            ],
+            [
+              16.200665,
+              47.0058743
+            ],
+            [
+              16.2006185,
+              47.0057986
+            ],
+            [
+              16.2005997,
+              47.0057712
+            ]
+          ],
+          [
+            [
+              16.2005997,
+              47.0057712
+            ],
+            [
+              16.2005679,
+              47.0057249
+            ]
+          ],
+          [
+            [
+              16.21562,
+              47.0010514
+            ],
+            [
+              16.2158098,
+              47.0009766
+            ],
+            [
+              16.2162697,
+              47.0007622
+            ],
+            [
+              16.2164381,
+              47.0006837
+            ],
+            [
+              16.2166921,
+              47.0005597
+            ],
+            [
+              16.2170391,
+              47.0003894
+            ],
+            [
+              16.2171845,
+              47.000318
+            ],
+            [
+              16.2175767,
+              47.0001281
+            ],
+            [
+              16.2180933,
+              46.9998766
+            ],
+            [
+              16.2182772,
+              46.9997903
+            ],
+            [
+              16.2184047,
+              46.9997298
+            ],
+            [
+              16.2190125,
+              46.9994371
+            ],
+            [
+              16.2196558,
+              46.9991265
+            ],
+            [
+              16.2198691,
+              46.9990238
+            ],
+            [
+              16.2202018,
+              46.9988516
+            ],
+            [
+              16.2202954,
+              46.9988023
+            ],
+            [
+              16.220417,
+              46.9987366
+            ],
+            [
+              16.2206714,
+              46.9985978
+            ],
+            [
+              16.2209239,
+              46.9984508
+            ],
+            [
+              16.2212357,
+              46.9982568
+            ],
+            [
+              16.2215348,
+              46.9980578
+            ],
+            [
+              16.2224105,
+              46.9974199
+            ],
+            [
+              16.2226064,
+              46.9972802
+            ],
+            [
+              16.2228283,
+              46.9971414
+            ],
+            [
+              16.2230108,
+              46.9970411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Heigl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Hochland",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Höckstrasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Höfen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Hornberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Jochbergweg - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Kapellenweg - Osterhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Kiefernstrasse - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Kreut",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Laurenziweg - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Lindenrain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Lindenweg - Osterhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Ludwigstrasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Moarhof - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Mooseurach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Mooseuracher Strasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Mühlgraben",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Niederham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Niederhamer Strasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Obere Wolkenstattstrasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Osteranger- Niederham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Osterhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Osterhofener Strasse - Niederham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Paul-Ernst-Strasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Pföderl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Quellenweg - Osterhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Rossmoosweg - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Rothmühle - Hochland",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Sägstrasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Schmiedgasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Schönrain",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Schösserweg - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Schulgasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Schuss",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Schwaighofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Sedlmeierstrasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Seeweg - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Segelflugplatz - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Sonnenhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Stollenwiese - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Tölzer Strasse - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Untere Wolkenstattstrasse - Niederham",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Weidenweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Weidenweg - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Wolfsgrube",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Zellwies",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Zum Lindenrain - Wiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    },
+    {
+      "street": "Zwieselweg - Königsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1682,
+          47.0025
+        ]
+      }
+    }
+  ]
+}

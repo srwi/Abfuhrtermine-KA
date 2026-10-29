@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:18:07.630Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Königsthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3126,
+          50.5626
+        ]
+      }
+    }
+  ]
+}

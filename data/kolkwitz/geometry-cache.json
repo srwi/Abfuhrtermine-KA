@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:17:07.011Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Kolkwitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          51.75
+        ]
+      }
+    }
+  ]
+}

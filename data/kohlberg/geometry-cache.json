@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:16:31.292Z",
+  "streets": [
+    {
+      "street": "Kohlberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7833,
+          46.9
+        ]
+      }
+    }
+  ]
+}

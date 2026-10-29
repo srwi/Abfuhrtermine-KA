@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T06:17:41.624Z",
+  "streets": [
+    {
+      "street": "Gewerbegebiet",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0975,
+          50.6614
+        ]
+      }
+    },
+    {
+      "street": "links d. Hauptstr., ausser Am Kümmelbrunnen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0975,
+          50.6614
+        ]
+      }
+    },
+    {
+      "street": "rechts d. Hauptstr., einschl. Hauptstr.",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0975,
+          50.6614
+        ]
+      }
+    },
+    {
+      "street": "Wohngebiet Am Kümmelbrunnen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0975,
+          50.6614
+        ]
+      }
+    }
+  ]
+}

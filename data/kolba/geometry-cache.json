@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:16:40.294Z",
+  "streets": [
+    {
+      "street": "SOK-Kolba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6727,
+          50.7199
+        ]
+      }
+    }
+  ]
+}
