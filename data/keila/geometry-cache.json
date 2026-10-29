@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:08:32.637Z",
+  "streets": [
+    {
+      "street": "SOK-Keila",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4131,
+          59.3036
+        ]
+      }
+    }
+  ]
+}

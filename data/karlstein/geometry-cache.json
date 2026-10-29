@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T06:07:05.503Z",
+  "streets": [
+    {
+      "street": "Dettingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1861,
+          49.9374
+        ]
+      }
+    },
+    {
+      "street": "Grosswelzheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1861,
+          49.9374
+        ]
+      }
+    }
+  ]
+}

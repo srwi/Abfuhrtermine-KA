@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:05:18.107Z",
+  "streets": [
+    {
+      "street": "Kakau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4329,
+          51.8043
+        ]
+      }
+    }
+  ]
+}
