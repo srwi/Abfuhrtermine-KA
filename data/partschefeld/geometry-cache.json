@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:28:31.072Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Partschefeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4392,
+          50.7552
+        ]
+      }
+    }
+  ]
+}

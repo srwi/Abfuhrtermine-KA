@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:28:15.100Z",
+  "streets": [
+    {
+      "street": "SOK-Pahnstangen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7759,
+          50.6159
+        ]
+      }
+    }
+  ]
+}

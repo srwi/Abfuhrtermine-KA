@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:28:40.931Z",
+  "streets": [
+    {
+      "street": "SOK-Paska",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629,
+          50.6199
+        ]
+      }
+    }
+  ]
+}
