@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-29T21:14:13.459Z",
+  "streets": [
+    {
+      "street": "Bockel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.31,
+          53.2196
+        ]
+      }
+    },
+    {
+      "street": "Gyhum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.31,
+          53.2196
+        ]
+      }
+    },
+    {
+      "street": "Hesedorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.31,
+          53.2196
+        ]
+      }
+    },
+    {
+      "street": "Nartum",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.31,
+          53.2196
+        ]
+      }
+    },
+    {
+      "street": "Wehldorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.31,
+          53.2196
+        ]
+      }
+    }
+  ]
+}

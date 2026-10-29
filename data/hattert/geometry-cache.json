@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-10-29T21:16:35.095Z",
+  "streets": [
+    {
+      "street": "Hattert",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7762158,
+            50.6760642
+          ],
+          [
+            7.7765553,
+            50.6759964
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Hof Sophienthal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7667,
+          50.6667
+        ]
+      }
+    },
+    {
+      "street": "Hütte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7667,
+          50.6667
+        ]
+      }
+    },
+    {
+      "street": "Laad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7667,
+          50.6667
+        ]
+      }
+    },
+    {
+      "street": "Mittelhattert",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7667,
+          50.6667
+        ]
+      }
+    },
+    {
+      "street": "Niederhattert",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7667,
+          50.6667
+        ]
+      }
+    },
+    {
+      "street": "Oberhattert",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7667,
+          50.6667
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-10-29T21:16:45.358Z",
+  "streets": [
+    {
+      "street": "Boitzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    },
+    {
+      "street": "Freyersen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    },
+    {
+      "street": "Heeslingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    },
+    {
+      "street": "Meinstedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    },
+    {
+      "street": "Sassenholz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    },
+    {
+      "street": "Steddorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    },
+    {
+      "street": "Weertzen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    },
+    {
+      "street": "Wense",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    },
+    {
+      "street": "Wiersdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          53.3167
+        ]
+      }
+    }
+  ]
+}
