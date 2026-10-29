@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T23:29:04.405Z",
+  "streets": [
+    {
+      "street": "Bauhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4719,
+          50.314
+        ]
+      }
+    },
+    {
+      "street": "Dieblich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4719,
+          50.314
+        ]
+      }
+    },
+    {
+      "street": "Kührer Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4719,
+          50.314
+        ]
+      }
+    },
+    {
+      "street": "Lobuschhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4719,
+          50.314
+        ]
+      }
+    },
+    {
+      "street": "Mariaroth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4719,
+          50.314
+        ]
+      }
+    },
+    {
+      "street": "Nassheck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4719,
+          50.314
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T23:24:35.976Z",
+  "streets": [
+    {
+      "street": "Bedernau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4,
+          48.1333
+        ]
+      }
+    },
+    {
+      "street": "Breitenbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4,
+          48.1333
+        ]
+      }
+    },
+    {
+      "street": "Loppenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4,
+          48.1333
+        ]
+      }
+    }
+  ]
+}

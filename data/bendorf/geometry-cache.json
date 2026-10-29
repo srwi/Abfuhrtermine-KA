@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T23:22:14.842Z",
+  "streets": [
+    {
+      "street": "Bendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5792,
+          50.4229
+        ]
+      }
+    },
+    {
+      "street": "Mülhofen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5792,
+          50.4229
+        ]
+      }
+    },
+    {
+      "street": "Sayn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5792,
+          50.4229
+        ]
+      }
+    },
+    {
+      "street": "Stromberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5792,
+          50.4229
+        ]
+      }
+    }
+  ]
+}

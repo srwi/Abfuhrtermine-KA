@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T23:22:24.670Z",
+  "streets": [
+    {
+      "street": "Benningen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2167,
+          47.9667
+        ]
+      }
+    },
+    {
+      "street": "Junkersstrasse, Dornierstrasse",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2167,
+          47.9667
+        ]
+      }
+    }
+  ]
+}
