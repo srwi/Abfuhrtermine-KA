@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:17:54.423Z",
+  "streets": [
+    {
+      "street": "Obereuerheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3652,
+          50.0008
+        ]
+      }
+    }
+  ]
+}

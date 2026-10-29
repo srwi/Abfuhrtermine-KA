@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:17:13.925Z",
+  "streets": [
+    {
+      "street": "SOK-Oberböhmsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8318,
+          50.5612
+        ]
+      }
+    }
+  ]
+}
