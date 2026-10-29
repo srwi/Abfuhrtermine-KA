@@ -95,7 +95,22 @@ async function geocode(cityName: string, region: string): Promise<{ center: [num
 const SERVICES_TO_SCAN: { service: string; region: string }[] = [
   { service: 'udg', region: 'Uckermark, Brandenburg' },
   { service: 'bdg', region: 'Landkreis Barnim, Brandenburg' },
-  { service: 'zvo', region: 'Ostholstein, Schleswig-Holstein' }
+  { service: 'zvo', region: 'Ostholstein, Schleswig-Holstein' },
+  { service: 'aoe', region: 'Landkreis Altötting, Bayern' },
+  { service: 'lka', region: 'Landkreis Aurich, Niedersachsen' },
+  { service: 'hom', region: 'Bad Homburg vor der Höhe, Hessen' },
+  { service: 'zaw', region: 'Landkreis Darmstadt-Dieburg, Hessen' },
+  { service: 'hat', region: 'Hattersheim am Main, Hessen' },
+  { service: 'ingol', region: 'Ingolstadt, Bayern' },
+  { service: 'lue', region: 'Lübbecke, Nordrhein-Westfalen' },
+  { service: 'sbm', region: 'Minden, Nordrhein-Westfalen' },
+  { service: 'ksr', region: 'Recklinghausen, Nordrhein-Westfalen' },
+  { service: 'rhe', region: 'Rhein-Hunsrück-Kreis, Rheinland-Pfalz' },
+  { service: 'esn', region: 'Neustadt an der Weinstraße, Rheinland-Pfalz' },
+  { service: 'mkk', region: 'Main-Kinzig-Kreis, Hessen' },
+  { service: 'zac', region: 'Landkreis Celle, Niedersachsen' },
+  { service: 'ros', region: 'Rosbach vor der Höhe, Hessen' },
+  { service: 'mymuell', region: 'Deutschland' }
 ];
 
 async function main() {

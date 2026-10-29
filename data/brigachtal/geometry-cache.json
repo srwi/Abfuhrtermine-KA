@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T02:01:48.578Z",
+  "streets": [
+    {
+      "street": "alle Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464,
+          48.0118
+        ]
+      }
+    },
+    {
+      "street": "Teilort Kirchdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464,
+          48.0118
+        ]
+      }
+    },
+    {
+      "street": "Teilort Klengen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464,
+          48.0118
+        ]
+      }
+    },
+    {
+      "street": "Teilort Überauchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464,
+          48.0118
+        ]
+      }
+    }
+  ]
+}

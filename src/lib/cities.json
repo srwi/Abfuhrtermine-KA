@@ -1090,6 +1090,22 @@
     ]
   },
   {
+    "id": "aschaffenburg",
+    "name": "Aschaffenburg",
+    "shortName": "ASC",
+    "center": [
+      9.1521,
+      49.977
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.937,
+      9.1021,
+      50.017,
+      9.2021
+    ]
+  },
+  {
     "id": "ascheberg",
     "name": "Ascheberg",
     "shortName": "ASC",
@@ -2199,6 +2215,22 @@
       7.6007,
       50.1207,
       7.6383
+    ]
+  },
+  {
+    "id": "birstein",
+    "name": "Birstein",
+    "shortName": "BIR",
+    "center": [
+      9.3,
+      50.35
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      50.31,
+      9.25,
+      50.39,
+      9.35
     ]
   },
   {
@@ -10848,6 +10880,22 @@
     ]
   },
   {
+    "id": "neustadt-esn",
+    "name": "Neustadt an der Weinstraße",
+    "shortName": "NW",
+    "center": [
+      8.1389,
+      49.3501
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      49.3101,
+      8.0889,
+      49.3901,
+      8.1889
+    ]
+  },
+  {
     "id": "neustadt",
     "name": "Neustadt an der Weinstraße",
     "shortName": "NW",
@@ -16838,6 +16886,22 @@
     ]
   },
   {
+    "id": "ulm",
+    "name": "Ulm",
+    "shortName": "ULM",
+    "center": [
+      9.9916,
+      48.3984
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.3584,
+      9.9416,
+      48.4384,
+      10.0416
+    ]
+  },
+  {
     "id": "unna",
     "name": "Unna",
     "shortName": "UN",
@@ -17879,6 +17943,22 @@
       8.8715,
       48.8676,
       8.966
+    ]
+  },
+  {
+    "id": "weissenhorn",
+    "name": "Weißenhorn",
+    "shortName": "WEI",
+    "center": [
+      10.1605,
+      48.305
+    ],
+    "defaultZoom": 12,
+    "bbox": [
+      48.265,
+      10.1105,
+      48.345,
+      10.2105
     ]
   },
   {

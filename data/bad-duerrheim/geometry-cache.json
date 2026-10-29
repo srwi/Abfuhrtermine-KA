@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-29T01:59:53.491Z",
+  "streets": [
+    {
+      "street": "alle Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148,
+          47.9977
+        ]
+      }
+    },
+    {
+      "street": "Teilort Biesingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148,
+          47.9977
+        ]
+      }
+    },
+    {
+      "street": "Teilort Hochemmingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148,
+          47.9977
+        ]
+      }
+    },
+    {
+      "street": "Teilort Oberbaldingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148,
+          47.9977
+        ]
+      }
+    },
+    {
+      "street": "Teilort Öfingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148,
+          47.9977
+        ]
+      }
+    },
+    {
+      "street": "Teilort Sunthausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148,
+          47.9977
+        ]
+      }
+    },
+    {
+      "street": "Teilort Unterbaldingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148,
+          47.9977
+        ]
+      }
+    }
+  ]
+}

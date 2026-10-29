@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-10-29T02:01:38.329Z",
+  "streets": [
+    {
+      "street": "alle Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4483,
+          47.9301
+        ]
+      }
+    },
+    {
+      "street": "Teilort Bruggen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4483,
+          47.9301
+        ]
+      }
+    },
+    {
+      "street": "Teilort Döggingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4483,
+          47.9301
+        ]
+      }
+    },
+    {
+      "street": "Teilort Mistelbrunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4483,
+          47.9301
+        ]
+      }
+    },
+    {
+      "street": "Teilort Unterbränd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4483,
+          47.9301
+        ]
+      }
+    },
+    {
+      "street": "Teilort Waldhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4483,
+          47.9301
+        ]
+      }
+    }
+  ]
+}
