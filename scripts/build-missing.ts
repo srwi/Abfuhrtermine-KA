@@ -18,7 +18,36 @@ async function runCommand(args: string[]): Promise<void> {
   });
 }
 
+function runGit(args: string[]): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const proc = spawn('git', args, { stdio: ['ignore', 'pipe', 'inherit'] });
+    let stdout = '';
+    proc.stdout.on('data', (d) => { stdout += d.toString(); });
+    proc.on('close', (code) => {
+      if (code === 0) resolve(stdout.trim());
+      else reject(new Error(`git ${args.join(' ')} failed with code ${code}`));
+    });
+  });
+}
+
 async function main() {
+  const args = process.argv.slice(2);
+  let limit = Infinity;
+  let autoCommit = false;
+  let commitBatchSize = 25;
+
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === '--limit' && args[i + 1]) {
+      limit = parseInt(args[i + 1], 10);
+      i++;
+    } else if (args[i] === '--commit') {
+      autoCommit = true;
+    } else if (args[i] === '--batch-size' && args[i + 1]) {
+      commitBatchSize = parseInt(args[i + 1], 10);
+      i++;
+    }
+  }
+
   while (true) {
     const existingDirs = new Set(
       fs.readdirSync('static/data')
@@ -26,7 +55,7 @@ async function main() {
     );
     existingDirs.add('karlsruhe');
 
-    const missingCities = FETCHERS
+    let missingCities = FETCHERS
       .filter((f) => !existingDirs.has(f.id))
       .map((f) => f.id);
 
@@ -35,13 +64,18 @@ async function main() {
       break;
     }
 
+    if (limit < missingCities.length) {
+      missingCities = missingCities.slice(0, limit);
+    }
+
     console.log(`======================================================`);
-    console.log(`Building ${missingCities.length} missing cities.`);
+    console.log(`Building ${missingCities.length} missing cities (AutoCommit: ${autoCommit}, Batch: ${commitBatchSize}).`);
     console.log(`======================================================\n`);
 
     let successCount = 0;
     let failCount = 0;
     const failures: string[] = [];
+    const recentBuilt: string[] = [];
 
     for (let i = 0; i < missingCities.length; i++) {
       const cityId = missingCities[i];
@@ -53,6 +87,7 @@ async function main() {
         await runCommand(['scripts/build-cache.ts', cityId]);
         await runCommand(['scripts/refresh-data.ts', cityId]);
         successCount++;
+        recentBuilt.push(cityId);
       } catch (e: any) {
         console.warn(`⚠️ First attempt failed for ${cityId}: ${e.message}. Retrying after 3s...`);
         await new Promise((r) => setTimeout(r, 3000));
@@ -60,22 +95,52 @@ async function main() {
           await runCommand(['scripts/build-cache.ts', cityId]);
           await runCommand(['scripts/refresh-data.ts', cityId]);
           successCount++;
+          recentBuilt.push(cityId);
         } catch (retryErr: any) {
           console.error(`❌ Failed: ${cityId} - ${retryErr.message}`);
           failCount++;
           failures.push(cityId);
         }
       }
+
+      // Check if we should auto-commit
+      if (autoCommit && recentBuilt.length >= commitBatchSize) {
+        try {
+          const names = recentBuilt.slice(0, 5).join(', ') + (recentBuilt.length > 5 ? ` and ${recentBuilt.length - 5} more` : '');
+          console.log(`\n📦 Auto-committing batch of ${recentBuilt.length} cities...`);
+          await runGit(['add', 'data/', 'static/data/']);
+          await runGit(['commit', '-m', `feat: complete data build for ${names}`]);
+          console.log(`✓ Committed batch successfully.`);
+          recentBuilt.length = 0;
+        } catch (commitErr: any) {
+          console.warn(`⚠️ Commit failed: ${commitErr.message}`);
+        }
+      }
+
       await new Promise((r) => setTimeout(r, 1000));
+    }
+
+    // Flush any remaining uncommitted cities
+    if (autoCommit && recentBuilt.length > 0) {
+      try {
+        const names = recentBuilt.slice(0, 5).join(', ') + (recentBuilt.length > 5 ? ` and ${recentBuilt.length - 5} more` : '');
+        console.log(`\n📦 Auto-committing final batch of ${recentBuilt.length} cities...`);
+        await runGit(['add', 'data/', 'static/data/']);
+        await runGit(['commit', '-m', `feat: complete data build for ${names}`]);
+        console.log(`✓ Committed final batch successfully.`);
+        recentBuilt.length = 0;
+      } catch (commitErr: any) {
+        console.warn(`⚠️ Commit failed: ${commitErr.message}`);
+      }
     }
 
     console.log(`\n======================================================`);
     console.log(`Done batch! Success: ${successCount}, Failed: ${failCount}`);
     if (failures.length > 0) {
       console.log(`Failed cities: ${failures.join(', ')}`);
-      break; // Avoid infinite loop if some fail permanently
     }
     console.log(`======================================================`);
+    break; // Complete current batch
   }
 }
 
