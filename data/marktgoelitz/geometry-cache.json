@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:49:02.320Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Marktgölitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3352,
+          50.5563
+        ]
+      }
+    }
+  ]
+}

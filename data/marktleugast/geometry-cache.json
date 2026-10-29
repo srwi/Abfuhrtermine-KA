@@ -1,0 +1,363 @@
+{
+  "generatedAt": "2026-10-29T06:49:18.617Z",
+  "streets": [
+    {
+      "street": "Baiersbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Filshof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Grossrehmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Hanauerhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Hermes",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Hinterrehberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Hohenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Hohenreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Kleinrehmühle",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5963155,
+            50.1875686
+          ],
+          [
+            11.5964395,
+            50.1875867
+          ],
+          [
+            11.5964844,
+            50.187461
+          ],
+          [
+            11.5963604,
+            50.1874428
+          ],
+          [
+            11.5963155,
+            50.1875686
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Kosermühle",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6577431,
+            50.1692871
+          ],
+          [
+            11.6578267,
+            50.1693944
+          ],
+          [
+            11.6580734,
+            50.1693156
+          ],
+          [
+            11.6578352,
+            50.1690095
+          ],
+          [
+            11.6575376,
+            50.1691045
+          ],
+          [
+            11.6575923,
+            50.1691747
+          ],
+          [
+            11.657643,
+            50.1691585
+          ],
+          [
+            11.6577075,
+            50.1692414
+          ],
+          [
+            11.6575396,
+            50.1693132
+          ],
+          [
+            11.6575887,
+            50.1693597
+          ],
+          [
+            11.6575298,
+            50.1693852
+          ],
+          [
+            11.6573029,
+            50.1691701
+          ],
+          [
+            11.657168,
+            50.1692285
+          ],
+          [
+            11.6574718,
+            50.1695166
+          ],
+          [
+            11.6577442,
+            50.1693988
+          ],
+          [
+            11.6576632,
+            50.169322
+          ],
+          [
+            11.6577431,
+            50.1692871
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Mannsflur",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Marienweiher",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Marktleugast",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6266574,
+            50.1669869
+          ],
+          [
+            11.626976,
+            50.1672534
+          ],
+          [
+            11.6283287,
+            50.1670314
+          ],
+          [
+            11.6284654,
+            50.166607
+          ],
+          [
+            11.6283811,
+            50.1662842
+          ],
+          [
+            11.6271902,
+            50.1663098
+          ],
+          [
+            11.6270677,
+            50.1664444
+          ],
+          [
+            11.6268669,
+            50.1666912
+          ],
+          [
+            11.6266574,
+            50.1669869
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Mittelrehberg",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6113311,
+            50.1863817
+          ],
+          [
+            11.6110045,
+            50.1864878
+          ],
+          [
+            11.6112743,
+            50.1867667
+          ],
+          [
+            11.6114495,
+            50.1868
+          ],
+          [
+            11.6116294,
+            50.1867576
+          ],
+          [
+            11.6116483,
+            50.1866939
+          ],
+          [
+            11.6114779,
+            50.1864696
+          ],
+          [
+            11.6113311,
+            50.1863817
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Neuensorg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Ösel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Roth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Steinbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Tannenwirtshaus",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Traindorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    },
+    {
+      "street": "Vorderrehberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339,
+          50.1731
+        ]
+      }
+    }
+  ]
+}

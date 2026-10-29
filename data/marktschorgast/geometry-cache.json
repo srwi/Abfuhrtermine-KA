@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-10-29T06:50:28.846Z",
+  "streets": [
+    {
+      "street": "Grundmühle",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6497083,
+            50.1030447
+          ],
+          [
+            11.649818,
+            50.1030159
+          ],
+          [
+            11.6497223,
+            50.1028663
+          ],
+          [
+            11.6496804,
+            50.1028774
+          ],
+          [
+            11.6496126,
+            50.102895
+          ],
+          [
+            11.6496406,
+            50.1029368
+          ],
+          [
+            11.6496578,
+            50.102966
+          ],
+          [
+            11.6497083,
+            50.1030447
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Marktschorgast",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6547,
+          50.0948
+        ]
+      }
+    },
+    {
+      "street": "Mittelpöllitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6547,
+          50.0948
+        ]
+      }
+    },
+    {
+      "street": "Oberpöllitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6547,
+          50.0948
+        ]
+      }
+    },
+    {
+      "street": "Pulst",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6547,
+          50.0948
+        ]
+      }
+    },
+    {
+      "street": "Rohrersreuth",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6547,
+          50.0948
+        ]
+      }
+    },
+    {
+      "street": "Thalmühle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6547,
+          50.0948
+        ]
+      }
+    },
+    {
+      "street": "Unterpöllitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6547,
+          50.0948
+        ]
+      }
+    },
+    {
+      "street": "Ziegenburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6547,
+          50.0948
+        ]
+      }
+    }
+  ]
+}

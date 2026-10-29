@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:47:54.038Z",
+  "streets": [
+    {
+      "street": "Mantel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0407,
+          49.6541
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:50:37.912Z",
+  "streets": [
+    {
+      "street": "Marktsteinach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3467,
+          50.0696
+        ]
+      }
+    }
+  ]
+}
