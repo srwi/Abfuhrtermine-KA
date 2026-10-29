@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:55:53.704Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Remda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7866,
+          58.3146
+        ]
+      }
+    }
+  ]
+}

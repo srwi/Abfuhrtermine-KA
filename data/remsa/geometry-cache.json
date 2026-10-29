@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:56:12.482Z",
+  "streets": [
+    {
+      "street": "Remsa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4751,
+          51.0042
+        ]
+      }
+    }
+  ]
+}

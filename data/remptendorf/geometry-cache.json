@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T07:56:03.354Z",
+  "streets": [
+    {
+      "street": "SOK-Remptendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65,
+          50.5333
+        ]
+      }
+    }
+  ]
+}
