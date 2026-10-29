@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:36:40.701Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Lichta",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1994,
+          29.2267
+        ]
+      }
+    }
+  ]
+}

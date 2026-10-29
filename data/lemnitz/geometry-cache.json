@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:33:53.773Z",
+  "streets": [
+    {
+      "street": "SOK-Lemnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8332,
+          50.7218
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:33:15.224Z",
+  "streets": [
+    {
+      "street": "Lehndorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4259,
+          50.9359
+        ]
+      }
+    }
+  ]
+}

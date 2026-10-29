@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:33:21.933Z",
+  "streets": [
+    {
+      "street": "Lehnitzsch",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4546,
+          50.9526
+        ]
+      }
+    }
+  ]
+}

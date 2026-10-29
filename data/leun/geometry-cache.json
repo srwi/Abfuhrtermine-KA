@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-29T06:34:48.823Z",
+  "streets": [
+    {
+      "street": "Biskirchen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3584,
+          50.5513
+        ]
+      }
+    },
+    {
+      "street": "Bissenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3584,
+          50.5513
+        ]
+      }
+    },
+    {
+      "street": "Lahnbahnhof",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.3650243,
+              50.5401605
+            ],
+            [
+              8.3650495,
+              50.5401459
+            ],
+            [
+              8.3650897,
+              50.5401263
+            ],
+            [
+              8.3651782,
+              50.5400717
+            ]
+          ],
+          [
+            [
+              8.3649481,
+              50.5400472
+            ],
+            [
+              8.3650234,
+              50.5400021
+            ],
+            [
+              8.3651225,
+              50.5399424
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Leun",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3584,
+          50.5513
+        ]
+      }
+    },
+    {
+      "street": "Stockhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3584,
+          50.5513
+        ]
+      }
+    }
+  ]
+}

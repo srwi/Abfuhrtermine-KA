@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T06:34:41.837Z",
+  "streets": [
+    {
+      "street": "Leuchtenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2584,
+          49.5974
+        ]
+      }
+    }
+  ]
+}
