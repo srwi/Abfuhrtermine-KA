@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-10-29T05:28:29.738Z",
+  "streets": [
+    {
+      "street": "Göpfersdorf",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6103215,
+            50.9131842
+          ],
+          [
+            12.6155436,
+            50.9146163
+          ]
+        ]
+      }
+    }
+  ]
+}

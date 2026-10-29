@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:28:49.664Z",
+  "streets": [
+    {
+      "street": "Gorma",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3757,
+          51.023
+        ]
+      }
+    }
+  ]
+}

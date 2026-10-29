@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:28:15.474Z",
+  "streets": [
+    {
+      "street": "Göllnitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9371,
+          48.8558
+        ]
+      }
+    }
+  ]
+}

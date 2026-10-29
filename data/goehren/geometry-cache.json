@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:27:41.058Z",
+  "streets": [
+    {
+      "street": "Göhren",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3667,
+          50.9667
+        ]
+      }
+    }
+  ]
+}

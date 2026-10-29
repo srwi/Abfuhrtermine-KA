@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:29:27.754Z",
+  "streets": [
+    {
+      "street": "SOK-Gössitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5865,
+          50.622
+        ]
+      }
+    }
+  ]
+}

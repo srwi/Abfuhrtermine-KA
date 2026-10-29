@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T05:27:49.978Z",
+  "streets": [
+    {
+      "street": "Goldbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6575,
+          50.9924
+        ]
+      }
+    },
+    {
+      "street": "Unterafferbach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6575,
+          50.9924
+        ]
+      }
+    }
+  ]
+}

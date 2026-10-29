@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:28:59.290Z",
+  "streets": [
+    {
+      "street": "SOK-Göschitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8667,
+          50.6333
+        ]
+      }
+    }
+  ]
+}

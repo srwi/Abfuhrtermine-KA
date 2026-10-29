@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:29:17.919Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Gösselsdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6353,
+          46.5731
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:27:59.554Z",
+  "streets": [
+    {
+      "street": "Goldschau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8967,
+          51.0622
+        ]
+      }
+    }
+  ]
+}

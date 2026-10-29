@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T05:27:25.273Z",
+  "streets": [
+    {
+      "street": "Gödern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5432,
+          53.6188
+        ]
+      }
+    }
+  ]
+}
