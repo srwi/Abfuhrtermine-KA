@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:13:52.699Z",
+  "streets": [
+    {
+      "street": "Brossen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2638,
+          51.0418
+        ]
+      }
+    }
+  ]
+}

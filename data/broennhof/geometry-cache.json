@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:13:44.194Z",
+  "streets": [
+    {
+      "street": "Brönnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7562,
+          47.7454
+        ]
+      }
+    }
+  ]
+}

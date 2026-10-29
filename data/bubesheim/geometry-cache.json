@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-10-29T04:16:01.241Z",
+  "streets": [
+    {
+      "street": "An der Werft",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.236939,
+            48.4391271
+          ],
+          [
+            10.2378263,
+            48.4393734
+          ],
+          [
+            10.2379822,
+            48.4394086
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Bubesheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25,
+          48.4333
+        ]
+      }
+    }
+  ]
+}

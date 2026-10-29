@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:15:26.177Z",
+  "streets": [
+    {
+      "street": "Brünnstadt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3022,
+          49.9039
+        ]
+      }
+    }
+  ]
+}

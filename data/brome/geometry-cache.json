@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-10-29T04:13:34.566Z",
+  "streets": [
+    {
+      "street": "Ahnebeck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Altendorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Benitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Bergfeld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Brechtorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Brome",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Croya",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Ehra",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Eischott",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Giebel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Hoitlingen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Kaiserwinkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Lessien",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Parsau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Rühen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Tiddische",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Tülau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Voitze",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Wiswedel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    },
+    {
+      "street": "Zicherie",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9359,
+          52.5999
+        ]
+      }
+    }
+  ]
+}

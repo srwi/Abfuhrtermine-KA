@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:13:15.458Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Brennersgrün",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4682,
+          50.4382
+        ]
+      }
+    }
+  ]
+}

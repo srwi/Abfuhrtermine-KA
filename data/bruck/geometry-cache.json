@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-29T04:14:01.656Z",
+  "streets": [
+    {
+      "street": "Am alten Bahndamm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2547,
+          48.179
+        ]
+      }
+    },
+    {
+      "street": "Bruck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2547,
+          48.179
+        ]
+      }
+    },
+    {
+      "street": "Oberdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2547,
+          48.179
+        ]
+      }
+    },
+    {
+      "street": "Unterdorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2547,
+          48.179
+        ]
+      }
+    }
+  ]
+}

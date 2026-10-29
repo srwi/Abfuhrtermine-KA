@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:13:24.700Z",
+  "streets": [
+    {
+      "street": "SLF-RU-Breternitz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4101,
+          50.6193
+        ]
+      }
+    }
+  ]
+}

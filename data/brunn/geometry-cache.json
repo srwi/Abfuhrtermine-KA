@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-10-29T04:14:56.710Z",
+  "streets": [
+    {
+      "street": "Babetsberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    },
+    {
+      "street": "Brunn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    },
+    {
+      "street": "Eglsee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    },
+    {
+      "street": "Eiselberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    },
+    {
+      "street": "Frauenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    },
+    {
+      "street": "Kirchhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    },
+    {
+      "street": "Konstein",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    },
+    {
+      "street": "Münchsried",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    },
+    {
+      "street": "Pettenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.608,
+          49.1952
+        ]
+      }
+    }
+  ]
+}

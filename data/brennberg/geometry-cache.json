@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-29T04:13:06.102Z",
+  "streets": [
+    {
+      "street": "Brennberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4,
+          49.0667
+        ]
+      }
+    }
+  ]
+}
