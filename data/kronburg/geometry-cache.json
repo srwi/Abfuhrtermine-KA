@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T00:08:04.758Z",
+  "streets": [
+    {
+      "street": "Kronburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1572,
+          47.9043
+        ]
+      }
+    },
+    {
+      "street": "Rothmoos",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1572,
+          47.9043
+        ]
+      }
+    }
+  ]
+}

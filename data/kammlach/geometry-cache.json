@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T00:04:01.905Z",
+  "streets": [
+    {
+      "street": "Kammlach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4167,
+          48.054
+        ]
+      }
+    },
+    {
+      "street": "Sankt Johann",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4167,
+          48.054
+        ]
+      }
+    }
+  ]
+}

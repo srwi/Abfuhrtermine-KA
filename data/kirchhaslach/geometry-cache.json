@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T00:06:52.997Z",
+  "streets": [
+    {
+      "street": "Beblinstetten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3102,
+          48.1504
+        ]
+      }
+    },
+    {
+      "street": "Kirchhaslach",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3102,
+          48.1504
+        ]
+      }
+    }
+  ]
+}

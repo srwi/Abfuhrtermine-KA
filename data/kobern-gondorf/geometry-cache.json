@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-10-30T00:07:22.087Z",
+  "streets": [
+    {
+      "street": "Achterspanner Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4561,
+          50.3023
+        ]
+      }
+    },
+    {
+      "street": "Dreckenach",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.4195846,
+            50.2879713
+          ],
+          [
+            7.4196302,
+            50.2879747
+          ],
+          [
+            7.419633,
+            50.2879594
+          ],
+          [
+            7.4195874,
+            50.287956
+          ],
+          [
+            7.4195846,
+            50.2879713
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Gondorf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4561,
+          50.3023
+        ]
+      }
+    },
+    {
+      "street": "Karmelenberger Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4561,
+          50.3023
+        ]
+      }
+    },
+    {
+      "street": "Kobern",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4561,
+          50.3023
+        ]
+      }
+    },
+    {
+      "street": "Sürzer Höfe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4561,
+          50.3023
+        ]
+      }
+    }
+  ]
+}
