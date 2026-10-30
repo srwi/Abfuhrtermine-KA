@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T01:05:33.894Z",
+  "streets": [
+    {
+      "street": "Attenhausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3546,
+          48.007
+        ]
+      }
+    },
+    {
+      "street": "Sontheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3546,
+          48.007
+        ]
+      }
+    }
+  ]
+}

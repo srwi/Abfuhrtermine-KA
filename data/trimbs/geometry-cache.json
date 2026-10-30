@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T01:14:57.806Z",
+  "streets": [
+    {
+      "street": "Auf dem Hostert 48-58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3,
+          50.3167
+        ]
+      }
+    },
+    {
+      "street": "restliche Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3,
+          50.3167
+        ]
+      }
+    }
+  ]
+}
