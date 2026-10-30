@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-30T00:22:33.287Z",
+  "streets": [
+    {
+      "street": "Alzheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2801,
+          49.9819
+        ]
+      }
+    },
+    {
+      "street": "Betzing",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2801,
+          49.9819
+        ]
+      }
+    },
+    {
+      "street": "Birkenhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2801,
+          49.9819
+        ]
+      }
+    },
+    {
+      "street": "Hausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2801,
+          49.9819
+        ]
+      }
+    },
+    {
+      "street": "Kürrenberg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2801,
+          49.9819
+        ]
+      }
+    },
+    {
+      "street": "Mayen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2801,
+          49.9819
+        ]
+      }
+    },
+    {
+      "street": "Mayen-Cond",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2801,
+          49.9819
+        ]
+      }
+    },
+    {
+      "street": "Nitztal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2801,
+          49.9819
+        ]
+      }
+    }
+  ]
+}

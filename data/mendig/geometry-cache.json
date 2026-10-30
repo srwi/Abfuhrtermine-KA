@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T00:24:07.678Z",
+  "streets": [
+    {
+      "street": "Mendig",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2833,
+          50.3667
+        ]
+      }
+    },
+    {
+      "street": "Rodderhöfe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2833,
+          50.3667
+        ]
+      }
+    }
+  ]
+}

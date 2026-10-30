@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-30T00:26:25.187Z",
+  "streets": [
+    {
+      "street": "Kärlich",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4989,
+          50.3851
+        ]
+      }
+    },
+    {
+      "street": "Mülheim",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4989,
+          50.3851
+        ]
+      }
+    },
+    {
+      "street": "Mülheim-Depot",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4989,
+          50.3851
+        ]
+      }
+    },
+    {
+      "street": "Urmitz-Bahnhof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4989,
+          50.3851
+        ]
+      }
+    }
+  ]
+}
