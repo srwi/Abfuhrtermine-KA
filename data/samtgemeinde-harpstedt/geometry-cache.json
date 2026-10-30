@@ -1,0 +1,137 @@
+{
+  "generatedAt": "2026-10-30T00:50:22.743Z",
+  "streets": [
+    {
+      "street": "Beckeln",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5585,
+          52.9083
+        ]
+      }
+    },
+    {
+      "street": "Colnrade",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5585,
+          52.9083
+        ]
+      }
+    },
+    {
+      "street": "Dünsen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5585,
+          52.9083
+        ]
+      }
+    },
+    {
+      "street": "Flecken Harpstedt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5585,
+          52.9083
+        ]
+      }
+    },
+    {
+      "street": "Gross Ippener",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5946304,
+            52.9638508
+          ],
+          [
+            8.5945972,
+            52.9638872
+          ],
+          [
+            8.5945476,
+            52.9639417
+          ],
+          [
+            8.5923996,
+            52.963239
+          ],
+          [
+            8.5924541,
+            52.9631286
+          ],
+          [
+            8.5938274,
+            52.9630666
+          ],
+          [
+            8.5945827,
+            52.9630769
+          ],
+          [
+            8.5947145,
+            52.9634627
+          ],
+          [
+            8.5946304,
+            52.9638508
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Kirchseelte",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5585,
+          52.9083
+        ]
+      }
+    },
+    {
+      "street": "Prinzhöfte",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4970097,
+            52.9366306
+          ],
+          [
+            8.4959174,
+            52.9364655
+          ],
+          [
+            8.4961852,
+            52.9357591
+          ],
+          [
+            8.4972763,
+            52.9359351
+          ],
+          [
+            8.4970097,
+            52.9366306
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Winkelsett",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5585,
+          52.9083
+        ]
+      }
+    }
+  ]
+}
