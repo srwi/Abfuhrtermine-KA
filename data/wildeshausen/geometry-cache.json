@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-10-30T01:37:56.539Z",
+  "streets": [
+    {
+      "street": "Glane",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4338,
+          52.8945
+        ]
+      }
+    },
+    {
+      "street": "Neubaugebiet\"Beim grauen Immenthun\"",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4338,
+          52.8945
+        ]
+      }
+    },
+    {
+      "street": "Wiekau",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4338,
+          52.8945
+        ]
+      }
+    },
+    {
+      "street": "Wildeshausen Land (sonstige)",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4338,
+          52.8945
+        ]
+      }
+    },
+    {
+      "street": "Wildeshausen Stadt, ohne Heideweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4338,
+          52.8945
+        ]
+      }
+    }
+  ]
+}

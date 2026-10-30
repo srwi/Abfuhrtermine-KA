@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T01:39:10.065Z",
+  "streets": [
+    {
+      "street": "Ortsteile",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2672,
+          47.8935
+        ]
+      }
+    },
+    {
+      "street": "Wolfertschwenden",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2672,
+          47.8935
+        ]
+      }
+    }
+  ]
+}
