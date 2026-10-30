@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T00:34:53.648Z",
+  "streets": [
+    {
+      "street": "Arkenwälder Hof",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4667,
+          50.2833
+        ]
+      }
+    },
+    {
+      "street": "Niederfell",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4667,
+          50.2833
+        ]
+      }
+    }
+  ]
+}

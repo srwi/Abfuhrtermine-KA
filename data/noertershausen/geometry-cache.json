@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-30T00:35:24.092Z",
+  "streets": [
+    {
+      "street": "Nörtershausen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4833,
+          50.2167
+        ]
+      }
+    },
+    {
+      "street": "Pfaffenheck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4833,
+          50.2167
+        ]
+      }
+    }
+  ]
+}
