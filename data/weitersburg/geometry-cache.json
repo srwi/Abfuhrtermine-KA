@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-10-30T01:31:53.818Z",
+  "streets": [
+    {
+      "street": "Waldfriede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6,
+          50.4167
+        ]
+      }
+    },
+    {
+      "street": "Weitersburg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6,
+          50.4167
+        ]
+      }
+    },
+    {
+      "street": "Wendelinushof",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.621718,
+            50.4105848
+          ],
+          [
+            7.6219045,
+            50.4107641
+          ],
+          [
+            7.6222374,
+            50.4106219
+          ],
+          [
+            7.6220616,
+            50.4104495
+          ],
+          [
+            7.621718,
+            50.4105848
+          ]
+        ]
+      }
+    },
+    {
+      "street": "Wüstenhof",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6126448,
+            50.4108124
+          ],
+          [
+            7.6127895,
+            50.4109211
+          ],
+          [
+            7.6131186,
+            50.4110547
+          ]
+        ]
+      }
+    }
+  ]
+}

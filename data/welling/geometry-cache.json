@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-10-30T01:32:03.806Z",
+  "streets": [
+    {
+      "street": "Paulinusstr.",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.3131018,
+            50.3301913
+          ],
+          [
+            7.3127484,
+            50.3300162
+          ],
+          [
+            7.3123967,
+            50.3302606
+          ],
+          [
+            7.312376,
+            50.330402
+          ],
+          [
+            7.3121316,
+            50.3305902
+          ]
+        ]
+      }
+    },
+    {
+      "street": "restliche Strassen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3167,
+          50.3333
+        ]
+      }
+    }
+  ]
+}
