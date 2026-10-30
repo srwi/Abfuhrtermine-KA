@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-10-29T23:50:05.383Z",
+  "streets": [
+    {
+      "street": "Am Wasserwerk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Dingstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Hatterwüsting",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Im Rehwinkel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Kirchhatten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Klein Bümmerstede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Munderloh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Sandhatten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Sandkrug",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Sandtange",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Streekermoor, einschl. Borchersweg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Tweelbäke-Ost",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    },
+    {
+      "street": "Wunderhorn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3833,
+          53.05
+        ]
+      }
+    }
+  ]
+}

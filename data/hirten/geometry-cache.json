@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T23:58:04.311Z",
+  "streets": [
+    {
+      "street": "Hirten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1,
+          50.3333
+        ]
+      }
+    },
+    {
+      "street": "Kreuznick",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1,
+          50.3333
+        ]
+      }
+    }
+  ]
+}

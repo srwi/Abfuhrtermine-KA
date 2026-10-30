@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-29T23:50:26.276Z",
+  "streets": [
+    {
+      "street": "Hausten",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1167,
+          50.4
+        ]
+      }
+    },
+    {
+      "street": "Morswiesen",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1167,
+          50.4
+        ]
+      }
+    }
+  ]
+}
